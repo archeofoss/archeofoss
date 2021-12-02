@@ -1,0 +1,22 @@
+title: ArcheoFOSS 2020
+description: >
+  Edizione XIV | 2020 del convegno internazionale ArcheoFOSS: software, hardware, processi, dati e formati aperti nella ricerca archeologica
+logo: images/archeofoss-2020.png
+url: https://2020.archeofoss.org
+
+exclude:
+  - site
+  - __*
+  - Gemfile
+  - Gemfile.lock
+
+sass:
+    sass_dir: _sass
+
+collections:
+  generale:
+    output: true
+  archivi:
+    output: true
+  progetti:
+    output: true

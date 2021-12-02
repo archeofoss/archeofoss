@@ -1,0 +1,28 @@
+default:
+  - title: Current edition
+    url: /2022/
+  - title: Previous editions
+    url: /previous-editions
+  - title: Scientific committee
+    url: /scientific-committee
+'2021':
+  - title: Watch
+    url: /2021/watch
+  - title: Programme
+    url: /2021/programme
+  - title: About
+    url: /2021/about-us
+
+'2020':
+  - title: Watch
+    url: /2020/watch/
+  - title: Programme
+    url: /2020/programme
+  - title: Workshops
+    url: /2020/workshops
+  - title: Demos
+    url: /2020/demos
+  - title: Proceedings
+    url: /2020/proceedings
+  - title: People
+    url: /2020/people

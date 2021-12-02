@@ -1,0 +1,38 @@
+---
+layout: default
+---
+<section class="site-blocks-cover overflow-hidden bg-light">
+  <div class="container">
+    <div class="row">
+      <div class="align-self-end text-center col-md-6 offset-md-3">
+        <div class="intro-text">
+          <h1>Archeo<span class="text-primary">.</span>FOSS</h1>
+            <h2>{{page.ednumber}} <span class="text-primary">|</span> {{page.edyear}}</h2>
+          <p class="mb-4">
+            Open software, hardware, processes, data and formats 
+            <span class="d-block">in archaeological research</span></p>
+            <img src="{{ "images/archeofoss-2.svg" | relative_url }}" alt="Image" class="img-fluid cover-img">
+        </div>
+      </div>
+      
+    </div>
+  </div>
+</section> 
+
+
+<section class="site-section" id="about-section">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-8 offset-md-2 text-justify">
+        <h1 class="text-black mb-3 text-center">{{ page.title }}</h1>
+        <div class="my-5 content">
+          {{ content}}
+
+          {% include map.html year=page.edyear %}
+
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+

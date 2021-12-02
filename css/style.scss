@@ -1,0 +1,60 @@
+---
+---
+
+@import "bootstrap/functions";
+@import "bootstrap/variables";
+@import "bootstrap/mixins";
+
+
+
+/* Base */
+@import "site-base";
+/* Navbar */
+@import "site-navbar";
+/* Blocks */
+@import "site-blocks";
+
+
+.content {
+    h1{
+        text-transform: uppercase;
+        font-weight: 600;
+        margin-top: 5rem;
+        @include media-breakpoint-down(sm) {
+            font-size: 2rem;
+            text-align: left;
+        }
+    }
+    h2{
+        font-weight: 600;
+        margin-top: 5rem;
+        @include media-breakpoint-down(sm) {
+            font-size: 1.5rem;
+            text-align: left;
+        }
+    }
+    h3{
+        font-weight: 400;
+        margin-top: 3rem;
+        @include media-breakpoint-down(sm) {
+            font-size: 1.25rem;
+            text-align: left;
+        }
+    }
+}
+
+
+.site-logo .h2{
+    font-size: 1rem;
+    font-weight: 600;
+}
+
+img[alt=icon]{
+    width: 50px;
+}
+
+blockquote{
+    padding: 1rem;
+    font-size: .9rem;
+    background: #ebebeb;
+}
