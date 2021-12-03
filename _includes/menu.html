@@ -7,7 +7,7 @@
   <ul class="site-menu main-menu js-clone-nav mr-auto d-none d-lg-block">
     {% for item in menu %}
     <li>
-      <a href="{{ item.url  }}" title="{{ item.title }}" class="nav-link">
+      <a href="{{ item.url | relative_url }}" title="{{ item.title }}" class="nav-link">
         {{ item.title }}
       </a>
     </li>
