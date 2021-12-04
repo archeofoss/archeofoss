@@ -1,5 +1,5 @@
 ---
-title: All editions
+title: Previous editions of ArcheoFOSS conferences and workshops
 description: ArchaeoFOSS editions
 layout: article-slim
 ---
