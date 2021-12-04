@@ -22,7 +22,7 @@ layout: article-slim
 - **Location**: Online conference
 - **Web**: [View conference page](./2020)
 - **Publication**: Julian Bogdani, Riccardo Montalbano, Paolo Rosati. (eds.). 2021. _ArcheoFOSS XIV 2020: Open Software, Hardware, Processes, Data and Formats in Archaeological Research_. Oxford: Archaeopress.  
-[https://www.archaeopress.com/ArchaeopressShop/Public/displayProductDetail.asp?id={31193B62-F0B1-4C51-BA08-3D85FCA58990}](https://www.archaeopress.com/ArchaeopressShop/Public/displayProductDetail.asp?id={31193B62-F0B1-4C51-BA08-3D85FCA58990})
+Availabe in open-access (CC BY-ND-SA 4.0 International) at: [https://www.archaeopress.com/ArchaeopressShop/Public/displayProductDetail.asp?id={31193B62-F0B1-4C51-BA08-3D85FCA58990}](https://www.archaeopress.com/ArchaeopressShop/Public/displayProductDetail.asp?id={31193B62-F0B1-4C51-BA08-3D85FCA58990})
 - **Organizing committee**:
   - Julian Bogdani, Sapienza University of Rome
   - Emanuel Demetrescu, VHLab, CNR-ISPC Rome
@@ -39,7 +39,7 @@ layout: article-slim
 - **Location**: Padua (Italy)
 - **Notes**: In collaboration with Foss4G-IT 2019.
 - **Publication**: Sara Gonizzi, Saverio Giulio Malatesta, and Augusto Palombini. (eds.) 2021. _ArcheoFOSS XIII Workshop—Open Software, Hardware, Processes, Data and Formats in Archaeological Research_. Environmental Sciences Proceedings, 10.  
-[https://www.mdpi.com/2673-4931/10/1](https://www.mdpi.com/2673-4931/10/1)
+Availabe in open-access (CC BY) at: [https://www.mdpi.com/2673-4931/10/1](https://www.mdpi.com/2673-4931/10/1)
 - **Organizing committee** (Foss4G-IT 2019):
   -  Alfredo Altobelli (Università di Trieste)
   -  Gerardo Brancucci (Università di Genova)
@@ -95,7 +95,7 @@ layout: article-slim
 - **Location**: Sapienza Univerity of Rome (Rome, Italy)
 - **Notes**: In collaboration with Foss4G-IT 2018.
 - **Publication**: Grossi P., Costa S., Jaia A., Malatesta S.G., Stasolla F.R. (eds.) 2019. _ArcheoFOSS. Free, Libre and Open Source Software e Open Format nei processi di ricerca archeologica, Atti del XII Workshop (Roma, 19-22 febbraio 2018)._. Archeologia e Calcolatori, 30.  
-[http://www.archcalc.cnr.it/journal/idyear.php?IDyear=2019-01-01](http://www.archcalc.cnr.it/journal/idyear.php?IDyear=2019-01-01)
+Availabe in open-access (CC BY-NC-ND 4.0 International) at [http://www.archcalc.cnr.it/journal/idyear.php?IDyear=2019-01-01](http://www.archcalc.cnr.it/journal/idyear.php?IDyear=2019-01-01)
 - **Organizing committee** (Foss4G-IT 2019):
   - Alfredo Altobelli (Università degli Studi di Trieste)
   - Valerio Baiocchi (Università di Roma 1)
@@ -182,7 +182,7 @@ layout: article-slim
 - **Location**: Siena Univerity (Siena, Italy)
 - **Notes**: In collaboration with  CAA – Computer Applications in Archaeology 2015.
 - **Publication**: Stefano Campana, Roberto Scopigno, Gabriella Carpentiero and Marianna Cirillo. (eds.). 2016. _CAA2015. Keep The Revolution Going. Proceedings of the 43rd Annual Conference on Computer Applications and Quantitative Methods in Archaeology_. Oxford: Archaeopress.  
-[https://archaeopress.com/ArchaeopressShop/Public/displayProductDetail.asp?id=%7B27710CAF-069B-43D3-A53B-4BB1A293F456%7D](https://archaeopress.com/ArchaeopressShop/Public/displayProductDetail.asp?id=%7B27710CAF-069B-43D3-A53B-4BB1A293F456%7D)
+Availabe in open-access (Allright reserved) at [https://archaeopress.com/ArchaeopressShop/Public/displayProductDetail.asp?id=%7B27710CAF-069B-43D3-A53B-4BB1A293F456%7D](https://archaeopress.com/ArchaeopressShop/Public/displayProductDetail.asp?id=%7B27710CAF-069B-43D3-A53B-4BB1A293F456%7D)
 
 ## ArcheoFOSS 9 (2014)
 - TO BE COMPLETED
