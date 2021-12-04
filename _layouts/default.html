@@ -107,7 +107,9 @@
             <div class="col-md-4 text-center">
               <h2 class="footer-heading mb-4">Follow us</h2>
               {% for item in site.data.social %}
-              <a href="{{ item.url }}" class="pl-0 pr-3" title="{{ item.title }}"><i class="fab fa-lg fa-{{ item.icon }}"></i></a>
+              <a href="{{ item.url }}" class="pl-0 pr-3" title="{{ item.title }}">
+                <i class="fab fa-lg fa-{{ item.icon }} fa-2x"></i>
+              </a>
               {% endfor %}
               <hr>
               {% include mailchimp.html %}

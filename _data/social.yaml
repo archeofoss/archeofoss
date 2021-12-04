@@ -1,7 +1,9 @@
 - title: Facebook
   url: https://www.facebook.com/archeofoss/
   icon: facebook
-
 - title: Twitter
   url: https://twitter.com/archeo_FOSS
   icon: twitter
+- title: Telegram
+  url: https://t.me/ArcheoFOSS
+  icon: telegram
