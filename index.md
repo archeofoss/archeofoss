@@ -7,7 +7,11 @@ permalink: /
 
 
 Archeofoss is an International Conference on Open software, 
-hardware, processes, data and formats in archaeological research,
-organised on a yearly basis by an open community of researchers
+hardware, processes, data and formats in archaeological research.
 
-[Teleram group](https://t.me/ArcheoFOSS)
+The conference is organised on a yearly basis by an open community of 
+researchers under the direction of a 
+[permanent scientific committee](scientific-committee).
+
+Anyone who is interested to join the community can inscribe 
+in the [dedicated  <i class="fa fa-telegram" aria-hidden="true"></i> Telegram group](https://t.me/ArcheoFOSS).

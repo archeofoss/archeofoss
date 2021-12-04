@@ -1,8 +1,9 @@
-{% if page.url contains '/2020/' %}
-{% assign year = '2020' %}
-{% elsif page.url contains '/2021/' %}
-{% assign year = '2021' %}
-{% endif %}
+{% for item in site.data.menu %}
+  {% assign with_slashes = item[0] | append: '/' | prepend: '/' %}
+  {% if page.url contains with_slashes %}
+    {% assign year = item[0] %}
+  {% endif %}
+{% endfor %}
 <!DOCTYPE html>
 <html lang="en">
   <head>

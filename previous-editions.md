@@ -7,7 +7,7 @@ layout: article-slim
 ## ArcheoFOSS 15 (2021)
 - **Dates**: 23-26 November 2021.
 - **Location**: Online conference
-- **Web**: [View conference page](/2021)
+- **Web**: [View conference page](./2021)
 - **Publication**: in progress
 - **Organizing committee**
   - Domizia D’Erasmo, Sapienza University of Rome
@@ -20,7 +20,7 @@ layout: article-slim
 ## ArcheoFOSS 14 (2020)
 - **Dates**: 15-17 October 2020
 - **Location**: Online conference
-- **Web**: [View conference page](/2020)
+- **Web**: [View conference page](./2020)
 - **Publication**: Julian Bogdani, Riccardo Montalbano, Paolo Rosati. (eds.). 2021. _ArcheoFOSS XIV 2020: Open Software, Hardware, Processes, Data and Formats in Archaeological Research_. Oxford: Archaeopress.  
 [https://www.archaeopress.com/ArchaeopressShop/Public/displayProductDetail.asp?id={31193B62-F0B1-4C51-BA08-3D85FCA58990}](https://www.archaeopress.com/ArchaeopressShop/Public/displayProductDetail.asp?id={31193B62-F0B1-4C51-BA08-3D85FCA58990})
 - **Organizing committee**:
@@ -183,3 +183,30 @@ layout: article-slim
 - **Notes**: In collaboration with  CAA – Computer Applications in Archaeology 2015.
 - **Publication**: Stefano Campana, Roberto Scopigno, Gabriella Carpentiero and Marianna Cirillo. (eds.). 2016. _CAA2015. Keep The Revolution Going. Proceedings of the 43rd Annual Conference on Computer Applications and Quantitative Methods in Archaeology_. Oxford: Archaeopress.  
 [https://archaeopress.com/ArchaeopressShop/Public/displayProductDetail.asp?id=%7B27710CAF-069B-43D3-A53B-4BB1A293F456%7D](https://archaeopress.com/ArchaeopressShop/Public/displayProductDetail.asp?id=%7B27710CAF-069B-43D3-A53B-4BB1A293F456%7D)
+
+## ArcheoFOSS 9 (2014)
+- TO BE COMPLETED
+
+## ArcheoFOSS 8 (2013)
+- TO BE COMPLETED
+
+## ArcheoFOSS 7 (2012)
+- TO BE COMPLETED
+
+## ArcheoFOSS 6 (2011)
+- TO BE COMPLETED
+
+## ArcheoFOSS 5 (2010)
+- TO BE COMPLETED
+
+## ArcheoFOSS 4 (2009)
+- TO BE COMPLETED
+
+## ArcheoFOSS 3 (2008)
+- TO BE COMPLETED
+
+## ArcheoFOSS 2 (2007)
+- TO BE COMPLETED
+
+## ArcheoFOSS 1 (2006)
+- TO BE COMPLETED

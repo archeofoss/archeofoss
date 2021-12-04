@@ -1,26 +1,28 @@
-<h2>Map of the conference participants</h2>
-<p>Workshops and Demos are comming soon</p>
-<p class="lead">
-    <a href="./programme" title="Conference programme">
-        Follow this link for the full conference programme
-    </a>
-</p>
-<div id="map" style="color: #fff">
-{% for art in site.pages %} {% if art.geo and art.path contains include.year %}
-    {
-    "title": "{{ art.title }}",
-    "url": "{{ art.url | replace: ".html", "" }}",
-    "geo": [{{ art.geo[0] }}, {{ art.geo[1] }}]
-    {% if art.img %},"img": "{{ art.img }}"{% endif %}
-    }
-{% endif %}{% endfor %}
+<div id="map_container">
+    <h2>Map of the conference participants</h2>
+    <p>Workshops and Demos are comming soon</p>
+    <p class="lead">
+        <a href="./programme" title="Conference programme">
+            Follow this link for the full conference programme
+        </a>
+    </p>
+    <div id="map" style="color: #fff">
+        {% for art in site.pages %} {% if art.geo and art.path contains include.year %}
+        {
+            "title": "{{ art.title }}",
+            "url": "{{ art.url | replace: ".html", "" }}",
+            "geo": [{{ art.geo[0] }}, {{ art.geo[1] }}]
+            {% if art.img %},"img": "{{ art.img }}"{% endif %}
+        }
+        {% endif %}{% endfor %}
+    </div>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"
+    integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
+    crossorigin=""/>
+    <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"
+    integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew=="
+    crossorigin=""></script>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.css">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.Default.css">
+    <script src="https://unpkg.com/leaflet.markercluster@1.4.1/dist/leaflet.markercluster.js"></script>
 </div>
-<link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"
-integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
-crossorigin=""/>
-<script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"
-integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew=="
-crossorigin=""></script>
-<link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.css">
-<link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.Default.css">
-<script src="https://unpkg.com/leaflet.markercluster@1.4.1/dist/leaflet.markercluster.js"></script>

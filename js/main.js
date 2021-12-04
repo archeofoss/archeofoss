@@ -159,6 +159,10 @@ jQuery(document).ready(function($) {
   if ($('#map').length > 0){
     const text = $('#map').text().replace(/\}\s+\{/gi, '},{');
     const json = JSON.parse(`[${text}]`);
+    if(json.length === 0 ){
+      document.getElementById('map_container').innerHTML = '';
+      return;
+    }
 
     $('#map').css({height: '500px'}).text('');
     var map = L.map('map').setView([41.9100711,12.5359979], 13);
