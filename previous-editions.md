@@ -187,7 +187,7 @@ Availabe in open-access (Allright reserved) at [https://archaeopress.com/Archaeo
 ## ArcheoFOSS 9 (2014)
 - **Dates**: 19 - 20 June 2014
 - **Location**: University of Verona (Verona, Italy)
-- **Publication**: Patrizia Basso, Alessandra Caravale and Piergiovanna Grossi. (eds.). 2016. _ArcheoFOSS IX. Free, Libre and Open Source Software e Open Format nei processi di ricerca archeologica, Atti del IX Workshop (Verona, 19-20 giugno 2014)_. Archeologia e Calcolatori, Supplemento 8.
+- **Publication**: Patrizia Basso, Alessandra Caravale and Piergiovanna Grossi. (eds.). 2016. _ArcheoFOSS IX. Free, Libre and Open Source Software e Open Format nei processi di ricerca archeologica, Atti del IX Workshop (Verona, 19-20 giugno 2014)_. Archeologia e Calcolatori, Supplemento 8.  
 Availabe in open-access (CC BY-NC-ND 4.0 International) at [http://www.archcalc.cnr.it/journal/idyear.php?IDyear=2016-01-01&sup=true](http://www.archcalc.cnr.it/journal/idyear.php?IDyear=2016-01-01&sup=true)
 - **Scientific committee**:
   - Patrizia Basso (Dip. TeSIS, Università di Verona)
@@ -238,7 +238,7 @@ Availabe in open-access (CC BY-NC-ND 4.0 International) at [http://www.archcalc.
 ## ArcheoFOSS 8 (2013)
 - **Dates**: 18 - 19 June 2013
 - **Location**: University of Catania (Catania, Italy)
-- **Publication**: Filippo Stanco and Giovanni Gallo. (eds). 2016. _ArcheoFOSS VIII. Free, libre and open source software e open format nei processi di ricerca archeologica: VIII Edizione Catania 2013_. Oxford. Archaeopress.
+- **Publication**: Filippo Stanco and Giovanni Gallo. (eds). 2016. _ArcheoFOSS VIII. Free, libre and open source software e open format nei processi di ricerca archeologica: VIII Edizione Catania 2013_. Oxford. Archaeopress.  
 Availabe in open-access (Allright reserved) at [http://www.archaeopress.com/ArchaeopressShop/Public/download.asp?id={14C6CFBD-3371-4DF0-8971-D4ABC24E661E}](http://www.archaeopress.com/ArchaeopressShop/Public/download.asp?id={14C6CFBD-3371-4DF0-8971-D4ABC24E661E})
 - **Scientific committee**:
   - Germana Barone (Università di Catania)
@@ -279,7 +279,7 @@ Damiano Lotto)
 ## ArcheoFOSS 7 (2012)
 - **Dates**: 12-13 June 2012
 - **Location**: Museo Nazionale Romano di Palazzo Massimo alle Terme (Rome, Italy)
-- **Publication**: Mirella Serlorenzi. (ed). 2013. _ArcheoFOSS VII: free, libre and open source software e open format nei processi di ricerca archeologica: atti del VII Workshop (Roma, 11-13 giugno 2012)_. Archeologia e Calcolatori, Supplemento 4.
+- **Publication**: Mirella Serlorenzi. (ed). 2013. _ArcheoFOSS VII: free, libre and open source software e open format nei processi di ricerca archeologica: atti del VII Workshop (Roma, 11-13 giugno 2012)_. Archeologia e Calcolatori, Supplemento 4.  
 Availabe in open-access (CC BY-NC-ND 4.0 International) at [http://www.archcalc.cnr.it/journal/idyear.php?IDyear=2013-01-01&sup=true](http://www.archcalc.cnr.it/journal/idyear.php?IDyear=2013-01-01&sup=true)
 - **Scientific committee**:
   - Marco Ciurcina (Associazione per il Software Libero)
@@ -302,7 +302,7 @@ Availabe in open-access (CC BY-NC-ND 4.0 International) at [http://www.archcalc.
 ## ArcheoFOSS 6 (2011)
 - **Dates**: 9-10 June 2011
 - **Location**: Federico II University (Naples, Italy)
-- **Publication**: Francesca Cantone. (ed). 2012. _ArcheoFOSS VI : open source, free software e open format nei processi di ricerca archeologica: atti del VI workshop (Napoli, 9-10 giugno 2011)_. Pozzuoli. Naus editoria.
+- **Publication**: Francesca Cantone. (ed). 2012. _ArcheoFOSS VI : open source, free software e open format nei processi di ricerca archeologica: atti del VI workshop (Napoli, 9-10 giugno 2011)_. Pozzuoli. Naus editoria.  
 Available at [https://www.naus-editoria.it/prodotto/archeofoss/](https://www.naus-editoria.it/prodotto/archeofoss/)
 - **Scientific committee**:
   - Alessandro Bezzi (Arc-Team)
@@ -321,7 +321,7 @@ Available at [https://www.naus-editoria.it/prodotto/archeofoss/](https://www.nau
 - **Dates**: 6-7 May 2010 
 - **Location**: University of Foggia (Foggia, Italy)
 - **Publication**: Giuliano De Felice and Maria Giuseppina Sibilano. (eds). 2011. _ArcheoFOSS V: open source, free software e open format nei processi di ricerca archeologica: atti del V Workshop, (Foggia, 5-6 maggio 2010)_. Bari. Edipuglia.
-Available at [https://edipuglia.it/catalogo/art1664/](https://edipuglia.it/catalogo/art1664/).
+Available at [https://edipuglia.it/catalogo/art1664/](https://edipuglia.it/catalogo/art1664/).  
 Available in pdf format at [https://edipuglia.it/catalogo/archeofoss-pdf/](https://edipuglia.it/catalogo/archeofoss-pdf/)
 - **Scientific committee**:
   - Roberto Bagnara (Università di PArma)
@@ -341,7 +341,7 @@ Available in pdf format at [https://edipuglia.it/catalogo/archeofoss-pdf/](https
 - **Dates**: 27 e 28 April 2009
 - **Location**: Consiglio Nazionale delle Ricerche (CNR) of Rome (Rome, Italy)
 - **Notes**: In collaboration with Istituto per le Tecnologie Applicate ai Beni Culturali (ITABC)
-- **Publication**: Paolo Cignoni, Augusto Palombini and Sofia Pescarin. (eds). 2010. _ArcheoFOSS IV: open source, free software e open format nei processi di ricerca archeologica : atti del IV Workshop, Roma, 27-28 aprile 2009_. Archeologia e Calcolatori. Supplemento 2.
+- **Publication**: Paolo Cignoni, Augusto Palombini and Sofia Pescarin. (eds). 2010. _ArcheoFOSS IV: open source, free software e open format nei processi di ricerca archeologica : atti del IV Workshop, Roma, 27-28 aprile 2009_. Archeologia e Calcolatori. Supplemento 2.  
 Availabe in open-access (CC BY-NC-ND 4.0 International) at [http://www.archcalc.cnr.it/journal/idyear.php?IDyear=2009-01-01&sup=true](http://www.archcalc.cnr.it/journal/idyear.php?IDyear=2009-01-01&sup=true)
 - **Scientific committee**:
   - Luca Bezzi (ArcTeam)
@@ -362,7 +362,7 @@ Availabe in open-access (CC BY-NC-ND 4.0 International) at [http://www.archcalc.
 - **Dates**: 8-9 May 2009
 - **Location**: University of Padova (Padova, Italy)
 - **Notes**: The workshop was sponsored by Regione Veneto, Pronvincia di Padova, Comune di Padova, ISCUM - Istituto per la Storia della Cultura Materiale, Associazione Nazionale Archeologi, Associazione per il Software Libero, Associazione Italiana per l'Informazione Geografica Libera - GFOSS.it, Università degli Studi di Genova, Istituto Internazionale di Studi Liguri, Confederazione Italiana Archeologi, Italian Linux Society
-- **Publication**: Denis Francisci, Luca Bezzi, Piergiovanna Grossi and Damiano Lotto. (eds). 2012. _ArcheoFOSS III. Open Source, Free Software e Open Format nei processi di ricerca archeologica : atti del III Workshop (Padova, 8-9 maggio 2008)_. Roma. Quasar.
+- **Publication**: Denis Francisci, Luca Bezzi, Piergiovanna Grossi and Damiano Lotto. (eds). 2012. _ArcheoFOSS III. Open Source, Free Software e Open Format nei processi di ricerca archeologica : atti del III Workshop (Padova, 8-9 maggio 2008)_. Roma. Quasar.  
 Availabe in open-access (Allright reserved) at [http://paduaresearch.cab.unipd.it/5278/](http://paduaresearch.cab.unipd.it/5278/)
 - **Scientific committee**:
   - Damiano Lotto (Università di Padova)
@@ -380,7 +380,7 @@ Availabe in open-access (Allright reserved) at [http://paduaresearch.cab.unipd.i
 - **Dates**: 11 May 2007
 - **Location**: Museo di Sant'Agostino (Genova, Italy)
 - **Notes**: In collaboration with Istituto di Storia della Cultura Materiale (ISCUM – Genova). The workshop was sponsored by Facoltà di Lettere e Filosofia dell’Università degli Studi di Genova, Associazione Italiana per l’Informazione Geografica Libera (GFOSS.it), Associazione Nazionale Archeologi, Creative Commons Italia.
-- **Publication**: Stefano Costa and Giovanni Luca Pesce. (eds). 2013. _ArcheoFOSS II. Open Source, Free Software e Open Format nei processi di ricerca archeologica 2007: atti del II workshop (Genova 2 maggio 2007)_. Ubiquity Press. 
+- **Publication**: Stefano Costa and Giovanni Luca Pesce. (eds). 2013. _ArcheoFOSS II. Open Source, Free Software e Open Format nei processi di ricerca archeologica 2007: atti del II workshop (Genova 2 maggio 2007)_. Ubiquity Press.  
 Availabe in open-access (CC BY-NC-ND 4.0 International) at [https://www.ubiquitypress.com/site/books/e/10.5334/bae/](https://www.ubiquitypress.com/site/books/e/10.5334/bae/)
 - **Scientific committee**:
   - Roberto Bagnara
@@ -395,7 +395,8 @@ Availabe in open-access (CC BY-NC-ND 4.0 International) at [https://www.ubiquity
 - **Dates**: 8 May 2006
 - **Location**: University of Siena, Grosseto campus (Grosseto, Italy)
 - **Notes**: In collaboration with Dipartimento di Matematica dell’Università di Parma
-- **Publication**: Roberto Bagnara and Giancarlo Macchi Janica. (eds). 2007. _ArcheoFOSS: Open Source, Free Software, Open Format nei processi di ricerca archeologica . Atti del I Workshop (Grosseto 2006)_ . Firenze. Centro editoriale toscano. ISBN 978-88-7957-260-6
+- **Publication**: Roberto Bagnara and Giancarlo Macchi Janica. (eds). 2007. _ArcheoFOSS: Open Source, Free Software, Open Format nei processi di ricerca archeologica . Atti del I Workshop (Grosseto 2006)_ . Firenze. Centro editoriale toscano. ISBN 978-88-7957-260-6.  
+Availabe in open-access (CC BY-NC-ND 4.0 International) at [https://archivio.archeofoss.org/wordpress/wp-content/uploads/2015/08/macchi_workshop_opensource.pdf](https://archivio.archeofoss.org/wordpress/wp-content/uploads/2015/08/macchi_workshop_opensource.pdf)
 - **Scientific committee**:
   - Roberto Bagnara (Università degli Studi di Parma)
   - Giancarlo Macchi (Università degli Studi di Siena)
