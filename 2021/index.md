@@ -8,6 +8,12 @@ ednumber: XV
 
 ## Latest news
 
+**[20/01/2022]**
+
+On **11 February 2022**, the workshop "_The Roman Villa of l’Albir (Alicante, Spain). The use of Blender and the Extended Matrix in the virtual recreation_" will be streamed live. The workshop will be held by Jaime Molina, Carolina Frías, Javier Muñoz, Laia Fabregat, Alejandro Martín, Daniel Tejerina (University of Alicante).  
+Watch the live streaming on YouTube from 16.00 CET at [https://www.youtube.com/watch?v=Xx-AbNQeiVY](https://www.youtube.com/watch?v=Xx-AbNQeiVY)!
+
+
 **[22/11/2021]**
 
 ArcheoFOSS goes live tomorrow! **ATTENTION**: The links for the Facebook and YouTube live streams have been posted on the **[Watch the conference](./watch)** page.
