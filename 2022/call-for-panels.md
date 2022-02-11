@@ -8,7 +8,7 @@ layout: article-slim
 
 ### In brief
 
-- ArcheoFOSS 2022 will be held on 22-24 September 2022 in Sapienza University in Rome
+- ArcheoFOSS 2022 will be held on 22-24 September 2022 at Sapienza University of Rome
 - An online channel will be available both for papers and audience
 - Panel proposals are now being accepted
 - Panel proposals must be submitted before March 31 2022.
@@ -23,13 +23,15 @@ This edition will be based on **panel sessions** that provide an opportunity for
 We are welcoming original proposals from both community members and external scholars or professionals willing to discuss research questions and experience and stimulate further discussion of specific topics.
 
 As well-known, the ArcheoFOSS conference is traditionally focused on the dissemination of archaeological projects following the Open Science paradigm:  open source software tools, open formats and open methodology both for investigation and dissemination. Panellists, therefore, should clearly state how their proposal meets one or more of the following topics:
+
 - Use and reuse of open software in archaeological case studies.
 - Creation of open data and use of open formats.
 - Development of open source software tools and innovative open processes in archaeological investigation.
 
-A **typical panel session** starts with a **brief introduction** by the panel chair, followed by the presentations of **three or four panellists**. 
+A **typical panel session** starts with a **brief introduction** by the panel chair, followed by the presentations of **three or four panellists**.
 
 Proposals for panels can be submitted by one or two researchers. Each complete proposal must include:
+
 - A **title** describing the contents
 - A brief **description** of the proposed specific research topcic (max. 2.000 characters, spaces included), containing the state-of-art, at least one research question on which papers will be called and possibly a recent bibliography.
 - One illustrative **image**, landscape orientation, with a minimal width of 2000px.
@@ -38,6 +40,6 @@ Proposals for panels **must** fully comply with the ArcheoFOSS mission, regardin
 
 Proposals **must** be submitted via email, at [info@archeofoss.org](info@archeofoss.org) **before March 31 2022**, and **must** be licensed as CC-BY.
 
-A **maximum of 10 panels** will be accepted. 
+A **maximum of 10 panels** will be accepted.
 
 In the next few days, a proposal model will be published together with template files to further facilitate the submissions. All proposals will be published in a dedicated GitHub repository and will be available to an open, not anonymous, peer-review process. More information on the evaluation procedure will be published in the next few weeks.
