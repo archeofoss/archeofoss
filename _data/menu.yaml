@@ -5,9 +5,11 @@ default:
     url: /previous-editions
   - title: Scientific committee
     url: /scientific-committee
-# '2022':
-#   - title: 'Call for panels'
-#     url: '/call-for-panels'
+'2022':
+  - title: 'Call for panels'
+    url: '/2022/call-for-panels'
+  - title: 'Press kit'
+    url: '/2022/press-kit'
 '2021':
   - title: Watch
     url: /2021/watch

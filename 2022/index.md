@@ -6,9 +6,10 @@ edyear: 2022
 ednumber: XVI
 ---
 
-## Coming soon
-The 16th edition of ArcheoFOSS will be organised in Rome, in collaboration with
-[DigiLab Interdipartimental Research Center of Sapienza University of Rome](https://digilab.uniroma1.it/)
-on **22-25 September 2022**.
+## Latest news
 
-More information will be available soon.
+**[11/02/2022]**
+
+The [call for panels](/2022/call-for-panels) of ArcheoFOSS 2022 is now open. The hybrid conference will be hosted in Rome by Sapienza and [DigiLab](https://digilab.uniroma1.it/), on **22-24 September 2022**.
+
+Feel free to keep in touch by dropping a line at [info@archeofoss.org](mailto:archaeofoss.org) and/or by joining today our [<i class="fa fa-telegram" aria-hidden="true"></i> Telegram group](https://t.me/ArcheoFOSS).
