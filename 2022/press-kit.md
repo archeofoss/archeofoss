@@ -15,7 +15,7 @@ All text and images are released with [CC0 (Public Domain)](https://creativecomm
 - [af_fb_post_transparent.png](af_fb_post_transparent.png) [1200 × 628 pixels, 72 pixels/inch, 189 KB, RGB]
 - [af_fb_post.png](af_fb_post_transparent.png) [1200 × 628 pixels, 72 pixels/inch, 182 KB, RGB]
 - [af_ig_post_transparent.png](af_fb_post_transparent.png) [1080 × 1080 pixels, 72 pixels/inch, 344 KB, RGB]
-- [af_ig_post.png](af_ig_post.png.png) [1080 × 1080 pixels, 72 pixels/inch, 354 KB, RGB]
+- [af_ig_post.png](af_ig_post.png) [1080 × 1080 pixels, 72 pixels/inch, 354 KB, RGB]
 
 ## Long announcement text for the call for panels, in English
 
