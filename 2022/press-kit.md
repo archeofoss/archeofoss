@@ -34,13 +34,13 @@ This edition will be based on panel sessions that provide an opportunity for exp
 
 We are welcoming original proposals from both community members and external scholars or professionals willing to discuss research questions and experience and stimulate further discussion of specific topics.
 
-As well-known, the ArcheoFOSS international conference is traditionally focused on the dissemination of archaeological projects following the Open Science paradigm: open source software tools, open formats and open methodology both for investigation and dissemination. Panellists, therefore, should clearly state how their proposal meets one or more of the following topics:
+As is well-known, the ArcheoFOSS international conference is traditionally focused on the dissemination of archaeological projects following the Open Science paradigm: open source software tools, open formats and open methodology both for investigation and dissemination. Panellists, therefore, should clearly state how their proposal meets one or more of the following topics:
 
 - Use and reuse of open software in archaeological case studies.
 - Creation of open data and development and use of open formats.
 - Development of open source software tools and innovative open processes in archaeological investigation.
 
-Further information are available at: https://archeofoss.org/2022/call-for-panels 
+Further information is available at: https://archeofoss.org/2022/call-for-panels 
 
 ## Testo lungo di annuncio della chiamata per _panel_, in italiano
 
