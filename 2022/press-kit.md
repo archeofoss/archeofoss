@@ -1,6 +1,6 @@
 ---
 title: "ArcheoFOSS 2022: press kit"
-description: "Press-kit for ArcheoFOSS 2022"
+description: "Press-kit for ArcheoFOSS 2022. Feel free to use and share."
 layout: article-slim
 ---
 

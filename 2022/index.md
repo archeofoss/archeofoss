@@ -1,6 +1,6 @@
 ---
-title: "ArcheoFOSS 2022"
-description: "ArcheoFOSS 2022: Open software, hardware, processes, data and formats in archaeological research"
+title: "ArcheoFOSS 16 - 2022"
+description: "ArcheoFOSS 16 2022: Open software, hardware, processes, data and formats in archaeological research will be hosted in Rome by Sapienza on 22-24 September 2022"
 layout: editionhome
 edyear: 2022
 ednumber: XVI
