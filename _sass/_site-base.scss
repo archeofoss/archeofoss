@@ -336,7 +336,7 @@ body {
 	padding: .5rem;
 	margin: .5rem;
 }
-@-webkit-keyframes pulsate {
+@keyframes pulsate {
     0% { 
 		background-color: rgba($color: #ffff00, $alpha: 1.0);
     }
