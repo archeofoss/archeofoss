@@ -22,7 +22,7 @@ layout: article-slim
 - **Location**: Online conference
 - **Web**: [View conference page](./2020)
 - **Publication**: Julian Bogdani, Riccardo Montalbano, Paolo Rosati. (eds.). 2021. _ArcheoFOSS XIV 2020: Open Software, Hardware, Processes, Data and Formats in Archaeological Research_. Oxford: Archaeopress.  
-Availabe in open-access (Allright reserved) at [https://www.archaeopress.com/ArchaeopressShop/Public/displayProductDetail.asp?id={31193B62-F0B1-4C51-BA08-3D85FCA58990}](https://www.archaeopress.com/ArchaeopressShop/Public/displayProductDetail.asp?id={31193B62-F0B1-4C51-BA08-3D85FCA58990})
+Availabe in open-access (CC BY-NC-ND 4.0 International) at [https://www.archaeopress.com/ArchaeopressShop/Public/displayProductDetail.asp?id={31193B62-F0B1-4C51-BA08-3D85FCA58990}](https://www.archaeopress.com/ArchaeopressShop/Public/displayProductDetail.asp?id={31193B62-F0B1-4C51-BA08-3D85FCA58990})
 - **Organizing committee**:
   - Julian Bogdani, Sapienza University of Rome
   - Emanuel Demetrescu, VHLab, CNR-ISPC Rome
@@ -182,7 +182,7 @@ Availabe in open-access (CC BY-NC-ND 4.0 International) at [http://www.archcalc.
 - **Location**: Siena Univerity (Siena, Italy)
 - **Notes**: In collaboration with  CAA – Computer Applications in Archaeology 2015.
 - **Publication**: Stefano Campana, Roberto Scopigno, Gabriella Carpentiero and Marianna Cirillo. (eds.). 2016. _CAA2015. Keep The Revolution Going. Proceedings of the 43rd Annual Conference on Computer Applications and Quantitative Methods in Archaeology_. Oxford. Archaeopress.  
-Availabe in open-access (Allright reserved) at [https://archaeopress.com/ArchaeopressShop/Public/displayProductDetail.asp?id=%7B27710CAF-069B-43D3-A53B-4BB1A293F456%7D](https://archaeopress.com/ArchaeopressShop/Public/displayProductDetail.asp?id=%7B27710CAF-069B-43D3-A53B-4BB1A293F456%7D)
+Availabe in open-access (All rights reserved) at [https://archaeopress.com/ArchaeopressShop/Public/displayProductDetail.asp?id=%7B27710CAF-069B-43D3-A53B-4BB1A293F456%7D](https://archaeopress.com/ArchaeopressShop/Public/displayProductDetail.asp?id=%7B27710CAF-069B-43D3-A53B-4BB1A293F456%7D)
 
 ## ArcheoFOSS 9 (2014)
 - **Dates**: 19 - 20 June 2014
@@ -239,7 +239,7 @@ Availabe in open-access (CC BY-NC-ND 4.0 International) at [http://www.archcalc.
 - **Dates**: 18 - 19 June 2013
 - **Location**: University of Catania (Catania, Italy)
 - **Publication**: Filippo Stanco and Giovanni Gallo. (eds). 2016. _ArcheoFOSS VIII. Free, libre and open source software e open format nei processi di ricerca archeologica: VIII Edizione Catania 2013_. Oxford. Archaeopress.  
-Availabe in open-access (Allright reserved) at [http://www.archaeopress.com/ArchaeopressShop/Public/download.asp?id={14C6CFBD-3371-4DF0-8971-D4ABC24E661E}](http://www.archaeopress.com/ArchaeopressShop/Public/download.asp?id={14C6CFBD-3371-4DF0-8971-D4ABC24E661E})
+Availabe in open-access (All rights reserved) at [http://www.archaeopress.com/ArchaeopressShop/Public/download.asp?id={14C6CFBD-3371-4DF0-8971-D4ABC24E661E}](http://www.archaeopress.com/ArchaeopressShop/Public/download.asp?id={14C6CFBD-3371-4DF0-8971-D4ABC24E661E})
 - **Scientific committee**:
   - Germana Barone (Università di Catania)
   - Sebastiano Battiato (Università di Catania)
@@ -363,7 +363,7 @@ Availabe in open-access (CC BY-NC-ND 4.0 International) at [http://www.archcalc.
 - **Location**: University of Padova (Padova, Italy)
 - **Notes**: The workshop was sponsored by Regione Veneto, Pronvincia di Padova, Comune di Padova, ISCUM - Istituto per la Storia della Cultura Materiale, Associazione Nazionale Archeologi, Associazione per il Software Libero, Associazione Italiana per l'Informazione Geografica Libera - GFOSS.it, Università degli Studi di Genova, Istituto Internazionale di Studi Liguri, Confederazione Italiana Archeologi, Italian Linux Society
 - **Publication**: Denis Francisci, Luca Bezzi, Piergiovanna Grossi and Damiano Lotto. (eds). 2012. _ArcheoFOSS III. Open Source, Free Software e Open Format nei processi di ricerca archeologica : atti del III Workshop (Padova, 8-9 maggio 2008)_. Roma. Quasar.  
-Availabe in open-access (Allright reserved) at [http://paduaresearch.cab.unipd.it/5278/](http://paduaresearch.cab.unipd.it/5278/)
+Availabe in open-access (CC BY) at [http://paduaresearch.cab.unipd.it/5278/](http://paduaresearch.cab.unipd.it/5278/)
 - **Scientific committee**:
   - Damiano Lotto (Università di Padova)
   - Denis Francisci (Università di Padova)

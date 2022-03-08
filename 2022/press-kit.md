@@ -1,6 +1,6 @@
 ---
 title: "ArcheoFOSS 2022: press kit"
-description: "Press-kit for ArcheoFOSS 2022"
+description: "Press-kit for ArcheoFOSS 2022. Feel free to use and share."
 layout: article-slim
 ---
 
@@ -10,15 +10,21 @@ All text and images are released with [CC0 (Public Domain)](https://creativecomm
 
 ## Images
 
-- [af_cover_fb_transparent.png](af_cover_fb_transparent.png) [1200 × 628 pixels, 72 pixels/inch, 189 KB, RGB]
-- [af_cover_fb.png](af_cover_fb.png) [1200 × 628 pixels, 72 pixels/inch, 184 KB, RGB]
-- [af_cover_fb_call_for_panels.png](af_cover_fb_call_for_panels.png) [1200 × 628 pixels, 72 pixels/inch, 184 KB, RGB]
-- [af_fb_post_transparent.png](af_fb_post_transparent.png) [1200 × 628 pixels, 72 pixels/inch, 189 KB, RGB]
-- [af_fb_post.png](af_fb_post_transparent.png) [1200 × 628 pixels, 72 pixels/inch, 182 KB, RGB]
-- [af_fb_post_call_for_panels.png](af_fb_post_call_for_panels.png) [1200 × 628 pixels, 72 pixels/inch, 182 KB, RGB]
-- [af_ig_post_transparent.png](af_fb_post_transparent.png) [1080 × 1080 pixels, 72 pixels/inch, 344 KB, RGB]
-- [af_ig_post.png](af_ig_post.png) [1080 × 1080 pixels, 72 pixels/inch, 354 KB, RGB]
-- [af_ig_post_call_for_panels.png](af_ig_post_call_for_panels.png) [1080 × 1080 pixels, 72 pixels/inch, 354 KB, RGB]
+- ArcheoFOSS 2022 Call for panels:
+    - Facebook cover: **1200×628px**, 72dpi, 184KB, RGB, PNG  
+    <a data-fancybox="presskit" href="af_cover_fb_call_for_panels.png">preview</a> | [download](af_cover_fb_call_for_panels.png)
+    - Instagram post: **1080×1080px**, 72dpi, 354KB, RGB, PNG  
+    <a data-fancybox="presskit" href="af_ig_post_call_for_panels.png">preview</a> | [download](af_ig_post_call_for_panels.png) 
+    - Facebook post: **1200×628px**, 72dpi, 182KB, RGB, PNG  
+    <a data-fancybox="presskit" href="af_fb_post_call_for_panels.png">preview</a> | [download](af_fb_post_call_for_panels.png)
+
+- ArcheoFOSS 2022 generic:
+    - Facebook cover: **1200×628px**, 72dpi, 184KB, RGB, PNG  
+    <a data-fancybox="presskit" href="af_cover_fb.png">preview</a> | [download](af_cover_fb.png)
+    - Facebook post, white background: **1200×628px**, 72dpi, 182KB, RGB, PNG  
+    <a data-fancybox="presskit" href="af_fb_post.png">preview</a> | [download](af_fb_post.png)
+    - Instagram post, white background: **1080×1080px**, 72dpi, 354KB, RGB, PNG  
+    <a data-fancybox="presskit" href="af_ig_post.png">preview</a> | [download](af_ig_post.png)
 
 ## Long announcement text for the call for panels, in English
 
@@ -28,13 +34,13 @@ This edition will be based on panel sessions that provide an opportunity for exp
 
 We are welcoming original proposals from both community members and external scholars or professionals willing to discuss research questions and experience and stimulate further discussion of specific topics.
 
-As well-known, the ArcheoFOSS international conference is traditionally focused on the dissemination of archaeological projects following the Open Science paradigm: open source software tools, open formats and open methodology both for investigation and dissemination. Panellists, therefore, should clearly state how their proposal meets one or more of the following topics:
+As is well-known, the ArcheoFOSS international conference is traditionally focused on the dissemination of archaeological projects following the Open Science paradigm: open source software tools, open formats and open methodology both for investigation and dissemination. Panellists, therefore, should clearly state how their proposal meets one or more of the following topics:
 
 - Use and reuse of open software in archaeological case studies.
 - Creation of open data and development and use of open formats.
 - Development of open source software tools and innovative open processes in archaeological investigation.
 
-Further information are available at: https://archeofoss.org/2022/call-for-panels 
+Further information is available at: https://archeofoss.org/2022/call-for-panels 
 
 ## Testo lungo di annuncio della chiamata per _panel_, in italiano
 

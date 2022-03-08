@@ -329,3 +329,23 @@ body {
 	}
 }
 
+.pulsate-home a{
+    animation: pulsate 3s ease-out;
+    animation-iteration-count: infinite; 
+	background-color: rgba($color: #ffff00, $alpha: 1.0);
+	padding: .5rem;
+	margin: .5rem;
+}
+@keyframes pulsate {
+    0% { 
+		background-color: rgba($color: #ffff00, $alpha: 1.0);
+    }
+    50% { 
+		background-color: rgba($color: #ffff00, $alpha: 0.1);
+    }
+    100% { 
+		background-color: rgba($color: #ffff00, $alpha: 1.0);
+    }
+}
+
+
