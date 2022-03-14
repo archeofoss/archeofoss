@@ -16,6 +16,8 @@ For the 2022 edition, a [**special repository**](https://github.com/archeofoss/a
 - **Date of submission**: 8-03-2022
 - **Repository url**: [https://github.com/archeofoss/af2022/discussions/1](https://github.com/archeofoss/af2022/discussions/1)  
 
+## Moving in the past: open solutions for data set design, spatial analysis and geo-statistical methods to investigate movement in Antiquity
+
 - **Proponents**:
   - [Domizia D'Erasmo](mailto:domizia.derasmo@uniroma1.it), Sapienza University of Rome
   - [Noemi Giovino](mailto:noemi.giovino@uniroma1.it), Sapienza University of Rome
