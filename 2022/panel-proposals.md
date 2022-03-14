@@ -14,4 +14,10 @@ For the 2022 edition, a [**special repository**](https://github.com/archeofoss/a
   - [Julian Bogdani](mailto:julian.bogdani@uniroma1.it), Sapienza University of Rome
   - [Valeria Vitale](mailto:vvitale@turing.ac.uk), The Alan Turig Institute
 - **Date of submission**: 8-03-2022
-- **Repository url**: [https://github.com/archeofoss/af2022/discussions/1](https://github.com/archeofoss/af2022/discussions/1)
+- **Repository url**: [https://github.com/archeofoss/af2022/discussions/1](https://github.com/archeofoss/af2022/discussions/1)  
+
+- **Proponents**:
+  - [Domizia D'Erasmo](mailto:domizia.derasmo@uniroma1.it), Sapienza University of Rome
+  - [Noemi Giovino](mailto:noemi.giovino@uniroma1.it), Sapienza University of Rome
+- **Date of submission**: 14-03-2022
+- **Repository url**: [https://github.com/archeofoss/archeofoss2022/discussions/3](https://github.com/archeofoss/archeofoss2022/discussions/3)
