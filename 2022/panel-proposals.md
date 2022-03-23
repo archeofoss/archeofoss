@@ -24,7 +24,7 @@ For the 2022 edition, a [**special repository**](https://github.com/archeofoss/a
 - **Date of submission**: 14-03-2022
 - **Repository url**: [https://github.com/archeofoss/archeofoss2022/discussions/3](https://github.com/archeofoss/archeofoss2022/discussions/3)
 
-## [i/]O: programmatic output strategies, protocols and best practices for archaeological information systems: towards an open paradigm of archaeological data management and analysis  
+## 3. [i/]O: programmatic output strategies, protocols and best practices for archaeological information systems: towards an open paradigm of archaeological data management and analysis  
 
 - **Proponents**:
   - [Julian Bogdani](mailto:julian.bogdani@uniroma1.it), Sapienza University of Rome, Rome
