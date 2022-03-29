@@ -35,7 +35,7 @@ For the 2022 edition, a [**special repository**](https://github.com/archeofoss/a
 ## 4. GIS open source solution for archaeological context in between Universities, Public Administration, societies, research center: pyArchInit case
 
 - **Proponents**:
-- [Enzo Cocca](archeologia@adarteinfo.it), AdArte s.r.l.
-- [Gianluca Martinez](gianlucamartinez@hotmail.it), Università di Pisa, Pisa
+  - [Enzo Cocca](archeologia@adarteinfo.it), AdArte s.r.l.
+  - [Gianluca Martinez](gianlucamartinez@hotmail.it), Università di Pisa, Pisa
 - **Date of submission**: 29-03-2022
 - **Repository url**: [https://github.com/archeofoss/archeofoss2022/discussions/5](https://github.com/archeofoss/archeofoss2022/discussions/5)
