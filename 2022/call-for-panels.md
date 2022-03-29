@@ -35,7 +35,7 @@ Proposals for panels can be submitted by one or two researchers. Each complete p
 - A **title** describing the contents
 - A brief **description** of the proposed specific research topcic (max. 2.000 characters, spaces included), containing the state-of-art, at least one research question on which papers will be called and possibly a recent bibliography.
 - One illustrative **image**, landscape orientation, with a minimal width of 2000px.
-- Full name(s), affiliation(s) and email addressed and possibly Twitter username of the proponent(s)
+- Full name(s), affiliation(s) and email addressed and possibly Twitter username of the proponent(s) (**max 2 proponents**)
 
 Proposals for panels **must** fully comply with the ArcheoFOSS mission, regarding free and open source software or hardware, open processes, open data, open science in the archaeological or more generally in the heritage domain.
 
