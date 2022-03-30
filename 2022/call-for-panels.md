@@ -13,6 +13,7 @@ layout: article-slim
 - Panel proposals are now being accepted
 - Panel proposals must be submitted before March 31 2022.
 - Panel proposals will undergo an open, not anonymous, peer-review evaluation proccess.
+- New deadline: Panel proposals must be submitted before April 14 2022.
 
 ---
 
@@ -39,7 +40,7 @@ Proposals for panels can be submitted by one or two researchers. Each complete p
 
 Proposals for panels **must** fully comply with the ArcheoFOSS mission, regarding free and open source software or hardware, open processes, open data, open science in the archaeological or more generally in the heritage domain.
 
-Proposals **must** be submitted via email, at [info@archeofoss.org](info@archeofoss.org) **before March 31 2022**, and **must** be licensed as CC-BY.
+Proposals **must** be submitted via email, at [info@archeofoss.org](info@archeofoss.org) **before April 14 2022**, and **must** be licensed as CC-BY.
 
 A **maximum of 10 panels** will be accepted.
 
