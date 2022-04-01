@@ -47,3 +47,11 @@ For the 2022 edition, a [**special repository**](https://github.com/archeofoss/a
   - [Alessandra Piergrossi](mailto:alessandra.piergrossi@cnr.it), ISPC, CNR
 - **Date of submission**: 31-03-2022
 - **Repository url**: [https://github.com/archeofoss/archeofoss2022/discussions/6](https://github.com/archeofoss/archeofoss2022/discussions/6)
+
+## 6. Practice and Paradigms of Open Source Technologies for Archaeological Field Data  
+
+- **Proponents**:
+  - [Fabian Riebschläger](mailto:fabian.riebschlaeger@dainst.de), German Archaeological Institute
+  - [Thomas Kleinke](mailto:thomas.kleinke@dainst.de), German Archaeological Institute
+  - **Date of submission**: 01-04-2022
+  - **Repository url**: [https://github.com/archeofoss/archeofoss2022/discussions/7](https://github.com/archeofoss/archeofoss2022/discussions/7)
