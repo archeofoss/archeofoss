@@ -53,5 +53,5 @@ For the 2022 edition, a [**special repository**](https://github.com/archeofoss/a
 - **Proponents**:
   - [Fabian Riebschläger](mailto:fabian.riebschlaeger@dainst.de), German Archaeological Institute
   - [Thomas Kleinke](mailto:thomas.kleinke@dainst.de), German Archaeological Institute
-  - **Date of submission**: 01-04-2022
-  - **Repository url**: [https://github.com/archeofoss/archeofoss2022/discussions/7](https://github.com/archeofoss/archeofoss2022/discussions/7)
+- **Date of submission**: 01-04-2022
+- **Repository url**: [https://github.com/archeofoss/archeofoss2022/discussions/7](https://github.com/archeofoss/archeofoss2022/discussions/7)
