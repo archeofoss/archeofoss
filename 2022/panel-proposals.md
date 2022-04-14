@@ -60,6 +60,6 @@ For the 2022 edition, a [**special repository**](https://github.com/archeofoss/a
 
 - **Proponents**:
   - [Stefano Costa](mailto:stefano.costa@beniculturali.it), Ministero della Cultura
-  - [Emanuel Demetrescu](mailto:emanuel.demetrescu@cnr.it), Consiglio Nazionale delle Ricerce
+  - [Emanuel Demetrescu](mailto:emanuel.demetrescu@cnr.it), Consiglio Nazionale delle Ricerche
 - **Date of submission**: 14-04-2022
 - **Repository url**: [https://github.com/archeofoss/archeofoss2022/discussions/8](https://github.com/archeofoss/archeofoss2022/discussions/8)
