@@ -14,6 +14,7 @@ layout: article-slim
 - Panel proposals must be submitted before March 31 2022.
 - Panel proposals will undergo an open, not anonymous, peer-review evaluation proccess.
 - New deadline: Panel proposals must be submitted before April 14 2022.
+- The call for panels is now officially closed.
 
 ---
 
@@ -31,7 +32,7 @@ As well-known, the ArcheoFOSS conference is traditionally focused on the dissemi
 
 A **typical panel session** starts with a **brief introduction** by the panel chair, followed by the presentations of **three or four panellists**.
 
-Proposals for panels can be submitted by one or two researchers. Each complete proposal must include:
+<!-- Proposals for panels can be submitted by one or two researchers. Each complete proposal must include:
 
 - A **title** describing the contents
 - A brief **description** of the proposed specific research topcic (max. 2.000 characters, spaces included), containing the state-of-art, at least one research question on which papers will be called and possibly a recent bibliography.
@@ -42,6 +43,10 @@ Proposals for panels **must** fully comply with the ArcheoFOSS mission, regardin
 
 Proposals **must** be submitted via email, at [info@archeofoss.org](info@archeofoss.org) **before April 14 2022**, and **must** be licensed as CC-BY.
 
-A **maximum of 10 panels** will be accepted.
+A **maximum of 10 panels** will be accepted. -->
 
-In the next few days, a proposal model will be published together with template files to further facilitate the submissions. All proposals will be published in a dedicated GitHub repository and will be available to an open, not anonymous, peer-review process. More information on the evaluation procedure will be published in the next few weeks.
+<!-- In the next few days, a proposal model will be published together with template files to further facilitate the submissions.  -->
+
+**The call for panels officially closed on April 14, 2022** and the proposals have been published in the project repository [(list of panel proposals)](./panel-proposals.md). 
+
+All proposals will be published in a dedicated GitHub repository and will be available to an open, not anonymous, peer-review process. More information on the evaluation procedure will be published in the next few weeks.
