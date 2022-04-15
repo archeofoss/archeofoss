@@ -63,3 +63,11 @@ For the 2022 edition, a [**special repository**](https://github.com/archeofoss/a
   - [Emanuel Demetrescu](mailto:emanuel.demetrescu@cnr.it), Consiglio Nazionale delle Ricerche
 - **Date of submission**: 14-04-2022
 - **Repository url**: [https://github.com/archeofoss/archeofoss2022/discussions/8](https://github.com/archeofoss/archeofoss2022/discussions/8)
+
+## 8. From wiki projects to OpenStreetMap, collaborative approaches to open data creation: problems, case studies, territorial and cultural impact  
+
+- **Proponents**:
+  - [Saverio Giulio Malatesta](mailto:saveriogiulio.malatesta@uniroma1.it), Sapienza Università di Roma
+  - [Paolo Rosati](mailto:paolo.rosati@uniroma1.it), Sapienza Università di Roma
+- **Date of submission**: 14-04-2022
+- **Repository url**: [https://github.com/archeofoss/archeofoss2022/discussions/9](https://github.com/archeofoss/archeofoss2022/discussions/9)
