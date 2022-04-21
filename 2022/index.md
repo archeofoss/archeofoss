@@ -8,6 +8,13 @@ ednumber: XVI
 
 ## Latest news
 
+**[14/04/2022]**
+
+We are very proud to announce that the call for papers for the 2022 edition of ArcheoFOSS International conference has been closed.
+The [complete list of the panels is available](/2022/panel-proposals) and a [special repository](https://github.com/archeofoss/archeofoss2022/discussions/categories/panel-proposals) has been created to collect eventual comments from the community, for each panel. Feel free to comment, suggest, up or down vote and share your thoughts and ideas. And remeber to stay tuned: **the call for papers will be soon published**!
+
+---
+
 **[11/02/2022]**
 
 The [call for panels](/2022/call-for-panels) of ArcheoFOSS 2022 is now open. The hybrid conference will be hosted in Rome by Sapienza and [DigiLab](https://digilab.uniroma1.it/), on **22-24 September 2022**.
