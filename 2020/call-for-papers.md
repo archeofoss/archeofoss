@@ -54,7 +54,7 @@ The Conference will address a range of important topics and themes relating to d
 We are inviting scholars, independent researchers, institutions, freelance archaeologists and professional companies involved in Cultural Heritage to submit original research or case studies by exposing the latest trends, theoretical or practical developments and challenges in the field. The Organising Committee strongly encourages abstract proposals focused on the following three thematic areas.
 
 
-### ![icon](./images/icons/trowel.svg "Trowel") Theme 1. Use and Application of Free/Libre and Open Source (FLOS) Tools in Archaeology 
+### ![icon](../images/2020/icons/trowel.svg "Trowel") Theme 1. Use and Application of Free/Libre and Open Source (FLOS) Tools in Archaeology 
 
 The session covers all the aspects connected with the application of free/libre and open source tools, such as software and hardware solutions, as well as processes, in the archaeological scope.
 
@@ -69,7 +69,7 @@ Potential topics include, but are not limited to:
 - integration, through open formats, with non-archaeological workflows (geology, engineering, construction science, environmental analysis, etc).
 
 
-### ![icon](./images/icons/share.svg "Share") Theme 2. Creation, use and Promotion of Open Data and Open Formats in Archaeology
+### ![icon](../images/2020/icons/share.svg "Share") Theme 2. Creation, use and Promotion of Open Data and Open Formats in Archaeology
 
 The session encompasses themes such as the creation, publication and sharing of Open Data in archaeology, including commercial software. Particular attention will be given to the development and promotion of Open Formats. 
 
@@ -80,7 +80,7 @@ Potential topics include, but are not limited to:
 - processing, retrieving and re-publication of legacy data;
 - long term archiving and storage strategies for Cultural Heritage data through open formats.
 
-### ![icon](./images/icons/gears.svg "Gears") Theme 3. Development and Customization of FLOS Software and Hardware Solutions for Cultural Heritage 
+### ![icon](../images/2020/icons/gears.svg "Gears") Theme 3. Development and Customization of FLOS Software and Hardware Solutions for Cultural Heritage 
 
 The session hosts papers dedicated to the development and customization of free/libre and open source tools, with a special focus on software and hardware components and their effect on data, formats and processes.
 
