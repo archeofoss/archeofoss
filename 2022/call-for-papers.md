@@ -51,7 +51,6 @@ Please provide for each paper proposal the following information, in **English**
 - Full name(s) of the author(s)
 - Affiliation(s) of the author(s)
 - Email address(es) of all authors(s)
-- Phone number of the correspondent author (**this information will not be published online and should not be provided on the PR on Github**).
 - Proposal text (max. 3000 characters)
 - An optional illustrative image, complete with copyright notice
 
