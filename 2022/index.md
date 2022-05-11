@@ -8,9 +8,15 @@ ednumber: XVI
 
 ## Latest news
 
+**[14/05/2022]**
+
+The [call for papers](/2022/call-for-papers) of ArcheoFOSS 2020 id now open. The conference will be organised in Rome, on 22-24 september 2022 in a hybrid format, both in presence and online, and will invol
+
+---
+
 **[14/04/2022]**
 
-We are very proud to announce that the call for papers for the 2022 edition of ArcheoFOSS International conference has been closed.
+We are very proud to announce that the call for papanelspers for the 2022 edition of ArcheoFOSS International conference has been closed.
 The [complete list of the panels is available](/2022/panel-proposals) and a [special repository](https://github.com/archeofoss/archeofoss2022/discussions/categories/panel-proposals) has been created to collect eventual comments from the community, for each panel. Feel free to comment, suggest, up or down vote and share your thoughts and ideas. And remeber to stay tuned: **the call for papers will be soon published**!
 
 ---

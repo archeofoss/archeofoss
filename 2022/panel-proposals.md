@@ -4,9 +4,7 @@ description: "Panel proposals for ArcheoFOSS 2022"
 layout: article-slim
 ---
 
-All panel proposals submitted for the 2022 edition of ArcheoFOSS will be published here.
-
-For the 2022 edition, a [**special repository**](https://github.com/archeofoss/af2022) has been activated on [GitHub](https://github.com/) where all panel proposals will be published. Within this space it will be possible for everyone to comment and make suggestions on the various proposals.
+A [**special repository**](https://github.com/archeofoss/af2022) has been activated on [GitHub](https://github.com/) where all panel presentations and paper proposals will be published. Within this space it will be possible for everyone to comment and make suggestions on the various proposals.
 
 ## 1. Maps to the past. Open digital approaches to the investigation of historical maps
 
@@ -24,7 +22,7 @@ For the 2022 edition, a [**special repository**](https://github.com/archeofoss/a
 - **Date of submission**: 14-03-2022
 - **Repository url**: [https://github.com/archeofoss/archeofoss2022/discussions/3](https://github.com/archeofoss/archeofoss2022/discussions/3)
 
-## 3. [i/]O: programmatic output strategies, protocols and best practices for archaeological information systems: towards an open paradigm of archaeological data management and analysis  
+## 3.  I/O: ethics, policies and technologies for programmatic and open access to archaeological online data sets
 
 - **Proponents**:
   - [Julian Bogdani](mailto:julian.bogdani@uniroma1.it), Sapienza University of Rome, Rome
