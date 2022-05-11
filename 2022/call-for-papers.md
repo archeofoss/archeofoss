@@ -6,8 +6,8 @@ layout: article-slim
 
 
 ## TL;DR
-- Deadline for [abstract submissions](#abstract-submission): **15/06/2022**
-- Conference dates: **22, 23, 24 September, 2022**
+- Deadline for [abstract submissions](#abstract-submission): **15 June 2022**
+- Conference dates: **22, 23, 24 September 2022**
 - **Do not forget to share!**
   - [Share on Telegram](https://telegram.me/share/url?url=https://archeofoss.org/2022/call-for-papers&text=Opened+ArcheoFOSS+2022+call+for+papers)
   - [Share on WhatsApp](https://wa.me/?text=https://archeofoss.org/2022/call-for-papers+Opened+ArcheoFOSS+2022+call+for+papers)
@@ -17,17 +17,17 @@ layout: article-slim
 ## Call for papers
 The 16th edition of the International Conference 
 **ArcheoFOSS Open Software, hardware, processes, data and formats in archaeological research** 
-will be held in double format, in presence and online on **22-24 September 2022**.
+will be held in dual format, in presence and online on **22-24 September 2022**.
 
-The Conference is organised in 7 pannels that will introduce specific research topics on the general background of data sharing, open tools, processes and formats in the archaeological domain.
+The Conference is organised in seven pannels that will introduce specific research topics on the general background of data sharing, open tools, processes and formats in the archaeological domain.
 
-We are inviting scholars, independent researchers, institutions, freelance archaeologists and professional companies involved in Cultural Heritage to submit original research or case studies by exposing the latest trends, theoretical or practical developments and challenges in the field. 
+We are inviting scholars, independent researchers, institutions, freelance archaeologists and company representatives involved in Cultural Heritage to submit original research or case studies that expose the latest trends, theoretical or practical developments and challenges in the field. 
 
 
 ## Available panels
 
 1. [Maps to the past. Open digital approaches to the investigation of historical maps](https://github.com/archeofoss/archeofoss2022/discussions/1)  
-Pronents: **Julian Bogdani**, Sapienza University of Rome, Rome ([julian.bogdani@uniroma1.it](mailto:julian.bogdani@uniroma1.it), [@JulianBogdani](https://twitter.com/JulianBogdani)); **Valeria Vitale**, The Alan Turing Institute, London ([vvitale@turing.ac.uk](mailto:vvitale@turing.ac.uk), [@nottinauta](https://twitter.com/nottinauta))
+Proponents: **Julian Bogdani**, Sapienza University of Rome, Rome ([julian.bogdani@uniroma1.it](mailto:julian.bogdani@uniroma1.it), [@JulianBogdani](https://twitter.com/JulianBogdani)); **Valeria Vitale**, The Alan Turing Institute, London ([vvitale@turing.ac.uk](mailto:vvitale@turing.ac.uk), [@nottinauta](https://twitter.com/nottinauta))
 1. [Moving in the past: open solutions for data set design, spatial analysis and geo-statistical methods to investigate movement in Antiquity](https://github.com/archeofoss/archeofoss2022/discussions/3)  
 Proponents **Domizia D'Erasmo**, Sapienza University of Rome, Rome ([domizia.derasmo@uniroma1.it](mailto:domizia.derasmo@uniroma1.it), [@domizzzia](https://twitter.com/domizzzia)); **Noemi Giovino**, Sapienza University of Rome, Rome ([noemi.giovino@uniroma1.it](mailto:noemi.giovino@uniroma1.it))
 1. [I/O: ethics, policies and technologies for programmatic and open access to archaeological online data sets.](https://github.com/archeofoss/archeofoss2022/discussions/4)  
@@ -48,14 +48,14 @@ Proponents: **Saverio Giulio Malatesta**, Sapienza Università di Roma ([saverio
 Please provide for each paper proposal the following information, in **English**:
 - Title of the proposal
 - Name of the selected panel
-- Full names of the author(s)
-- Affiliation of the author(s)
-- Email address of all authors(s)
-- Phone number of the correspondent author (**this information will not be published onine and should not be provided on the PR on Github**).
+- Full name(s) of the author(s)
+- Affiliation(s) of the author(s)
+- Email address(es) of all authors(s)
+- Phone number of the correspondent author (**this information will not be published online and should not be provided on the PR on Github**).
 - Proposal text (max. 3000 characters)
 - An optional illustrative image, complete with copyright notice
 
-All proposals can be submitted by email at [info@archeofoss.org](mailto:info@archeofoss.org) or, preferrably, by creating a pull request at [https://github.com/archeofoss/archeofoss2022](https://github.com/archeofoss/archeofoss2022) and using the provided template.
+All proposals can be submitted by email at [info@archeofoss.org](mailto:info@archeofoss.org) or, preferrably, by creating a pull request at [https://github.com/archeofoss/archeofoss2022](https://github.com/archeofoss/archeofoss2022) and using the [provided template](https://github.com/archeofoss/archeofoss2022/blob/main/paper-proposal-template.md).
 
 **Texts and images should be released under CC BY-ND or other equally or more permissive licenses.**
 
@@ -67,4 +67,4 @@ Plese note that all proposals will be **promptly published** on our [Github repo
 
 **After the Conference**
 
-All authors will be asked to submit a full paper that will be published in the official proceedings of the conference after a double blind peer-review process. The proceedings will be published as a special number of [Archeologia e Calcolatori](http://www.archcalc.cnr.it/) scientific journal, an *A* indexed journal by [ANVUR](https://www.anvur.it/) for Archaeology and Computer science.
+All authors will be asked to submit a full paper that will be published in the official proceedings of the conference after a double blind peer-review process. The proceedings will be published as a special issue of [Archeologia e Calcolatori](http://www.archcalc.cnr.it/) scientific journal, an *A* indexed journal by [ANVUR](https://www.anvur.it/) for Archaeology and Computer science.
