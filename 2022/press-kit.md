@@ -18,6 +18,14 @@ All text and images are released with [CC0 (Public Domain)](https://creativecomm
     - Instagram post, white background: **1080×1080px**, 72dpi, 354KB, RGB, PNG  
     <a data-fancybox="presskit_generic" href="af_ig_post.png">preview</a> | [download](af_ig_post.png)
 
+-   ArcheoFOSS 2022 Call for papers:
+    - Facebook cover: **1200×628px**, 72dpi, 184KB, RGB, PNG  
+    <a data-fancybox="presskit_panels" href="af_cover_fb_call_for_papers.png">preview</a> | [download](af_cover_fb_call_for_papers.png)
+    - Instagram post: **1080×1080px**, 72dpi, 354KB, RGB, PNG  
+    <a data-fancybox="presskit_panels" href="af_ig_post_call_for_papers.png">preview</a> | [download](af_ig_post_call_for_papers.png)
+    - Instagram stories: **1080×1920px**, 72dpi, 354KB, RGB, PNG  
+    <a data-fancybox="presskit_panels" href="af_ig_post_call_for_papers.png">preview</a> | [download](af_ig_stories_call_for_papers.png)
+
 - ~~ArcheoFOSS 2022 Call for panels:~~
     - ~~Facebook cover: **1200×628px**, 72dpi, 184KB, RGB, PNG  
     <a data-fancybox="presskit_panels" href="af_cover_fb_call_for_panels.png">preview</a> | [download](af_cover_fb_call_for_panels.png)~~
@@ -25,14 +33,6 @@ All text and images are released with [CC0 (Public Domain)](https://creativecomm
     <a data-fancybox="presskit_panels" href="af_ig_post_call_for_panels.png">preview</a> | [download](af_ig_post_call_for_panels.png) ~~
     - ~~Facebook post: **1200×628px**, 72dpi, 182KB, RGB, PNG  
     <a data-fancybox="presskit_panels" href="af_fb_post_call_for_panels.png">preview</a> | [download](af_fb_post_call_for_panels.png)~~
-
-- ~~ArcheoFOSS 2022 Call for papers:~~
-    - ~~Facebook cover: **1200×628px**, 72dpi, 184KB, RGB, PNG  
-    <a data-fancybox="presskit_panels" href="af_cover_fb_call_for_papers.png">preview</a> | [download](af_cover_fb_call_for_papers.png)~~
-    - ~~Instagram post: **1080×1080px**, 72dpi, 354KB, RGB, PNG  
-    <a data-fancybox="presskit_panels" href="af_ig_post_call_for_papers.png">preview</a> | [download](af_ig_post_call_for_papers.png) ~~
-    - ~~Instagram stories: **1080×1920px**, 72dpi, 354KB, RGB, PNG  
-    <a data-fancybox="presskit_panels" href="af_ig_post_call_for_papers.png">preview</a> | [download](af_ig_stories_call_for_papers.png) ~~
     
     
 
