@@ -12,19 +12,19 @@ All text and images are released with [CC0 (Public Domain)](https://creativecomm
 
 - ArcheoFOSS 2022 generic:
     - Facebook cover: **1200×628px**, 72dpi, 184KB, RGB, PNG  
-    <a data-fancybox="presskit" href="af_cover_fb.png">preview</a> | [download](af_cover_fb.png)
+    <a data-fancybox="presskit_generic" href="af_cover_fb.png">preview</a> | [download](af_cover_fb.png)
     - Facebook post, white background: **1200×628px**, 72dpi, 182KB, RGB, PNG  
-    <a data-fancybox="presskit" href="af_fb_post.png">preview</a> | [download](af_fb_post.png)
+    <a data-fancybox="presskit_generic" href="af_fb_post.png">preview</a> | [download](af_fb_post.png)
     - Instagram post, white background: **1080×1080px**, 72dpi, 354KB, RGB, PNG  
-    <a data-fancybox="presskit" href="af_ig_post.png">preview</a> | [download](af_ig_post.png)
+    <a data-fancybox="presskit_generic" href="af_ig_post.png">preview</a> | [download](af_ig_post.png)
 
 - ~~ArcheoFOSS 2022 Call for panels:~~
     - ~~Facebook cover: **1200×628px**, 72dpi, 184KB, RGB, PNG  
-    <a data-fancybox="presskit" href="af_cover_fb_call_for_panels.png">preview</a> | [download](af_cover_fb_call_for_panels.png)~~
+    <a data-fancybox="presskit_panels" href="af_cover_fb_call_for_panels.png">preview</a> | [download](af_cover_fb_call_for_panels.png)~~
     - ~~Instagram post: **1080×1080px**, 72dpi, 354KB, RGB, PNG  
-    <a data-fancybox="presskit" href="af_ig_post_call_for_panels.png">preview</a> | [download](af_ig_post_call_for_panels.png) ~~
+    <a data-fancybox="presskit_panels" href="af_ig_post_call_for_panels.png">preview</a> | [download](af_ig_post_call_for_panels.png) ~~
     - ~~Facebook post: **1200×628px**, 72dpi, 182KB, RGB, PNG  
-    <a data-fancybox="presskit" href="af_fb_post_call_for_panels.png">preview</a> | [download](af_fb_post_call_for_panels.png)~~
+    <a data-fancybox="presskit_panels" href="af_fb_post_call_for_panels.png">preview</a> | [download](af_fb_post_call_for_panels.png)~~
 
 ## Announcement text for the Call for Papers, in English
 
