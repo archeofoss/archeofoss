@@ -10,7 +10,7 @@ ednumber: XVI
 
 **[14/05/2022]**
 
-The [call for papers](/2022/call-for-papers) of ArcheoFOSS 2020 id now open. The conference will be organised in Rome, on 22-24 september 2022 in a hybrid format, both in presence and online, and will invol
+The [call for papers](/2022/call-for-papers) of ArcheoFOSS 2020 id now open. Read the available panels and submit your research as soon aspossible. The call will close on **15 June 2022**.
 
 ---
 
