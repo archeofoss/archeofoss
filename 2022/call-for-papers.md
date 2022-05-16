@@ -19,7 +19,7 @@ The 16th edition of the International Conference
 **ArcheoFOSS Open Software, hardware, processes, data and formats in archaeological research** 
 will be held in dual format, in presence and online on **22-24 September 2022**.
 
-The Conference is organised in seven pannels that will introduce specific research topics on the general background of data sharing, open tools, processes and formats in the archaeological domain.
+The Conference is organised in seven panels that will introduce specific research topics on the general background of data sharing, open tools, processes and formats in the archaeological domain.
 
 We are inviting scholars, independent researchers, institutions, freelance archaeologists and company representatives involved in Cultural Heritage to submit original research or case studies that expose the latest trends, theoretical or practical developments and challenges in the field. 
 

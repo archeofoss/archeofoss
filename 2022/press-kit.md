@@ -10,14 +10,6 @@ All text and images are released with [CC0 (Public Domain)](https://creativecomm
 
 ## Images
 
-- ArcheoFOSS 2022 Call for panels:
-    - Facebook cover: **1200×628px**, 72dpi, 184KB, RGB, PNG  
-    <a data-fancybox="presskit" href="af_cover_fb_call_for_panels.png">preview</a> | [download](af_cover_fb_call_for_panels.png)
-    - Instagram post: **1080×1080px**, 72dpi, 354KB, RGB, PNG  
-    <a data-fancybox="presskit" href="af_ig_post_call_for_panels.png">preview</a> | [download](af_ig_post_call_for_panels.png) 
-    - Facebook post: **1200×628px**, 72dpi, 182KB, RGB, PNG  
-    <a data-fancybox="presskit" href="af_fb_post_call_for_panels.png">preview</a> | [download](af_fb_post_call_for_panels.png)
-
 - ArcheoFOSS 2022 generic:
     - Facebook cover: **1200×628px**, 72dpi, 184KB, RGB, PNG  
     <a data-fancybox="presskit" href="af_cover_fb.png">preview</a> | [download](af_cover_fb.png)
@@ -25,6 +17,36 @@ All text and images are released with [CC0 (Public Domain)](https://creativecomm
     <a data-fancybox="presskit" href="af_fb_post.png">preview</a> | [download](af_fb_post.png)
     - Instagram post, white background: **1080×1080px**, 72dpi, 354KB, RGB, PNG  
     <a data-fancybox="presskit" href="af_ig_post.png">preview</a> | [download](af_ig_post.png)
+
+- ~~ArcheoFOSS 2022 Call for panels:~~
+    - ~~Facebook cover: **1200×628px**, 72dpi, 184KB, RGB, PNG  
+    <a data-fancybox="presskit" href="af_cover_fb_call_for_panels.png">preview</a> | [download](af_cover_fb_call_for_panels.png)~~
+    - ~~Instagram post: **1080×1080px**, 72dpi, 354KB, RGB, PNG  
+    <a data-fancybox="presskit" href="af_ig_post_call_for_panels.png">preview</a> | [download](af_ig_post_call_for_panels.png) ~~
+    - ~~Facebook post: **1200×628px**, 72dpi, 182KB, RGB, PNG  
+    <a data-fancybox="presskit" href="af_fb_post_call_for_panels.png">preview</a> | [download](af_fb_post_call_for_panels.png)~~
+
+## Announcement text for the Call for Papers, in English
+
+The 16th edition of the International Conference ArcheoFOSS Open Software, hardware, processes, data and formats in archaeological research will be held in dual format, in presence and online on 22-24 September 2022.
+
+The Conference is organised in seven panels ([archeofoss.org/2022/call-for-papers](https://archeofoss.org/2022/call-for-papers)) that will introduce specific research topics on the general background of data sharing, open tools, processes and formats in the archaeological domain.
+
+We are inviting scholars, independent researchers, institutions, freelance archaeologists and company representatives involved in Cultural Heritage to submit original research or case studies that expose the latest trends, theoretical or practical developments and challenges in the field.
+
+The submission detailes are published at: [https://archeofoss.org/2022/call-for-papers](https://archeofoss.org/2022/call-for-papers)
+
+
+## Testo lungo di annuncio della chiamata per interventi, in italiano
+La 16esima edizione della Conferenza Internazionale ArcheoFOSS: Open Software, hardware, processi, dati e formati per l'Archeologia sarà tenuta in doppio formato, on line e in presenza, il 22-24 Settembre 2022.
+
+La conferenza è organizzata in sette _panel_ ([archeofoss.org/2022/call-for-papers](https://archeofoss.org/2022/call-for-papers)) che introducono argomenti specifici della ricerca, aventi sullo sfondo la grande missione di ArcheoFOSS sulla condivisione dei dati, strumenti, processi e formati aperti per l'archeologia.
+
+Invitiamo studiosi, ricercatori incardinati o indipendenti, istituzioni, professionisti _free lance_ e rappresentatnti delle realtà economiche impegnati nel modo dei Beni Culturali e inviarci la loro ricerca originale e condividere con la comunità le tendenze e sfide più recenti e gli sviluppi teorici e metodologici nel campo.
+
+I dettagli per l'invio sono disponibili all'indirizzo: [https://archeofoss.org/2022/call-for-papers](https://archeofoss.org/2022/call-for-papers)
+
+---
 
 ## Long announcement text for the call for panels, in English
 
