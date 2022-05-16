@@ -11,7 +11,7 @@ layout: article-slim
 - **Do not forget to share!**
   - [Share on Telegram](https://telegram.me/share/url?url=https://archeofoss.org/2022/call-for-papers&text=Opened+ArcheoFOSS+2022+call+for+papers)
   - [Share on WhatsApp](https://wa.me/?text=https://archeofoss.org/2022/call-for-papers+Opened+ArcheoFOSS+2022+call+for+papers)
-- Submit by making a Pull Request to our repository or email us at [info@archeofoss.org](mailto:info@archeofoss.org)
+- Submit by making a Pull Request to [our repository](https://github.com/archeofoss/archeofoss2022/) or email us at [info@archeofoss.org](mailto:info@archeofoss.org)
 
 ---
 
