@@ -26,6 +26,18 @@ All text and images are released with [CC0 (Public Domain)](https://creativecomm
     - ~~Facebook post: **1200×628px**, 72dpi, 182KB, RGB, PNG  
     <a data-fancybox="presskit_panels" href="af_fb_post_call_for_panels.png">preview</a> | [download](af_fb_post_call_for_panels.png)~~
 
+- ~~ArcheoFOSS 2022 Call for papers:~~
+    - ~~Facebook cover: **1200×628px**, 72dpi, 184KB, RGB, PNG  
+    <a data-fancybox="presskit_panels" href="af_cover_fb_call_for_papers.png">preview</a> | [download](af_cover_fb_call_for_papers.png)~~
+    - ~~Instagram post: **1080×1080px**, 72dpi, 354KB, RGB, PNG  
+    <a data-fancybox="presskit_panels" href="af_ig_post_call_for_papers.png">preview</a> | [download](af_ig_post_call_for_papers.png) ~~
+    - ~~Instagram stories: **1080×1920px**, 72dpi, 354KB, RGB, PNG  
+    <a data-fancybox="presskit_panels" href="af_ig_post_call_for_papers.png">preview</a> | [download](af_ig_stories_call_for_papers.png) ~~
+    
+    
+
+
+
 ## Announcement text for the Call for Papers, in English
 
 The 16th edition of the International Conference ArcheoFOSS Open Software, hardware, processes, data and formats in archaeological research will be held in dual format, in presence and online on 22-24 September 2022.
