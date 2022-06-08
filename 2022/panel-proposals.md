@@ -14,7 +14,7 @@ A [**special repository**](https://github.com/archeofoss/af2022) has been activa
 - **Date of submission**: 08-03-2022
 - **Repository url**: [https://github.com/archeofoss/af2022/discussions/1](https://github.com/archeofoss/af2022/discussions/1)  
 
-## 2. Moving in the past: open solutions for data set design, spatial analysis and geo-statistical methods to investigate movement in Antiquity
+## 2. Moving in the past: open solutions for data set design, spatial analysis and spatial statistical methods to investigate movement in Antiquity
 
 - **Proponents**:
   - [Domizia D'Erasmo](mailto:domizia.derasmo@uniroma1.it), Sapienza University of Rome
