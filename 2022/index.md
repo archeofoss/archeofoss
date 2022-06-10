@@ -8,6 +8,9 @@ ednumber: XVI
 
 ## Latest news
 
+**[15/06/2022]**
+Deadline extended for [abstract submissions](#abstract-submission): **25 June 2022**
+
 **[14/05/2022]**
 
 The [call for papers](/2022/call-for-papers) of ArcheoFOSS 2022 id now open. Read the available panels and submit your research as soon aspossible. The call will close on **15 June 2022**.
