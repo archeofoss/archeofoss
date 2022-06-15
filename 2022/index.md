@@ -17,7 +17,7 @@ Deadline extended for [abstract submissions](#abstract-submission): **30 June 20
 
 **[14/05/2022]**
 
-The [call for papers](/2022/call-for-papers) of ArcheoFOSS 2022 id now open. Read the available panels and submit your research as soon aspossible. The call will close on **15 June 2022**.
+The [call for papers](/2022/call-for-papers) of ArcheoFOSS 2022 is now open. Read the available panels and submit your research as soon aspossible. The call will close on **15 June 2022**.
 
 ---
 
