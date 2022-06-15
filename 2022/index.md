@@ -10,7 +10,7 @@ We would like to thank all those who submitted their abstracts by the deadline o
 
 We look forward to your submissions!  
 
-_Scientific Committee_
+_Scientific Committee_  
 _Organising Committee_
 
 ## Latest news
