@@ -6,7 +6,7 @@ layout: article-slim
 
 
 ## TL;DR
-- Deadline extended for [abstract submissions](#abstract-submission): **25 June 2022**
+- Deadline extended for [abstract submissions](#abstract-submission): **30 June 2022**
 - Deadline for [abstract submissions](#abstract-submission): **15 June 2022**
 - Conference dates: **22, 23, 24 September 2022**
 - **Do not forget to share!**

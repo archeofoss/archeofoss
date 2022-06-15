@@ -9,7 +9,7 @@ ednumber: XVI
 ## Latest news
 
 **[15/06/2022]**
-Deadline extended for [abstract submissions](#abstract-submission): **25 June 2022**
+Deadline extended for [abstract submissions](#abstract-submission): **30 June 2022**
 
 **[14/05/2022]**
 
