@@ -6,9 +6,11 @@ edyear: 2022
 ednumber: XVI
 ---
 
-We would like to thank all those who submitted their abstracts by the deadline of 15th June. However, many of you wrote to us that due to academic/work schedules you needed some extra time in order to submit a paper. In agreement with the Scientific Committee and the Organising Committee we have therefore decided to postpone the deadline for the call for papers for ArcheoFOSS XVI 2022 to **30th June 2022**.
+We would like to thank all those who submitted their abstracts by the deadline of 15th June. However, many of you wrote to us that due to academic/work schedules you needed some extra time in order to submit a paper. In agreement with the Scientific Committee and the Organising Committee we have therefore decided to postpone the deadline for the call for papers for ArcheoFOSS XVI 2022 to 30th June 2022.
 
 We look forward to your submissions! 
+_Scientific Committee_
+_Organising Committee_
 
 ## Latest news
 
