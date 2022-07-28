@@ -6,10 +6,12 @@ default:
   - title: Scientific committee
     url: /scientific-committee
 '2022':
-  - title: 'Call for papers'
-    url: '/2022/call-for-papers'
-  - title: 'Panel proposals'
-    url: '/2022/panel-proposals'
+  - title: Programmee
+    url: /2022/programme
+  # - title: 'Call for papers'
+  #   url: '/2022/call-for-papers'
+  # - title: 'Panel proposals'
+  #   url: '/2022/panel-proposals'
   - title: 'Press kit'
     url: '/2022/press-kit'
   - title: Scientific committee
