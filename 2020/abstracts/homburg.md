@@ -7,6 +7,8 @@ images:
   ../images/2020/abstracts/homburg-02.jpg|Fig. 2. SPARQLing Unicorn QGIS Plugin Query Dialog 
   ../images/2020/abstracts/homburg-03.jpg|Fig. 3. SPARQLing Unicorn QGIS Plugin QGIS Map with caves containing prehistoric art from Wikidata 
   ../images/2020/abstracts/homburg-04.jpg|Fig. 4. SPARQLing Unicorn QGIS Plugin QGIS Map with Pleiades Places
+geo:
+  - 49.9654762,8.1723194
 ---
 
 **Timo Homburg**

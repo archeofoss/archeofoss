@@ -2,8 +2,7 @@
 title: "Strumenti digitali open source per la documentazione della cultura visuale paleo-mesolitica: dati preliminari da un flusso di lavoro sulle decorazioni incise su supporto calcareo dalla Grotta di Santa Maria di Agnano (Ostuni, BR)"
 description: "Strumenti digitali open source per la documentazione della cultura visuale paleo-mesolitica: dati preliminari da un flusso di lavoro sulle decorazioni incise su supporto calcareo dalla Grotta di Santa Maria di Agnano (Ostuni, BR)"
 geo:
-  - 41.12055
-  - 16.86847
+  - 41.12055,16.86847
  
 layout: article-slim
 ---

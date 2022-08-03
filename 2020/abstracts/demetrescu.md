@@ -9,8 +9,7 @@ images:
   ../images/2020/abstracts/demetrescu-04.jpg|Fig. 4. 
   ../images/2020/abstracts/demetrescu-05.jpg|Fig. 5.
 geo:
-  - 41.90072
-  - 12.51251
+  - 41.90072,12.51251
 ---
 
 **Emanuel Demetrescu**

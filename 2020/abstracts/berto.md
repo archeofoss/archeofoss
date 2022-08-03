@@ -4,8 +4,7 @@ description: "3D Survey Collection, un software per la produzione di repliche di
 layout: article-slim
 
 geo:
-  - 45.40676
-  - 11.87744
+  - 45.40676,11.87744
 ---
 **Simone Berto**
 

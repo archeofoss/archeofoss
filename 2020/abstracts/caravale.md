@@ -6,8 +6,7 @@ images:
   ../images/2020/abstracts/caravale-01.jpg|Fig. 1. Archeologia e Calcolatori in Europeana.
   ../images/2020/abstracts/caravale-02.jpg|Fig. 2. I toponimi di Archeologia e Calcolatori visualizzati in Peripleo.
 geo:
-  - 41.90072
-  - 12.51251 
+  - 41.90072,12.51251 
 ---
 
 **Alessandra Caravale**

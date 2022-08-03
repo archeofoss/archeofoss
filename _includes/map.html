@@ -8,12 +8,14 @@
     </p>
     <div id="map" style="color: #fff">
         {% for art in site.pages %} {% if art.geo and art.path contains include.year %}
+        {% for coord in art.geo %}
         {
             "title": "{{ art.title }}",
             "url": "{{ art.url | replace: ".html", "" }}",
-            "geo": [{{ art.geo[0] }}, {{ art.geo[1] }}]
-            {% if art.img %},"img": "{{ art.img }}"{% endif %}
+            "geo": [{{ coord }}]{% if art.img %},
+            "img": "{{ art.img }}"{% endif %}
         }
+        {% endfor %}
         {% endif %}{% endfor %}
     </div>
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"

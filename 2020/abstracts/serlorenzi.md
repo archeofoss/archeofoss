@@ -8,8 +8,7 @@ images:
   ../images/2020/abstracts/serlorenzi-03.jpg|Fig. 3. Workflow for dowloading and reusing the vector geometries and relative attributes table in the most commons geographic formats.
   ../images/2020/abstracts/serlorenzi-04.jpg|Fig. 4. SITAR open data services.
 geo:
-  - 41.90118
-  - 12.49862
+  - 41.90118,12.49862
 ---
 
 **Mirella Serlorenzi**

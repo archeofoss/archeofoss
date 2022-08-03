@@ -3,8 +3,7 @@ title: "Digital Editions of Objects and Classes: The Conspectus as an online sys
 description: "Digital Editions of Objects and Classes: The Conspectus as an online system of relations and references"
 layout: article-slim
 geo:
-  - 50.12053
-  - 8.65728
+  - 50.12053,-8.65728
 ---
 
 **Katja Roesler**

@@ -7,8 +7,7 @@ images:
   ../images/2020/abstracts/d-erasmo-02.jpg|Fig. 2. The image shows the result obtained from the mapping of the "home-work" paths of 1739. The base maps visible in the background are the Nuova Topografia di Roma and Google Satellite.
   ../images/2020/abstracts/d-erasmo-03.jpg|Fig. 3. A heatmap that shows the main roads crossed during the 18th century's processions. The colour scale shows the frequency the road has been used. The base maps in the background are the Nuova Topografia di Roma and Google Satellite.
 geo:
-  - 41.90376
-  - 12.51443
+  - 41.90376,12.51443
 ---
 
 **Domizia D’Erasmo**

@@ -8,8 +8,7 @@ images:
   ../images/2020/abstracts/fornaciari-03.jpg|Fig. 3. The link with the collected data.
   ../images/2020/abstracts/fornaciari-04.jpg|Fig. 4. The treatment of masonry samples.
 geo:
-  - 40.76869
-  - 14.79168
+  - 40.76869,14.79168
 ---
 
 **Lorenzo Fornaciari**

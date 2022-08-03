@@ -3,8 +3,7 @@ title: "Valutazione integrata delle dinamiche di rischio di erosione del suolo i
 description: "Valutazione integrata delle dinamiche di rischio di erosione del suolo in presenza di depositi archeologici. Il metodo proposto dal progetto RESEARCH (Remote Sensing Techniques for Archaeology)"
 layout: article-slim
 geo:
-  - 42.4133
-  - 12.11227
+  - 42.4133,12.11227
 ---
 
 

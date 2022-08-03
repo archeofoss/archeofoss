@@ -3,8 +3,7 @@ title: "Pubblicare i dati archeologici con A.R.C.A.: stato dei lavori e prospett
 description: "Pubblicare i dati archeologici con A.R.C.A.: stato dei lavori e prospettive future"
 layout: article-slim
 geo:
-  - 45.40676
-  - 11.87744
+  - 45.40676,11.87744
 ---
 
 **Irene Carpanese**

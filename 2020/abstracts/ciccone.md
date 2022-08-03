@@ -9,8 +9,7 @@ images:
   ../images/2020/abstracts/ciccone-04.jpg|Fig. 4. Ortofoto in 4 bande (R, G, B, IR).
   ../images/2020/abstracts/ciccone-05.jpg|Fig. 5. Ortofoto nella singola banda IR.
 geo:
-  - 41.85203
-  - 12.62899
+  - 41.85203,12.62899
 ---
 
 **Gabriele Ciccone**
