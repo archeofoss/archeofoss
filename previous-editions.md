@@ -22,7 +22,7 @@ layout: article-slim
 - **Location**: Online conference
 - **Web**: [View conference page](./2020)
 - **Publication**: Julian Bogdani, Riccardo Montalbano, Paolo Rosati. (eds.). 2021. _ArcheoFOSS XIV 2020: Open Software, Hardware, Processes, Data and Formats in Archaeological Research_. Oxford: Archaeopress.  
-Availabe in open-access (CC BY-NC-ND 4.0 International) at [https://www.archaeopress.com/ArchaeopressShop/Public/displayProductDetail.asp?id={31193B62-F0B1-4C51-BA08-3D85FCA58990}](https://www.archaeopress.com/ArchaeopressShop/Public/displayProductDetail.asp?id={31193B62-F0B1-4C51-BA08-3D85FCA58990})
+Availabe in open-access (CC BY-NC-ND 4.0 International) at [https://www.archaeopress.com/Archaeopress/Products/9781803271248](https://www.archaeopress.com/Archaeopress/Products/9781803271248)
 - **Organizing committee**:
   - Julian Bogdani, Sapienza University of Rome
   - Emanuel Demetrescu, VHLab, CNR-ISPC Rome
