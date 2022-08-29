@@ -40,7 +40,7 @@ All text and images are released with [CC0 (Public Domain)](https://creativecomm
 
 ## Announcement text for the Call for Papers, in English
 
-The 16th edition of the International Conference ArcheoFOSS Open Software, hardware, processes, data and formats in archaeological research will be held in dual format, in presence and online on 22-24 September 2022.
+The 16th edition of the International Conference ArcheoFOSS Open Software, hardware, processes, data and formats in archaeological research will be held in dual format, in presence and online on 22-23 September 2022.
 
 The Conference is organised in seven panels ([archeofoss.org/2022/call-for-papers](https://archeofoss.org/2022/call-for-papers)) that will introduce specific research topics on the general background of data sharing, open tools, processes and formats in the archaeological domain.
 
@@ -50,7 +50,7 @@ The submission detailes are published at: [https://archeofoss.org/2022/call-for-
 
 
 ## Testo lungo di annuncio della chiamata per interventi, in italiano
-La 16esima edizione della Conferenza Internazionale ArcheoFOSS: Open Software, hardware, processi, dati e formati per l'Archeologia sarà tenuta in doppio formato, on line e in presenza, il 22-24 Settembre 2022.
+La 16esima edizione della Conferenza Internazionale ArcheoFOSS: Open Software, hardware, processi, dati e formati per l'Archeologia sarà tenuta in doppio formato, on line e in presenza, il 22-23 Settembre 2022.
 
 La conferenza è organizzata in sette _panel_ ([archeofoss.org/2022/call-for-papers](https://archeofoss.org/2022/call-for-papers)) che introducono argomenti specifici della ricerca, aventi sullo sfondo la grande missione di ArcheoFOSS sulla condivisione dei dati, strumenti, processi e formati aperti per l'archeologia.
 
@@ -62,7 +62,7 @@ I dettagli per l'invio sono disponibili all'indirizzo: [https://archeofoss.org/2
 
 ## Long announcement text for the call for panels, in English
 
-The sixteenth edition of ArcheoFOSS will be hosted at Sapienza University of Rome on 22-24 September 2022, in collaboration with DigiLab (Interdepartmental Research Centre of Sapienza University of Rome).
+The sixteenth edition of ArcheoFOSS will be hosted at Sapienza University of Rome on 22-23 September 2022, in collaboration with DigiLab (Interdepartmental Research Centre of Sapienza University of Rome).
 
 This edition will be based on panel sessions that provide an opportunity for expert panel members to present their views and share their experience on a specific topic and then engage in a discussion with the audience.
 
@@ -78,7 +78,7 @@ Further information is available at: https://archeofoss.org/2022/call-for-panels
 
 ## Testo lungo di annuncio della chiamata per _panel_, in italiano
 
-La sedicesima edizione di ArcheoFOSS sarà ospitata dalla Sapienza Università di Roma, il 22-24 settembre 2022, in collaborazione con il centro di Ricerca Interdipartimentale Digilab della Sapienza.
+La sedicesima edizione di ArcheoFOSS sarà ospitata dalla Sapienza Università di Roma, il 22-23 settembre 2022, in collaborazione con il centro di Ricerca Interdipartimentale Digilab della Sapienza.
 
 Questa edizione sarà organizzata sulla base di sessioni di panel, che offriranno l'opportunità a membri esperti delle sessioni di presentare la loro visione e condividere la propria esperienza su argomenti specifici di ricerca e infine di coinvolgere la platea degli uditori in una discussione finale.
 

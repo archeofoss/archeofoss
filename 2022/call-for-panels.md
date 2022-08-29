@@ -8,7 +8,7 @@ layout: article-slim
 
 ### In brief
 
-- ArcheoFOSS 2022 will be held on 22-24 September 2022 at Sapienza University of Rome
+- ArcheoFOSS 2022 will be held on 22-23 September 2022 at Sapienza University of Rome
 - An online channel will be available both for papers and audience
 - Panel proposals are now being accepted
 - Panel proposals must be submitted before March 31 2022.
@@ -18,7 +18,7 @@ layout: article-slim
 
 ---
 
-The sixteenth edition of ArcheoFOSS will be hosted at Sapienza University of Rome on **22-24 September 2022**, in collaboration with [DigiLab (Interdepartmental Research Centre of Sapienza University of Rome)](http://digilab.uniroma1.it/).
+The sixteenth edition of ArcheoFOSS will be hosted at Sapienza University of Rome on **22-23 September 2022**, in collaboration with [DigiLab (Interdepartmental Research Centre of Sapienza University of Rome)](http://digilab.uniroma1.it/).
 
 This edition will be based on **panel sessions** that provide an opportunity for expert panel members to present their views and share their experience on a specific topic and then engage in a discussion with the audience.
 

@@ -6,7 +6,7 @@ layout: article-slim
 
 The call for papers for ArcheoFOSS 2022 was closed on 30 June 2022. We are very proud for the large interest on this edition, with  almost one hundred authors willing to present their research in the conference works! 
 
-We are very happy to publish the definitive conference programme of ArcheoFOSS 2022, to be held **in Rome** and **online** on 22-24 September 2022. In the next few days, detailed information about the venue will be availeble here.
+We are very happy to publish the definitive conference programme of ArcheoFOSS 2022, to be held **in Rome** and **online** on 22-23 September 2022. In the next few days, detailed information about the venue will be availeble here.
 
 ### Venue
 Aula Giorgio Levi della Vida  

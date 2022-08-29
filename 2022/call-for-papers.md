@@ -8,7 +8,7 @@ layout: article-slim
 ## TL;DR
 - Deadline extended for [abstract submissions](#abstract-submission): **30 June 2022**
 - Deadline for [abstract submissions](#abstract-submission): **15 June 2022**
-- Conference dates: **22, 23, 24 September 2022**
+- Conference dates: **22 - 23 September 2022**
 - **Do not forget to share!**
   - [Share on Telegram](https://telegram.me/share/url?url=https://archeofoss.org/2022/call-for-papers&text=Opened+ArcheoFOSS+2022+call+for+papers)
   - [Share on WhatsApp](https://wa.me/?text=https://archeofoss.org/2022/call-for-papers+Opened+ArcheoFOSS+2022+call+for+papers)
@@ -19,7 +19,7 @@ layout: article-slim
 ## Call for papers
 The 16th edition of the International Conference 
 **ArcheoFOSS Open Software, hardware, processes, data and formats in archaeological research** 
-will be held in dual format, in presence and online on **22-24 September 2022**.
+will be held in dual format, in presence and online on **22-23 September 2022**.
 
 The Conference is organised in seven panels that will introduce specific research topics on the general background of data sharing, open tools, processes and formats in the archaeological domain.
 
