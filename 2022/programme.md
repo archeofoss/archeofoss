@@ -9,10 +9,9 @@ The call for papers for ArcheoFOSS 2022 was closed on 30 June 2022. We are very 
 We are very happy to publish the definitive conference programme of ArcheoFOSS 2022, to be held **in Rome** and **online** on 22-24 September 2022. In the next few days, detailed information about the venue will be availeble here.
 
 ### Venue
-Aula Magna.   
-Digilab. Sapienza Università di Roma.  
-Ex Vetrerie Sciarra, Piano terra.  
-Via dei Volsci, 122. 00187 Roma. Italia  
+Aula Giorgio Levi della Vida  
+Ground floor “ex Vetrerie Sciarra”. Sapienza Università di Roma
+Via dei Volsci, 122. 00185 Roma. Italia  
 [OpenStreetMaps](https://www.openstreetmap.org/node/2128990512) | 
 [GoogleMaps](https://www.google.com/maps/place/Via+dei+Volsci,+122,+00185+Roma+RM/@41.8991279,12.5154208,17z/)
 
