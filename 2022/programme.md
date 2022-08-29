@@ -153,19 +153,19 @@ Social dinner (More information about location, price and booking will be availa
 
 **Panel: Electronic Publishing and Open Science in Archaeology**  
 Chair by Alessandra **Caravale** and Alessandra **Piergrossi**
-- **09:00** - 09:10 [CEST]  
+- **09:00** - 09:10 [CEST] *online*  
 Paola **Moscati**  
 Introduction to the panel
-- **09:10** - 09:25 [CEST]  
+- **09:10** - 09:25 [CEST] *online*  
 Gaëlle **Coqueugniot**, Virginie **Fromageot-Laniepce**  
 *On the road to open access: Insights from French antiquity journals and databases*
-- **09:25** - 09:40 [CEST]  
+- **09:25** - 09:40 [CEST] *online*  
 Alain **Queffelec**, Marta **Arzarello**, Ruth **Blasco**, Otis **Crandell**, Luc **Doyon**, Sian **Halcrow**, Emma **Karoune**, Bruno **Maureille**, Aitor **Ruiz-Redondo**, Philip **Van Peer**  
 *Peer Community In Archaeology: A community-driven free and transparent system for preprints peer-reviewing*
-- **09:40** - 09:55 [CEST]  
+- **09:40** - 09:55 [CEST] *online*  
 Marco **Montanari**
 *Crossover! Digital Public History / Digital Archaeology / Virtual Roleplaying Games*
-- **09:55** - 10:10 [CEST]  
+- **09:55** - 10:10 [CEST] *online*  
 Andrea **Bellotti**, Luca **Luppino**, Maria **Messineo**, Mickey **Scarcella**  
 *Spring Archaeology: a gathering project for emerging researchers*
 
@@ -176,16 +176,16 @@ Andrea **Bellotti**, Luca **Luppino**, Maria **Messineo**, Mickey **Scarcella**
 
 ---
 
-- **10:25** - 10:40 [CEST]  
+- **10:25** - 10:40 [CEST] *in presence*  
 Marco **Montanari**, Lorenzo **Gigli**  
 *Beyond Silos - A look at static publishing*
-- **10:40** - 10:55 [CEST]  
+- **10:40** - 10:55 [CEST] *in presence*  
 Nicolò **Paraciani**, Irene **Rossi**  
 *An open image atlas for the journal "Archeologia e Calcolatori"*
-- **10:55** - 11:10 [CEST]  
+- **10:55** - 11:10 [CEST] *in presence*  
 Francesca **Buscemi**, Marianna **Figuera**, Giovanni **Gallo**, Angelica **Lo Duca**, Andrea **Marchetti**  
 *An open source and collaborative framework for sharing structured archaeological 3D data*
-- **11:10** - 11:25 [CEST]  
+- **11:10** - 11:25 [CEST] *in presence*  
 Marco **Moderato**, Roberto **Taglioretti**, Alessandra **Mazzucchi**, Vasco **La Salvia**  
 *MAPOD4D: A Multi/Metaverse for Archaeology, Anthropology and Cultural Heritage*
 
@@ -201,16 +201,16 @@ Discussion
 
 **Panel: From wiki projects to OpenStreetMap, collaborative approaches to open data creation: problems, case studies, territorial and cultural impact**  
 Chair by Saverio Giulio **Malatesta**, and Paolo **Rosati**
-- **11:55** - 12:10 [CEST]  
+- **11:55** - 12:10 [CEST] *online*  
 Florian **Thiery**, Allard **Mees**, John Brady **Kiesling**  
 *Challenges in research community building: integrating Terra Sigillata (Samian) Research into the Wikidata community*
-- **12:10** - 12:25 [CEST]  
+- **12:10** - 12:25 [CEST] *in presence*  
 Mariflora **Caruso**, Paola **La Torre**, Roberta **Manzollino**  
 *The enhancement of local museums through Wikipedia: the MedAniene project*
-- **12:25** - 12:40 [CEST]  
+- **12:25** - 12:40 [CEST] *in presence*  
 Marco **Montanari**, Lucia **Marsicano**, Silvia **Bernardoni**, Raffaele **Trojanis**
 *Tools for citizen-driven digital public history - a fireside chat*
-- **12:40** - 12:55 [CEST]  
+- **12:40** - 12:55 [CEST] *in presence*  
 Saverio Giulio **Malatesta**, Marco **Montanari**, Paolo **Rosati**  
 *Open tools and technologies for analysing and sharing cultural and landscape heritage.*
 
@@ -228,22 +228,22 @@ Chair by Domizia **D'Erasmo** and Noemi **Giovino**
 - **15:00** - 15:15 [CEST]  
 Anita **Graser**  
 *Introduction to the panel*
-- **15:15** - 15:30 [CEST]  
+- **15:15** - 15:30 [CEST] *online*  
 Dimitrij **Mlekuž Vrhovnik**  
 *The potential of open lidar datasets for thinking about past mobility* [online]  
-- **15:30** - 15:45 [CEST]  
+- **15:30** - 15:45 [CEST] *online*  
 Maria Carina **Dengg**  
 *Viabundus. Map of premodern European transport and mobility.* [online]  
-- **15:45** - 16:00 [CEST]  
+- **15:45** - 16:00 [CEST] *online*  
 Aleksandr **Diachenko**, Iwona **Sobkowiak-Tabaka**  
 *Smallest-scale movement: Tracing the intra-site relocation of hunter-gatherers* [online]  
-- **16:00** - 16:15 [CEST]  
+- **16:00** - 16:15 [CEST] *in presence*  
 Gabriele **Ciccone**  
 *From the Itinerarium Antonini and al-Idrisi to the movecost plug-in: study of the viability in the Castronovo di Sicilia area by comparing traditional sources and least-cost path analysis.* [in presence]
-- **16:15** - 16:30 [CEST]  
+- **16:15** - 16:30 [CEST] *in presence*  
 Marco **Montanari**, Lorenzo **Gigli**  
 *Using modern standards in the past - HTFS* [in presence]  
-- **16:30** - 16:45 [CEST]  
+- **16:30** - 16:45 [CEST] *in presence*  
 Paolo **Rosati**  
 *ArchaeoloGIS A QGIS processing toolbox for archaeologists spatial analysis* [in presence]  
 
@@ -262,18 +262,18 @@ Chair by Julian **Bogdani** and Valeria **Vitale**
 - **17:15** - 17:20 [CEST]  
 Julian **Bogdani** and Valeria **Vitale**  
 *Introduction to the panel* 
-- **17:20** - 17:35 [CEST]  
+- **17:20** - 17:35 [CEST] *in presence*  
 Valeria **Vitale**, Katherine **McDonough**, Rainer **Simon**, YaoYi **Chiang**, Zekun **Li**, Jina **Kim**, Deborah **Holmes-Wong**  
 *Beyond Labels: computational approaches to text on maps*
-- **17:35** - 17:50 [CEST]  
+- **17:35** - 17:50 [CEST] *in presence*  
 Julian **Bogdani**, Domizia **D'Erasmo**  
 *Backward engineering historical maps: the case of 18th century gazetteer of the Napoleonic map of Egypt*.
-- **17:50** - 18:05 [CEST]  
+- **17:50** - 18:05 [CEST] *in presence*  
 Marco **Montanari**  
 *Revising the Gazetteer model - Places Of The Past*
-- **18:05** - 18:20 [CEST]  
+- **18:05** - 18:20 [CEST] *in presence*  
 Sandra **Leonardi**  
 *Geographical web storage mapping proposal*
 
 - **18:20** - 18:35 [CEST]  
-Discussion. Invited discussants Drake **Zabriskie** and David **Rumsey**.
+Discussion. Invited discussants Drake **Zabriskie** and David **Rumsey** (*online*).
