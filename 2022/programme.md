@@ -10,7 +10,8 @@ We are very happy to publish the definitive conference programme of ArcheoFOSS 2
 
 ### Venue
 Aula Giorgio Levi della Vida  
-Ground floor “ex Vetrerie Sciarra”. Sapienza Università di Roma
+Ground floor “ex Vetrerie Sciarra”.  
+Sapienza Università di Roma  
 Via dei Volsci, 122. 00185 Roma. Italia  
 [OpenStreetMaps](https://www.openstreetmap.org/node/2128990512) | 
 [GoogleMaps](https://www.google.com/maps/place/Via+dei+Volsci,+122,+00185+Roma+RM/@41.8991279,12.5154208,17z/)
