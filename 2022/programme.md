@@ -133,6 +133,11 @@ Discussion
 
 ---
 
+- From **20:00** [CEST]  
+Social dinner (More information about location, price and booking will be available in the next few days)
+
+---
+
 ## Day 2 | 23 September 2022
 
 **Panel: Electronic Publishing and Open Science in Archaeology**  
