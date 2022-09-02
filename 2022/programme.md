@@ -169,7 +169,7 @@ Marco **Montanari**
 Andrea **Bellotti**, Luca **Luppino**, Maria **Messineo**, Mickey **Scarcella**  
 *Spring Archaeology: a gathering project for emerging researchers*
 
-- **10:05** - 10:15 [CEST]  
+- **10:05** - 10:20 [CEST]  
 Discussion
 
 ---
