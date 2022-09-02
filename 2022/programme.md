@@ -93,21 +93,21 @@ Chair by Fabian **Riebschläger**, and Thomas **Kleinke**
 - **15:00** - 15:05 [CEST] *in presence*  
 Fabian **Riebschläger**, and Thomas **Kleinke**  
 Introduction to the panel
-- **15:05** - 15:20 [CEST] *online*  
-Laura **Carpentiero**, Dora **D'Auria**  
-*Operative tools for BIM in archaeology: libraries of archaeological parametric IFC objects* [online]
-- **15:20** - 15:35 [CEST] *in presence*  
-Benjamin **Ducke**, Simon **Hohl**, Thomas **Kleinke**, Fabian **Riebschläger**, Juliane **Watson**  
-*iDAI.field: Developing software for the documentation of archaeological fieldwork*  [in presence]
-- **15:35** - 15:50 [CEST] *in presence*  
-Eleonora **Iacopini**
-*PuntoZero, a web-app for the management, use and collect the archaeological data inside the public archives. The case of Ancona*
-- **15:50** - 16:05 [CEST] *in presence*  
+- **15:05** - 15:20 [CEST] *in presence and online*  
 Eleonora **Minucci**, Angela **Bosco**, Daniele **De Luca**  
 *Virtual RTI Application on 3D model for documentation of ancient graffiti: a propose of methodology for a complex archaeological site*
-- **16:05** - 16:20 [CEST] *in presence*  
+- **15:20** - 15:35 [CEST] *online*  
+Laura **Carpentiero**, Dora **D'Auria**  
+*Operative tools for BIM in archaeology: libraries of archaeological parametric IFC objects*
+- **15:35** - 15:50 [CEST] *in presence and online*  
 Federica **Rinaldi**, Alessandro **Lugari**, Francesca **Sposito**, Ascanio **D'Andrea**  
-*Between archeology and conservation. Digital tools for digital bridges between disciplines: The risk map of the in situ mosaic and marble surfaces of the Parco Archeologico del Colosseo* [online]
+*Between archeology and conservation. Digital tools for digital bridges between disciplines: The risk map of the in situ mosaic and marble surfaces of the Parco Archeologico del Colosseo*
+- **15:50** - 16:05 [CEST] *in presence and online*  
+Benjamin **Ducke**, Simon **Hohl**, Thomas **Kleinke**, Fabian **Riebschläger**, Juliane **Watson**  
+*iDAI.field: Developing software for the documentation of archaeological fieldwork*
+- **16:05** - 16:20 [CEST] *in presence*  
+Eleonora **Iacopini**
+*PuntoZero, a web-app for the management, use and collect the archaeological data inside the public archives. The case of Ancona*
 
 - **16:20** - 16:35 [CEST]  
 Discussion
