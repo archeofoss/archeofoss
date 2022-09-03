@@ -21,7 +21,7 @@ More information about the online broadcasting will be available in the next few
 
 ## Day 1 | 22 September 2022
 
-- **09:00** [CEST] - Conference welcome and opening
+- **09:00** - 09:30 [CEST] - Conference welcome and opening
 
 **Panel: Archaeological stratigraphy data**  
 Chair and intro by Stefano **Costa** and Emanuel **Demetrescu**
