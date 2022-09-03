@@ -1,6 +1,14 @@
-# The potential of open lidar datasets for thinking about  past mobility
+---
+title: "The potential of open lidar datasets for thinking about  past mobility"
+description: "The potential of open lidar datasets for thinking about  past mobility"
+layout: article-slim
+auths:
+  - name: Dimitrij Mlekuž Vrhovnik
+    geo: 46.0467678,14.4981283
+---
 
-**Panel 2**. Moving in the past: open solutions for data set design, spatial analysis and (spatial) statistical methods to investigate movement in Antiquity.
+
+**Panel: Moving in the past: open solutions for data set design, spatial analysis and (spatial) statistical methods to investigate movement in Antiquity.**
 
 - **Dimitrij Mlekuž Vrhovnik**
   - Oddelek za arheologijo/Department of Archaeology Filozofska fakulteta/Faculty of Arts Univerza v Ljubljani/University of Ljubljana, Slovenia

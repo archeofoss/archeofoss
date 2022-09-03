@@ -227,13 +227,13 @@ Discussion
 Chair by Domizia **D'Erasmo** and Noemi **Giovino**
 - **15:00** - 15:15 [CEST]  
 Anita **Graser**  
-*Introduction to the panel*
+[*Introduction to the panel*](abstracts/maps-to-the-past/intro)
 - **15:15** - 15:30 [CEST] *online*  
 Dimitrij **Mlekuž Vrhovnik**  
-*The potential of open lidar datasets for thinking about past mobility*
+[*The potential of open lidar datasets for thinking about past mobility*](abstracts/moving-in-the-past/mlekuz-vrhovnik)
 - **15:30** - 15:45 [CEST] *online*  
 Maria Carina **Dengg**  
-[*Viabundus. Map of premodern European transport and mobility.*](abstracts/moving-in-the-past/dengg.jpg)
+[*Viabundus. Map of premodern European transport and mobility.*](abstracts/moving-in-the-past/dengg)
 - **15:45** - 16:00 [CEST] *online*  
 Aleksandr **Diachenko**, Iwona **Sobkowiak-Tabaka**  
 [*Smallest-scale movement: Tracing the intra-site relocation of hunter-gatherers*](abstracts/moving-in-the-past/diachenko-sobkowiak_tabaka)
