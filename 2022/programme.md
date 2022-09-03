@@ -261,19 +261,19 @@ Discussion
 Chair by Julian **Bogdani** and Valeria **Vitale**
 - **17:15** - 17:20 [CEST]  
 Julian **Bogdani** and Valeria **Vitale**  
-*Introduction to the panel* 
+[*Introduction to the panel*](abstracts/maps-to-the-past/intro)
 - **17:20** - 17:35 [CEST] *in presence*  
 Valeria **Vitale**, Katherine **McDonough**, Rainer **Simon**, YaoYi **Chiang**, Zekun **Li**, Jina **Kim**, Deborah **Holmes-Wong**  
-*Beyond Labels: computational approaches to text on maps*
+[*Beyond Labels: computational approaches to text on maps*](abstracts/maps-to-the-past/vitale-et-al)
 - **17:35** - 17:50 [CEST] *in presence*  
 Julian **Bogdani**, Domizia **D'Erasmo**  
-*Backward engineering historical maps: the case of 18th century gazetteer of the Napoleonic map of Egypt*.
+[*Backward engineering historical maps: the case of 18th century gazetteer of the Napoleonic map of Egypt*](abstracts/maps-to-the-past/bogdani-d_erasmo).
 - **17:50** - 18:05 [CEST] *in presence*  
 Marco **Montanari**  
-*Revising the Gazetteer model - Places Of The Past*
+[*Revising the Gazetteer model - Places Of The Past*](abstracts/maps-to-the-past/montanari)
 - **18:05** - 18:20 [CEST] *in presence*  
 Sandra **Leonardi**  
-*Geographical web storage mapping proposal*
+[*Geographical web storage mapping proposal*](abstracts/maps-to-the-past/leonardi)
 
 - **18:20** - 18:35 [CEST]  
 Discussion. Invited discussants Drake **Zabriskie** and David **Rumsey** (*online*).
