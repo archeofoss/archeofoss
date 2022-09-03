@@ -12,9 +12,18 @@
         {
             "title": "{{ art.title }}",
             "url": "{{ art.url | replace: ".html", "" }}",
-            "geo": [{{ coord }}]{% if art.img %},
-            "img": "{{ art.img }}"{% endif %}
+            "geo": [{{ coord }}]
         }
+        {% endfor %}
+        {% endif %}{% endfor %}
+
+        {% for art in site.pages %} {% if art.auths and art.path contains include.year %}
+        {% for auth in art.auths %} {% if auth.geo%}
+        {
+            "title": "{{ auth.name }}: {{ art.title }}",
+            "url": "{{ art.url | replace: ".html", "" }}",
+            "geo": [{{ auth.geo }}]
+        }{% endif%}
         {% endfor %}
         {% endif %}{% endfor %}
     </div>
