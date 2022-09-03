@@ -4,14 +4,14 @@ description: "Backward engineering historical maps: the case of 18th century gaz
 layout: article-slim
 auths:
   - name: Julian Bogdani
-    geo: 41.9102411,12.3955711
+    geo: 41.9037626,12.5144384
   - name: Domizia D'Erasmo
-    geo: 41.9102411,12.3955711
+    geo: 41.9037626,12.5144384
 img: bogdani-d_erasmo.jpg
 ---
 
 
-**Panel**: Maps to the past. Open digital approaches to the investigation of historical maps.
+**Panel: Maps to the past. Open digital approaches to the investigation of historical maps.**
 
 - **Julian Bogdani**
   - LAD, Sapienza University of Rome, Rome, Italy

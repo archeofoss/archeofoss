@@ -5,7 +5,7 @@ layout: article-slim
 img: maps-to-the-past.jpg
 auths:
   - name: Julian Bogdani
-    geo: 41.9102411,12.3955711
+    geo: 41.9037626,12.5144384
   - name: Valeria Vitale
     geo: 51.5300671,-0.1294723
 ---

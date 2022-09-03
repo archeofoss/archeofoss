@@ -233,19 +233,19 @@ Dimitrij **Mlekuž Vrhovnik**
 *The potential of open lidar datasets for thinking about past mobility*
 - **15:30** - 15:45 [CEST] *online*  
 Maria Carina **Dengg**  
-*Viabundus. Map of premodern European transport and mobility.*
+[*Viabundus. Map of premodern European transport and mobility.*](abstracts/moving-in-the-past/dengg.jpg)
 - **15:45** - 16:00 [CEST] *online*  
 Aleksandr **Diachenko**, Iwona **Sobkowiak-Tabaka**  
-*Smallest-scale movement: Tracing the intra-site relocation of hunter-gatherers*
+[*Smallest-scale movement: Tracing the intra-site relocation of hunter-gatherers*](abstracts/moving-in-the-past/diachenko-sobkowiak_tabaka)
 - **16:00** - 16:15 [CEST] *in presence*  
 Gabriele **Ciccone**  
-*From the Itinerarium Antonini and al-Idrisi to the movecost plug-in: study of the viability in the Castronovo di Sicilia area by comparing traditional sources and least-cost path analysis.*
+[*From the Itinerarium Antonini and al-Idrisi to the movecost plug-in: study of the viability in the Castronovo di Sicilia area by comparing traditional sources and least-cost path analysis.*](abstracts/moving-in-the-past/ciccone)
 - **16:15** - 16:30 [CEST] *in presence*  
 Marco **Montanari**, Lorenzo **Gigli**  
-*Using modern standards in the past - HTFS*
+[*Using modern standards in the past - HTFS*](abstracts/moving-in-the-past/montanari-gigli)
 - **16:30** - 16:45 [CEST] *in presence*  
 Paolo **Rosati**  
-*ArchaeoloGIS A QGIS processing toolbox for archaeologists spatial analysis*
+[*ArchaeoloGIS A QGIS processing toolbox for archaeologists spatial analysis*](abstracts/moving-in-the-past/rosati)
 
 - **16:45** - 17:00 [CEST]  
 Discussion
