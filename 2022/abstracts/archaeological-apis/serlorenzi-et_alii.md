@@ -1,6 +1,19 @@
-# SITAR - Sistema Informativo Territoriale Archeologico di Roma APIs and Open Data services for a new archaeological data-sharing policy
+---
+title: "SITAR - Sistema Informativo Territoriale Archeologico di Roma APIs and Open Data services for a new archaeological data-sharing policy"
+description: "SITAR - Sistema Informativo Territoriale Archeologico di Roma APIs and Open Data services for a new archaeological data-sharing policy"
+layout: article-slim
+auths:
+  - name: Mirella Serlorenzi
+    geo: 41.9012342,12.4965983
+  - name: Carlo Cifarelli
+    geo: 41.9012342,12.4965983
+  - name: Ascanio D’Andrea
+    geo: 41.9012342,12.4965983
+  - name: Riccardo Montalbano
+    geo: 41.9012342,12.4965983
+---
 
-**Panel 3**. I/O: ethics, policies and technologies for programmatic and open access to archaeological online data sets
+**Panel: I/O: ethics, policies and technologies for programmatic and open access to archaeological online data sets**
 
 - **Mirella Serlorenzi**
   -  Soprintendenza Speciale Archeologia Belle Arti e Paesaggio di Roma, Direttore delle Terme di Caracalla, Direttore del Progetto SITAR

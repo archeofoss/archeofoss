@@ -1,7 +1,13 @@
-# Technology that Enables Rather than Distracts: Lessons from Open Context and Sustaining Open Archaeological Data
+---
+title: "Technology that Enables Rather than Distracts: Lessons from Open Context and Sustaining Open Archaeological Data"
+description: "Technology that Enables Rather than Distracts: Lessons from Open Context and Sustaining Open Archaeological Data"
+layout: article-slim
+auths:
+  - name: Eric C. Kansa
+    geo: 37.757815,-122.5076399
+---
 
-**Panel 3**.: I/O: ethics, policies and technologies for programmatic and open access to archaeological online data sets
-
+**Panel: I/O: ethics, policies and technologies for programmatic and open access to archaeological online data sets**
 
 - **Eric C. Kansa**
   - Open Context, San Francisco, CA, USA

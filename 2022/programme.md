@@ -124,19 +124,19 @@ Chair by Julian **Bogdani** and Riccardo **Montalbano**.
 
 - **16:50** - 16:55 [CEST] *in presence*  
 Julian **Bogdani** and Riccardo **Montalbano**  
-Introduction to the panel
+[Introduction to the panel](abstracts/archaeological-apis/intro)
 - **16:55** - 17:10 [CEST] *in presence*  
 Mirella **Serlorenzi**, Carlo **Cifarelli**, Ascanio **D’Andrea**, Riccardo **Montalbano**  
-*SITAR - Sistema Informativo Territoriale Archeologico di Roma APIs and Open Data services for a new archaeological data-sharing policy* [in presence]
+[*SITAR - Sistema Informativo Territoriale Archeologico di Roma APIs and Open Data services for a new archaeological data-sharing policy*](abstracts/archaeological-apis/serlorenzi-et_alii)
 - **17:10** - 17:25 [CEST] *online*  
 Eric C. **Kansa**  
-*Technology that Enables Rather than Distracts: Lessons from Open Context and Sustaining Open Archaeological Data* [online]
+[*Technology that Enables Rather than Distracts: Lessons from Open Context and Sustaining Open Archaeological Data*](abstracts/archaeological-apis/kansa)
 - **17:25** - 17:40 [CEST] *online*  
 Florian **Thiery**  
-*Challenges in research community building: integrating Terra Sigillata (Samian) Research into the Wikidata community* [in presence]
+[*Challenges in research community building: integrating Terra Sigillata (Samian) Research into the Wikidata community*](abstracts/archaeological-apis/thiery)
 - **17:40** - 17:55 [CEST] *in presence*  
 Julian **Bogdani**, Marco **Montanari**  
-*Towards Bradypus v.5: Interconnecting the archaeological research* [in presence]
+[*Towards Bradypus v.5: Interconnecting the archaeological research*](abstracts/archaeological-apis/bogdani-montanari)
 
 
 - **17:55** - 18:10 [CEST]  

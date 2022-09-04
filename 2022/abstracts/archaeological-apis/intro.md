@@ -1,11 +1,25 @@
-*Please save in this directory paper proposals for the panel:  
-**Panel 3: I/O: ethics, policies and technologies for programmatic and open access to archaeological online data sets.**.*
+---
+title: "Panel: I/O: ethics, policies and technologies for programmatic and open access to archaeological online data sets"
+description: "Panel: I/O: ethics, policies and technologies for programmatic and open access to archaeological online data sets"
+layout: article-slim
+img: archaeological-apis.jpeg
+auths:
+  - name: Julian Bogdani
+    geo: 41.9037626,12.5144384
+  - name: Riccardo Montalbano
+    geo: 41.8960547,12.4754748
+---
 
-Remember to use the [provided template](https://github.com/archeofoss/archeofoss2022/blob/main/paper-proposal-template.md) to submit your proposal, 
-and eventually upload the illustrative image in the same directory and name it after your markdown file.
 
-
-## Panel presentation
+Panellists:
+- **Julian Bogdani**
+  -  Sapienza University of Rome, Rome
+  - [julian.bogdani@uniroma1.it](mailto:julian.bogdani@uniroma1.it)
+  - [@JulianBogdani](https://twitter.com/JulianBogdani)
+- **Riccardo Montalbano**
+  - Università Telematica Internazionale Uninettuno
+  - [ricca.montalbano@gmail.com](mailto:ricca.montalbano@gmail.com)
+  - [@Riccard52906185](https://twitter.com/Riccard52906185)
 
 The spread of web-based databases and information systems specifically designed for the archaeological domain has greatly enhanced data-collection and analysis processes. This trend has positively impacted on the availability of online data sets, most of them living in the so-called deep Web, due to copyright, privacy and/or security issues. Open-access repositories released by universities and other Public Administrations are making their way towards toward the broader public, who is sometimes also a contributor of archaeological structured information on the Web.
 

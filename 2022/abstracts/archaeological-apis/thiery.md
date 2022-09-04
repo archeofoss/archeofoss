@@ -1,6 +1,14 @@
-# Challenges in research community building: integrating Terra Sigillata (Samian) Research into the Wikidata community
+---
+title: "Challenges in research community building: integrating Terra Sigillata (Samian) Research into the Wikidata community"
+description: "Challenges in research community building: integrating Terra Sigillata (Samian) Research into the Wikidata community"
+layout: article-slim
+img: thiery.png
+auths:
+  - name: Florian Thiery
+    geo: 50.0061931,8.2679436
+---
 
-**Panel 3**. I/O: ethics, policies and technologies for programmatic and open access to archaeological online data sets
+**Panel: I/O: ethics, policies and technologies for programmatic and open access to archaeological online data sets**
 
 - **Florian Thiery**
   - Research Squirrel Engineers Network, Mainz, Germany

@@ -1,6 +1,16 @@
-# Towards Bradypus v.5: Interconnecting the archaeological research
+---
+title: "Towards Bradypus v.5: Interconnecting the archaeological research"
+description: "Towards Bradypus v.5: Interconnecting the archaeological research"
+layout: article-slim
+auths:
+  - name: Julian Bogdani
+    geo: 41.9037626,12.5144384
+  - name: Marco Montanari
+    geo: 44.4992192,11.2616458
+---
 
-**Panel 3**. I/O: ethics, policies and technologies for programmatic and open access to archaeological online data sets
+
+**Panel: I/O: ethics, policies and technologies for programmatic and open access to archaeological online data sets**
 
 - **Julian Bogdani**
   - LAD, Sapienza University of Rome, Rome, Italy
