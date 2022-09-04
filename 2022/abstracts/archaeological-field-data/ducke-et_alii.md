@@ -5,7 +5,7 @@ layout: article-slim
 img: ducke-et_alii.jpg
 auths:
   - name: Benjamin Ducke
-    geo: 452.4607023,13.2984561
+    geo: 52.4607023,13.2984561
   - name: Simon Hohl
     geo: 52.4607023,13.2984561
   - name: Thomas Kleinke
