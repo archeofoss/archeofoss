@@ -17,8 +17,6 @@ img: ciccone.png
   - [cccgrl01@uniroma2.it](mailto:cccgrl01@uniroma2.it)
   - [@ArchaeoDrones](https://www.instagram.com/archaeodrones/)
 
-![From the Itinerarium Antonini and al-Idrisi to the movecost plug-in: study of the viability in the Castronovo di Sicilia area by comparing traditional sources and least-cost path analysis](ciccone.png)
-
 The area of Castronovo di Sicilia, focus of the ERC Sictransit project and of the PhD project Flying
 off-site: new methodologies for the analysis of historical landscapes, was analyzed by integrating
 different methodologies. About the viability of the area it was decided to compare what is known,

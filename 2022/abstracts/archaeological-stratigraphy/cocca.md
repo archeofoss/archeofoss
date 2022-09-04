@@ -18,8 +18,6 @@ auths:
   - GitHub: [enzococca](https://github.com/enzococca/)
   - GitHub: [pyarchinit](https://github.com/pyarchinit/)
 
-![output of an Harris Matrix made by pyarchint4](./cocca.jpg)
-
 The work proposed here is intended to show the new workflow in pyArchInit4 for generating an Harris Matrix comaptible with Extended Matrix.
 The generated matrix will not only include the classical stratigraphic relationship, but also the virtual stratigraphic relationship used into EM.
 The tools used for this workflow include:

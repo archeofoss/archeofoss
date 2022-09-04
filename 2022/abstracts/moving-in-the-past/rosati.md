@@ -29,6 +29,3 @@ The plugin is available here: [https://github.com/archeorosati/archaeoloGIS](htt
 
 Text: CC BY 4.0, Paolo Rosati
 Image: CC BY 4.0, Paolo Rosati
-
-**Illustrative image**
-![alessandria_comaru](https://user-images.githubusercontent.com/39003545/176473048-5e3ed3b8-9382-4336-97ca-222c36fc2f71.png)

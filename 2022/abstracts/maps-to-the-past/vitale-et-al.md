@@ -49,9 +49,6 @@ img: vitale-et-al.jpg
     - [dhwong@usc.edu](mailto:dhwong@usc.edu)
 
 
-![Beyond Labels: computational approaches to text on maps](vitale-et-al.jpg)
-
-
 Machines Reading Maps (MRM) aims to make digitised maps more accessible and usable, while generating a new kind of historical research data. MRM uses machine learning (ML) to detect and transcribe map text. Unique named entities are also automatically linked to external knowledge bases such as WikiData. Identifying and linking place names enriches maps semantically and generates more granular metadata, making maps more findable as objects in a collection, and their contents more “searchable” by users. The value of map text, though, is not merely literal, and MRM application of automated techniques highlights the polysemy of words on maps as both labels (communicating the place name) and symbols (communicating information through size, position, orientation and font.
 
 To capture the different roles that map text performs, MRM developed a customised version of the semantic annotation platform Recogito. The manual annotation process was aimed at creating a gold standard for evaluating ML tasks, but it quickly became a valuable tool for reflecting on the ways in which map text is used, and how we might represent it in structured data. In particular, we decided to focus on “peripheral signification” (Schlichtmann, 2018), i.e. the kind of information that is not intentionally included by the cartographer but can, nonetheless, be inferred by the map user, especially in a diachronic perspective. Looking at text labels, we are investigating modes of delivering these “accidental” meanings on map series, and attempt to make them algorithmically detectable.

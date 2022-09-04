@@ -19,12 +19,6 @@ auths:
   - [@theroadsproject](https://twitter.com/theroadsproject)
   - ORCID: [0000-0003-3614-9651](https://orcid.org/0000-0003-3614-9651)
 
-![The Viabundus application with the display of node information](dengg.jpg)
-*The Viabundus application with the display of node information*
-
-![Example for route calculator within the Viabundus map](dengg-2.jpg)
-*Example for route calculator within the Viabundus map*
-
 [Viabundus](http://viabundus.eu) is a freely accessible online street map of late medieval and early modern Northern Europe (1350-1650). Originally conceived as the digitisation of Friedrich Bruns’ and Hugo Weczerka's Hansische Handelsstraßen (1962) atlas of land roads in the Hanseatic area, the resulting Viabundus application has turned out to be much more.
 
 In order to allow scholars further research within the scope of network analysis and estimations of transaction costs, Viabundus is conceived as a network model, comprised of nodes and edges. The underlying database allows for the supply of additional information to each edge and node. Within several regional subprojects, the Viabundus database was filled with information on settlements, towns, tolls, staples, fairs as well as infrastructural features such as bridges and ferries. The resulting traffic connections (edges) were then reconstructed using historical maps, source material, as well as existing work on route reconstruction, some of which are based on field work. It is important to keep in mind that while Viabundus makes an effort to show exact geographical road reconstructions wherever possible, its main focus is on routes and therefore the displayed connections were almost certainly not the only way to reach a certain node.
