@@ -1,6 +1,13 @@
-# Stratigraphic data in R
+---
+title: "Stratigraphic data in R"
+description: "Stratigraphic data in R"
+layout: article-slim
+auths:
+  - name: Joe Roe
+    geo: 46.9504932,7.4359303
+---
 
-**Panel 7**: Archaeological stratigraphy data
+**Panel: Archaeological stratigraphy data**
 
 - **Joe Roe**
   - Institute of Archaeological Sciences, University of Bern, Bern, Switzerland

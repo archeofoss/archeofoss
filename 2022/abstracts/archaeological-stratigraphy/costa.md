@@ -1,7 +1,15 @@
-# Harris Matrix Data Package: version 2022 of the hmdp tool with new features for the creation of stratigraphy data packages
+---
+title: "Harris Matrix Data Package: version 2022 of the hmdp tool with new features for the creation of stratigraphy data packages"
+description: "Harris Matrix Data Package: version 2022 of the hmdp tool with new features for the creation of stratigraphy data packages"
+layout: article-slim
+auths:
+  - name: Stefano Costa
+    geo: 44.4147735,8.9218188
+---
 
 
-**Panel 7**. Archaeological stratigraphy data
+
+**Panel: Archaeological stratigraphy data**
 
 - **Stefano Costa**
   - Soprintendenza Archeologia Belle Arti e Paesaggio per le province di Imperia e Savona, Ministero della Cultura, Genoa, Italy

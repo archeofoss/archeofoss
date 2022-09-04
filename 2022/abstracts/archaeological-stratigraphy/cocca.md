@@ -1,7 +1,14 @@
-# The new Harris Matrix workflow from pyArchInit to Extended Matrix
+---
+title: "PThe new Harris Matrix workflow from pyArchInit to Extended Matrix"
+description: "The new Harris Matrix workflow from pyArchInit to Extended Matrix"
+layout: article-slim
+img: cocca.jpg
+auths:
+  - name: Enzo Cocca
+    geo: 40.8436611,14.2524398
+---
 
-
-**Panel 7**. Archaeological stratigraphy data
+**Panel: Archaeological stratigraphy data**
 
 
 - **Enzo Cocca**

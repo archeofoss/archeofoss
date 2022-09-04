@@ -1,6 +1,25 @@
-# An innovative digital system for the Lilibeo Archeological Museum roman sculptures enhancement
+---
+title: "An innovative digital system for the Lilibeo Archeological Museum roman sculptures enhancement"
+description: "An innovative digital system for the Lilibeo Archeological Museum roman sculptures enhancement"
+layout: article-slim
+auths:
+  - name: Giulia Chellini
+    geo: 41.899258,12.5152836
+  - name: Bruno Fanini
+    geo: 40.8436611,14.2524398
+  - name: Leonarda Fazio
+    geo: 38.1174388,13.365546
+  - name: Maria Grazia Griffo
+    geo: 37.8011264,12.4244549
+  - name: Mauro Lo Brutto
+    geo: 38.1174388,13.365546
+  - name: Saverio Giulio Malatesta
+    geo: 41.899258,12.5152836
+  - name: Elisa Chiara Portale
+    geo: 38.1174388,13.365546
+---
 
-**Panel 7**: Archaeological stratigraphy data
+**Panel: Archaeological stratigraphy data**
 
 - **Giulia Chellini**
   - Archeo&Arte3D, DigiLab - Sapienza University of Rome, Rome, Italy

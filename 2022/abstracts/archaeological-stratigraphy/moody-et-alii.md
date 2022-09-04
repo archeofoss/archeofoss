@@ -1,6 +1,20 @@
-# Automating chronology construction and archiving (FAIR)ly along the way
+---
+title: "Automating chronology construction and archiving (FAIR)ly along the way"
+description: "Automating chronology construction and archiving (FAIR)ly along the way"
+layout: article-slim
+auths:
+  - name: Bryony Moody
+    geo: 56.3397625,-2.8124896
+  - name: Caitlin Buck
+    geo: 56.3397625,-2.8124896
+  - name: Tom Dye
+    geo: 21.299829,-157.8170115
+  - name: Keith May
+    geo: 51.5287718,-0.241681,
+---
 
-**Panel 7**: Archaeological stratigraphy data
+
+**Panel: Archaeological stratigraphy data**
 
 - **Bryony Moody**
   - School of Mathematics and Statistics, University of Sheffield, UK

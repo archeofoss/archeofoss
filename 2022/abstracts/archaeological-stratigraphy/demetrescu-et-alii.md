@@ -1,7 +1,19 @@
-# EMdb: yet another db for the stratigraphic record.
+---
+title: "EMdb: yet another db for the stratigraphic record"
+description: "EMdb: yet another db for the stratigraphic record"
+layout: article-slim
+auths:
+  - name: Emanuel Demetrescu
+    geo: 42.0921581,12.5983532
+  - name: Cristina Gonzalez Esteban
+    geo: 51.7539977,-1.2603383
+  - name: Filippo Sala
+    geo: 43.7167273,10.3943746
+  - name: Daniele Bursich
+    geo: 40.7713144,14.7885268
+---
 
-
-**Panel 7**. Archaeological stratigraphy data
+**Panel: Archaeological stratigraphy data**
 
 Archaeological stratigraphy data.
 

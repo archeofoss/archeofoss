@@ -23,30 +23,30 @@ More information about the online broadcasting will be available in the next few
 
 - **09:00** - 09:30 [CEST] - Conference welcome and opening
 
-**Panel: Archaeological stratigraphy data**  
+**Panel: Archaeological stratigraphy data [info](abstracts/archaeological-stratigraphy/intro)**  
 Chair and intro by Stefano **Costa** and Emanuel **Demetrescu**
 
 - **09:30** - 09:45 [CEST] *online*  
 Bryony **Moody**, Caitlin **Buck**, Tom **Dye**, Keith **May**  
-Automating chronology construction and archiving (FAIR)ly along the way
+[Automating chronology construction and archiving (FAIR)ly along the way](abstracts/archaeological-stratigraphy/moody-et-alii)
 - **09:45** - 10:00 [CEST] *online*  
 Joe **Roe**  
-*Stratigraphic data in R*
+[*Stratigraphic data in R*](abstracts/archaeological-stratigraphy/roe)
 - **10:00** - 10:15 [CEST] *in presence*  
 Stefano **Costa**  
-*Harris Matrix Data Package: version 2022 of the hmdp tool with new features for the creation of stratigraphy data packages*
+[*Harris Matrix Data Package: version 2022 of the hmdp tool with new features for the creation of stratigraphy data packages*](abstracts/archaeological-stratigraphy/costa)
 - **10:15** - 10:30 [CEST] *in presence*  
 Enzo **Cocca**  
-*The new Harris Matrix workflow from pyArchInit to Extended Matrix*
+[*The new Harris Matrix workflow from pyArchInit to Extended Matrix*](abstracts/archaeological-stratigraphy/cocca)
 - **10:30** - 10:45 [CEST] *in presence*  
 Alessio **Paonessa**  
-*Linking stratigraphy, context and interpretation: a starting proposal*
+[*Linking stratigraphy, context and interpretation: a starting proposal*](abstracts/archaeological-stratigraphy/paonessa)
 - **10:45** - 11:00 [CEST] *in presence*  
 Emanuel **Demetrescu**, Cristina **Gonzalez Esteban**, Filippo **Sala**, Daniele **Bursich**  
-*EMdb: yet another db for the stratigraphic record.*
+[*EMdb: yet another db for the stratigraphic record.*](abstracts/archaeological-stratigraphy/demetrescu-et-alii)
 - **11:00** - 11:15 [CEST] *in presence*  
 Giulia **Chellini**, Bruno **Fanini**, Leonarda **Fazio**, Maria Grazia **Griffo**, Mauro **Lo Brutto**, Saverio Giulio **Malatesta**, Elisa Chiara **Portale**  
-*An innovative digital system for the Lilibeo Archeological Museum roman sculptures enhancement*
+[*An innovative digital system for the Lilibeo Archeological Museum roman sculptures enhancement*](abstracts/archaeological-stratigraphy/chellini-et-al)
 
 - **11:15** - 11:30 [CEST]  
 Discussion

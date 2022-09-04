@@ -1,6 +1,14 @@
-# Linking stratigraphy, context and interpretation: a starting proposal
+---
+title: "Linking stratigraphy, context and interpretation: a starting proposal"
+description: "Linking stratigraphy, context and interpretation: a starting proposal"
+layout: article-slim
+auths:
+  - name: Alessio Paonessa
+    geo: 41.9091873,12.4904907
+---
 
-**Panel 7**: Archaeological stratigraphy data.
+
+**Panel: Archaeological stratigraphy data.**
 
 - **Alessio Paonessa**
   - Deutsches Archäologisches Institut, Abteilung Rom, Italy
