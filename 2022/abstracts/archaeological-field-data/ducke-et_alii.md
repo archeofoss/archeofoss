@@ -1,7 +1,24 @@
-# iDAI.field: Developing software for the documentation of archaeological fieldwork
+---
+title: "iDAI.field: Developing software for the documentation of archaeological fieldwork"
+description: "iDAI.field: Developing software for the documentation of archaeological fieldwork"
+layout: article-slim
+img: ducke-et_alii.jpg
+auths:
+  - name: Benjamin Ducke
+    geo: 452.4607023,13.2984561
+  - name: Simon Hohl
+    geo: 52.4607023,13.2984561
+  - name: Thomas Kleinke
+    geo: 52.4607023,13.2984561
+  - name: Thomas Kleinke
+    geo: 52.4607023,13.2984561
+  - name: Fabian Riebschläger
+    geo: 52.4607023,13.2984561
+  - name: Juliane Watson
+    geo: 52.4607023,13.2984561
+---
 
-
-**Panel 6**. Practice and Paradigms of Open Source Technologies for Archaeological Field Data
+**Panel: Practice and Paradigms of Open Source Technologies for Archaeological Field Data.**
 
 - **Benjamin Ducke**
   - Deutsches Archäologisches Institut, Berlin, Germany
@@ -19,10 +36,6 @@
 - **Juliane Watson**
   - Deutsches Archäologisches Institut, Berlin, Germany
   - [juliane.watson@dainst.de](mailto:fabian.riebschlaeger@dainst.de)
-
-![Archaeological documentation with iDAI.field. Progetto Prile, Vetulonia by Camilla Colombi, CC BY 4.0](ducke-hohl-kleinke-riebschlaeger-watson.jpg)
-
-*Archaeological documentation with iDAI.field. Progetto Prile, Vetulonia by Camilla Colombi, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)*
 
 
 The German Archaeological Institute (Deutsches Archäologisches Institut, DAI) conducts a variety of field research types, each with its own unique documentation requirements: Excavations, surveys and building recordings. The resulting differences are reflected in the workflows, the recording methods applied and the documentation produced. In addition, the DAI's international work has to comply with the guidelines of the respective heritage agencies in the host countries.

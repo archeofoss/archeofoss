@@ -1,6 +1,18 @@
-# Virtual RTI Application on 3D model for documentation of ancient graffiti: a propose of methodology for a complex archaeological site
+---
+title: "Virtual RTI Application on 3D model for documentation of ancient graffiti: a propose of methodology for a complex archaeological site"
+description: "Virtual RTI Application on 3D model for documentation of ancient graffiti: a propose of methodology for a complex archaeological site"
+layout: article-slim
+img: minucci-bosco-de-luca.png
+auths:
+  - name: Eleonora Minucci
+    geo: 40.8312632,14.2422203
+  - name: Angela Bosco
+    geo: 40.8312632,14.2422203
+  - name: Daniele De Luca
+    geo: 40.8540421,14.1765625
+---
 
-**Panel 6**: Practice and Paradigms of Open Source Technologies for Archaeological Field Data
+**Panel: Practice and Paradigms of Open Source Technologies for Archaeological Field Data.**
 
 - **Eleonora Minucci**
   - Università degli Studi di Napoli "L'Orientale", Napoli, Italy
@@ -11,13 +23,6 @@
 - **Daniele De Luca**
   - VisitLab Cineca - Consorzio Interuniversitario, Napoli, Italy
   - [d.deluca@cineca.it](mailto:d.deluca@cineca.it)
-
-
-![minucci-bosco-de-luca_1](https://user-images.githubusercontent.com/107494137/173827626-431d7798-30dc-4e77-a004-25c38d08f073.png)
-
-*Screenshot of the 3D model with the Virtual Dome in Blender. © minucci-bosco-de_luca 2022*
-
-
 
 In the field of Cultural Heritage, the technological advances of recent years have enriched and optimized the possibility of documenting and studying ancient graffiti with a wide range of low-cost and non-invasive methodologies. The most popular are digital photogrammetry with SfM (Structure from Motion) algorithms and RTI (Reflectance Transformation Imaging) methodology.
 The RTI is a very powerful tool that, through the use of open source software, enables the documentation of particular data that are difficult to visualise, facilitating the recognition of traces and marks on the surface of objects.

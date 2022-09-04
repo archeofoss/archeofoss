@@ -1,7 +1,21 @@
-# Between archeology and conservation. Digital tools for digital bridges between disciplines: The risk map of the in situ mosaic and marble surfaces of the Parco Archeologico del Colosseo
+---
+title: "Between archeology and conservation. Digital tools for digital bridges between disciplines: The risk map of the in situ mosaic and marble surfaces of the Parco Archeologico del Colosseo"
+description: "Between archeology and conservation. Digital tools for digital bridges between disciplines: The risk map of the in situ mosaic and marble surfaces of the Parco Archeologico del Colosseo"
+layout: article-slim
+img: rinaldi-et-alii.png
+auths:
+  - name: Federica Rinaldi
+    geo: 41.8910003,12.4854315
+  - name: Alessandro Lugari
+    geo: 41.8910003,12.4854315
+  - name: Francesca Sposito
+    geo: 41.8910003,12.4854315
+  - name: Ascanio D'Andrea
+    geo: 41.8910003,12.4854315
+---
 
 
-**Panel 6**. Practice and Paradigms of Open Source Technologies for Archaeological Field Data.
+**Panel: Practice and Paradigms of Open Source Technologies for Archaeological Field Data.**
 
 - **Federica Rinaldi**
   - Parco Archeologico del Colosseo, Rome, Italy

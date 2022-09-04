@@ -1,10 +1,16 @@
-# Operative tools for BIM in archaeology: libraries of archaeological parametric IFC objects
+---
+title: "Operative tools for BIM in archaeology: libraries of archaeological parametric IFC objects"
+description: "Operative tools for BIM in archaeology: libraries of archaeological parametric IFC objects"
+layout: article-slim
+img: carpentiero-d_auria.jpg
+auths:
+  - name: Laura Carpentiero
+    geo: 40.8312632,14.2422203
+  - name: Dora D'Auria
+    geo: 40.8312632,14.2422203
+---
 
-
-**Panel 6**: Practice and Paradigms of Open Source Technologies for Archaeological Field Data.
-
-Provide here as paragraph the name of the selected panel. The full list is available at [https://archeofoss.org/2022/call-for-papers](https://archeofoss.org/2022/call-for-papers)
-
+**Panel: Practice and Paradigms of Open Source Technologies for Archaeological Field Data.**
 
 - **Laura Carpentiero**
   - Università di Napoli L’Orientale, Napoli, Italy
@@ -12,8 +18,6 @@ Provide here as paragraph the name of the selected panel. The full list is avail
 - **Dora D'Auria**
   - Università di Napoli L’Orientale, Napoli, Italy
   - [ddauria@unior.it](mailto:ddauria@unior.it)
-
-![Operative tools for BIM in archaeology: libraries of archaeological parametric IFC objects](carpentiero-d_auria.jpg)
 
 BIM, acronym for Building Information Modelling, is one of the most consolidated work methods for the engineering design of buildings and infrastructural works. It allows to create a comprehensive database starting from the 3D model of a building. This system represents an all-encompassing data platform where all the information related to the built work can be used like a basis for planning any management, maintenance and enhancement. 3D modelling is done through parametric objects, 3D representation of all those elements- structural, plant engineering and decorative - that make up a building. Each object must be correlated with records of a different nature (geometric, structural, etc.).
 

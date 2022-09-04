@@ -1,6 +1,14 @@
-# PuntoZero, a web-app for the management, use and collect the archaeological data inside the public archives. The case of Ancona
+---
+title: "PuntoZero, a web-app for the management, use and collect the archaeological data inside the public archives. The case of Ancona"
+description: "PuntoZero, a web-app for the management, use and collect the archaeological data inside the public archives. The case of Ancona"
+layout: article-slim
+auths:
+  - name: Eleonora Iacopini
+    geo: 41.9037626,12.5144384
+---
 
-**Panel 6**: Practice and Paradigms of Open Source Technologies for Archaeological Field Data
+
+**Panel: Practice and Paradigms of Open Source Technologies for Archaeological Field Data.**
 
 - **Eleonora Iacopini**
   - LAD, Sapienza University of Rome, Rome, Italy

@@ -1,11 +1,23 @@
-*Please save in this directory paper proposals for the panel:  
-**Panel 6: Practice and Paradigms of Open Source Technologies for Archaeological Field Data.**.*
+---
+title: "Panel: Practice and Paradigms of Open Source Technologies for Archaeological Field Data"
+description: "Panel: Practice and Paradigms of Open Source Technologies for Archaeological Field Data"
+layout: article-slim
+img: archaeological-field-data.png
+auths:
+  - name: Fabian Riebschläger
+    geo: 52.4607023,13.2984561
+  - name: Thomas Kleinke
+    geo: 52.4607023,13.2984561
+---
 
-Remember to use the [provided template](https://github.com/archeofoss/archeofoss2022/blob/main/paper-proposal-template.md) to submit your proposal, 
-and eventually upload the illustrative image in the same directory and name it after your markdown file.
-
-
-## Panel presentation
+Panellists
+- **Fabian Riebschläger**
+  - German Archaeological Institute, Berlin, Germany
+  - [fabian.riebschlaeger@dainst.de](mailto:fabian.riebschlaeger@dainst.de)
+  - [@friebsch](https://mobile.twitter.com/@friebsch)
+- **Thomas Kleinke**
+  - German Archaeological Institute, Berlin, Germany
+  - [Thomas.kleinke@dainst.de](mailto:Thomas.kleinke@dainst.de)
 
 Clarke (1973:17) stated, that Archaeology is “the discipline with the theory and practice for the recovery of unobservable hominid behaviour patterns from indirect traces in bad samples”. At the same time, Archaeology‘s main method of sample acquisition, excavation, is a destructive practice. Thus, our discipline‘s digital transformation is driven by a desire to capture and analyze observations more exactly and more completely. Allowing for both is the basic promise of computing technology. 
 
