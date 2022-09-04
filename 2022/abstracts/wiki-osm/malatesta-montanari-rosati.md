@@ -1,8 +1,17 @@
-# Open tools and technologies for analysing and sharing cultural and landscape heritage.
+---
+title: "Open tools and technologies for analysing and sharing cultural and landscape heritage"
+description: "Open tools and technologies for analysing and sharing cultural and landscape heritage"
+layout: article-slim
+auths:
+  - name: Saverio Giulio Malatesta
+    geo: 41.899258,12.5152836
+  - name: Marco Montanari
+    geo: 41.899258,12.5152836
+  - name: Paolo Rosati
+    geo: 41.899258,12.5152836
+---
 
-**Panel 8**.  From wiki projects to OpenStreetMap, collaborative approaches to open data creation: problems, case studies, territorial and cultural impact.
-
-**Authors**
+**Panel: From wiki projects to OpenStreetMap, collaborative approaches to open data creation: problems, case studies, territorial and cultural impact.**
 
 - **Saverio Giulio Malatesta**
     -   Digilab University Sapienza of Rome
@@ -17,7 +26,6 @@
     -   ORCID: [0000-0003-0695-7121](https://orcid.org/0000-0003-0695-7121)
     -   GitHub: [@archeorosati](https://github.com/archeorosati)
 
-**Proposal text**
 A concluding panel workshop is presented in this session. The three authors will manage an edithaton+mapathon+edit/datathon event in one of the museums of the Sapienza Museum System.
 The workshop led by the three authors will take 4 hours. The activity will be conducted in collaboration with Wikimedia Italia and will lead participants to practice their skills in collaborative projects and the open philosophy.
 The aim is to disseminate to a wide audience of young students and researchers the techniques used every day by those working in the opening up of knowledge through Wiki tools.
@@ -29,6 +37,3 @@ The event will be useful to make part of the museum heritage of the Sapienza Uni
 **Licence**
 Text: CC BY 4.0, Saverio Giulio Malatesta, Paolo Rosati, Marco Montanari
 Image: CC BY-SA 3.0, Wikipedia, https://it.wikipedia.org/wiki/Editathon#/media/File:Europeana_Fashion_Editathon_2013_Stra_04.JPG
-
-**Illustrative image**
-![Europeana_Fashion_Editathon_2013_Stra_04](https://user-images.githubusercontent.com/39003545/176470094-ce3d57d3-33b2-4152-a895-eed12527c19b.jpeg)

@@ -1,6 +1,18 @@
-# Challenges in research community building: integrating Terra Sigillata (Samian) Research into the Wikidata community
+---
+title: "Challenges in research community building: integrating Terra Sigillata (Samian) Research into the Wikidata community"
+description: "Challenges in research community building: integrating Terra Sigillata (Samian) Research into the Wikidata community"
+layout: article-slim
+auths:
+  - name: Florian Thiery
+    geo: 49.9935934,8.2787513
+  - name: Allard Mees
+    geo: 49.9935934,8.2787513
+  - name: John Brady Kiesling
+    geo: 37.9908997,23.7033199
+---
 
-**Panel 8**. From wiki projects to OpenStreetMap, collaborative approaches to open data creation: problems, case studies, territorial and cultural impact.
+
+**Panel: From wiki projects to OpenStreetMap, collaborative approaches to open data creation: problems, case studies, territorial and cultural impact.**
 
 - **Florian Thiery**
   - Römisch-Germanisches Zentralmuseum, Mainz, Germany
@@ -20,11 +32,6 @@
   - [topostext@gmail.com](mailto:topostext@gmail.com)
   - ORCID: [0000-0003-3281-5741](https://orcid.org/0000-0003-3281-5741)
   - Wikidata: [Q4955198](http://www.wikidata.org/entity/Q4955198)
-
-![Discovery sites (left; Q102202066) and kilns (Q102202026) clustered and colored by kiln regions (right) from Wikidata, queried by the Wikidata Query Service on 19/05/2022](thiery-mees-kiesling.png)
-
-*Discovery sites (left; Q102202066) and kilns (Q102202026) clustered and colored by kiln regions (right) from Wikidata, queried by the Wikidata Query Service by [https://w.wiki/5BRk](https://w.wiki/5BRk) and [https://w.wiki/4pKz](https://w.wiki/4pKz) on 19/05/2022. CC0 (Public Domain), Wikidata Community, Wikimedia Foundation.*
-
 
 
 The [RGZM](http://www.wikidata.org/entity/Q878029) curates the Samian Research database, a treasure-house of economic data on Roman trade and Terra Sigillata industry. Over six decades, a broad European user community of established research institutions, citizen scientists and domain-specific scientists has assembled a [dataset](https://doi.org/10.5281/zenodo.4305708) of ~250’000 potter’s stamps from the [Samian Research Database](https://www.rgzm.de/samian), accessible with findspots and relevant bibliography as [Linked Open Samian Ware](https://rgzm.github.io/samian-lod/) (LOSW) via a collaborative LOD hub, [archaeology.link](https://archaeology.link).

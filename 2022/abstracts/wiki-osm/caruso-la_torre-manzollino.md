@@ -1,6 +1,18 @@
-# The enhancement of local museums through Wikipedia: the MedAniene project
+---
+title: "The enhancement of local museums through Wikipedia: the MedAniene project"
+description: "The enhancement of local museums through Wikipedia: the MedAniene project"
+layout: article-slim
+auths:
+  - name: Mariflora Caruso
+    geo: 41.899258,12.5152836
+  - name: Paola La Torre
+    geo: 41.899258,12.5152836
+  - name: Roberta Manzollino
+    geo: 41.899258,12.5152836
+---
 
-**Panel 8**. From wiki projects to OpenStreetMap, collaborative approaches to open data creation: problems, case studies, territorial and cultural impact.
+
+**Panel: From wiki projects to OpenStreetMap, collaborative approaches to open data creation: problems, case studies, territorial and cultural impact.**
 
 - **Mariflora Caruso**
     - Archeo&Arte3D DigiLab, Sapienza University of Rome, Rome, Italy

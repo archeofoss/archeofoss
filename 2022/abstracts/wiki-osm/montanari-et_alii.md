@@ -1,7 +1,19 @@
-# Tools for citizen-driven digital public history - a fireside chat
+---
+title: "Tools for citizen-driven digital public history - a fireside chat"
+description: "Tools for citizen-driven digital public history - a fireside chat"
+layout: article-slim
+auths:
+  - name: Marco Montanari
+    geo: 44.4992192,11.2616458
+  - name: Lucia Marsicano
+    geo: 44.4992192,11.2616458
+  - name: Silvia Bernardoni
+    geo: 44.4992192,11.2616458
+  - name: Raffaele Trojanis
+    geo: 44.4992192,11.2616458
+---
 
-**Panel 8**. From wiki projects to OpenStreetMap, collaborative approaches to open data creation: problems, case studies, territorial and cultural impact.
-
+**Panel: From wiki projects to OpenStreetMap, collaborative approaches to open data creation: problems, case studies, territorial and cultural impact.**
 
 - **Marco Montanari**
   - Open History Map, Bologna, Italy
