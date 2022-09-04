@@ -1,11 +1,23 @@
-*Please save in this directory paper proposals for the panel:  
-**Panel 4: GIS open source solution for archaeological context in between Universities, Public Administration, societies, research center: pyArchInit case.**.*
+---
+title: "Panel 4: GIS open source solution for archaeological context in between Universities, Public Administration, societies, research center: pyArchInit case"
+description: "Panel 4: GIS open source solution for archaeological context in between Universities, Public Administration, societies, research center: pyArchInit case"
+layout: article-slim
+img: pyarchinit.jpg
+auths:
+  - name: Enzo Cocca
+    geo: 44.0577767,12.5664531
+  - name: Gianluca Martinez
+    geo: 43.7166586,10.390978
+---
 
-Remember to use the [provided template](https://github.com/archeofoss/archeofoss2022/blob/main/paper-proposal-template.md) to submit your proposal, 
-and eventually upload the illustrative image in the same directory and name it after your markdown file.
-
-
-## Panel presentation
+Panellists
+- **Enzo Cocca**
+  - AdArte s.r.l.
+  - [archeologia@adarteinfo.it](mailto:archeologia@adarteinfo.it)
+  - [@pyarchinit](https://mobile.twitter.com/pyarchinit)
+- **Gianluca Martinez**
+  - Università di Pisa, Pisa
+  - [gianlucamartinez@hotmail.it](mailto:gianlucamartinez@hotmail.it)
 
 The plugin pyArchInit for QGIS, a GIS tool for archaeological data-management, has been tested in years over two thousand
 archaeological excavations by adArte company, in archaeological evaluation and emergency excavations. In the last few years, with the widespread of QGIS, the plugin has been implemented to answer numerous asks from PA and Universities, highlighting some aspects that must be spoken together: in our company database we collected more than hundred thousands of SU, still researchable over ten years, demonstrating the efficiency of the method and data’s durability, with a minimum information loss. During the time, PA receiving the documentation and asking for a development, has demonstrated the usefulness of having an

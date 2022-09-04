@@ -1,6 +1,17 @@
-# MASPAG & Pyarchinit, the newborn collaboration of Sapienza and AdArte in the Sultanate of Oman
+---
+title: "MASPAG & Pyarchinit, the newborn collaboration of Sapienza and AdArte in the Sultanate of Oman"
+description: "MASPAG & Pyarchinit, the newborn collaboration of Sapienza and AdArte in the Sultanate of Oman"
+layout: article-slim
+auths:
+  - name: Marco Ramazzotti
+    geo: 41.9037626,12.5144384
+  - name: Francesco Genchi
+    geo: 41.9037626,12.5144384
+  - name: Guido Antinori
+    geo: 41.9037626,12.5144384
+---
 
-**Panel. 4**. GIS open source solution for archaeological context in between Universities, Public Administration, societies, research center: pyArchInit case.2022/call-for-papers)
+**Panel: GIS open source solution for archaeological context in between Universities, Public Administration, societies, research center: pyArchInit case.**
 
 - **Marco Ramazzotti**
   - Sapienza University of Rome, Rome, Italy

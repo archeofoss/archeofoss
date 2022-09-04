@@ -1,6 +1,15 @@
-# Pyarchinit a Castelseprio: integrazione progressiva di un sistema di gestione integrata del dato di scavo
+---
+title: "Pyarchinit a Castelseprio: integrazione progressiva di un sistema di gestione integrata del dato di scavo"
+description: "Pyarchinit a Castelseprio: integrazione progressiva di un sistema di gestione integrata del dato di scavo"
+layout: article-slim
+auths:
+  - name: Marco Moderato
+    geo: 42.3497788,14.1337824
+  - name: Vasco La Salvia
+    geo: 42.3497788,14.1337824
+---
 
-**Panel 4**. GIS open source solution for archaeological context in between Universities, Public Administration, societies, research center: pyArchInit case..
+**Panel: GIS open source solution for archaeological context in between Universities, Public Administration, societies, research center: pyArchInit case.**
 
 - **Marco Moderato**
   - DISPUTER, G.D'Annunzio University, Chieti, Italy

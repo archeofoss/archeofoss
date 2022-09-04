@@ -1,6 +1,16 @@
-# The urban context of the roman theater and “ex Filanda” in Fano (PU)
+---
+title: "The urban context of the roman theater and “ex Filanda” in Fano (PU)"
+description: "The urban context of the roman theater and “ex Filanda” in Fano (PU)"
+layout: article-slim
+img: d_onofrio-ciuccarelli.png
+auths:
+  - name: Annalisa d’Onofrio
+    geo: 44.0577767,12.5664531
+  - name: Maria Raffaella Ciuccarelli
+    geo: 43.6236913,13.5089253
+---
 
-**Panel 4**. GIS open source solution for archaeological context in between Universities, Public Administration, societies, research center: pyArchInit case.
+**Panel: GIS open source solution for archaeological context in between Universities, Public Administration, societies, research center: pyArchInit case.**
 
 - **Annalisa d’Onofrio**
   - adArte Srl, Rimini, Italy
@@ -8,8 +18,6 @@
 - **Maria Raffaella Ciuccarelli**
   - SABAP Ancona e Pesaro Urbino, Ancona, Italy
   - [mariaraffaella.ciuccarelli@beniculturali.it](mariaraffaella.ciuccarelli@beniculturali.it)
-
-![The urban context of the roman theater and “ex Filanda” in Fano (PU)](./d_onofrio-ciuccarelli.png)
 
 This contribution will illustrate some of the main potential of the pyArchInit plugin, 
 an open source tool created in python language for the management and overall analysis of 

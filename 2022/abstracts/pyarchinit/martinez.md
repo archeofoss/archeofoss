@@ -1,9 +1,16 @@
-# Pyarchinit potential and limits in university and research context: San Sisto case study and the Laboratory of Medieval Archaeology of the University of Pisa
+---
+title: "Pyarchinit potential and limits in university and research context: San Sisto case study and the Laboratory of Medieval Archaeology of the University of Pisa"
+description: "Pyarchinit potential and limits in university and research context: San Sisto case study and the Laboratory of Medieval Archaeology of the University of Pisa"
+layout: article-slim
+auths:
+  - name: Gianluca Martinez
+    geo: 43.7174565,10.3899766
+---
 
-**Panel 4**. GIS open source solution for archaeological context in between Universities, Public Administration, societies, research center: pyArchInit case
+**Panel: GIS open source solution for archaeological context in between Universities, Public Administration, societies, research center: pyArchInit case.**
 
 -  **Gianluca Martinez**
-  - Dipartimento di Civiltà e forme del sapere. Università di Pisa, Pisa, Italy
+  - Dipartimento di Civiltà e Forme del Sapere. Università di Pisa, Pisa, Italy
   - [gianlucamartinez@hotmail.it](mailto:gianlucamartinez@hotmail.it)
 
 The adoption of Pyarchinit by the laboratory took place in the spring of

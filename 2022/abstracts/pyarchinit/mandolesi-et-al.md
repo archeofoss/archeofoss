@@ -1,6 +1,19 @@
-# pyArchInit at Poggio Gramignano Villa: a workflow between society and University through pyArchInit and Blender
+---
+title: "pyArchInit at Poggio Gramignano Villa: a workflow between society and University through pyArchInit and Blender"
+description: "pyArchInit at Poggio Gramignano Villa: a workflow between society and University through pyArchInit and Blender"
+layout: article-slim
+auths:
+  - name: Luca Mandolesi
+    geo: 44.0577767,12.5664531
+  - name: Roberto Montagnetti
+    geo: 44.0577767,12.5664531
+  - name: David Gerald Pickle
+    geo: 32.2318896,-110.9545941
+  - name: David Soren
+    geo: 32.2318896,-110.9545941
+---
 
-**Panel 4**. GIS open source solution for archaeological context in between Universities, Public Administration, societies, research center: pyArchInit case.
+**Panel: GIS open source solution for archaeological context in between Universities, Public Administration, societies, research center: pyArchInit case.**
 
 - **Luca Mandolesi**
   - adArte Srl, Rimini, Italy
@@ -9,7 +22,7 @@
   - adArte Srl, Rimini, Italy
   - [robertomontagnetti@gmail.com](mailto:robertomontagnetti@gmail.com)
 - **David Gerald Pickle**
-  - University of Arizona, Arizona, USA
+  - University of Arizona, Tucson, Arizona, USA
 - **David Soren**
   - University of Arizona, Arizona, USA
 
