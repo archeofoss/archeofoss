@@ -4,9 +4,9 @@ description: "Using modern standards in the past - HTFS"
 layout: article-slim
 auths:
   - name: Marco Montanari
-    geo: 44.4992192,11.2616458,
+    geo: 44.4992192,11.2616458
   - name: Lorenzo Gigli
-    geo: 44.4992192,11.2616458,
+    geo: 44.4992192,11.2616458
 ---
 
 

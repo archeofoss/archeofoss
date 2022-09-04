@@ -4,7 +4,7 @@ description: "Smallest-scale movement: Tracing the intra-site relocation of hunt
 layout: article-slim
 auths:
   - name: Aleksandr Diachenko
-    geo: 50.4505715,30.5267094,
+    geo: 50.4505715,30.5267094
   - name: Iwona Sobkowiak-Tabaka
     geo: 52.4353533,16.8778329
 ---
