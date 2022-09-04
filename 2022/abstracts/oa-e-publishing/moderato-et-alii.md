@@ -1,6 +1,19 @@
-# MAPOD4D: A Multi/Metaverse for Archaeology, Anthropology and Cultural Heritage
+---
+title: "MAPOD4D: A Multi/Metaverse for Archaeology, Anthropology and Cultural Heritage"
+description: "MAPOD4D: A Multi/Metaverse for Archaeology, Anthropology and Cultural Heritage"
+layout: article-slim
+auths:
+  - name: Marco Moderato
+    geo: 42.3681642,14.147921
+  - name: Roberto Taglioretti
+    geo: 45.7405677,8.8546589
+  - name: Alessandra Mazzucchi
+    geo: 45.7405677,8.8546589
+  - name: Vasco La Salvia
+    geo: 42.3681642,14.147921
+---
 
-**Panel 6**. Electronic Publishing and Open Science in Archaeology
+**Panel: Electronic Publishing and Open Science in Archaeology**
 
 - **Marco Moderato**
   - DISPUTER, G.D'Annunzio University, Chieti, Italy

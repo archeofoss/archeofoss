@@ -155,19 +155,19 @@ Social dinner (More information about location, price and booking will be availa
 Chair by Alessandra **Caravale** and Alessandra **Piergrossi**
 - **09:00** - 09:05 [CEST] *online*  
 Alessandra **Caravale** and Alessandra **Piergrossi**  
-Introduction to the panel
+[Introduction to the panel](abstracts/oa-e-publishing/intro)
 - **09:05** - 09:20 [CEST] *online*  
 Gaëlle **Coqueugniot**, Virginie **Fromageot-Laniepce**  
-*On the road to open access: Insights from French antiquity journals and databases*
+[*On the road to open access: Insights from French antiquity journals and databases*](abstracts/oa-e-publishing/coqueugniot-fromageot_laniepce)
 - **09:20** - 09:35 [CEST] *online*  
 Alain **Queffelec**, Marta **Arzarello**, Ruth **Blasco**, Otis **Crandell**, Luc **Doyon**, Sian **Halcrow**, Emma **Karoune**, Bruno **Maureille**, Aitor **Ruiz-Redondo**, Philip **Van Peer**  
-*Peer Community In Archaeology: A community-driven free and transparent system for preprints peer-reviewing*
+[*Peer Community In Archaeology: A community-driven free and transparent system for preprints peer-reviewing*](abstracts/oa-e-publishing/queffelec-et-alii)
 - **09:35** - 09:50 [CEST] *online*  
 Marco **Montanari**
-*Crossover! Digital Public History / Digital Archaeology / Virtual Roleplaying Games*
+[*Crossover! Digital Public History / Digital Archaeology / Virtual Roleplaying Games*](abstracts/oa-e-publishing/montanari)
 - **09:50** - 10:05 [CEST] *online*  
 Andrea **Bellotti**, Luca **Luppino**, Maria **Messineo**, Mickey **Scarcella**  
-*Spring Archaeology: a gathering project for emerging researchers*
+[*Spring Archaeology: a gathering project for emerging researchers*](abstracts/oa-e-publishing/bellotti-et-alii)
 
 ---
 
@@ -178,16 +178,16 @@ Andrea **Bellotti**, Luca **Luppino**, Maria **Messineo**, Mickey **Scarcella**
 
 - **10:20** - 10:35 [CEST] *in presence*  
 Marco **Montanari**, Lorenzo **Gigli**  
-*Beyond Silos - A look at static publishing*
+[*Beyond Silos - A look at static publishing*](abstracts/oa-e-publishing/montanari-gigli)
 - **10:35** - 10:50 [CEST] *in presence*  
 Nicolò **Paraciani**, Irene **Rossi**  
-*An open image atlas for the journal "Archeologia e Calcolatori"*
+[*An open image atlas for the journal "Archeologia e Calcolatori"*](abstracts/oa-e-publishing/paraciani-rossi)
 - **10:50** - 11:05 [CEST] *in presence*  
 Francesca **Buscemi**, Marianna **Figuera**, Giovanni **Gallo**, Angelica **Lo Duca**, Andrea **Marchetti**  
-*An open source and collaborative framework for sharing structured archaeological 3D data*
+[*An open source and collaborative framework for sharing structured archaeological 3D data*](abstracts/oa-e-publishing/buscemi-et_alii)
 - **11:05** - 11:20 [CEST] *in presence*  
 Marco **Moderato**, Roberto **Taglioretti**, Alessandra **Mazzucchi**, Vasco **La Salvia**  
-*MAPOD4D: A Multi/Metaverse for Archaeology, Anthropology and Cultural Heritage*
+[*MAPOD4D: A Multi/Metaverse for Archaeology, Anthropology and Cultural Heritage*](abstracts/oa-e-publishing/moderato-et-alii)
 
 - **11:20** - 11:35 [CEST]  
 Discussion. Invited discussant Paola **Moscati**.

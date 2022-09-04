@@ -1,11 +1,22 @@
-*Please save in this directory paper proposals for the panel:  
-**Panel 5: Electronic Publishing and Open Science in Archaeology.**.*
+---
+title: "Panel: Electronic Publishing and Open Science in Archaeology"
+description: "Panel: Electronic Publishing and Open Science in Archaeology"
+layout: article-slim
+img: oa-e-publishing.jpg
+auths:
+  - name: Alessandra Caravale
+    geo: 40.8436611,14.2501438
+  - name: Alessandra Piergrossi
+    geo: 40.8436611,14.2501438
+---
 
-Remember to use the [provided template](https://github.com/archeofoss/archeofoss2022/blob/main/paper-proposal-template.md) to submit your proposal, 
-and eventually upload the illustrative image in the same directory and name it after your markdown file.
-
-
-## Panel presentation
+Panellists
+- **Alessandra Caravale**
+  - ISPC, CNR
+  - [alessandra.caravale@cnr.it](mailto:alessandra.caravale@cnr.it)
+- **Alessandra Piergrossi**
+  - ISPC, CNR
+  - [alessandra.piergrossi@cnr.it](mailto:alessandra.piergrossi@cnr.it)
 
 In the information society, the dissemination of archaeological research results is still primarily associated with publications: monographs, miscellaneous volumes, but above all specialised journals. These have experienced in recent years a progressively digitisation process, which resulted in an increasing availability of open access resources. However, the policies adopted for the digital fruition use different forms of access to articles and their contents. The so-called OA golden road, followed by scholarly journals, can be referred to two models. The first one is based on a fee paid by the authors (APC: Article Processing Charges), while the second is the “Diamond OA” model, which instead provides free publication for both authors and readers. The panel will first give an updated overview of antiquity journals that follow the golden road, reporting common elements and dissimilarities in the Italian and European panorama.
 

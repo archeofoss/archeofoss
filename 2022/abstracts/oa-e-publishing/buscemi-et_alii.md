@@ -1,17 +1,33 @@
-# An open source and collaborative framework for sharing structured archaeological 3D data
+---
+title: "An open source and collaborative framework for sharing structured archaeological 3D data"
+description: "An open source and collaborative framework for sharing structured archaeological 3D data"
+layout: article-slim
+img: buscemi-et_alii.jpg
+auths:
+  - name: Francesca Buscemi
+    geo: 37.5050294,15.0754602
+  - name: Marianna Figuera
+    geo: 37.5050294,15.0754602
+  - name: Giovanni Gallo
+    geo: 37.5258413,15.0745988
+  - name: Angelica Lo Duca
+    geo: 43.71946,10.4194693
+  - name: Andrea Marchetti
+    geo: 43.71946,10.4194693
+---
 
-**Panel 5**. Electronic Publishing and Open Science in Archaeology
+**Panel: Electronic Publishing and Open Science in Archaeology**
 
 - **Francesca Buscemi**
-  - Institute of Sciences of Cultural Heritage, National Research Council
+  - Institute of Sciences of Cultural Heritage, National Research Council, Catania, Italy
   - via Biblioteca 4, 95124 Catania, Italy
   - [francesca.buscemi@cnr.it](mailto:francesca.buscemi@cnr.it)
  - **Marianna Figuera**
-   - Department of Humanities, University of Catania
+   - Department of Humanities, University of Catania, Catania, Italy
    - via Biblioteca 4, 95124 Catania, Italy
    - [marianna.figuera@unict.it](mailto:marianna.figuera@unict.it)
 - **Giovanni Gallo**
-  - Department of Mathematics and Computer Science, University of Catania
+  - Department of Mathematics and Computer Science, University of Catania, Catania, Italy
   - viale A. Doria 6, 95125 Catania, Italy
   - [giovanni.gallo@unict.it](mailto:giovanni.gallo@unict.it)
 - **Angelica Lo Duca**
@@ -22,8 +38,6 @@
    - Institute of Informatics and Telematics, National Research Council
    - via G. Moruzzi 1, 56124 Pisa, Italy
    - [andrea.marchetti@iit.cnr.it](mailto:andrea.marchetti@iit.cnr.it)
-
-![An open source and collaborative framework for sharing structured archaeological 3D data](buscemi-figuera-gallo-lo duca-marchetti.jpg)
 
 
 The CNR-ISPC project W.A.L.(L) "Wall-facing Automatic images identification Laboratory. A quantitative analysis method for the study of ancient architecture" aims to apply quantitative analysis methods and machine learning to the study of ancient architecture.

@@ -1,6 +1,15 @@
-# Beyond Silos - A look at static publishing
+---
+title: "Beyond Silos - A look at static publishing"
+description: "Beyond Silos - A look at static publishing"
+layout: article-slim
+auths:
+  - name: Marco Montanari
+    geo: 44.4992192,11.2616458
+  - name: Lorenzo Gigli
+    geo: 44.4992192,11.2616458
+---
 
-Electronic Publishing and Open Science in Archaeology.
+**Panel: Electronic Publishing and Open Science in Archaeology**
 
 - **Marco Montanari**
   - Open History Map, Bologna, Italy

@@ -1,6 +1,15 @@
-# An open image atlas for the journal "Archeologia e Calcolatori"
+---
+title: "An open image atlas for the journal "Archeologia e Calcolatori""
+description: "An open image atlas for the journal "Archeologia e Calcolatori""
+layout: article-slim
+auths:
+  - name: Nicolò Paraciani
+    geo: 40.8436611,14.2501438
+  - name: Irene Rossi
+    geo: 40.8436611,14.2501438
+---
 
-**Panel 5**. Electronic Publishing and Open Science in Archaeology.
+**Panel: Electronic Publishing and Open Science in Archaeology**
 
 - **Nicolò Paraciani**
   - ISPC, CNR, Rome, Italy

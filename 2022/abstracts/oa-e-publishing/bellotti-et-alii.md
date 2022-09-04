@@ -1,16 +1,29 @@
-# Spring Archaeology: a gathering project for emerging researchers
+---
+title: "Spring Archaeology: a gathering project for emerging researchers"
+description: "Spring Archaeology: a gathering project for emerging researchers"
+layout: article-slim
+auths:
+  - name: Andrea Bellotti
+    geo: 44.4992192,11.2616458
+  - name: Luca Luppino
+    geo: 44.4992192,11.2616458
+  - name: Maria Messineo
+    geo: 44.4992192,11.2616458
+  - name: Mickey Scarcella
+    geo: 44.4992192,11.2616458
+---
 
-**Panel 5**. Electronic Publishing and Open Science in Archaeology
+**Panel: Electronic Publishing and Open Science in Archaeology**
 
-- Andrea Bellotti
+- **Andrea Bellotti**
     - Associazione Ricreativa Culturale “Let’s Dig Again”, - [archeobellotti@gmail.com](mailto:archeobellotti@gmail.com)
-- Luca Luppino
+- **Luca Luppino**
     - Associazione Ricreativa Culturale "Let's Dig Again"
     - [lucalupp@gmail.com](mailto:lucalupp@gmail.com)
-- Maria Messineo
+- **Maria Messineo**
     - Freelance Archaeologist
     - [messineo.archeo@gmail.com](mailto:messineo.archeo@gmail.com)
-- Mickey Scarcella
+- **Mickey Scarcella**
     - Freelance Archaeologist
     - [mickey.scarcella@gmail.com](mailto:mickey.scarcella@gmail.com)
 

@@ -1,11 +1,20 @@
-# On the road to open access: Insights from French antiquity journals and databases
+---
+title: "On the road to open access: Insights from French antiquity journals and databases"
+description: "On the road to open access: Insights from French antiquity journals and databases"
+layout: article-slim
+auths:
+  - name: Gaëlle Coqueugniot
+    geo: 48.9041698,2.207674
+  - name: Virginie Fromageot-Laniepce
+    geo: 48.9041698,2.207674
+---
 
-**Panel 5**. Electronic Publishing and Open Science in Archaeology.
+**Panel: Electronic Publishing and Open Science in Archaeology**
 
 - **Gaëlle Coqueugniot**
-  - CNRS, Maison des Sciences de l’Homme Mondes, editor
+  - CNRS, Maison des Sciences de l’Homme Mondes, editor, Paris, France
 - **Virginie Fromageot-Laniepce**
-  - CNRS, ArScAn, data manager
+  - CNRS, ArScAn, data manager, Paris, France
 
 This paper proposes an overview of practices ensuring the gradual transition of printed archaeological journals, already internationalized, to new models of online scientific publishing. It also examines the economic and organizational means that guarantee the sustainability of these models.
 

@@ -1,6 +1,13 @@
-# Crossover! Digital Public History / Digital Archaeology / Virtual Roleplaying Games
+---
+title: "Crossover! Digital Public History / Digital Archaeology / Virtual Roleplaying Games"
+description: "Crossover! Digital Public History / Digital Archaeology / Virtual Roleplaying Games"
+layout: article-slim
+auths:
+  - name: Marco Montanari
+    geo: 44.4992192,11.2616458
+---
 
-Electronic Publishing and Open Science in Archaeology.
+**Panel: Electronic Publishing and Open Science in Archaeology**
 
 - **Marco Montanari**
   - Open History Map, Bologna, Italy

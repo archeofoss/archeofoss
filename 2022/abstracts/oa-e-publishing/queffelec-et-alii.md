@@ -1,7 +1,32 @@
-# Peer Community In Archaeology: A community-driven free and transparent system for preprints peer-reviewing
+---
+title: "Peer Community In Archaeology: A community-driven free and transparent system for preprints peer-reviewing"
+description: "Peer Community In Archaeology: A community-driven free and transparent system for preprints peer-reviewing"
+layout: article-slim
+img: queffelec-et-alii.png
+auths:
+  - name: Alain Queffelec
+    geo: 44.8258856,-0.6079888
+  - name: Marta Arzarello
+    geo: 44.838647,11.6065323
+  - name: Ruth Blasco
+    geo: 41.133371,1.2363857
+  - name: Otis Crandell
+    geo: -25.4269032,-49.2639545
+  - name: Luc Doyon
+    geo: 44.8258856,-0.6079888
+  - name: Sian Halcrow
+    geo: -45.8646797,170.512234
+  - name: Emma Karoune
+    geo: 51.5300671,-0.1317683
+  - name: Bruno Maureille
+    geo: 41.6420679,-0.9036952
+  - name: Aitor Ruiz-Redondo
+    geo: 41.6420679,-0.9036952
+  - name: Philip Van Peer
+    geo: 50.8702223,4.6883784
+---
 
-**Panel 5**. Electronic Publishing and Open Science in Archaeology.
-
+**Panel: Electronic Publishing and Open Science in Archaeology**
 
 - **Alain Queffelec**
   - UMR5199 CNRS PACEA, Univ. Bordeaux, Ministère de la Culture, France
@@ -28,8 +53,6 @@
 - **Philip Van Peer**
   - Centre for the Archaeology of Landscapes, Univ. Leuven, Belgium.
   
-![Peer Community In Archaeology: A community-driven free and transparent system for preprints peer-reviewing](queffelec-et-alii.png)
-
 The number of scientific articles increases every year since scientific journals exist, and should continue to grow in the coming years, and the current system, managed by a few for-profit publishers, has become very costly for our institutions. The traditional model of publishing in paid journals, limiting dissemination behind paywalls or high publication fees, is increasingly being criticized. To overcome these serious flaws of the academic publication system, the deposit of preprints in open archives is a solution for rapid dissemination. However, the quality of these preprints must be guaranteed for quality assurance in research.
 
 This is why Peer Community In (PCI) was created: to enable communities of researchers to assess the quality of the work deposited in open archives and thus ensure broad dissemination of high-quality Science. PCI offers an innovative way to communicate our scientific results that are free for authors and readers, open, online, and peer-reviewed. PCI also supports Open Science and scientific reproducibility by making the deposit of all necessary datasets mandatory prior to the recommendation of any preprint and by providing the possibility of pre-registration papers.
