@@ -154,7 +154,7 @@ Social dinner (More information about location, price and booking will be availa
 
 **Panel: Electronic Publishing and Open Science in Archaeology**  
 Chair by Alessandra **Caravale** and Alessandra **Piergrossi**
-- **09:00** - 09:05 [CEST] *online*  
+- **09:00** - 09:05 [CEST] *in presence*  
 Alessandra **Caravale** and Alessandra **Piergrossi**  
 [Introduction to the panel](abstracts/oa-e-publishing/intro)
 - **09:05** - 09:20 [CEST] *online*  
@@ -163,7 +163,7 @@ Gaëlle **Coqueugniot**, Virginie **Fromageot-Laniepce**
 - **09:20** - 09:35 [CEST] *online*  
 Alain **Queffelec**, Marta **Arzarello**, Ruth **Blasco**, Otis **Crandell**, Luc **Doyon**, Sian **Halcrow**, Emma **Karoune**, Bruno **Maureille**, Aitor **Ruiz-Redondo**, Philip **Van Peer**  
 [*Peer Community In Archaeology: A community-driven free and transparent system for preprints peer-reviewing*](abstracts/oa-e-publishing/queffelec-et-alii)
-- **09:35** - 09:50 [CEST] *online*  
+- **09:35** - 09:50 [CEST] *in presence*  
 Marco **Montanari**
 [*Crossover! Digital Public History / Digital Archaeology / Virtual Roleplaying Games*](abstracts/oa-e-publishing/montanari)
 - **09:50** - 10:05 [CEST] *online*  
