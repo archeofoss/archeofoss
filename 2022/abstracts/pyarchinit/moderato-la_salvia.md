@@ -1,5 +1,5 @@
 ---
-title: "Pyarchinit a Castelseprio: progressive adoption of an integrated managing system for archaeological field data"
+title: "Pyarchinit at Castelseprio: progressive adoption of an integrated managing system for archaeological field data"
 description: "Pyarchinit a Castelseprio: progressive adoption of an integrated managing system for archaeological field data"
 layout: article-slim
 auths:
