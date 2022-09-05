@@ -4,9 +4,7 @@ description: "Panel proposals for ArcheoFOSS 2022"
 layout: article-slim
 ---
 
-The call for papers for ArcheoFOSS 2022 was closed on 30 June 2022. We are very proud for the large interest on this edition, with  almost one hundred authors willing to present their research in the conference works! 
-
-We are very happy to publish the definitive conference programme of ArcheoFOSS 2022, to be held **in Rome** and **online** on 22-23 September 2022. In the next few days, detailed information about the venue will be availeble here.
+We are very happy to publish the definitive conference programme of ArcheoFOSS 2022, to be held **in Rome** and **online** on 22-23 September 2022.
 
 ### Venue
 Aula Giorgio Levi della Vida  
@@ -17,6 +15,9 @@ Via dei Volsci, 122. 00185 Roma. Italia
 [GoogleMaps](https://www.google.com/maps/place/Via+dei+Volsci,+122,+00185+Roma+RM/@41.8991279,12.5154208,17z/)
 
 ### Online broadcasting
+ArcheoFOSS 2022 works will be broadcasted online in realtime. People from home will be enabled to ask written questions. Details for the online version will be published in due time at this link: [archeofoss.org/2022/watch](watch).
+
+
 More information about the online broadcasting will be available in the next few days.
 
 ## Day 1 | 22 September 2022
@@ -63,19 +64,19 @@ Chair and introduction by Enzo **Cocca**, and Gianluca **Martinez**
 
 - **11:45** - 12:00 [CEST] *online*  
 Luca **Mandolesi**, Roberto **Montagnetti**, David Gerald **Pickle**, David **Soren**  
-*pyArchInit at Poggio Gramignano Villa: a workflow between society and University through pyArchInit and Blender*
+[*pyArchInit at Poggio Gramignano Villa: a workflow between society and University through pyArchInit and Blender*](abstracts/pyarchinit/mandolesi-et-al)
 - **12:00** - 12:15 [CEST] *online*  
 Annalisa **d’Onofrio**, Maria Raffaella **Ciuccarelli**  
-*The urban context of the roman theater and “ex Filanda” in Fano (PU)*
+[*The urban context of the roman theater and “ex Filanda” in Fano (PU)*](abstracts/pyarchinit/d_onofrio-ciuccarelli)
 - **12:15** - 12:30 [CEST] *in presence*  
 Gianluca **Martinez**  
-*Pyarchinit potential and limits in university and research context: San Sisto case study and the Laboratory of Medieval Archaeology of the University of Pisa*
+[*Pyarchinit potential and limits in university and research context: San Sisto case study and the Laboratory of Medieval Archaeology of the University of Pisa*](abstracts/pyarchinit/martinez)
 - **12:30** - 12:45 [CEST] *in presence*  
 Marco **Moderato**, Vasco **La Salvia**  
-*Pyarchinit a Castelseprio: integrazione progressiva di un sistema di gestione integrata del dato di scavo*
+[*Pyarchinit a Castelseprio: integrazione progressiva di un sistema di gestione integrata del dato di scavo*](abstracts/pyarchinit/moderato-la_salvi)
 - **12:45** - 13:00 [CEST] *in presence*  
 Marco **Ramazzotti**, Francesco **Genchi**, Guido **Antinori**  
-*MASPAG & Pyarchinit, the newborn collaboration of Sapienza and AdArte in the Sultanate of Oman*
+[*MASPAG & Pyarchinit, the newborn collaboration of Sapienza and AdArte in the Sultanate of Oman*](abstracts/pyarchinit/ramazzotti-genchi-antinori)
 
 - **13:00** - 13:15 [CEST]  
 Discussion

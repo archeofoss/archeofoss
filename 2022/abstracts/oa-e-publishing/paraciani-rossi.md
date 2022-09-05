@@ -1,6 +1,6 @@
 ---
-title: "An open image atlas for the journal "Archeologia e Calcolatori""
-description: "An open image atlas for the journal "Archeologia e Calcolatori""
+title: "An open image atlas for the journal “Archeologia e Calcolatori”"
+description: "An open image atlas for the journal “Archeologia e Calcolatori”"
 layout: article-slim
 auths:
   - name: Nicolò Paraciani
