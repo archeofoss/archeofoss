@@ -61,10 +61,10 @@ Discussion
 **Panel:  GIS open source solution for archaeological context in between Universities, Public Administration, societies, research center: pyArchInit case**  
 Chair and introduction by Enzo **Cocca**, and Gianluca **Martinez**
 
-- **11:45** - 12:00 [CEST] *in presence*  
+- **11:45** - 12:00 [CEST] *online*  
 Luca **Mandolesi**, Roberto **Montagnetti**, David Gerald **Pickle**, David **Soren**  
 *pyArchInit at Poggio Gramignano Villa: a workflow between society and University through pyArchInit and Blender*
-- **12:00** - 12:15 [CEST] *in presence*  
+- **12:00** - 12:15 [CEST] *online*  
 Annalisa **d’Onofrio**, Maria Raffaella **Ciuccarelli**  
 *The urban context of the roman theater and “ex Filanda” in Fano (PU)*
 - **12:15** - 12:30 [CEST] *in presence*  
