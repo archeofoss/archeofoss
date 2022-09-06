@@ -200,20 +200,20 @@ Discussion. Invited discussant Paola **Moscati**.
 
 ---
 
-**Panel: From wiki projects to OpenStreetMap, collaborative approaches to open data creation: problems, case studies, territorial and cultural impact**  
+**Panel: From wiki projects to OpenStreetMap, collaborative approaches to open data creation: problems, case studies, territorial and cultural impact** [info](abstracts/wiki-osm/intro)  
 Chair by Saverio Giulio **Malatesta**, and Paolo **Rosati**
 - **11:50** - 12:05 [CEST] *online*  
 Florian **Thiery**, Allard **Mees**, John Brady **Kiesling**  
-*Challenges in research community building: integrating Terra Sigillata (Samian) Research into the Wikidata community*
+[*Challenges in research community building: integrating Terra Sigillata (Samian) Research into the Wikidata community*](abstracts/wiki-osm/thiery-mees-kiesling)
 - **12:05** - 12:20 [CEST] *in presence*  
 Mariflora **Caruso**, Paola **La Torre**, Roberta **Manzollino**  
-*The enhancement of local museums through Wikipedia: the MedAniene project*
+[*The enhancement of local museums through Wikipedia: the MedAniene project*](abstracts/wiki-osm/caruso-la_torre-manzollino)
 - **12:20** - 12:35 [CEST] *in presence*  
 Marco **Montanari**, Lucia **Marsicano**, Silvia **Bernardoni**, Raffaele **Trojanis**
-*Tools for citizen-driven digital public history - a fireside chat*
+[*Tools for citizen-driven digital public history - a fireside chat*](abstracts/wiki-osm/montanari-et_alii)
 - **12:35** - 12:50 [CEST] *in presence*  
 Saverio Giulio **Malatesta**, Marco **Montanari**, Paolo **Rosati**  
-*Open tools and technologies for analysing and sharing cultural and landscape heritage.*
+[*Open tools and technologies for analysing and sharing cultural and landscape heritage.*](abstracts/wiki-osm/malatesta-montanari-rosati)
 
 - **12:50** - 13:05 [CEST]  
 Discussion
