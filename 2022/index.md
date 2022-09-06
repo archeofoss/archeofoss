@@ -9,7 +9,7 @@ ednumber: XVI
 ## Latest news
 
 **[05/09/2022]**  
-We are very happy to announce that the [programme of ArcheoFOSS 2022](programme) is now available. We are all looking forward to meet you soon in Rome!
+We are very happy to announce that the [programme of ArcheoFOSS 2022](programme) is now available. We are all looking forward to meet you soon in Rome! [Direct link to the PDF version](./ArcheoFOSS-2022-programme.pdf).
 
 **[01/07/2022]**  
 The call for papers for ArcheoFOSS 2022 is closed! many thanks to the almost one hundred authors that submited heir research. The definitive programme of the conference will be available during the second half of August 2022.

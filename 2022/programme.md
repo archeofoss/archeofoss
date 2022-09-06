@@ -4,7 +4,14 @@ description: "Panel proposals for ArcheoFOSS 2022"
 layout: article-slim
 ---
 
+
 We are very happy to publish the definitive conference programme of ArcheoFOSS 2022, to be held **in Rome** and **online** on 22-23 September 2022.
+
+---
+[Download ArcheoFOSS 2022 programme in PDF](./ArcheoFOSS-2022-programme.pdf) [last update 2022-09-06]
+
+---
+
 
 ### Venue
 Aula Giorgio Levi della Vida  
