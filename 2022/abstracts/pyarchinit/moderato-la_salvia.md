@@ -1,6 +1,6 @@
 ---
-title: "Pyarchinit a Castelseprio: integrazione progressiva di un sistema di gestione integrata del dato di scavo"
-description: "Pyarchinit a Castelseprio: integrazione progressiva di un sistema di gestione integrata del dato di scavo"
+title: "Pyarchinit at Castelseprio: progressive adoption of an integrated managing system for archaeological field data"
+description: "Pyarchinit a Castelseprio: progressive adoption of an integrated managing system for archaeological field data"
 layout: article-slim
 auths:
   - name: Marco Moderato
@@ -19,6 +19,6 @@ auths:
   - DISPUTER, G.D'Annunzio University, Chieti, Italy
   - [vlasalvia@unich.it](mailto:vlasalvia@unich.it)
 
-Nel contesto del progetto "Castelseprio centro del potere", a partire dal 2021 chi scrive ha iniziato lo scavo della struttura conosciuta come Casa Torre. L'area gia indagata dal Piccoli negli anni '70, si presenta come caso di studio interessante per l'applicazione di una soluzione aperta ed integrata per la gestione del dato stratigrafico, nello specifico pyarchinit.
+In the framework of the project 'Castelseprio centre of power', the authors began excavating the structure known as Casa Torre in 2021. The area, already investigated by Piccoli in the 1970s, presents itself as an interesting case study for the application of an open and integrated solution for the management of stratigraphic data, specifically pyarchinit.
 
-Trattandosi di uno scavo universitario e pertanto caratterizzato sia da fini di ricerca che formativi si è optato per un inserimento progressivo e scalato dell'utilizzo di pyarchinit all'interno dei protocolli di documentazione  sul cantiere e nel post scavo, spalmato nell'arco di tre anni. Allo scavo infatti partecipano studenti di magistrale che, al termine del periodo programmato, avranno a disposizione le competenze base per l'utilizzo del plugin. Al termine dei primi due anni di sperimentazione si mostrano, attraverso una SWOT analysis, i risultati ottenuti all'interno del cantiere sia per gli obiettivi formativi che per quelli di ricerca.
+Since this is a university excavation and therefore characterised by both research and training purposes, it was decided to progressively and incrementally include the use of pyarchinit within the documentation protocols on site and post-excavation, spread over three years. The excavation is in fact attended by master's degree students who, at the end of the planned period, will have the basic skills to use the plugin also in a professional environment. At the end of the first two years of implementation, a SWOT analysis will show the results obtained within the site for both training and research purposes.
