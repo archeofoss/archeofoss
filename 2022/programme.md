@@ -198,7 +198,7 @@ Marco **Montanari**, Lorenzo **Gigli**
 - **10:35** - 10:50 [CEST] *in presence*  
 Nicolò **Paraciani**, Irene **Rossi**  
 [*An open image atlas for the journal "Archeologia e Calcolatori"*](abstracts/oa-e-publishing/paraciani-rossi)
-- **10:50** - 11:05 [CEST] *in presence*  
+- **10:50** - 11:05 [CEST] *online*  
 Francesca **Buscemi**, Marianna **Figuera**, Giovanni **Gallo**, Angelica **Lo Duca**, Andrea **Marchetti**  
 [*An open source and collaborative framework for sharing structured archaeological 3D data*](abstracts/oa-e-publishing/buscemi-et_alii)
 - **11:05** - 11:20 [CEST] *in presence*  
