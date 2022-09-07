@@ -8,7 +8,7 @@ layout: article-slim
 We are very happy to publish the definitive conference programme of ArcheoFOSS 2022, to be held **in Rome** and **online** on 22-23 September 2022.
 
 ---
-[Download ArcheoFOSS 2022 programme in PDF](./ArcheoFOSS-2022-programme.pdf) [last update 2022-09-06]
+[Download ArcheoFOSS 2022 programme (PDF)](./ArcheoFOSS-2022-programme.pdf) [last update 2022-09-06]
 
 ---
 
@@ -27,9 +27,17 @@ ArcheoFOSS 2022 works will be broadcasted online in realtime. People from home w
 
 More information about the online broadcasting will be available in the next few days.
 
-## Day 1 | 22 September 2022
+## 22 September 2022
 
-- **09:00** - 09:30 [CEST] - Conference welcome and opening
+---
+**Conference welcome and opening**
+
+- **09:00** - 09:30 [CEST]  
+Paolo **Carafa**. Pro-Rector for the Archaeological Heritage, Sapienza University of Rome.  
+Paola **Buzi**. Director of [DigiLab. Interdepartimenal Research Center of Sapienza University of Rome](digilab.uniroma1.it/).  
+Julian **Bogdani**. ArcheoFOSS Scientific Committee member. [LAD, Sapienza University of Rome](lad.saras.uniroma1.it/).  
+
+---
 
 **Panel: Archaeological stratigraphy data [info](abstracts/archaeological-stratigraphy/intro)**  
 Chair and intro by Stefano **Costa** and Emanuel **Demetrescu**
@@ -157,7 +165,7 @@ Social dinner (More information about location, price and booking will be availa
 
 ---
 
-## Day 2 | 23 September 2022
+## 23 September 2022
 
 **Panel: Electronic Publishing and Open Science in Archaeology**  
 Chair by Alessandra **Caravale** and Alessandra **Piergrossi**
