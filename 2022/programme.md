@@ -12,6 +12,28 @@ We are very happy to publish the definitive conference programme of ArcheoFOSS 2
 
 ---
 
+ArcheoFOSS 2022 is hosted by [**DigLab: Interdepartmental Research Center of Sapienza University of Rome**](https://digilab4.let.uniroma1.it/), with the contribution of [**Direzione Generale Educazione, Ricerca e Istituti Culturali. Ministero della Cultura**](https://dger.beniculturali.it/) and the support of [**LAD: Labotarorio di Archeologia Digitale alla Sapienza**](https://lad.saras.uniroma1.it/).
+
+<div class="row">
+    <div class="col-4">
+        <a href="https://digilab4.let.uniroma1.it/">
+            <img src="./logo-digilab.jpg" alt="DigiLab Sapienza" title="DigiLab Sapienza" class="img-fluid">
+        </a>
+    </div>
+    <div class="col-4">
+        <a href="https://dger.beniculturali.it/">
+            <img src="./logo-dgeric.jpg" alt="Direzione Generale Educazione, Ricerca e Istituti Culturali. Ministero della Cultura" title="Direzione Generale Educazione, Ricerca e Istituti Culturali. Ministero della Cultura"  class="img-fluid">
+        </a>
+    </div>
+    <div class="col-4">
+        <a href="https://lad.saras.uniroma1.it/">
+            <img src="./logo-lad.png" alt="LAD: Labotarorio di Archeologia Digitale alla Sapienza" title="LAD: Labotarorio di Archeologia Digitale alla Sapienza" class="img-fluid">
+        </a>
+    </div>
+</div>
+
+---
+
 
 ### Venue
 Aula Giorgio Levi della Vida  
