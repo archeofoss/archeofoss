@@ -8,7 +8,7 @@ layout: article-slim
 
 ![Bogdani, Montalbano, Rosati, ArcheoFOSS 2020](../images/2020/AF-2020.jpg "Bogdani, Montalbano, Rosati, ArcheoFOSS 2020"){:.img-fluid}
 
-The proceedings of the 14th edition of ArcheoFOSS conference have been published by Archaeopress as open-access and in print. The open-acces (CC BY-SA-NC) PDF can be donwloaded at [Archaeopress.com](https://www.archaeopress.com/ArchaeopressShop/Public/displayProductDetail.asp?id={31193B62-F0B1-4C51-BA08-3D85FCA58990}).
+The proceedings of the 14th edition of ArcheoFOSS conference have been published by Archaeopress as open-access and in print. The open-acces (CC BY-SA-NC) PDF can be donwloaded at [Archaeopress.com](https://www.archaeopress.com/Archaeopress/Products/9781803271248).
 
 **Bogdani, Julian, Riccardo Mantalbano, and Paolo Rosati. eds. 2021. _ArcheoFOSS XIV 2020: Open Software, Hardware, Processes, Data and Formats in Archaeological Research_. Oxford: Archaeopress.**
 
