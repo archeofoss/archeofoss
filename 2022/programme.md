@@ -248,11 +248,8 @@ Mariflora **Caruso**, Paola **La Torre**, Roberta **Manzollino**
 - **12:20** - 12:35 [CEST] *in presence*  
 Marco **Montanari**, Lucia **Marsicano**, Silvia **Bernardoni**, Raffaele **Trojanis**
 [*Tools for citizen-driven digital public history - a fireside chat*](abstracts/wiki-osm/montanari-et_alii)
-- **12:35** - 12:50 [CEST] *in presence*  
-Saverio Giulio **Malatesta**, Marco **Montanari**, Paolo **Rosati**  
-[*Open tools and technologies for analysing and sharing cultural and landscape heritage.*](abstracts/wiki-osm/malatesta-montanari-rosati)
 
-- **12:50** - 13:05 [CEST]  
+- **12:35** - 13:05 [CEST]  
 Discussion
 
 ---
