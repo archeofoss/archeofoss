@@ -110,7 +110,7 @@ Gianluca **Martinez**
 [*Pyarchinit potential and limits in university and research context: San Sisto case study and the Laboratory of Medieval Archaeology of the University of Pisa*](abstracts/pyarchinit/martinez)
 - **12:30** - 12:45 [CEST] *in presence*  
 Marco **Moderato**, Vasco **La Salvia**  
-[*Pyarchinit at Castelseprio: progressive adoption of an integrated managing system for archaeological field data*](abstracts/pyarchinit/moderato-la_salvi)
+[*Pyarchinit at Castelseprio: progressive adoption of an integrated managing system for archaeological field data*](abstracts/pyarchinit/moderato-la_salvia)
 - **12:45** - 13:00 [CEST] *in presence*  
 Marco **Ramazzotti**, Francesco **Genchi**, Guido **Antinori**  
 [*MASPAG & Pyarchinit, the newborn collaboration of Sapienza and AdArte in the Sultanate of Oman*](abstracts/pyarchinit/ramazzotti-genchi-antinori)
