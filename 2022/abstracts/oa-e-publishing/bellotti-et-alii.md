@@ -16,7 +16,8 @@ auths:
 **Panel: Electronic Publishing and Open Science in Archaeology**
 
 - **Andrea Bellotti**
-    - Associazione Ricreativa Culturale “Let’s Dig Again”, - [archeobellotti@gmail.com](mailto:archeobellotti@gmail.com)
+    - Associazione Ricreativa Culturale “Let’s Dig Again”
+    - [archeobellotti@gmail.com](mailto:archeobellotti@gmail.com)
 - **Luca Luppino**
     - Associazione Ricreativa Culturale "Let's Dig Again"
     - [lucalupp@gmail.com](mailto:lucalupp@gmail.com)

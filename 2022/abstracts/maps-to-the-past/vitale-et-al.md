@@ -23,7 +23,7 @@ img: vitale-et-al.jpg
 
 - **Valeria Vitale** 
     - The Alan Turing Institute. London
-    - [vvitale@turing.ac.uk](mailto:vvitale@turing.ac.uk)
+    - [valeria.vitale@sas.ac.uk](mailto:valeria.vitale@sas.ac.uk)
     - @nottinauta
 - **Katherine McDonough**
     - The Alan Turing Institute. London

@@ -10,7 +10,7 @@ A [**special repository**](https://github.com/archeofoss/af2022) has been activa
 
 - **Proponents**:
   - [Julian Bogdani](mailto:julian.bogdani@uniroma1.it), Sapienza University of Rome
-  - [Valeria Vitale](mailto:vvitale@turing.ac.uk), The Alan Turig Institute
+  - [Valeria Vitale](mailto:valeria.vitale@sas.ac.uk), The Alan Turig Institute
 - **Date of submission**: 08-03-2022
 - **Repository url**: [https://github.com/archeofoss/af2022/discussions/1](https://github.com/archeofoss/af2022/discussions/1)  
 
