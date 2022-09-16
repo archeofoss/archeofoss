@@ -201,7 +201,7 @@ Gaëlle **Coqueugniot**, Virginie **Fromageot-Laniepce**
 Alain **Queffelec**, Marta **Arzarello**, Ruth **Blasco**, Otis **Crandell**, Luc **Doyon**, Sian **Halcrow**, Emma **Karoune**, Bruno **Maureille**, Aitor **Ruiz-Redondo**, Philip **Van Peer**  
 [*Peer Community In Archaeology: A community-driven free and transparent system for preprints peer-reviewing*](abstracts/oa-e-publishing/queffelec-et-alii)
 - **09:35** - 09:50 [CEST] *in presence*  
-Marco **Montanari**
+Marco **Montanari**  
 [*Crossover! Digital Public History / Digital Archaeology / Virtual Roleplaying Games*](abstracts/oa-e-publishing/montanari)
 - **09:50** - 10:05 [CEST] *online*  
 Andrea **Bellotti**, Luca **Luppino**, Maria **Messineo**, Mickey **Scarcella**  
