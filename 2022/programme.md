@@ -82,16 +82,12 @@ Alessio **Paonessa**
 - **10:45** - 11:00 [CEST] *in presence*  
 Emanuel **Demetrescu**, Cristina **Gonzalez Esteban**, Filippo **Sala**, Daniele **Bursich**  
 [*EMdb: yet another db for the stratigraphic record.*](abstracts/archaeological-stratigraphy/demetrescu-et-alii)
-- **11:00** - 11:15 [CEST] *in presence*  
-Giulia **Chellini**, Bruno **Fanini**, Leonarda **Fazio**, Maria Grazia **Griffo**, Mauro **Lo Brutto**, Saverio Giulio **Malatesta**, Elisa Chiara **Portale**  
-[*An innovative digital system for the Lilibeo Archeological Museum roman sculptures enhancement*](abstracts/archaeological-stratigraphy/chellini-et-al)
-
-- **11:15** - 11:30 [CEST]  
+- **11:10** - 11:15 [CEST]  
 Discussion
 
 ---
 
-- **11:30** - 11:45 [CEST]  
+- **11:15** - 11:45 [CEST]  
 **Coffee break**
 
 ---
