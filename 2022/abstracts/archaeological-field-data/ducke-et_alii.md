@@ -6,16 +6,20 @@ img: ducke-et_alii.jpg
 auths:
   - name: Benjamin Ducke
     geo: 52.4607023,13.2984561
+    email: benjamin.ducke@dainst.de
   - name: Simon Hohl
     geo: 52.4607023,13.2984561
+    email: simon.hohl@dainst.de
   - name: Thomas Kleinke
     geo: 52.4607023,13.2984561
-  - name: Thomas Kleinke
-    geo: 52.4607023,13.2984561
+    email: thomas.kleinke@dainst.de
   - name: Fabian Riebschläger
     geo: 52.4607023,13.2984561
+    email: fabian.riebschlaeger@dainst.de
+    twitter.com: friebsch
   - name: Juliane Watson
     geo: 52.4607023,13.2984561
+    email: juliane.watson@dainst.de
 ---
 
 **Panel: Practice and Paradigms of Open Source Technologies for Archaeological Field Data.**

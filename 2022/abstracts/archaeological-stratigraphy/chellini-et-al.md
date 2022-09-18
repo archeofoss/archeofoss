@@ -5,18 +5,25 @@ layout: article-slim
 auths:
   - name: Giulia Chellini
     geo: 41.899258,12.5152836
+    email: chellini.giulia@gmail.com
   - name: Bruno Fanini
     geo: 40.8436611,14.2524398
+    email: bruno.fanini@cnr.it
   - name: Leonarda Fazio
     geo: 38.1174388,13.365546
+    email: leonarda.fazio@unipa.it
   - name: Maria Grazia Griffo
     geo: 37.8011264,12.4244549
+    email: mariagrazia.griffo@regione.sicilia.it
   - name: Mauro Lo Brutto
     geo: 38.1174388,13.365546
+    email: mauro.lobrutto@unipa.it
   - name: Saverio Giulio Malatesta
     geo: 41.899258,12.5152836
+    email: saveriogiulio.malatesta@uniroma1.it
   - name: Elisa Chiara Portale
     geo: 38.1174388,13.365546
+    email: chiara.portale@unipa.it
 ---
 
 **Panel: Archaeological stratigraphy data**

@@ -6,15 +6,18 @@ img: archaeological-field-data.png
 auths:
   - name: Fabian Riebschläger
     geo: 52.4607023,13.2984561
+    email: fabian.riebschlaeger@dainst.de
+    twitter: friebsch
   - name: Thomas Kleinke
     geo: 52.4607023,13.2984561
+    email: Thomas.kleinke@dainst.de
 ---
 
 Panellists
 - **Fabian Riebschläger**
   - German Archaeological Institute, Berlin, Germany
   - [fabian.riebschlaeger@dainst.de](mailto:fabian.riebschlaeger@dainst.de)
-  - [@friebsch](https://mobile.twitter.com/@friebsch)
+  - [@friebsch](https://twitter.com/@friebsch)
 - **Thomas Kleinke**
   - German Archaeological Institute, Berlin, Germany
   - [Thomas.kleinke@dainst.de](mailto:Thomas.kleinke@dainst.de)

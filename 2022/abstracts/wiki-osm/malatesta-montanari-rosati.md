@@ -5,10 +5,19 @@ layout: article-slim
 auths:
   - name: Saverio Giulio Malatesta
     geo: 41.899258,12.5152836
+    email: saveriogiulio.malatesta@uniroma1.it
+    orcid: 0000-0002-0514-3604
   - name: Marco Montanari
     geo: 41.899258,12.5152836
+    email: marco.montanari@openhistorymap.org
+    github: sirmmo
+    twitter: ingmmo
   - name: Paolo Rosati
     geo: 41.899258,12.5152836
+    email: paolo.rosati@uniroma1.it
+    orcid: 0000-0003-0695-7121
+    github: archeorosati
+
 ---
 
 **Panel: From wiki projects to OpenStreetMap, collaborative approaches to open data creation: problems, case studies, territorial and cultural impact.**

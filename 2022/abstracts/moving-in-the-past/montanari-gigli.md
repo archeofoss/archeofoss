@@ -5,8 +5,13 @@ layout: article-slim
 auths:
   - name: Marco Montanari
     geo: 44.4992192,11.2616458
+    email: marco.montanari@openhistorymap.org
+    twitter: ingmmo
+    github: sirmmo
   - name: Lorenzo Gigli
     geo: 44.4992192,11.2616458
+    email: lorenzo.gigli@unibo.it
+    orcid: 0000-0001-9714-3777
 ---
 
 

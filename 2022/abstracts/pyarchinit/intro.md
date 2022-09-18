@@ -6,8 +6,11 @@ img: pyarchinit.jpg
 auths:
   - name: Enzo Cocca
     geo: 44.0577767,12.5664531
+    email: archeologia@adarteinfo.it
+    twitter: pyarchinit
   - name: Gianluca Martinez
     geo: 43.7166586,10.390978
+    email: gianlucamartinez@hotmail.it
 ---
 
 Panellists

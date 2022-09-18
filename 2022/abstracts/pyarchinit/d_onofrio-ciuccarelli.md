@@ -6,8 +6,10 @@ img: d_onofrio-ciuccarelli.png
 auths:
   - name: Annalisa d’Onofrio
     geo: 44.0577767,12.5664531
+    email: anasdon@gmail.com
   - name: Maria Raffaella Ciuccarelli
     geo: 43.6236913,13.5089253
+    email: mariaraffaella.ciuccarelli@beniculturali.it
 ---
 
 **Panel: GIS open source solution for archaeological context in between Universities, Public Administration, societies, research center: pyArchInit case.**

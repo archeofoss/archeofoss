@@ -5,6 +5,7 @@ layout: article-slim
 auths:
   - name: Gianluca Martinez
     geo: 43.7174565,10.3899766
+    email: gianlucamartinez@hotmail.it
 ---
 
 **Panel: GIS open source solution for archaeological context in between Universities, Public Administration, societies, research center: pyArchInit case.**

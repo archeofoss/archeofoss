@@ -6,8 +6,10 @@ img: oa-e-publishing.jpg
 auths:
   - name: Alessandra Caravale
     geo: 40.8436611,14.2501438
+    email: alessandra.caravale@cnr.it
   - name: Alessandra Piergrossi
     geo: 40.8436611,14.2501438
+    email: alessandra.piergrossi@cnr.it
 ---
 
 Panellists

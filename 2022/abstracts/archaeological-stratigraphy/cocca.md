@@ -6,6 +6,8 @@ img: cocca.jpg
 auths:
   - name: Enzo Cocca
     geo: 40.8436611,14.2524398
+    email: enzo.cocca@ispc.cnr.it
+    github: enzococca
 ---
 
 **Panel: Archaeological stratigraphy data**

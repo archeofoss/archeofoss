@@ -5,12 +5,16 @@ layout: article-slim
 auths:
   - name: Mirella Serlorenzi
     geo: 41.9012342,12.4965983
+    email: mirella.serlorenzi@beniculturali.it
   - name: Carlo Cifarelli
     geo: 41.9012342,12.4965983
+    email: carlo.cifarelli@gmail.com
   - name: Ascanio D’Andrea
     geo: 41.9012342,12.4965983
+    email: ascaniodandrea@gmail.com
   - name: Riccardo Montalbano
     geo: 41.9012342,12.4965983
+    email: ricca.montalbano@gmail.com
 ---
 
 **Panel: I/O: ethics, policies and technologies for programmatic and open access to archaeological online data sets**

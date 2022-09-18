@@ -5,16 +5,30 @@ layout: article-slim
 auths:
   - name: Valeria Vitale
     geo: 51.5300671,-0.1294723
+    email: valeria.vitale@sas.ac.uk
+    twitter: nottinauta
   - name: Katherine McDonough
     geo: 51.5300671,-0.1294723
+    email: kmcdonough@turing.ac.uk
+    twitter: khetiwe24
   - name: Rainer Simon
     geo: 48.2691256,16.4223578
+    email: Rainer.Simon@ait.ac.at
+    twitter: aboutgeo
   - name: YaoYi Chiang
     geo: 44.9739938,-93.2299172
+    email: yaoyi@umn.edu
+    twitter: YaoYiChiang1
   - name: Zekun Li
     geo: 44.9739938,-93.2299172
+    email: li002666@umn.edu
+  - name: Jina Kim
+    geo: 44.9739938,-93.2299172
+    email: kim01479@umn.edu
+    teitter: jina_kimmm
   - name: Deborah Holmes-Wong
     geo: 34.0223563,-118.2873057
+    email: dhwong@usc.edu
 img: vitale-et-al.jpg
 ---
 

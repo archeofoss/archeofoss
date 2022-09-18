@@ -6,8 +6,15 @@ img: maps-to-the-past.jpg
 auths:
   - name: Julian Bogdani
     geo: 41.9037626,12.5144384
+    email: julian.bogdani@uniroma1.it
+    twitter: JulianBogdani
+    web: https://lad.saras.uniroma1.it
+    gitHub: jbogdani
+    orcid: 0000-0001-5250-927X
   - name: Valeria Vitale
     geo: 51.5300671,-0.1294723
+    email: valeria.vitale@sas.ac.uk
+    twitter: nottinauta
 ---
 
 Panellists:

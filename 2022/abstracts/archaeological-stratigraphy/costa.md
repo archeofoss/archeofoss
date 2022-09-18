@@ -5,6 +5,11 @@ layout: article-slim
 auths:
   - name: Stefano Costa
     geo: 44.4147735,8.9218188
+    web: https://steko.iosa.it/
+    email: stefano.costa@cultura.gov.it
+    orcid: 0000-0003-1124-3174
+    github: steko
+    codeberg: steko
 ---
 
 

@@ -6,6 +6,7 @@ img: queffelec-et-alii.png
 auths:
   - name: Alain Queffelec
     geo: 44.8258856,-0.6079888
+    email: contact@archaeo.peercommunityin.org
   - name: Marta Arzarello
     geo: 44.838647,11.6065323
   - name: Ruth Blasco

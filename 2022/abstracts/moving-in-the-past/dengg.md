@@ -6,6 +6,9 @@ img: dengg.jpg
 auths:
   - name: Maria Carina Dengg
     geo: 52.1401041,11.6402164
+    email: maria.dengg@ovgu.de
+    twitter: theroadsproject
+    orcid: 0000-0003-3614-9651
 ---
 
 

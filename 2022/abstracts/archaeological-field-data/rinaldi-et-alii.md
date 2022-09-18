@@ -6,12 +6,16 @@ img: rinaldi-et-alii.png
 auths:
   - name: Federica Rinaldi
     geo: 41.8910003,12.4854315
+    email: federica.rinaldi@beniculturali.it
   - name: Alessandro Lugari
     geo: 41.8910003,12.4854315
+    email: alessandro.lugari@beniculturali.it
   - name: Francesca Sposito
     geo: 41.8910003,12.4854315
+    email: francesca.sposito@gmail.com
   - name: Ascanio D'Andrea
     geo: 41.8910003,12.4854315
+    email: ascaniodandrea@gmail.com
 ---
 
 

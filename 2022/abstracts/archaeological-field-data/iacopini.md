@@ -5,6 +5,10 @@ layout: article-slim
 auths:
   - name: Eleonora Iacopini
     geo: 41.9037626,12.5144384
+    web: https://lad.saras.uniroma1.it
+    email: eleonora.iacopini@uniroma1.it
+    orcid: 0000-0001-9452-9092
+    github: eiacopini
 ---
 
 

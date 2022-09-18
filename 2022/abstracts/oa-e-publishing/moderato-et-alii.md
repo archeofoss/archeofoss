@@ -5,20 +5,28 @@ layout: article-slim
 auths:
   - name: Marco Moderato
     geo: 42.3681642,14.147921
+    email: marco.moderato@unich.it
+    orcid: 0000-0002-7942-3385
+    twitter: marcomoderato
   - name: Roberto Taglioretti
     geo: 45.7405677,8.8546589
+    email: r.taglioretti@archeostec.it
+    web: https://www.mapod.it/
   - name: Alessandra Mazzucchi
     geo: 45.7405677,8.8546589
+    email: a.mazzucchi@archeostec.it
+    web: https://www.archeostec.it/
   - name: Vasco La Salvia
     geo: 42.3681642,14.147921
+    email: vlasalvia@unich.it
 ---
 
 **Panel: Electronic Publishing and Open Science in Archaeology**
 
 - **Marco Moderato**
   - DISPUTER, G.D'Annunzio University, Chieti, Italy
-  - ORCID: [0000-0002-7942-3385](https://orcid.org/0000-0002-7942-3385)
   - [marco.moderato@unich.it](mailto:marco.moderato@unich.it)
+  - ORCID: [0000-0002-7942-3385](https://orcid.org/0000-0002-7942-3385)
   - [@marcomoderato](https://twitter.com/marcomoderato)
 - **Roberto Taglioretti**
   - ArcheOs Tec, Gornate Olona, Varese
@@ -26,7 +34,7 @@ auths:
   - [https://www.mapod.it/](https://www.mapod.it/)
 - **Alessandra Mazzucchi**
   - ArcheOs Tec, Gornate Olona, Varese
-  - [a.mazzucchi@archeostec.it ](mailto:a.mazzucchi@archeostec.it)
+  - [a.mazzucchi@archeostec.it](mailto:a.mazzucchi@archeostec.it)
   - [https://www.archeostec.it/]
 - **Vasco La Salvia**
   - DISPUTER, G.D'Annunzio University, Chieti

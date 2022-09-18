@@ -6,8 +6,12 @@ img: maps-to-the-past.jpg
 auths:
   - name: Domizia D'Erasmo
     geo: 41.9037626,12.5144384
+    email: domizia.derasmo@uniroma1.it
+    twitter: domizzzia
   - name: Noemi Giovino
     geo: 41.9037626,12.5144384
+    email: noemi.giovino@uniroma1.it
+    github: noemigi
 ---
 
 Proponents:

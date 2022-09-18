@@ -5,8 +5,10 @@ layout: article-slim
 auths:
   - name: Luca Mandolesi
     geo: 44.0577767,12.5664531
+    email: luca@adarteinfo.it
   - name: Roberto Montagnetti
     geo: 44.0577767,12.5664531
+    email: robertomontagnetti@gmail.com
   - name: David Gerald Pickle
     geo: 32.2318896,-110.9545941
   - name: David Soren

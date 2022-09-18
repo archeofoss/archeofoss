@@ -5,8 +5,12 @@ layout: article-slim
 auths:
   - name: Aleksandr Diachenko
     geo: 50.4505715,30.5267094
+    email: adiachenko@iananu.org.ua
+    orcid: 0000-0002-6959-2919
   - name: Iwona Sobkowiak-Tabaka
     geo: 52.4353533,16.8778329
+    email: iwosob@amu.edu.pl
+    orcid: 0000-0001-5913-1177
 ---
 
 

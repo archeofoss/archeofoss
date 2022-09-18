@@ -5,6 +5,8 @@ layout: article-slim
 auths:
   - name: Joe Roe
     geo: 46.9504932,7.4359303
+    email: joe@joeroe.io
+    web: https://joeroe.io
 ---
 
 **Panel: Archaeological stratigraphy data**

@@ -5,10 +5,13 @@ layout: article-slim
 auths:
   - name: Marco Ramazzotti
     geo: 41.9037626,12.5144384
+    email: marco.ramazzotti@uniroma1.it
   - name: Francesco Genchi
     geo: 41.9037626,12.5144384
+    email: francesco.genchi@uniroma1.it
   - name: Guido Antinori
     geo: 41.9037626,12.5144384
+    email: guido.antinori@uniroma1.it
 ---
 
 **Panel: GIS open source solution for archaeological context in between Universities, Public Administration, societies, research center: pyArchInit case.**

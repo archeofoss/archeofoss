@@ -5,12 +5,16 @@ layout: article-slim
 auths:
   - name: Bryony Moody
     geo: 56.3397625,-2.8124896
+    email: bcmoody1@sheffield.ac.uk
   - name: Caitlin Buck
     geo: 56.3397625,-2.8124896
+    email: c.e.buck@sheffield.ac.uk
   - name: Tom Dye
     geo: 21.299829,-157.8170115
+    email: tsd@tsdye.online
   - name: Keith May
     geo: 51.5287718,-0.241681
+    email: Keith.May@historicengland.org.uk
 ---
 
 

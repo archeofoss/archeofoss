@@ -5,8 +5,16 @@ layout: article-slim
 auths:
   - name: Julian Bogdani
     geo: 41.9037626,12.5144384
+    email: julian.bogdani@uniroma1.it
+    twitter: JulianBogdani
+    web: https://lad.saras.uniroma1.it
+    gitHub: jbogdani
+    orcid: 0000-0001-5250-927X
   - name: Marco Montanari
     geo: 44.4992192,11.2616458
+    email: marco.montanari@openhistorymap.org
+    twitter: ingmmo
+    orcid: 0000-0001-5026-6083
 ---
 
 
