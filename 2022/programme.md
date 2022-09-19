@@ -10,6 +10,10 @@ We are very happy to publish the definitive conference programme of ArcheoFOSS 2
 Please, feel free to contact us anytime by sending an email at [julian.bogdani@uniroma1.it](mailto:julian.bogdani@uniroma1.it).
 
 ---
+
+**Update 2022-09-19**: For those who are coming to Sapienza, please remember that a **face mask** is still required to access the building. So please remember to bring it with you, otherwise, it can be bought in the nearby shops. Also, your presence in the building in the days of the conference must be reported, for the tracking of COVID-19 cases. Please [fill this form](https://docs.google.com/forms/d/e/1FAIpQLSfFC1083nvlTACVNR4BfB1yIifXRUussX4ysKm4QZRo4y9kLA/viewform), for each day of the conference, and keep the confirmation email ready to access the conference room. More informationa are available at [https://www.uniroma1.it/it/notizia/covid-19-procedure-di-accesso-alle-sedi-sapienza](https://www.uniroma1.it/it/notizia/covid-19-procedure-di-accesso-alle-sedi-sapienza). Please note that the form can be filled-out in advance.
+
+---
 [Download ArcheoFOSS 2022 programme (PDF)](./ArcheoFOSS-2022-programme.pdf) [last update 2022-09-19]
 
 ---
