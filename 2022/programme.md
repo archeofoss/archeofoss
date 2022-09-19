@@ -33,8 +33,11 @@ ArcheoFOSS 2022 is hosted by [**DigLab: Interdepartmental Research Center of Sap
         </a>
     </div>
 </div>
-<div class="row">
-    <div class="col-3 offset-3" title="DigiLab Sapienza" >
+
+<hr />
+
+<div class="row mt-3">
+    <div class="col-4 offset-2" title="DigiLab Sapienza" >
         <img src="./logo-af-assoc.png" alt="DigiLab Sapienza" class="img-fluid">
     </div>
     <div class="col-3">
