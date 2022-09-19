@@ -91,7 +91,7 @@ layout: article-slim
     - MiBACT officer
     - Since 2007 he has been directing and coordinating the SITAR (Sistema Informativo Territoriale Archeologico di Roma) project of the Soprintendenza Speciale Archeologia Belle Arti e Paesaggio di Roma, for the creation of the first archaeological cadastre of the City. - He edited the acts of the VII Edition ArcheoFOSS
 - **Valeria Vitale**, Pelagios Commons. London  
-[valeria.vitale@sas.ac.uk](valeria.vitale@sas.ac.uk)  
+[v.vitale@sheffield.ac.uk](v.vitale@sheffield.ac.uk)  
     - University of London
     - Pelagios Commons Education Director
     - 3D Expert for Cultural Heritage and Linked Open Data

@@ -13,7 +13,7 @@ auths:
     orcid: 0000-0001-5250-927X
   - name: Valeria Vitale
     geo: 51.5300671,-0.1294723
-    email: valeria.vitale@sas.ac.uk
+    email: v.vitale@sheffield.ac.uk
     twitter: nottinauta
 ---
 
@@ -24,7 +24,7 @@ Panellists:
   - [@JulianBogdani](https://twitter.com/JulianBogdani)
 - **Valeria Vitale**
   - The Alan Turing Institute, London
-  - [valeria.vitale@sas.ac.uk](mailto:valeria.vitale@sas.ac.uk)
+  - [v.vitale@sheffield.ac.uk](mailto:v.vitale@sheffield.ac.uk)
   - [@nottinauta](https://twitter.com/nottinauta)
 
 Historical maps have always been a precious source of information both for archaeologists and historians. Archaeologists have been both consumers of maps, in search for information about ever changing landscapes due to urbanisation and exploitation of the natural resources, and producers, documenting digs, expeditions and findspots. Historians, on the other hand, look at historical maps as primary sources, able to highlight several aspects of the social and cultural life at the time the maps were drafted. Cartographers and semioticians too, explore historical maps to better understand how the ways in which we represent space has been changing through time. Last, due to their communicative effectiveness and their value as triggers of personal and familiar memories, old maps have always been of great interest also to the eyes of the general public.

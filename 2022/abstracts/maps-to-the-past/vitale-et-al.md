@@ -5,7 +5,7 @@ layout: article-slim
 auths:
   - name: Valeria Vitale
     geo: 51.5300671,-0.1294723
-    email: valeria.vitale@sas.ac.uk
+    email: v.vitale@sheffield.ac.uk
     twitter: nottinauta
   - name: Katherine McDonough
     geo: 51.5300671,-0.1294723
@@ -37,7 +37,7 @@ img: vitale-et-al.jpg
 
 - **Valeria Vitale** 
     - The Alan Turing Institute. London
-    - [valeria.vitale@sas.ac.uk](mailto:valeria.vitale@sas.ac.uk)
+    - [v.vitale@sheffield.ac.uk](mailto:v.vitale@sheffield.ac.uk)
     - @nottinauta
 - **Katherine McDonough**
     - The Alan Turing Institute. London
