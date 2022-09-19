@@ -23,17 +23,24 @@ ArcheoFOSS 2022 is hosted by [**DigLab: Interdepartmental Research Center of Sap
         </a>
     </div>
     <div class="col-4">
-        <a href="https://dger.beniculturali.it/">
-            <img src="./logo-dgeric.jpg" alt="Direzione Generale Educazione, Ricerca e Istituti Culturali. Ministero della Cultura" title="Direzione Generale Educazione, Ricerca e Istituti Culturali. Ministero della Cultura"  class="img-fluid">
+        <a href="https://dger.beniculturali.it/" title="Direzione Generale Educazione, Ricerca e Istituti Culturali. Ministero della Cultura">
+            <img src="./logo-dgeric.jpg" alt="Direzione Generale Educazione, Ricerca e Istituti Culturali. Ministero della Cultura"   class="img-fluid">
         </a>
     </div>
     <div class="col-4">
-        <a href="https://lad.saras.uniroma1.it/">
-            <img src="./logo-lad.png" alt="LAD: Labotarorio di Archeologia Digitale alla Sapienza" title="LAD: Labotarorio di Archeologia Digitale alla Sapienza" class="img-fluid">
+        <a href="https://lad.saras.uniroma1.it/" title="LAD: Labotarorio di Archeologia Digitale alla Sapienza">
+            <img src="./logo-lad.png" alt="LAD: Labotarorio di Archeologia Digitale alla Sapienza" class="img-fluid">
         </a>
     </div>
 </div>
-
+<div class="row">
+    <div class="col-3 offset-3" title="DigiLab Sapienza" >
+        <img src="./logo-af-assoc.png" alt="DigiLab Sapienza" class="img-fluid">
+    </div>
+    <div class="col-3">
+        <img src="./logo-aa3d.png" alt="ArcheoFOSS Associazione" class="img-fluid">
+    </div>
+</div>
 ---
 
 
