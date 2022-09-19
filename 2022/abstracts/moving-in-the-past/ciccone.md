@@ -5,6 +5,7 @@ layout: article-slim
 auths:
   - name: Gabriele Ciccone
     geo: 41.8523597,12.6168679
+    email: cccgrl01@uniroma2.it
 img: ciccone.png
 ---
 

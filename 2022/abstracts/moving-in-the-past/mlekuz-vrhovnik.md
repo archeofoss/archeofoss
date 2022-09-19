@@ -5,6 +5,7 @@ layout: article-slim
 auths:
   - name: Dimitrij Mlekuž Vrhovnik
     geo: 46.0467678,14.4981283
+    email: dimitrij.mlekuz@ff.uni-lj.si
 ---
 
 

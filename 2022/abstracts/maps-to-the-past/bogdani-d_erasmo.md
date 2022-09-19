@@ -5,8 +5,16 @@ layout: article-slim
 auths:
   - name: Julian Bogdani
     geo: 41.9037626,12.5144384
+    email: julian.bogdani@uniroma1.it
+    twitter: JulianBogdani
+    web: https://lad.saras.uniroma1.it
+    gitHub: jbogdani
+    orcid: 0000-0001-5250-927X
   - name: Domizia D'Erasmo
     geo: 41.9037626,12.5144384
+    web: https://lad.saras.uniroma1.it
+    email: domizia.derasmo@uniroma1.it
+    https://twitter: domizzzia
 img: bogdani-d_erasmo.jpg
 ---
 

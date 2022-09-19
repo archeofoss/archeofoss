@@ -5,6 +5,8 @@ layout: article-slim
 auths:
   - name: Paolo Rosati
     geo: 41.9037626,12.5144384
+    email: paolo.rosati@uniroma1.it
+    github: archeorosati
 ---
 
 

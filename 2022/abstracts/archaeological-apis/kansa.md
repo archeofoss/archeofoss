@@ -5,6 +5,9 @@ layout: article-slim
 auths:
   - name: Eric C. Kansa
     geo: 37.757815,-122.5076399
+    email: eric@opencontext.org
+    twitter: ekansa
+    orcid: 0000-0001-5620-4764
 ---
 
 **Panel: I/O: ethics, policies and technologies for programmatic and open access to archaeological online data sets**

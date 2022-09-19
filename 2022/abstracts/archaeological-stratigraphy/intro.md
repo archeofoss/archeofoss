@@ -6,8 +6,17 @@ img: archaeological-stratigraphy.png
 auths:
   - name: Stefano Costa
     geo: 44.4147735,8.9218188
+    web: https://steko.iosa.it/
+    email: stefano.costa@cultura.gov.it
+    orcid: 0000-0003-1124-3174
+    github: steko
+    codeberg: steko
   - name: Emanuel Demetrescu
     geo: 42.0921581,12.5983532
+    email: emanuel.demetrescu@cnr.it
+    https://twitter: zalmoxes
+    orcid: 0000-0002-5065-7970
+    github: zalmoxes-laran
 ---
 
 Panellists:

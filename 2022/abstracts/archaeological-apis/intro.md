@@ -6,8 +6,15 @@ img: archaeological-apis.jpeg
 auths:
   - name: Julian Bogdani
     geo: 41.9037626,12.5144384
+    email: julian.bogdani@uniroma1.it
+    twitter: JulianBogdani
+    web: https://lad.saras.uniroma1.it
+    orcid: 0000-0001-5250-927X
+    gitHub: jbogdani
   - name: Riccardo Montalbano
     geo: 41.8960547,12.4754748
+    email: ricca.montalbano@gmail.com
+    twitter: Riccard52906185
 ---
 
 

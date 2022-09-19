@@ -5,10 +5,13 @@ layout: article-slim
 auths:
   - name: Mariflora Caruso
     geo: 41.899258,12.5152836
+    email: cmariflora@gmail.com
   - name: Paola La Torre
     geo: 41.899258,12.5152836
+    email: paola.latorre@uniroma.it
   - name: Roberta Manzollino
     geo: 41.899258,12.5152836
+    email: roberta.manzollino@uniroma1.it
 ---
 
 

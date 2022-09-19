@@ -6,14 +6,19 @@ img: buscemi-et_alii.jpg
 auths:
   - name: Francesca Buscemi
     geo: 37.5050294,15.0754602
+    email: francesca.buscemi@cnr.it
   - name: Marianna Figuera
     geo: 37.5050294,15.0754602
+    email: marianna.figuera@unict.it
   - name: Giovanni Gallo
     geo: 37.5258413,15.0745988
+    email: giovanni.gallo@unict.it
   - name: Angelica Lo Duca
     geo: 43.71946,10.4194693
+    email: angelica.loduca@iit.cnr.it
   - name: Andrea Marchetti
     geo: 43.71946,10.4194693
+    email: andrea.marchetti@iit.cnr.it
 ---
 
 **Panel: Electronic Publishing and Open Science in Archaeology**

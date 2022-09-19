@@ -29,7 +29,7 @@ We are inviting scholars, independent researchers, institutions, freelance archa
 ## Available panels
 
 1. [Maps to the past. Open digital approaches to the investigation of historical maps](https://github.com/archeofoss/archeofoss2022/discussions/1)  
-Proponents: **Julian Bogdani**, Sapienza University of Rome, Rome ([julian.bogdani@uniroma1.it](mailto:julian.bogdani@uniroma1.it), [@JulianBogdani](https://twitter.com/JulianBogdani)); **Valeria Vitale**, The Alan Turing Institute, London ([vvitale@turing.ac.uk](mailto:vvitale@turing.ac.uk), [@nottinauta](https://twitter.com/nottinauta))
+Proponents: **Julian Bogdani**, Sapienza University of Rome, Rome ([julian.bogdani@uniroma1.it](mailto:julian.bogdani@uniroma1.it), [@JulianBogdani](https://twitter.com/JulianBogdani)); **Valeria Vitale**, The Alan Turing Institute, London ([valeria.vitale@sas.ac.uk](mailto:valeria.vitale@sas.ac.uk), [@nottinauta](https://twitter.com/nottinauta))
 1. [Moving in the past: open solutions for data set design, spatial analysis and spatial statistical methods to investigate movement in Antiquity](https://github.com/archeofoss/archeofoss2022/discussions/3)  
 Proponents **Domizia D'Erasmo**, Sapienza University of Rome, Rome ([domizia.derasmo@uniroma1.it](mailto:domizia.derasmo@uniroma1.it), [@domizzzia](https://twitter.com/domizzzia)); **Noemi Giovino**, Sapienza University of Rome, Rome ([noemi.giovino@uniroma1.it](mailto:noemi.giovino@uniroma1.it))
 1. [I/O: ethics, policies and technologies for programmatic and open access to archaeological online data sets.](https://github.com/archeofoss/archeofoss2022/discussions/4)  

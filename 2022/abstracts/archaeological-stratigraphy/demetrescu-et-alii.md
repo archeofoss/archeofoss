@@ -5,12 +5,21 @@ layout: article-slim
 auths:
   - name: Emanuel Demetrescu
     geo: 42.0921581,12.5983532
+    email: emanuel.demetrescu@cnr.it
+    https://twitter: zalmoxes
+    orcid: 0000-0002-5065-7970
+    github: zalmoxes-laran
   - name: Cristina Gonzalez Esteban
     geo: 51.7539977,-1.2603383
+    email: cristina.ge14@gmail.com
   - name: Filippo Sala
     geo: 43.7167273,10.3943746
+    email: filippo.sala@phd.unipi.it
+    github: filipposala91
   - name: Daniele Bursich
     geo: 40.7713144,14.7885268
+    email: dbursich@unisa.it
+    orcid: 0000-0002-0545-9406
 ---
 
 **Panel: Archaeological stratigraphy data**

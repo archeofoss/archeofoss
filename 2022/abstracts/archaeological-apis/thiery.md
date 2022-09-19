@@ -6,6 +6,12 @@ img: thiery.png
 auths:
   - name: Florian Thiery
     geo: 50.0061931,8.2679436
+    email: mailto:mail@fthiery.de
+    twitter: OghamFPFW
+    web: https://ogham.link
+    orcid: 0000-0002-3246-3531
+    wikidata: Q66606154
+    github: ogi-ogham
 ---
 
 **Panel: I/O: ethics, policies and technologies for programmatic and open access to archaeological online data sets**

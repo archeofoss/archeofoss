@@ -5,10 +5,22 @@ layout: article-slim
 auths:
   - name: Florian Thiery
     geo: 49.9935934,8.2787513
+    email: florian.thiery@rgzm.de
+    twitter: fthierygeo
+    orcid: 0000-0002-3246-3531
+    wikidata: Q66606154
+    github: florianthiery
   - name: Allard Mees
     geo: 49.9935934,8.2787513
+    email: allard.mees@rgzm.de
+    orcid: 0000-0002-7634-5342
+    wikidata: Q88865971
+    github: AllardMees
   - name: John Brady Kiesling
     geo: 37.9908997,23.7033199
+    email: topostext@gmail.com
+    orcid: 0000-0003-3281-5741
+    wikidata: Q4955198
 ---
 
 

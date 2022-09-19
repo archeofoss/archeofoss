@@ -7,6 +7,8 @@ layout: article-slim
 
 We are very happy to publish the definitive conference programme of ArcheoFOSS 2022, to be held **in Rome** and **online** on 22-23 September 2022.
 
+Please, feel free to contact us anytime by sending an email at [julian.bogdani@uniroma1.it](mailto:julian.bogdani@uniroma1.it).
+
 ---
 [Download ArcheoFOSS 2022 programme (PDF)](./ArcheoFOSS-2022-programme.pdf) [last update 2022-09-06]
 
@@ -56,7 +58,7 @@ More information about the online broadcasting will be available in the next few
 
 - **09:00** - 09:30 [CEST]  
 Paolo **Carafa**. Pro-Rector for the Archaeological Heritage, Sapienza University of Rome.  
-Paola **Buzi**. Director of [DigiLab. Interdepartimenal Research Center of Sapienza University of Rome](digilab.uniroma1.it/).  
+Paola **Buzi**. Director of [DigiLab. Interdepartmental Research Center of Sapienza University of Rome](digilab.uniroma1.it/).  
 Julian **Bogdani**. ArcheoFOSS Scientific Committee member. [LAD, Sapienza University of Rome](lad.saras.uniroma1.it/).  
 
 ---
@@ -82,16 +84,12 @@ Alessio **Paonessa**
 - **10:45** - 11:00 [CEST] *in presence*  
 Emanuel **Demetrescu**, Cristina **Gonzalez Esteban**, Filippo **Sala**, Daniele **Bursich**  
 [*EMdb: yet another db for the stratigraphic record.*](abstracts/archaeological-stratigraphy/demetrescu-et-alii)
-- **11:00** - 11:15 [CEST] *in presence*  
-Giulia **Chellini**, Bruno **Fanini**, Leonarda **Fazio**, Maria Grazia **Griffo**, Mauro **Lo Brutto**, Saverio Giulio **Malatesta**, Elisa Chiara **Portale**  
-[*An innovative digital system for the Lilibeo Archeological Museum roman sculptures enhancement*](abstracts/archaeological-stratigraphy/chellini-et-al)
-
-- **11:15** - 11:30 [CEST]  
+- **11:10** - 11:15 [CEST]  
 Discussion
 
 ---
 
-- **11:30** - 11:45 [CEST]  
+- **11:15** - 11:45 [CEST]  
 **Coffee break**
 
 ---
@@ -201,7 +199,7 @@ Gaëlle **Coqueugniot**, Virginie **Fromageot-Laniepce**
 Alain **Queffelec**, Marta **Arzarello**, Ruth **Blasco**, Otis **Crandell**, Luc **Doyon**, Sian **Halcrow**, Emma **Karoune**, Bruno **Maureille**, Aitor **Ruiz-Redondo**, Philip **Van Peer**  
 [*Peer Community In Archaeology: A community-driven free and transparent system for preprints peer-reviewing*](abstracts/oa-e-publishing/queffelec-et-alii)
 - **09:35** - 09:50 [CEST] *in presence*  
-Marco **Montanari**
+Marco **Montanari**  
 [*Crossover! Digital Public History / Digital Archaeology / Virtual Roleplaying Games*](abstracts/oa-e-publishing/montanari)
 - **09:50** - 10:05 [CEST] *online*  
 Andrea **Bellotti**, Luca **Luppino**, Maria **Messineo**, Mickey **Scarcella**  

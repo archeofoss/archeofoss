@@ -5,6 +5,7 @@ layout: article-slim
 auths:
   - name: Sandra Leonardi
     geo: 41.9102411,12.3955711
+    email: sandra.leonardi@uniroma1.it
 ---
 
 **Panel: Maps to the past. Open digital approaches to the investigation of historical maps**

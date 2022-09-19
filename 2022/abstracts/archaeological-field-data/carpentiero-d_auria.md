@@ -6,8 +6,10 @@ img: carpentiero-d_auria.jpg
 auths:
   - name: Laura Carpentiero
     geo: 40.8312632,14.2422203
+    email: lcarpentiero@unior.it
   - name: Dora D'Auria
     geo: 40.8312632,14.2422203
+    email: ddauria@unior.it
 ---
 
 **Panel: Practice and Paradigms of Open Source Technologies for Archaeological Field Data.**

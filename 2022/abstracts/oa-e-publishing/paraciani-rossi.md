@@ -5,8 +5,10 @@ layout: article-slim
 auths:
   - name: Nicolò Paraciani
     geo: 40.8436611,14.2501438
+    email: nicolo.paraciani@cnr.it
   - name: Irene Rossi
     geo: 40.8436611,14.2501438
+    email: irene.rossi@cnr.it
 ---
 
 **Panel: Electronic Publishing and Open Science in Archaeology**

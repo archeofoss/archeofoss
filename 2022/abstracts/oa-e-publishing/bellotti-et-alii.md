@@ -5,18 +5,23 @@ layout: article-slim
 auths:
   - name: Andrea Bellotti
     geo: 44.4992192,11.2616458
+    email: archeobellotti@gmail.com
   - name: Luca Luppino
     geo: 44.4992192,11.2616458
+    email: lucalupp@gmail.com
   - name: Maria Messineo
+    email: messineo.archeo@gmail.com
     geo: 44.4992192,11.2616458
   - name: Mickey Scarcella
     geo: 44.4992192,11.2616458
+    email: mickey.scarcella@gmail.com
 ---
 
 **Panel: Electronic Publishing and Open Science in Archaeology**
 
 - **Andrea Bellotti**
-    - Associazione Ricreativa Culturale “Let’s Dig Again”, - [archeobellotti@gmail.com](mailto:archeobellotti@gmail.com)
+    - Associazione Ricreativa Culturale “Let’s Dig Again”
+    - [archeobellotti@gmail.com](mailto:archeobellotti@gmail.com)
 - **Luca Luppino**
     - Associazione Ricreativa Culturale "Let's Dig Again"
     - [lucalupp@gmail.com](mailto:lucalupp@gmail.com)
