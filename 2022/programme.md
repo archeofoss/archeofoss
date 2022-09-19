@@ -58,7 +58,7 @@ More information about the online broadcasting will be available in the next few
 
 - **09:00** - 09:30 [CEST]  
 Paolo **Carafa**. Pro-Rector for the Archaeological Heritage, Sapienza University of Rome.  
-Paola **Buzi**. Director of [DigiLab. Interdepartimenal Research Center of Sapienza University of Rome](digilab.uniroma1.it/).  
+Paola **Buzi**. Director of [DigiLab. Interdepartmental Research Center of Sapienza University of Rome](digilab.uniroma1.it/).  
 Julian **Bogdani**. ArcheoFOSS Scientific Committee member. [LAD, Sapienza University of Rome](lad.saras.uniroma1.it/).  
 
 ---
