@@ -10,7 +10,7 @@ We are very happy to publish the definitive conference programme of ArcheoFOSS 2
 Please, feel free to contact us anytime by sending an email at [julian.bogdani@uniroma1.it](mailto:julian.bogdani@uniroma1.it).
 
 ---
-[Download ArcheoFOSS 2022 programme (PDF)](./ArcheoFOSS-2022-programme.pdf) [last update 2022-09-06]
+[Download ArcheoFOSS 2022 programme (PDF)](./ArcheoFOSS-2022-programme.pdf) [last update 2022-09-19]
 
 ---
 
