@@ -18,11 +18,11 @@ Please, feel free to contact us anytime by sending an email at [julian.bogdani@u
 
 ---
 
-ArcheoFOSS 2022 is hosted by [**DigiLab: Interdepartmental Research Center of Sapienza University of Rome**](https://digilab4.let.uniroma1.it/), with the contribution of [**Direzione Generale Educazione, Ricerca e Istituti Culturali. Ministero della Cultura**](https://dger.beniculturali.it/) and the support of [**LAD: Labotarorio di Archeologia Digitale alla Sapienza**](https://lad.saras.uniroma1.it/).
+ArcheoFOSS 2022 is hosted by [**DigiLab: Interdepartmental Research Center of Sapienza University of Rome**](https://digilab.uniroma1.it/), with the contribution of [**Direzione Generale Educazione, Ricerca e Istituti Culturali. Ministero della Cultura**](https://dger.beniculturali.it/) and the support of [**LAD: Labotarorio di Archeologia Digitale alla Sapienza**](https://lad.saras.uniroma1.it/).
 
 <div class="row">
     <div class="col-4">
-        <a href="https://digilab4.let.uniroma1.it/">
+        <a href="https://digilab.uniroma1.it/">
             <img src="./logo-digilab.jpg" alt="DigiLab Sapienza" title="DigiLab Sapienza" class="img-fluid">
         </a>
     </div>
