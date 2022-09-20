@@ -11,10 +11,12 @@ auths:
     web: https://lad.saras.uniroma1.it
     gitHub: jbogdani
     orcid: 0000-0001-5250-927X
+    affiliation:  LAD, Sapienza University of Rome, Rome, Italy
   - name: Valeria Vitale
     geo: 51.5300671,-0.1294723
     email: v.vitale@sheffield.ac.uk
     twitter: nottinauta
+    affiliation: The Alan Turing Institute, London, United Kingdom
 ---
 
 Panellists:
@@ -23,7 +25,7 @@ Panellists:
   - [julian.bogdani@uniroma1.it](mailto:julian.bogdani@uniroma1.it)
   - [@JulianBogdani](https://twitter.com/JulianBogdani)
 - **Valeria Vitale**
-  - The Alan Turing Institute, London
+  - The Alan Turing Institute, London, United Kingdom
   - [v.vitale@sheffield.ac.uk](mailto:v.vitale@sheffield.ac.uk)
   - [@nottinauta](https://twitter.com/nottinauta)
 

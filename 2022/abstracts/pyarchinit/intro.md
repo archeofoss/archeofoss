@@ -7,19 +7,21 @@ auths:
   - name: Enzo Cocca
     geo: 44.0577767,12.5664531
     email: archeologia@adarteinfo.it
+    affiliation: adArte s.r.l., Rimini, Italy
     twitter: pyarchinit
   - name: Gianluca Martinez
     geo: 43.7166586,10.390978
     email: gianlucamartinez@hotmail.it
+    affiliation: Università di Pisa, Pisa, Italy
 ---
 
 Panellists
 - **Enzo Cocca**
-  - AdArte s.r.l.
+  - adArte s.r.l., Rimini, Italy
   - [archeologia@adarteinfo.it](mailto:archeologia@adarteinfo.it)
   - [@pyarchinit](https://mobile.twitter.com/pyarchinit)
 - **Gianluca Martinez**
-  - Università di Pisa, Pisa
+  - Università di Pisa, Pisa, Italy
   - [gianlucamartinez@hotmail.it](mailto:gianlucamartinez@hotmail.it)
 
 The plugin pyArchInit for QGIS, a GIS tool for archaeological data-management, has been tested in years over two thousand

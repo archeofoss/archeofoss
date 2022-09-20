@@ -8,17 +8,21 @@ auths:
     email: marco.moderato@unich.it
     orcid: 0000-0002-7942-3385
     twitter: marcomoderato
+    affiliation: G.D'Annunzio University, Chieti, Italy
   - name: Roberto Taglioretti
     geo: 45.7405677,8.8546589
     email: r.taglioretti@archeostec.it
     web: https://www.mapod.it/
+    affiliation: ArcheOs Tec, Gornate Olona, Varese
   - name: Alessandra Mazzucchi
     geo: 45.7405677,8.8546589
     email: a.mazzucchi@archeostec.it
     web: https://www.archeostec.it/
+    affiliation: ArcheOs Tec, Gornate Olona, Varese
   - name: Vasco La Salvia
     geo: 42.3681642,14.147921
     email: vlasalvia@unich.it
+    affiliation: G.D'Annunzio University, Chieti, Italy
 ---
 
 **Panel: Electronic Publishing and Open Science in Archaeology**

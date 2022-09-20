@@ -7,28 +7,35 @@ auths:
     geo: 51.5300671,-0.1294723
     email: v.vitale@sheffield.ac.uk
     twitter: nottinauta
+    affiliation: The Alan Turing Institute. London, United Kingdom
   - name: Katherine McDonough
     geo: 51.5300671,-0.1294723
     email: kmcdonough@turing.ac.uk
     twitter: khetiwe24
+    affiliation: The Alan Turing Institute. London, United Kingdom
   - name: Rainer Simon
     geo: 48.2691256,16.4223578
     email: Rainer.Simon@ait.ac.at
     twitter: aboutgeo
+    affiliation: Austrian Institute of Technology. Vienna, Austria
   - name: YaoYi Chiang
     geo: 44.9739938,-93.2299172
     email: yaoyi@umn.edu
     twitter: YaoYiChiang1
+    affiliation: University of Minnesota. Minenapolis. Minnesota. USA
   - name: Zekun Li
     geo: 44.9739938,-93.2299172
     email: li002666@umn.edu
+    affiliation: University of Minnesota. Minenapolis. Minnesota. USA
   - name: Jina Kim
     geo: 44.9739938,-93.2299172
     email: kim01479@umn.edu
-    teitter: jina_kimmm
+    twitter: jina_kimmm
+    affiliation: University of Minnesota. Minenapolis. Minnesota. USA
   - name: Deborah Holmes-Wong
     geo: 34.0223563,-118.2873057
     email: dhwong@usc.edu
+    affiliation: University of Southern California Library. Los Angeles. California. USA
 img: vitale-et-al.jpg
 ---
 
@@ -36,15 +43,15 @@ img: vitale-et-al.jpg
 **Panel: Maps to the Past. Open digital approaches to the investigation of historical maps.**
 
 - **Valeria Vitale** 
-    - The Alan Turing Institute. London
+    - The Alan Turing Institute. London, United Kingdom
     - [v.vitale@sheffield.ac.uk](mailto:v.vitale@sheffield.ac.uk)
     - @nottinauta
 - **Katherine McDonough**
-    - The Alan Turing Institute. London
+    - The Alan Turing Institute. London, United Kingdom
     - [kmcdonough@turing.ac.uk](mailto:kmcdonough@turing.ac.uk)
     - @khetiwe24
 - **Rainer Simon**
-    - Austrian Institute of Technology. Vienna
+    - Austrian Institute of Technology. Vienna, Austria
     - [Rainer.Simon@ait.ac.at](mailto:Rainer.Simon@ait.ac.at)
     - @aboutgeo
 - **YaoYi Chiang**
@@ -52,10 +59,10 @@ img: vitale-et-al.jpg
     - [yaoyi@umn.edu](mailto:yaoyi@umn.edu)
     - @YaoYiChiang1
 - **Zekun Li**
-    University of Minnesota. Minenapolis. Minnesota. USA
+    - University of Minnesota. Minenapolis. Minnesota. USA
     - [li002666@umn.edu](mailto:li002666@umn.edu)
 - **Jina Kim**
-    - University of Minnesota
+    - University of Minnesota. Minenapolis. Minnesota. USA
     - [kim01479@umn.edu](mailto:kim01479@umn.edu)
     - @jina_kimmm
 - **Deborah Holmes-Wong**

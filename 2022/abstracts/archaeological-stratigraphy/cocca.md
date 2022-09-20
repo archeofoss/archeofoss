@@ -8,6 +8,7 @@ auths:
     geo: 40.8436611,14.2524398
     email: enzo.cocca@ispc.cnr.it
     github: enzococca
+    affiliation: CNR-ISPC, Napoli, Italy
 ---
 
 **Panel: Archaeological stratigraphy data**

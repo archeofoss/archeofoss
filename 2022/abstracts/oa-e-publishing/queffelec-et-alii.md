@@ -7,24 +7,34 @@ auths:
   - name: Alain Queffelec
     geo: 44.8258856,-0.6079888
     email: contact@archaeo.peercommunityin.org
+    affiliation: UMR5199 CNRS PACEA, Univ. Bordeaux, Ministère de la Culture, France
   - name: Marta Arzarello
     geo: 44.838647,11.6065323
+    affiliation: Sezione di Scienze Preistoriche e Antropologiche, Univ. Ferrara, Italy.
   - name: Ruth Blasco
     geo: 41.133371,1.2363857
+    affiliation: Institut Català de Paleoecologia Humana i Evolució Social (IPHES-CERCA), Spain; Departament d’Història i Història de l’Art, Univ. Rovira i Virgili, Spain
   - name: Otis Crandell
     geo: -25.4269032,-49.2639545
+    affiliation: Centro de Estudios e Pesquisas Arquealogicas, Univ. Federal do Parana, Brazil
   - name: Luc Doyon
     geo: 44.8258856,-0.6079888
+    affiliation: UMR5199 CNRS PACEA, Univ. Bordeaux, Ministère de la Culture, France; Institute of Cultural Heritage, Shandong University, China
   - name: Sian Halcrow
     geo: -45.8646797,170.512234
+    affiliation: Department of Anatomy, Univ. Otago, New Zealand
   - name: Emma Karoune
     geo: 51.5300671,-0.1317683
+    affiliation: Tools, practices and systems program, The Alan Turing Institute, United Kingdom 
   - name: Bruno Maureille
     geo: 41.6420679,-0.9036952
+    affiliation: Department of Ancient Studies, Univ. Zaragoza, Spain.
   - name: Aitor Ruiz-Redondo
     geo: 41.6420679,-0.9036952
+    affiliation: Department of Ancient Studies, Univ. Zaragoza, Spain.
   - name: Philip Van Peer
     geo: 50.8702223,4.6883784
+    affiliation: Centre for the Archaeology of Landscapes, Univ. Leuven, Belgium
 ---
 
 **Panel: Electronic Publishing and Open Science in Archaeology**

@@ -6,24 +6,28 @@ auths:
   - name: Andrea Bellotti
     geo: 44.4992192,11.2616458
     email: archeobellotti@gmail.com
+    affiliation: Associazione Ricreativa Culturale “Let’s Dig Again”, Bologna, Italy
   - name: Luca Luppino
     geo: 44.4992192,11.2616458
     email: lucalupp@gmail.com
+    affiliation: Associazione Ricreativa Culturale “Let’s Dig Again”, Bologna, Italy
   - name: Maria Messineo
     email: messineo.archeo@gmail.com
+    affiliation: Freelance Archaeologist
     geo: 44.4992192,11.2616458
   - name: Mickey Scarcella
     geo: 44.4992192,11.2616458
     email: mickey.scarcella@gmail.com
+    affiliation: Freelance Archaeologist
 ---
 
 **Panel: Electronic Publishing and Open Science in Archaeology**
 
 - **Andrea Bellotti**
-    - Associazione Ricreativa Culturale “Let’s Dig Again”
+    - Associazione Ricreativa Culturale “Let’s Dig Again”, Bologna, Italy
     - [archeobellotti@gmail.com](mailto:archeobellotti@gmail.com)
 - **Luca Luppino**
-    - Associazione Ricreativa Culturale "Let's Dig Again"
+    - Associazione Ricreativa Culturale “Let’s Dig Again”, Bologna, Italy
     - [lucalupp@gmail.com](mailto:lucalupp@gmail.com)
 - **Maria Messineo**
     - Freelance Archaeologist

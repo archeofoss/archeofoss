@@ -6,12 +6,15 @@ auths:
   - name: Mariflora Caruso
     geo: 41.899258,12.5152836
     email: cmariflora@gmail.com
+    affiliation: Archeo&Arte3D DigiLab, Sapienza University of Rome, Rome, Italy
   - name: Paola La Torre
     geo: 41.899258,12.5152836
     email: paola.latorre@uniroma.it
+    affiliation: Archeo&Arte3D DigiLab, Sapienza University of Rome, Rome, Italy
   - name: Roberta Manzollino
     geo: 41.899258,12.5152836
     email: roberta.manzollino@uniroma1.it
+    affiliation: Archeo&Arte3D DigiLab, Sapienza University of Rome, Rome, Italy
 ---
 
 

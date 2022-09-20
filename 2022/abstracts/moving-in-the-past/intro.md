@@ -8,15 +8,17 @@ auths:
     geo: 41.9037626,12.5144384
     email: domizia.derasmo@uniroma1.it
     twitter: domizzzia
+    affiliation: LAD. Sapienza University of Rome, Rome
   - name: Noemi Giovino
     geo: 41.9037626,12.5144384
     email: noemi.giovino@uniroma1.it
     github: noemigi
+    affiliation: Sapienza University of Rome, Rome
 ---
 
 Proponents:
 - **Domizia D'Erasmo**
-  - Sapienza University of Rome, Rome
+  - LAD. Sapienza University of Rome, Rome
   - [domizia.derasmo@uniroma1.it](mailto:domizia.derasmo@uniroma1.it)
   - [@domizzzia](https://twitter.com/domizzzia)
 - **Noemi Giovino**

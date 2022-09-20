@@ -8,15 +8,19 @@ auths:
     email: marco.montanari@openhistorymap.org
     twitter: ingmmo
     github: sirmmo
+    affiliation: Open History Map, Bologna, Italy
   - name: Lucia Marsicano
     geo: 44.4992192,11.2616458
     email: lucia.marsicano@openhistorymap.org
+    affiliation: Open History Map, Bologna, Italy
   - name: Silvia Bernardoni
     geo: 44.4992192,11.2616458
     email: silvia.bernardoni@openhistorymap.org
+    affiliation: Open History Map, Bologna, Italy
   - name: Raffaele Trojanis
     geo: 44.4992192,11.2616458
     email: raffaele.trojanis@openhistorymap.org
+    affiliation: Open History Map, Bologna, Italy
 ---
 
 **Panel: From wiki projects to OpenStreetMap, collaborative approaches to open data creation: problems, case studies, territorial and cultural impact.**

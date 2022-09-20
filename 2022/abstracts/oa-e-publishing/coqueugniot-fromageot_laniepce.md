@@ -5,8 +5,11 @@ layout: article-slim
 auths:
   - name: Gaëlle Coqueugniot
     geo: 48.9041698,2.207674
+    affiliation: CNRS, Maison des Sciences de l’Homme Mondes, editor, Paris, France
   - name: Virginie Fromageot-Laniepce
     geo: 48.9041698,2.207674
+    email: virginie.fromageot@cnrs.fr
+    affiliation: CNRS, ArScAn, data manager, Paris, France
 ---
 
 **Panel: Electronic Publishing and Open Science in Archaeology**

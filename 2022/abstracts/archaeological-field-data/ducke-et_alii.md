@@ -7,19 +7,24 @@ auths:
   - name: Benjamin Ducke
     geo: 52.4607023,13.2984561
     email: benjamin.ducke@dainst.de
+    affiliation: 
   - name: Simon Hohl
     geo: 52.4607023,13.2984561
     email: simon.hohl@dainst.de
+    affiliation: 
   - name: Thomas Kleinke
     geo: 52.4607023,13.2984561
     email: thomas.kleinke@dainst.de
+    affiliation: 
   - name: Fabian Riebschläger
     geo: 52.4607023,13.2984561
     email: fabian.riebschlaeger@dainst.de
     twitter.com: friebsch
+    affiliation: 
   - name: Juliane Watson
     geo: 52.4607023,13.2984561
     email: juliane.watson@dainst.de
+    affiliation: 
 ---
 
 **Panel: Practice and Paradigms of Open Source Technologies for Archaeological Field Data.**

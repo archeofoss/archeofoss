@@ -7,13 +7,14 @@ auths:
     geo: 41.9037626,12.5144384
     email: paolo.rosati@uniroma1.it
     github: archeorosati
+    affiliation: DigiLab. University Sapienza of Rome
 ---
 
 
 **Panel: Moving in the past: open solutions for data set design, spatial analysis and geo-statistical methods to investigate movement in Antiquity**
 
 - **Paolo Rosati**
-  - University Sapienza of Rome
+  - DigiLab. University Sapienza of Rome
   - [paolo.rosati@uniroma1.it](mailto:paolo.rosati@uniroma1.it)
   - GitHub: [archeorosati](https://github.com/archeorosati)
 

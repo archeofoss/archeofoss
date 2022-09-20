@@ -6,6 +6,7 @@ auths:
   - name: Gianluca Martinez
     geo: 43.7174565,10.3899766
     email: gianlucamartinez@hotmail.it
+    affiliation: Dipartimento di Civiltà e Forme del Sapere. Università di Pisa, Pisa, Italy
 ---
 
 **Panel: GIS open source solution for archaeological context in between Universities, Public Administration, societies, research center: pyArchInit case.**

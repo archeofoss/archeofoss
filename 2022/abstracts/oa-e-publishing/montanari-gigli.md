@@ -8,10 +8,12 @@ auths:
     email: marco.montanari@openhistorymap.org
     twitter: ingmmo
     github: sirmmo
+    affiliation: Open History Map, Bologna, Italy
   - name: Lorenzo Gigli
     geo: 44.4992192,11.2616458
     email: lorenzo.gigli@unibo.it
     orcid: 0000-0001-9714-3777
+    affiliation: Università di Bologna, Bologna, Italy
 ---
 
 **Panel: Electronic Publishing and Open Science in Archaeology**

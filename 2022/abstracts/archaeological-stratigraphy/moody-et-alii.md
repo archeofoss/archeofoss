@@ -6,15 +6,19 @@ auths:
   - name: Bryony Moody
     geo: 56.3397625,-2.8124896
     email: bcmoody1@sheffield.ac.uk
+    affiliation: School of Mathematics and Statistics, University of Sheffield, UK
   - name: Caitlin Buck
     geo: 56.3397625,-2.8124896
     email: c.e.buck@sheffield.ac.uk
+    affiliation: School of Mathematics and Statistics, University of Sheffield, UK
   - name: Tom Dye
     geo: 21.299829,-157.8170115
     email: tsd@tsdye.online
+    affiliation: Department of Anthropology, University of Hawaii
   - name: Keith May
     geo: 51.5287718,-0.241681
     email: Keith.May@historicengland.org.uk
+    affiliation: Historic England, London, United Kingdom
 ---
 
 
@@ -30,7 +34,7 @@ auths:
   - Department of Anthropology, University of Hawaii
   - [tsd@tsdye.online](mailto:tsd@tsdye.online)
 - **Keith May**
-  - Historic England
+  - Historic England, London, United Kingdom
   - [Keith.May@historicengland.org.uk](mailto:Keith.May@historicengland.org.uk)
 
 A key goal of archivists is ensuring that digital archaeological data are archived in a way that satisfies the FAIR principles ([https://www.go-fair.org/fair-principles/](https://www.go-fair.org/fair-principles/)). These principles ensure that the archaeological data, and especially scientific archaeological data, are Findable, Accessible, Interoperable and Reusable. Unfortunately, there is a lack of standardised software for managing and archiving relative and absolute dating evidence. Consequently, digital archaeological data that should be comparable in archives such as the Archaeology Data Service (ADS) in the UK, are inconsistent, often incomplete and, thus, are not reusable. This paper will discuss prototype software for managing and interpreting absolute and relative dating evidence, allowing FAIR archiving along the way.

@@ -10,11 +10,13 @@ auths:
     web: https://lad.saras.uniroma1.it
     gitHub: jbogdani
     orcid: 0000-0001-5250-927X
+    affiliation: 
   - name: Marco Montanari
     geo: 44.4992192,11.2616458
     email: marco.montanari@openhistorymap.org
     twitter: ingmmo
     orcid: 0000-0001-5026-6083
+    affiliation: 
 ---
 
 

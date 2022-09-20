@@ -6,8 +6,9 @@ auths:
   - name: Alessio Paonessa
     geo: 41.9091873,12.4904907
     email: Alessio.Paonessa@dainst.de
-    https://twitter: AlessioPao
+    twitter: AlessioPao
     orcid: 0000-0002-3751-5716
+    affiliation: Deutsches Archäologisches Institut, Abteilung Rom, Italy
 ---
 
 

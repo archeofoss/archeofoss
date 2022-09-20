@@ -7,9 +7,11 @@ auths:
     geo: 42.3497788,14.1337824
     email: marco.moderato@unich.it
     twitter: marcomoderato
+    affiliation: G.D'Annunzio University, Chieti, Italy
   - name: Vasco La Salvia
     geo: 42.3497788,14.1337824
     email: vlasalvia@unich.it
+    affiliation: G.D'Annunzio University, Chieti, Italy
 ---
 
 **Panel: GIS open source solution for archaeological context in between Universities, Public Administration, societies, research center: pyArchInit case.**

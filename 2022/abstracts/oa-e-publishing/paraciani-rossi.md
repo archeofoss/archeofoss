@@ -6,9 +6,11 @@ auths:
   - name: Nicolò Paraciani
     geo: 40.8436611,14.2501438
     email: nicolo.paraciani@cnr.it
+    affiliation: ISPC, CNR, Rome, Italy
   - name: Irene Rossi
     geo: 40.8436611,14.2501438
     email: irene.rossi@cnr.it
+    affiliation: ISPC, CNR, Rome, Italy
 ---
 
 **Panel: Electronic Publishing and Open Science in Archaeology**

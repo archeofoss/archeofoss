@@ -12,6 +12,7 @@ auths:
     orcid: 0000-0002-3246-3531
     wikidata: Q66606154
     github: ogi-ogham
+    affiliation: 
 ---
 
 **Panel: I/O: ethics, policies and technologies for programmatic and open access to archaeological online data sets**

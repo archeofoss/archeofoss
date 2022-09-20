@@ -6,6 +6,7 @@ auths:
   - name: Gabriele Ciccone
     geo: 41.8523597,12.6168679
     email: cccgrl01@uniroma2.it
+    affiliation: Dipartimento di Storia, Patrimonio Culturale, Formazione e Società. Università di Roma Tor Vergata, Rome, Italy
 img: ciccone.png
 ---
 

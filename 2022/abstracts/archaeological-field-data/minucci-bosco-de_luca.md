@@ -7,12 +7,15 @@ auths:
   - name: Eleonora Minucci
     geo: 40.8312632,14.2422203
     email: eminucci@unior.it
+    affiliation: 
   - name: Angela Bosco
     geo: 40.8312632,14.2422203
     email: abosco@unior.it
+    affiliation: 
   - name: Daniele De Luca
     geo: 40.8540421,14.1765625
     email: d.deluca@cineca.it
+    affiliation: 
 ---
 
 **Panel: Practice and Paradigms of Open Source Technologies for Archaeological Field Data.**

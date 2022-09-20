@@ -6,6 +6,7 @@ auths:
   - name: Dimitrij Mlekuž Vrhovnik
     geo: 46.0467678,14.4981283
     email: dimitrij.mlekuz@ff.uni-lj.si
+    affiliation: Oddelek za arheologijo/Department of Archaeology Filozofska fakulteta/Faculty of Arts Univerza v Ljubljani/University of Ljubljana, Slovenia
 ---
 
 

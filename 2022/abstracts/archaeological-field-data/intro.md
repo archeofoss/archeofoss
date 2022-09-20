@@ -8,9 +8,11 @@ auths:
     geo: 52.4607023,13.2984561
     email: fabian.riebschlaeger@dainst.de
     twitter: friebsch
+    affiliation: 
   - name: Thomas Kleinke
     geo: 52.4607023,13.2984561
     email: Thomas.kleinke@dainst.de
+    affiliation: 
 ---
 
 Panellists

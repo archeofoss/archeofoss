@@ -9,17 +9,21 @@ auths:
     https://twitter: zalmoxes
     orcid: 0000-0002-5065-7970
     github: zalmoxes-laran
+    affiliation: Institute of Heritage Science CNR-ISPC, Rome, Italy
   - name: Cristina Gonzalez Esteban
     geo: 51.7539977,-1.2603383
     email: cristina.ge14@gmail.com
+    affiliation: Oxford University, Oxford, UK
   - name: Filippo Sala
     geo: 43.7167273,10.3943746
     email: filippo.sala@phd.unipi.it
     github: filipposala91
+    affiliation: University of Pisa, Pisa, Italy
   - name: Daniele Bursich
     geo: 40.7713144,14.7885268
     email: dbursich@unisa.it
     orcid: 0000-0002-0545-9406
+    affiliation: University of Salerno, Salerno, Italy
 ---
 
 **Panel: Archaeological stratigraphy data**
@@ -33,14 +37,14 @@ Archaeological stratigraphy data.
   - ORCID: [0000-0002-5065-7970](https://orcid.org/0000-0002-5065-7970)
   - GitHub: [zalmoxes-laran](https://github.com/zalmoxes-laran/)
 - **Cristina Gonzalez Esteban**
-  - Oxford University
+  - Oxford University, Oxford, UK
   - [cristina.ge14@gmail.com](mailto:cristina.ge14@gmail.com)
 - **Filippo Sala**
-  - University of Pisa
+  - University of Pisa, Pisa, Italy
   - [filippo.sala@phd.unipi.it](mailto:filippo.sala@phd.unipi.it)
   - GitHub: [filipposala91](https://github.com/filipposala91)
 - **Daniele Bursich**
-  - University of Salerno
+  - University of Salerno, Salerno, Italy
   - [dbursich@unisa.it](mailto:dbursich@unisa.it)
   - ORCID: [0000-0002-0545-9406](https://orcid.org/0000-0002-0545-9406)
 

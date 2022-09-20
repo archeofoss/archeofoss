@@ -9,6 +9,7 @@ auths:
     email: maria.dengg@ovgu.de
     twitter: theroadsproject
     orcid: 0000-0003-3614-9651
+    affiliation: Viabundus. Pre-modern street map. Otto-von-Guericke-Universität, Magdeburg, Germany
 ---
 
 

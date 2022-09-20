@@ -10,6 +10,7 @@ auths:
     orcid: 0000-0003-1124-3174
     github: steko
     codeberg: steko
+    affiliation: Soprintendenza Archeologia Belle Arti e Paesaggio per le province di Imperia e Savona, Ministero della Cultura, Genoa, Italy
 ---
 
 

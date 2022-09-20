@@ -6,6 +6,7 @@ auths:
   - name: Sandra Leonardi
     geo: 41.9102411,12.3955711
     email: sandra.leonardi@uniroma1.it
+    affiliation: Dipartimento di Lettere e culture moderne, Sapienza Università di Roma, Rome, Italy
 ---
 
 **Panel: Maps to the past. Open digital approaches to the investigation of historical maps**

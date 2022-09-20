@@ -7,6 +7,7 @@ auths:
     geo: 46.9504932,7.4359303
     email: joe@joeroe.io
     web: https://joeroe.io
+    affiliation: Institute of Archaeological Sciences, University of Bern, Bern, Switzerland
 ---
 
 **Panel: Archaeological stratigraphy data**

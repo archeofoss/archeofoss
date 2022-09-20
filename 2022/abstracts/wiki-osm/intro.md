@@ -7,21 +7,23 @@ auths:
     geo: 41.899258,12.5152836
     email: saveriogiulio.malatesta@uniroma1.it
     orcid: 0000-0002-0514-3604
+    affiliation: DigiLab. Sapienza University of Rome
   - name: Paolo Rosati
     geo: 41.899258,12.5152836
     email: paolo.rosati@uniroma1.it
     orcid: 0000-0003-0695-7121
     github: archeorosati
+    affiliation: DigiLab. Sapienza University of Rome
 
 ---
 
 Panellists:
 - **Saverio Giulio Malatesta**
-    -   Digilab University Sapienza of Rome
+    -   DigiLab. Sapienza University of Rome
     -   [saveriogiulio.malatesta@uniroma1.it](mailto:saveriogiulio.malatesta@uniroma1.it)
     -   ORCID: [0000-0002-0514-3604](https://orcid.org/0000-0002-0514-3604)
 - **Paolo Rosati**
-    -   Digilab University Sapienza of Rome
+    -   DigiLab. Sapienza University of Rome
     -   [paolo.rosati@uniroma1.it](mailto:paolo.rosati@uniroma1.it)
     -   ORCID: [0000-0003-0695-7121](https://orcid.org/0000-0003-0695-7121)
     -   GitHub: [@archeorosati](https://github.com/archeorosati)

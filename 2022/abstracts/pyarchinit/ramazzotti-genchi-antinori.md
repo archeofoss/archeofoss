@@ -6,12 +6,15 @@ auths:
   - name: Marco Ramazzotti
     geo: 41.9037626,12.5144384
     email: marco.ramazzotti@uniroma1.it
+    affiliation: Sapienza University of Rome, Rome, Italy
   - name: Francesco Genchi
     geo: 41.9037626,12.5144384
     email: francesco.genchi@uniroma1.it
+    affiliation: Sapienza University of Rome, Rome, Italy
   - name: Guido Antinori
     geo: 41.9037626,12.5144384
     email: guido.antinori@uniroma1.it
+    affiliation: Sapienza University of Rome, Rome, Italy
 ---
 
 **Panel: GIS open source solution for archaeological context in between Universities, Public Administration, societies, research center: pyArchInit case.**

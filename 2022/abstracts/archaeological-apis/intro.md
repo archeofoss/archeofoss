@@ -11,10 +11,12 @@ auths:
     web: https://lad.saras.uniroma1.it
     orcid: 0000-0001-5250-927X
     gitHub: jbogdani
+    affiliation: 
   - name: Riccardo Montalbano
     geo: 41.8960547,12.4754748
     email: ricca.montalbano@gmail.com
     twitter: Riccard52906185
+    affiliation: 
 ---
 
 

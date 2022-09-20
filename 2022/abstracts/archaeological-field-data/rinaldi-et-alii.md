@@ -7,15 +7,19 @@ auths:
   - name: Federica Rinaldi
     geo: 41.8910003,12.4854315
     email: federica.rinaldi@beniculturali.it
+    affiliation: 
   - name: Alessandro Lugari
     geo: 41.8910003,12.4854315
     email: alessandro.lugari@beniculturali.it
+    affiliation: 
   - name: Francesca Sposito
     geo: 41.8910003,12.4854315
     email: francesca.sposito@gmail.com
+    affiliation: 
   - name: Ascanio D'Andrea
     geo: 41.8910003,12.4854315
     email: ascaniodandrea@gmail.com
+    affiliation: 
 ---
 
 

@@ -8,6 +8,7 @@ auths:
     email: marco.montanari@openhistorymap.org
     twitter: ingmmo
     github: sirmmo
+    affiliation: Open History Map, Bologna, Italy
 ---
 
 **Panel: Maps to the past. Open digital approaches to the investigation of historical maps**
