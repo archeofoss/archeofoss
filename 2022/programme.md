@@ -33,7 +33,7 @@ ArcheoFOSS 2022 is hosted by [**DigiLab: Interdepartmental Research Center of Sa
     </div>
     <div class="col-4">
         <a href="https://lad.saras.uniroma1.it/" title="LAD: Labotarorio di Archeologia Digitale alla Sapienza">
-            <img src="./logo-lad.png" alt="LAD: Labotarorio di Archeologia Digitale alla Sapienza" class="img-fluid">
+            <img src="./logo-lad.png" alt="LAD: Labotarorio di Archeologia Digitale alla Sapienza" class="img-fluid" style="margin: 0 1rem">
         </a>
     </div>
 </div>
