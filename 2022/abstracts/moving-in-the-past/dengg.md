@@ -1,7 +1,7 @@
 ---
 title: "Viabundus. Map of premodern European transport and mobility"
 description: "Viabundus. Map of premodern European transport and mobility"
-layout: article-slim
+layout: abstract
 img: dengg.jpg
 auths:
   - name: Maria Carina Dengg
@@ -12,16 +12,7 @@ auths:
     affiliation: Viabundus. Pre-modern street map. Otto-von-Guericke-Universität, Magdeburg, Germany
 ---
 
-
-
 **Panel: Moving in the past: open solutions for data set design, spatial analysis and geo-statistical methods to investigate movement in Antiquity**
-
-
-- **Maria Carina Dengg**
-  - Viabundus. Pre-modern street map. Otto-von-Guericke-Universität, Magdeburg, Germany
-  - [maria.dengg@ovgu.de](mailto:maria.dengg@ovgu.de)
-  - [@theroadsproject](https://twitter.com/theroadsproject)
-  - ORCID: [0000-0003-3614-9651](https://orcid.org/0000-0003-3614-9651)
 
 [Viabundus](http://viabundus.eu) is a freely accessible online street map of late medieval and early modern Northern Europe (1350-1650). Originally conceived as the digitisation of Friedrich Bruns’ and Hugo Weczerka's Hansische Handelsstraßen (1962) atlas of land roads in the Hanseatic area, the resulting Viabundus application has turned out to be much more.
 

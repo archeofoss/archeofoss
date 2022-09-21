@@ -1,7 +1,7 @@
 ---
 title: "Technology that Enables Rather than Distracts: Lessons from Open Context and Sustaining Open Archaeological Data"
 description: "Technology that Enables Rather than Distracts: Lessons from Open Context and Sustaining Open Archaeological Data"
-layout: article-slim
+layout: abstract
 auths:
   - name: Eric C. Kansa
     geo: 37.757815,-122.5076399
@@ -12,13 +12,6 @@ auths:
 ---
 
 **Panel: I/O: ethics, policies and technologies for programmatic and open access to archaeological online data sets**
-
-- **Eric C. Kansa**
-  - Open Context, San Francisco, CA, USA
-  - [eric@opencontext.org](mailto:eric@opencontext.org)
-  - [@ekansa](https://twitter.com/ekansa)
-  - ORCID: [https://orcid.org/0000-0001-5620-4764](https://orcid.org/0000-0001-5620-4764)
-
 
 This paper describes technology sustainability issues faced in over 16 years of supporting research data management in archaeology. 
 [Open Context](https://opencontext.org/) first went online to the public Web in November of 2006. Since then, we have invested in a number of significant software “refactoring” (rewrites) as well as continual incremental maintenance and enhancements that continue to this day. 

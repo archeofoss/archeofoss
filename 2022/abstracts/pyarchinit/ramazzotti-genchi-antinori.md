@@ -1,7 +1,7 @@
 ---
 title: "MASPAG & Pyarchinit, the newborn collaboration of Sapienza and AdArte in the Sultanate of Oman"
 description: "MASPAG & Pyarchinit, the newborn collaboration of Sapienza and AdArte in the Sultanate of Oman"
-layout: article-slim
+layout: abstract
 auths:
   - name: Marco Ramazzotti
     geo: 41.9037626,12.5144384
@@ -18,17 +18,6 @@ auths:
 ---
 
 **Panel: GIS open source solution for archaeological context in between Universities, Public Administration, societies, research center: pyArchInit case.**
-
-- **Marco Ramazzotti**
-  - Sapienza University of Rome, Rome, Italy
-  - [marco.ramazzotti@uniroma1.it](mailto:marco.ramazzotti@uniroma1.it)
-- **Francesco Genchi**
-  - Sapienza University of Rome, Rome, Italy
-  - [francesco.genchi@uniroma1.it](mailto:francesco.genchi@uniroma1.it)
-- **Guido Antinori**
-  - Sapienza University of Rome, Rome, Italy
-  - [guido.antinori@uniroma1.it](mailto:guido.antinori@uniroma1.it)
-
 
 During the latest fieldwork season (November 2021 - March 2022), the 
 _Missione Archeologica della Sapienza nella Penisola Arabica e nel Golfo_ (MASPAG) 

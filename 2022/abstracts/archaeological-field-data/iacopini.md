@@ -1,7 +1,7 @@
 ---
 title: "PuntoZero, a web-app for the management, use and collect the archaeological data inside the public archives. The case of Ancona"
 description: "PuntoZero, a web-app for the management, use and collect the archaeological data inside the public archives. The case of Ancona"
-layout: article-slim
+layout: abstract
 auths:
   - name: Eleonora Iacopini
     geo: 41.9037626,12.5144384
@@ -14,13 +14,6 @@ auths:
 
 
 **Panel: Practice and Paradigms of Open Source Technologies for Archaeological Field Data.**
-
-- **Eleonora Iacopini**
-  - LAD. Sapienza University of Rome, Rome, Italy
-  - [https://lad.saras.uniroma1.it](https://lad.saras.uniroma1.it)
-  - [eleonora.iacopini@uniroma1.it](mailto:eleonora.iacopini@uniroma1.it)
-  - ORCID: [0000-0001-9452-9092](https://orcid.org/0000-0001-9452-9092)
-  - GitHub: [eiacopini](https://github.com/eiacopini/)
 
 Punto Zero is a Web application developed for the integrated management of archaeological data contained within the archives of the Soprintendenza Archeologia, Belle Arti e Paesaggio, as a support tool to complement the normal protection activities of the institution.
 

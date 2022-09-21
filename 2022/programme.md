@@ -109,7 +109,7 @@ Discussion
 
 ---
 
-**Panel:  GIS open source solution for archaeological context in between Universities, Public Administration, societies, research center: pyArchInit cas [[info](abstracts/pyarchinit/intro)**]  
+**Panel:  GIS open source solution for archaeological context in between Universities, Public Administration, societies, research center: pyArchInit case [[info](abstracts/pyarchinit/intro)**]  
 Chair and introduction by Enzo **Cocca**, and Gianluca **Martinez**
 
 - **11:45** - 12:00 [CEST] *online*  

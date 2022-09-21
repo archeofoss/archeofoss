@@ -1,7 +1,7 @@
 ---
 title: "An open image atlas for the journal “Archeologia e Calcolatori”"
 description: "An open image atlas for the journal “Archeologia e Calcolatori”"
-layout: article-slim
+layout: abstract
 auths:
   - name: Nicolò Paraciani
     geo: 40.8436611,14.2501438
@@ -14,13 +14,6 @@ auths:
 ---
 
 **Panel: Electronic Publishing and Open Science in Archaeology**
-
-- **Nicolò Paraciani**
-  - ISPC, CNR, Rome, Italy
-  - [nicolo.paraciani@cnr.it](mailto:nicolo.paraciani@cnr.it)
-- **Irene Rossi**
-  - ISPC, CNR, Rome, Italy
-  - [irene.rossi@cnr.it](mailto:irene.rossi@cnr.it)
 
 Open Science best practices and policies have been increasingly promoted and adopted in Europe and worldwide to extend public availability of research data and publications, according to FAIR principles. In this context, the so-called ‘Diamond Open Access’ model is particularly relevant since it entails provision of scientific content entirely free of charge, both for authors and readers. The journal Archeologia e Calcolatori adopted this model at a very early stage, when - in 2005 - it started publishing online full-text PDFs and metadata of its articles according to recognised standards, as an Open Archives Initiative data provider.
 

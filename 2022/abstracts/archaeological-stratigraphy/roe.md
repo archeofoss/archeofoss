@@ -1,7 +1,7 @@
 ---
 title: "Stratigraphic data in R"
 description: "Stratigraphic data in R"
-layout: article-slim
+layout: abstract
 auths:
   - name: Joe Roe
     geo: 46.9504932,7.4359303
@@ -11,11 +11,6 @@ auths:
 ---
 
 **Panel: Archaeological stratigraphy data**
-
-- **Joe Roe**
-  - Institute of Archaeological Sciences, University of Bern, Bern, Switzerland
-  - [joe@joeroe.io](mailto:joe@joeroe.io)
-  - [joeroe.io](https://joeroe.io)
 
 
 Handling stratigraphic data in R is, in a word, easy.

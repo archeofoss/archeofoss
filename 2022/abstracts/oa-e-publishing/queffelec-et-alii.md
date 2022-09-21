@@ -1,7 +1,7 @@
 ---
 title: "Peer Community In Archaeology: A community-driven free and transparent system for preprints peer-reviewing"
 description: "Peer Community In Archaeology: A community-driven free and transparent system for preprints peer-reviewing"
-layout: article-slim
+layout: abstract
 img: queffelec-et-alii.png
 auths:
   - name: Alain Queffelec
@@ -38,30 +38,6 @@ auths:
 ---
 
 **Panel: Electronic Publishing and Open Science in Archaeology**
-
-- **Alain Queffelec**
-  - UMR5199 CNRS PACEA, Univ. Bordeaux, Ministère de la Culture, France
-  - [contact@archaeo.peercommunityin.org](contact@archaeo.peercommunityin.org)
-- **Marta Arzarello**
-  - Sezione di Scienze Preistoriche e Antropologiche, Univ. Ferrara, Italy.
-- **Ruth Blasco**
-  - Institut Català de Paleoecologia Humana i Evolució Social (IPHES-CERCA), Spain
-  - Departament d’Història i Història de l’Art, Univ. Rovira i Virgili, Spain
-- **Otis Crandell**
-  - Centro de Estudios e Pesquisas Arquealogicas, Univ. Federal do Parana, Brazil
-- **Luc Doyon**
-  - UMR5199 CNRS PACEA, Univ. Bordeaux, Ministère de la Culture, France.
-  - Institute of Cultural Heritage, Shandong University, China
-- **Sian Halcrow**
-  - Department of Anatomy, Univ. Otago, New Zealand
-- **Emma Karoune**
-  - Tools, practices and systems program, The Alan Turing Institute, United Kingdom 
-- **Bruno Maureille**
-  - Department of Ancient Studies, Univ. Zaragoza, Spain.
-- **Aitor Ruiz-Redondo**
-  - Department of Ancient Studies, Univ. Zaragoza, Spain.
-- **Philip Van Peer**
-  - Centre for the Archaeology of Landscapes, Univ. Leuven, Belgium.
   
 The number of scientific articles increases every year since scientific journals exist, and should continue to grow in the coming years, and the current system, managed by a few for-profit publishers, has become very costly for our institutions. The traditional model of publishing in paid journals, limiting dissemination behind paywalls or high publication fees, is increasingly being criticized. To overcome these serious flaws of the academic publication system, the deposit of preprints in open archives is a solution for rapid dissemination. However, the quality of these preprints must be guaranteed for quality assurance in research.
 

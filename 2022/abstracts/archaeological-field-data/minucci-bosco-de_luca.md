@@ -1,7 +1,7 @@
 ---
 title: "Virtual RTI Application on 3D model for documentation of ancient graffiti: a propose of methodology for a complex archaeological site"
 description: "Virtual RTI Application on 3D model for documentation of ancient graffiti: a propose of methodology for a complex archaeological site"
-layout: article-slim
+layout: abstract
 img: minucci-bosco-de-luca.png
 auths:
   - name: Eleonora Minucci
@@ -19,16 +19,6 @@ auths:
 ---
 
 **Panel: Practice and Paradigms of Open Source Technologies for Archaeological Field Data.**
-
-- **Eleonora Minucci**
-  - Università degli Studi di Napoli "L'Orientale", Napoli, Italy
-  - [eminucci@unior.it](mailto:eminucci@unior.it)
-- **Angela Bosco**
-  - Università degli Studi di Napoli "L'Orientale", Napoli, Italy
-  - [abosco@unior.it](mailto:abosco@unior.it)
-- **Daniele De Luca**
-  - VisitLab Cineca - Consorzio Interuniversitario, Napoli, Italy
-  - [d.deluca@cineca.it](mailto:d.deluca@cineca.it)
 
 In the field of Cultural Heritage, the technological advances of recent years have enriched and optimized the possibility of documenting and studying ancient graffiti with a wide range of low-cost and non-invasive methodologies. The most popular are digital photogrammetry with SfM (Structure from Motion) algorithms and RTI (Reflectance Transformation Imaging) methodology.
 The RTI is a very powerful tool that, through the use of open source software, enables the documentation of particular data that are difficult to visualise, facilitating the recognition of traces and marks on the surface of objects.

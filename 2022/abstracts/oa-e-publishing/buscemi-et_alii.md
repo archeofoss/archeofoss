@@ -1,7 +1,7 @@
 ---
 title: "An open source and collaborative framework for sharing structured archaeological 3D data"
 description: "An open source and collaborative framework for sharing structured archaeological 3D data"
-layout: article-slim
+layout: abstract
 img: buscemi-et_alii.jpg
 auths:
   - name: Francesca Buscemi
@@ -27,23 +27,6 @@ auths:
 ---
 
 **Panel: Electronic Publishing and Open Science in Archaeology**
-
-- **Francesca Buscemi**
-  - Institute of Sciences of Cultural Heritage, National Research Council, Catania, Italy
-  - [francesca.buscemi@cnr.it](mailto:francesca.buscemi@cnr.it)
- - **Marianna Figuera**
-   - Department of Humanities, University of Catania, Catania, Italy
-   - [marianna.figuera@unict.it](mailto:marianna.figuera@unict.it)
-- **Giovanni Gallo**
-  - Department of Mathematics and Computer Science, University of Catania, Catania, Italy
-  - [giovanni.gallo@unict.it](mailto:giovanni.gallo@unict.it)
-- **Angelica Lo Duca**
-  - Institute of Informatics and Telematics, National Research Council
-  - [angelica.loduca@iit.cnr.it](mailto:angelica.loduca@iit.cnr.it)
- - **Andrea Marchetti**
-   - Institute of Informatics and Telematics, National Research Council
-   - [andrea.marchetti@iit.cnr.it](mailto:andrea.marchetti@iit.cnr.it)
-
 
 The CNR-ISPC project W.A.L.(L) "Wall-facing Automatic images identification Laboratory. A quantitative analysis method for the study of ancient architecture" aims to apply quantitative analysis methods and machine learning to the study of ancient architecture.
 A purposely conceived data base obtained from 3D photogrammetric models allows to query the architectures and to extract significant features for the archaeologists, in order to analyse aspects such as building techniques and materials, constructive behaviours, social groups engaged in the construction, and chronology.

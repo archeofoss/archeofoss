@@ -1,7 +1,7 @@
 ---
 title: "Crossover! Digital Public History / Digital Archaeology / Virtual Roleplaying Games"
 description: "Crossover! Digital Public History / Digital Archaeology / Virtual Roleplaying Games"
-layout: article-slim
+layout: abstract
 auths:
   - name: Marco Montanari
     geo: 44.4992192,11.2616458
@@ -12,13 +12,6 @@ auths:
 ---
 
 **Panel: Electronic Publishing and Open Science in Archaeology**
-
-- **Marco Montanari**
-  - Open History Map, Bologna, Italy
-  - [marco.montanari@openhistorymap.org](mailto:marco.montanari@openhistorymap.org)
-  - [@ingmmo](https://twitter.com/ingmmo)
-  - ORCID: [0000-0001-5026-6083](https://orcid.org/0000-0001-5026-6083)
-
 
 What is published data used for? And how do we make data relevant outside of DA? How do we make public history about a time that is so far in the past that it becomes complex to really grasp the meaning of "communication"? How do we make the world understandable to users that 
 

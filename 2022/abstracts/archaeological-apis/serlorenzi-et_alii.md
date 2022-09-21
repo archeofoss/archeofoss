@@ -1,7 +1,7 @@
 ---
 title: "SITAR - Sistema Informativo Territoriale Archeologico di Roma APIs and Open Data services for a new archaeological data-sharing policy"
 description: "SITAR - Sistema Informativo Territoriale Archeologico di Roma APIs and Open Data services for a new archaeological data-sharing policy"
-layout: article-slim
+layout: abstract
 auths:
   - name: Mirella Serlorenzi
     geo: 41.9012342,12.4965983
@@ -22,19 +22,6 @@ auths:
 ---
 
 **Panel: I/O: ethics, policies and technologies for programmatic and open access to archaeological online data sets**
-
-- **Mirella Serlorenzi**
-  -  Soprintendenza Speciale Archeologia Belle Arti e Paesaggio di Roma, Direttore delle Terme di Caracalla, Direttore del Progetto SITAR
-  - [mirella.serlorenzi@beniculturali.it](mailto:mirella.serlorenzi@beniculturali.it)
-- **Carlo Cifarelli**
-  - Progetto SITAR, Senior Software Engineer, Rome, Italy
-  - [carlo.cifarelli@gmail.com](mailto:carlo.cifarelli@gmail.com)
-- **Ascanio D’Andrea**
-  - Progetto SITAR, Data Manager, Roe, Italy
-  - [ascaniodandrea@gmail.com](mailto:ascaniodandrea@gmail.com)
-- **Riccardo Montalbano**
-  - Progetto SITAR, GIS specialist, Rome, Italy
-  - [ricca.montalbano@gmail.com](mailto:ricca.montalbano@gmail.com)
 
 The action of the Public Administration in Italy is increasingly influenced by the growing and pervasive presence of digital technology and its rapid developments. The omnipresence of (structured) data, databases and platforms and the interconnection between them are profoundly transforming the way the Administration operates, which will continue to change in the future.
 

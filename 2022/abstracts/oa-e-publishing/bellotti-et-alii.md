@@ -1,7 +1,7 @@
 ---
 title: "Spring Archaeology: a gathering project for emerging researchers"
 description: "Spring Archaeology: a gathering project for emerging researchers"
-layout: article-slim
+layout: abstract
 auths:
   - name: Andrea Bellotti
     geo: 44.4992192,11.2616458
@@ -22,19 +22,6 @@ auths:
 ---
 
 **Panel: Electronic Publishing and Open Science in Archaeology**
-
-- **Andrea Bellotti**
-    - Associazione Ricreativa Culturale “Let’s Dig Again”, Bologna, Italy
-    - [archeobellotti@gmail.com](mailto:archeobellotti@gmail.com)
-- **Luca Luppino**
-    - Associazione Ricreativa Culturale “Let’s Dig Again”, Bologna, Italy
-    - [lucalupp@gmail.com](mailto:lucalupp@gmail.com)
-- **Maria Messineo**
-    - Freelance Archaeologist
-    - [messineo.archeo@gmail.com](mailto:messineo.archeo@gmail.com)
-- **Mickey Scarcella**
-    - Freelance Archaeologist
-    - [mickey.scarcella@gmail.com](mailto:mickey.scarcella@gmail.com)
 
 
 Spring Archaeology stemmed from the pressing need to offer young researchers and professionals an occasion to present their work to a heterogeneous audience. Born as a conference idea, Spring Archaeology ended up being a full-fledged project, capable of building a community around the pivotal vision of a public and unrestricted access to scientific data acquired through archaeological research, from material culture to the most advanced techniques of data processing.

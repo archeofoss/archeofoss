@@ -1,7 +1,7 @@
 ---
 title: "Beyond Labels: computational approaches to text on maps"
 description: "Beyond Labels: computational approaches to text on maps"
-layout: article-slim
+layout: abstract
 auths:
   - name: Valeria Vitale
     geo: 51.5300671,-0.1294723
@@ -41,33 +41,6 @@ img: vitale-et-al.jpg
 
 
 **Panel: Maps to the Past. Open digital approaches to the investigation of historical maps.**
-
-- **Valeria Vitale** 
-    - The Alan Turing Institute. London, United Kingdom
-    - [v.vitale@sheffield.ac.uk](mailto:v.vitale@sheffield.ac.uk)
-    - @nottinauta
-- **Katherine McDonough**
-    - The Alan Turing Institute. London, United Kingdom
-    - [kmcdonough@turing.ac.uk](mailto:kmcdonough@turing.ac.uk)
-    - @khetiwe24
-- **Rainer Simon**
-    - Austrian Institute of Technology. Vienna, Austria
-    - [Rainer.Simon@ait.ac.at](mailto:Rainer.Simon@ait.ac.at)
-    - @aboutgeo
-- **YaoYi Chiang**
-    - University of Minnesota. Minenapolis. Minnesota. USA
-    - [yaoyi@umn.edu](mailto:yaoyi@umn.edu)
-    - @YaoYiChiang1
-- **Zekun Li**
-    - University of Minnesota. Minenapolis. Minnesota. USA
-    - [li002666@umn.edu](mailto:li002666@umn.edu)
-- **Jina Kim**
-    - University of Minnesota. Minenapolis. Minnesota. USA
-    - [kim01479@umn.edu](mailto:kim01479@umn.edu)
-    - @jina_kimmm
-- **Deborah Holmes-Wong**
-    - University of Southern California Library. Los Angeles. California. USA
-    - [dhwong@usc.edu](mailto:dhwong@usc.edu)
 
 
 Machines Reading Maps (MRM) aims to make digitised maps more accessible and usable, while generating a new kind of historical research data. MRM uses machine learning (ML) to detect and transcribe map text. Unique named entities are also automatically linked to external knowledge bases such as WikiData. Identifying and linking place names enriches maps semantically and generates more granular metadata, making maps more findable as objects in a collection, and their contents more “searchable” by users. The value of map text, though, is not merely literal, and MRM application of automated techniques highlights the polysemy of words on maps as both labels (communicating the place name) and symbols (communicating information through size, position, orientation and font.

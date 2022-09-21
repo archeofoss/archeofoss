@@ -1,7 +1,7 @@
 ---
 title: "Panel: From wiki projects to OpenStreetMap, collaborative approaches to open data creation: problems, case studies, territorial and cultural impact"
 description: "Panel: From wiki projects to OpenStreetMap, collaborative approaches to open data creation: problems, case studies, territorial and cultural impact"
-layout: article-slim
+layout: abstract
 auths:
   - name: Saverio Giulio Malatesta
     geo: 41.899258,12.5152836
@@ -16,17 +16,6 @@ auths:
     affiliation: DigiLab. Sapienza University of Rome
 
 ---
-
-Panellists:
-- **Saverio Giulio Malatesta**
-    -   DigiLab. Sapienza University of Rome
-    -   [saveriogiulio.malatesta@uniroma1.it](mailto:saveriogiulio.malatesta@uniroma1.it)
-    -   ORCID: [0000-0002-0514-3604](https://orcid.org/0000-0002-0514-3604)
-- **Paolo Rosati**
-    -   DigiLab. Sapienza University of Rome
-    -   [paolo.rosati@uniroma1.it](mailto:paolo.rosati@uniroma1.it)
-    -   ORCID: [0000-0003-0695-7121](https://orcid.org/0000-0003-0695-7121)
-    -   GitHub: [@archeorosati](https://github.com/archeorosati)
 
 Using digital technologies, cultural institutions wised up themselves as gateways to their territories, to share their history and promote their social context. The lack of a common method marginalises the efforts of individual institutions to develop digital projects, they often lack the necessary resources to engage in a wide range of cultural transformation processes as required in the 21st century. However, the deployment in the cultural institutions of FLOS methods, technologies and public open data portal proved to be successful in solving the challenges of our times by constantly involving the local communities (Rosati 2021). One of the most important issue recognised, Wikidata collects all data from Wikimedia projects, is among the largest open databases and one of the most powerful tools to overcome the challenges of the digital transformation (Hinnosaar et al. 2017). 
 

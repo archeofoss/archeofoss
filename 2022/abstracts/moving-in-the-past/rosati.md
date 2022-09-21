@@ -1,7 +1,7 @@
 ---
 title: "ArchaeoloGIS A QGIS processing toolbox for archaeologists spatial analysis"
 description: "ArchaeoloGIS A QGIS processing toolbox for archaeologists spatial analysis"
-layout: article-slim
+layout: abstract
 auths:
   - name: Paolo Rosati
     geo: 41.9037626,12.5144384
@@ -12,12 +12,6 @@ auths:
 
 
 **Panel: Moving in the past: open solutions for data set design, spatial analysis and geo-statistical methods to investigate movement in Antiquity**
-
-- **Paolo Rosati**
-  - DigiLab. University Sapienza of Rome
-  - [paolo.rosati@uniroma1.it](mailto:paolo.rosati@uniroma1.it)
-  - GitHub: [archeorosati](https://github.com/archeorosati)
-
 
 The purpose of the paper is to present the QGIS plugin ArcheoloGIS. ArcheoloGIS is a 'processing toolkit' developed in PyQgis and tested by the community of Una Quantum inc. (Italy). In the toolkit there are 3 algorithms named Tabula Peutingeriana, Eratosthenes and Darius respectively working on the Roman, Greek/Hellenistic and Persian road network. The “Tabula Peutingeriana” algorithm is the first one programmed and its principles are reflected in the others. 
 The algorithm will return points instead of lines of the road, positioning the milestones (eventually helping to find them or their original position), counting the roman miles from the center of the network and the mileage. 

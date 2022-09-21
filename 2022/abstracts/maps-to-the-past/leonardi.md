@@ -1,7 +1,7 @@
 ---
 title: "Geographical web storage mapping proposal"
 description: "Geographical web storage mapping proposal"
-layout: article-slim
+layout: abstract
 auths:
   - name: Sandra Leonardi
     geo: 41.9102411,12.3955711
@@ -10,10 +10,6 @@ auths:
 ---
 
 **Panel: Maps to the past. Open digital approaches to the investigation of historical maps**
-
-- **Sandra Leonardi**
-  - Dipartimento di Lettere e culture moderne, Sapienza Università di Roma, Rome, Italy
-  - [sandra.leonardi@uniroma1.it](mailto:sandra.leonardi@uniroma1.it)
 
 
 Among the activities of curation, cataloging and enhancement for the organization of geographical knowledge implemented by the geography section of the Department of Letters and Modern Cultures of Sapienza, University of Rome, from 2012, there is the realization of a web-base geodata portal, created for the digital storage and open consultation of maps. It is a dynamic archive, realized with open source software, based on historical and geographical paths, designed in relation to the different narratives inspired by research and studying of the geodocumental and cartographic heritage, preserved in the Geography section of the Library of the Department.

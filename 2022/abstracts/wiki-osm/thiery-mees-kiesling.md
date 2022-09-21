@@ -1,7 +1,7 @@
 ---
 title: "Challenges in research community building: integrating Terra Sigillata (Samian) Research into the Wikidata community"
 description: "Challenges in research community building: integrating Terra Sigillata (Samian) Research into the Wikidata community"
-layout: article-slim
+layout: abstract
 auths:
   - name: Florian Thiery
     geo: 49.9935934,8.2787513
@@ -28,26 +28,6 @@ auths:
 
 
 **Panel: From wiki projects to OpenStreetMap, collaborative approaches to open data creation: problems, case studies, territorial and cultural impact.**
-
-- **Florian Thiery**
-  - Römisch-Germanisches Zentralmuseum, Mainz, Germany
-  - [florian.thiery@rgzm.de](mailto:florian.thiery@rgzm.de)
-  - [@fthierygeo](https://twitter.com/fthierygeo)
-  - ORCID: [0000-0002-3246-3531](https://orcid.org/0000-0002-3246-3531)
-  - Wikidata: [Q66606154](http://www.wikidata.org/entity/Q66606154)
-  - GitHub: [@florianthiery](http://github.com/florianthiery)
-- **Allard Mees**
-  - Römisch-Germanisches Zentralmuseum, Mainz, Germany
-  - [allard.mees@rgzm.de](mailto:allard.mees@rgzm.de)
-  - ORCID: [0000-0002-7634-5342](https://orcid.org/0000-0002-7634-5342)
-  - Wikidata: [Q88865971](http://www.wikidata.org/entity/Q88865971)
-  - GitHub: [@AllardMees](http://github.com/AllardMees)
-- **John Brady Kiesling**
-  - ToposText.org, Athens, Greece
-  - [topostext@gmail.com](mailto:topostext@gmail.com)
-  - ORCID: [0000-0003-3281-5741](https://orcid.org/0000-0003-3281-5741)
-  - Wikidata: [Q4955198](http://www.wikidata.org/entity/Q4955198)
-
 
 The [RGZM](http://www.wikidata.org/entity/Q878029) curates the Samian Research database, a treasure-house of economic data on Roman trade and Terra Sigillata industry. Over six decades, a broad European user community of established research institutions, citizen scientists and domain-specific scientists has assembled a [dataset](https://doi.org/10.5281/zenodo.4305708) of ~250’000 potter’s stamps from the [Samian Research Database](https://www.rgzm.de/samian), accessible with findspots and relevant bibliography as [Linked Open Samian Ware](https://rgzm.github.io/samian-lod/) (LOSW) via a collaborative LOD hub, [archaeology.link](https://archaeology.link).
 

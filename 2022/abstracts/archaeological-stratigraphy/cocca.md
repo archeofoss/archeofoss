@@ -1,7 +1,7 @@
 ---
 title: "PThe new Harris Matrix workflow from pyArchInit to Extended Matrix"
 description: "The new Harris Matrix workflow from pyArchInit to Extended Matrix"
-layout: article-slim
+layout: abstract
 img: cocca.jpg
 auths:
   - name: Enzo Cocca
@@ -13,13 +13,6 @@ auths:
 
 **Panel: Archaeological stratigraphy data**
 
-
-- **Enzo Cocca**
-  - CNR-ISPC, Napoli, Italy
-  - [enzo.cocca@ispc.cnr.it](mailto:enzo.cocca@ispc.cnr.it)
-  - [@Giano5](https://t.me/Giano5)
-  - GitHub: [enzococca](https://github.com/enzococca/)
-  - GitHub: [pyarchinit](https://github.com/pyarchinit/)
 
 The work proposed here is intended to show the new workflow in pyArchInit4 for generating an Harris Matrix comaptible with Extended Matrix.
 The generated matrix will not only include the classical stratigraphic relationship, but also the virtual stratigraphic relationship used into EM.

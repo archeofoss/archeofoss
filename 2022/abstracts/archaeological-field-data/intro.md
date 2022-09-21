@@ -1,7 +1,7 @@
 ---
 title: "Panel: Practice and Paradigms of Open Source Technologies for Archaeological Field Data"
 description: "Panel: Practice and Paradigms of Open Source Technologies for Archaeological Field Data"
-layout: article-slim
+layout: abstract
 img: archaeological-field-data.png
 auths:
   - name: Fabian Riebschläger
@@ -14,15 +14,6 @@ auths:
     email: Thomas.kleinke@dainst.de
     affiliation: German Archaeological Institute, Berlin, Germany
 ---
-
-Panellists
-- **Fabian Riebschläger**
-  - German Archaeological Institute, Berlin, Germany
-  - [fabian.riebschlaeger@dainst.de](mailto:fabian.riebschlaeger@dainst.de)
-  - [@friebsch](https://twitter.com/@friebsch)
-- **Thomas Kleinke**
-  - German Archaeological Institute, Berlin, Germany
-  - [Thomas.kleinke@dainst.de](mailto:Thomas.kleinke@dainst.de)
 
 Clarke (1973:17) stated, that Archaeology is “the discipline with the theory and practice for the recovery of unobservable hominid behaviour patterns from indirect traces in bad samples”. At the same time, Archaeology‘s main method of sample acquisition, excavation, is a destructive practice. Thus, our discipline‘s digital transformation is driven by a desire to capture and analyze observations more exactly and more completely. Allowing for both is the basic promise of computing technology. 
 

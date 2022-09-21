@@ -1,7 +1,7 @@
 ---
 title: "The enhancement of local museums through Wikipedia: the MedAniene project"
 description: "The enhancement of local museums through Wikipedia: the MedAniene project"
-layout: article-slim
+layout: abstract
 auths:
   - name: Mariflora Caruso
     geo: 41.899258,12.5152836
@@ -20,16 +20,6 @@ auths:
 
 **Panel: From wiki projects to OpenStreetMap, collaborative approaches to open data creation: problems, case studies, territorial and cultural impact.**
 
-- **Mariflora Caruso**
-    - Archeo&Arte3D DigiLab, Sapienza University of Rome, Rome, Italy
-    - [cmariflora@gmail.com](cmariflora@gmail.com)
-- **Paola La Torre**
-    - Archeo&Arte3D DigiLab, Sapienza University of Rome, Rome, Italy
-    - [paola.latorre@uniroma.it](paola.latorre@uniroma.it)
-- **Roberta Manzollino**
-    - Archeo&Arte3D DigiLab, Sapienza University of Rome, Rome, Italy
-    - [roberta.manzollino@uniroma1.it](roberta.manzollino@uniroma1.it)
- 
 The aim of the paper is to share the workflow, the methodologies and the aims  of the 'MedAniene Project', realised by the association ArcheoFOSS ny making extensive use of Wikipedia and Wikidata. The project involved public administrators, the scientific directors of the museums and the museum communities.
 
 The “MedAniene project” is about the creation and editing of Wikipedia pages about museums of the Aniene Valley, not far from Rome and the publication of contents. In Wikimedia Commons have been collected and published original photos of objects and places and through the creation of the specific categories in Wikidata, the entire work has been published in Wikidata as a Linked Open Dataset under the CC BY-SA 3.0 licence.

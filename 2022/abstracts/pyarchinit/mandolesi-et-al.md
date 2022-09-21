@@ -1,7 +1,7 @@
 ---
 title: "pyArchInit at Poggio Gramignano Villa: a workflow between society and University through pyArchInit and Blender"
 description: "pyArchInit at Poggio Gramignano Villa: a workflow between society and University through pyArchInit and Blender"
-layout: article-slim
+layout: abstract
 auths:
   - name: Luca Mandolesi
     geo: 44.0577767,12.5664531
@@ -20,17 +20,6 @@ auths:
 ---
 
 **Panel: GIS open source solution for archaeological context in between Universities, Public Administration, societies, research center: pyArchInit case.**
-
-- **Luca Mandolesi**
-  - adArte Srl, Rimini, Italy
-  - [luca@adarteinfo.it](mailto:luca@adarteinfo.it)
-- **Roberto Montagnetti**
-  - adArte Srl, Rimini, Italy
-  - [robertomontagnetti@gmail.com](mailto:robertomontagnetti@gmail.com)
-- **David Gerald Pickle**
-  - University of Arizona, Tucson, Arizona, USA
-- **David Soren**
-  - University of Arizona, Tucson, Arizona, USA
 
 In this speech we will provide the full pipeline of the work in building the GIS platform of a Roman Villa, Poggio Gramignano at Lugnano in Teverina (Terni). 
 We will analize the whole process with a focus over the single moment to analize the GIS for providing data to the 3D reconstructions using pyArchInit to find out more information, and then pass it all to Blender.

@@ -1,7 +1,7 @@
 ---
 title: "Panel: Moving in the past: open solutions for data set design, spatial analysis and (spatial) statistical methods to investigate movement in Antiquity"
 description: "Panel: Moving in the past: open solutions for data set design, spatial analysis and (spatial) statistical methods to investigate movement in Antiquity"
-layout: article-slim
+layout: abstract
 img: maps-to-the-past.jpg
 auths:
   - name: Domizia D'Erasmo
@@ -15,16 +15,6 @@ auths:
     github: noemigi
     affiliation: Sapienza University of Rome, Rome
 ---
-
-Proponents:
-- **Domizia D'Erasmo**
-  - LAD. Sapienza University of Rome, Rome
-  - [domizia.derasmo@uniroma1.it](mailto:domizia.derasmo@uniroma1.it)
-  - [@domizzzia](https://twitter.com/domizzzia)
-- **Noemi Giovino**
-  - Sapienza University of Rome, Rome
-  - [noemi.giovino@uniroma1.it](mailto:noemi.giovino@uniroma1.it)
-  - [@noemigi](https://github.com/noemigi)
 
 Using geographical open data is a steady method in archaeology, not so common is the use of movement-related data to investigate pathways and networks. This is probably due to the difficulty to source information and to represent phenomena regarding mobility in its space-time dimension. As known, archaeological data have mostly been treated in a static way to reconstruct ancient landscapes and are early considered as dynamically changing in space and time. On the other hand, methodologies for the study of the multiple aspects of mobility are extremely advanced in the contemporary world (e.g. improvement of transport; analysis of time travel measures to ensure the best practicability).
 

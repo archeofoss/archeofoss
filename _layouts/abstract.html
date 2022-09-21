@@ -1,0 +1,62 @@
+---
+layout: default
+---
+
+{% for item in site.data.menu %}
+  {% assign with_slashes = item[0] | append: '/' | prepend: '/' %}
+  {% if page.url contains with_slashes %}
+    {% assign year = item[0] %}
+  {% endif %}
+{% endfor %}
+
+
+<div class="bg-light content" data-aos="fade">
+  <div class="container">
+    <div class="row align-items-center justify-content-center">
+      <div class="col-md-8 blog-content text-justify mx-auto pt-5">
+        <h1 class="article-slim my-5 py-5 text-left">
+          <small class="text-primary">ArcheoFOSS {{ year }}</small><br>
+          {{ page.title }}
+        </h1>
+        {% if page.auths %}
+        <div class="mb-5">
+          {% for auth in page.auths %}
+          <p><strong>{{ auth.name }}</strong>
+            {% if auth.affiliation %}<br />{{ auth.affiliation }}{% endif %}
+          </p>
+            <ul>
+              {% if auth.web %}<li><a href="{{ auth.web }}" target="_blank"><i class="fa fa-globe" aria-hidden="true"></i> {{ auth.web }}</a></li>{% endif %}
+              {% if auth.email %}<li><a href="mailto:{{ auth.email }}"><i class="fa fa-envelope" aria-hidden="true"></i> {{ auth.email }}</a></li>{% endif %}
+              {% if auth.twitter %}<li><a href="https://twitter.com/{{ auth.twitter }}" target="_blank"><i class="fab fa-twitter" aria-hidden="true"></i> @{{ auth.twitter }}</a></li>{% endif %}
+              {% if auth.orcid %}<li><a href="https://orcid.org/{{ auth.orcid }}" target="_blank"><i class="fab fa-orcid"></i> {{ auth.orcid }}</a></li>{% endif %}
+              {% if auth.wikidata %}<li><a href="https://twitter.com/{{ auth.wikidata }}"><i class="fab fa-wikipedia-w" aria-hidden="true"></i> {{ auth.wikidata }}</a></li>{% endif %}
+              {% if auth.github %}<li><a href="https://github.com/{{ auth.email }}">{{ auth.github }}<i class="fab fa-github" aria-hidden="true"></i> </a></li>{% endif %}
+              {% if auth.codeberg %}<li>Codeberg: <a href="https://codeberg.org/{{ auth.codeberg }}">{{ auth.codeberg }}</a></li>{% endif %}
+            </ul>
+          </li>
+          {% endfor %}
+        {% endif %}
+        </div>
+        {% if page.img %}
+        <div class="mb-4">
+          <img src="{{ page.img }}" class="img-fluid shadow" alt="{{ page.title }}">
+        </div>
+        {% endif %}
+        {{ content }}
+        <div class="my-5">
+        {% for img in page.images %}
+        {% assign imgArr = img | split:"|" %}
+          <figure class="my-3">
+            <a href="/images/{{ imgArr[0] }}" data-fancybox="gallery" data-caption="{{ imgArr[1] | replace: '"', '\""' }}">
+              <img src="/images/{{ imgArr[0] }}" alt="{{ imgArr[1] | replace: '"', '\""' }}" class="img-fluid">
+            </a>
+            <figcaption>
+              {{ imgArr[1] }}
+            </figcaption>
+          </figure>
+        {% endfor %}
+        </div>
+      </div>
+    </div>
+  </div>
+</div>  

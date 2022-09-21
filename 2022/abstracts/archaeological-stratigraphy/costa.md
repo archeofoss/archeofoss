@@ -1,7 +1,7 @@
 ---
 title: "Harris Matrix Data Package: version 2022 of the hmdp tool with new features for the creation of stratigraphy data packages"
 description: "Harris Matrix Data Package: version 2022 of the hmdp tool with new features for the creation of stratigraphy data packages"
-layout: article-slim
+layout: abstract
 auths:
   - name: Stefano Costa
     geo: 44.4147735,8.9218188
@@ -14,16 +14,7 @@ auths:
 ---
 
 
-
 **Panel: Archaeological stratigraphy data**
-
-- **Stefano Costa**
-  - Soprintendenza Archeologia Belle Arti e Paesaggio per le province di Imperia e Savona, Ministero della Cultura, Genoa, Italy
-  - [Personal website](https://steko.iosa.it/)
-  - Email: [stefano.costa@cultura.gov.it](mailto:stefano.costa@cultura.gov.it)
-  - ORCID: [0000-0003-1124-3174](https://orcid.org/0000-0003-1124-3174)
-  - GitHub: [steko](https://github.com/steko/)
-  - Codeberg: [steko](https://codeberg.org/steko/)
 
 The Harris Matrix Data Package is a proposed standard for
 archaeological stratigraphy data, based on the well known Data Package

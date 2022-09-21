@@ -1,7 +1,7 @@
 ---
 title: "Revising the Gazetteer model - Places Of The Past"
 description: "Revising the Gazetteer model - Places Of The Past"
-layout: article-slim
+layout: abstract
 auths:
   - name: Marco Montanari
     geo: 44.4992192,11.2616458
@@ -12,13 +12,6 @@ auths:
 ---
 
 **Panel: Maps to the past. Open digital approaches to the investigation of historical maps**
-
-- **Marco Montanari**
-  - Open History Map, Bologna, Italy
-  - [marco.montanari@openhistorymap.org](mailto:marco.montanari@openhistorymap.org)
-  - [@ingmmo](https://twitter.com/ingmmo)
-  - ORCID: [0000-0001-5026-6083](https://orcid.org/0000-0001-5026-6083)
-
 
 Textual sources and maps help us understand and contextualize the past. These elements are transformed into Gazetteers for us to use and work on. The maps, in addition, can be georeferenced and warped to get a glimpse of how the world was perceived in the past, what was considered relevant and what not and how the views of the world changed. For this reason we are here proposing a new methodology to merge the two operations and to make it easy for citizen scientists to work on the two parts, giving us the best of both worlds. 
 

@@ -1,7 +1,7 @@
 ---
 title: "Panel: I/O: ethics, policies and technologies for programmatic and open access to archaeological online data sets"
 description: "Panel: I/O: ethics, policies and technologies for programmatic and open access to archaeological online data sets"
-layout: article-slim
+layout: abstract
 img: archaeological-apis.jpeg
 auths:
   - name: Julian Bogdani
@@ -18,17 +18,6 @@ auths:
     twitter: Riccard52906185
     affiliation: Università Telematica Internazionale Uninettuno, Rome, Italy
 ---
-
-
-Panellists:
-- **Julian Bogdani**
-  - LAD. Sapienza University of Rome, Rome
-  - [julian.bogdani@uniroma1.it](mailto:julian.bogdani@uniroma1.it)
-  - [@JulianBogdani](https://twitter.com/JulianBogdani)
-- **Riccardo Montalbano**
-  - Università Telematica Internazionale Uninettuno, Rome, Italy
-  - [ricca.montalbano@gmail.com](mailto:ricca.montalbano@gmail.com)
-  - [@Riccard52906185](https://twitter.com/Riccard52906185)
 
 The spread of web-based databases and information systems specifically designed for the archaeological domain has greatly enhanced data-collection and analysis processes. This trend has positively impacted on the availability of online data sets, most of them living in the so-called deep Web, due to copyright, privacy and/or security issues. Open-access repositories released by universities and other Public Administrations are making their way towards toward the broader public, who is sometimes also a contributor of archaeological structured information on the Web.
 

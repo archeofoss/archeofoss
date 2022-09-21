@@ -1,7 +1,7 @@
 ---
 title: "Automating chronology construction and archiving (FAIR)ly along the way"
 description: "Automating chronology construction and archiving (FAIR)ly along the way"
-layout: article-slim
+layout: abstract
 auths:
   - name: Bryony Moody
     geo: 56.3397625,-2.8124896
@@ -23,19 +23,6 @@ auths:
 
 
 **Panel: Archaeological stratigraphy data**
-
-- **Bryony Moody**
-  - School of Mathematics and Statistics, University of Sheffield, UK
-  - [bcmoody1@sheffield.ac.uk](mailto:bcmoody1@sheffield.ac.uk)
-- **Caitlin Buck**
-  - School of Mathematics and Statistics, University of Sheffield, UK
-  - [c.e.buck@sheffield.ac.uk](mailto:c.e.buck@sheffield.ac.uk)
-- **Tom Dye**
-  - Department of Anthropology, University of Hawaii
-  - [tsd@tsdye.online](mailto:tsd@tsdye.online)
-- **Keith May**
-  - Historic England, London, United Kingdom
-  - [Keith.May@historicengland.org.uk](mailto:Keith.May@historicengland.org.uk)
 
 A key goal of archivists is ensuring that digital archaeological data are archived in a way that satisfies the FAIR principles ([https://www.go-fair.org/fair-principles/](https://www.go-fair.org/fair-principles/)). These principles ensure that the archaeological data, and especially scientific archaeological data, are Findable, Accessible, Interoperable and Reusable. Unfortunately, there is a lack of standardised software for managing and archiving relative and absolute dating evidence. Consequently, digital archaeological data that should be comparable in archives such as the Archaeology Data Service (ADS) in the UK, are inconsistent, often incomplete and, thus, are not reusable. This paper will discuss prototype software for managing and interpreting absolute and relative dating evidence, allowing FAIR archiving along the way.
 

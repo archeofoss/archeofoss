@@ -1,7 +1,7 @@
 ---
 title: "Panel: Archaeological stratigraphy data"
 description: "Panel: Archaeological stratigraphy data"
-layout: article-slim
+layout: abstract
 img: archaeological-stratigraphy.png
 auths:
   - name: Stefano Costa
@@ -20,14 +20,6 @@ auths:
     github: zalmoxes-laran
     affiliation: Consiglio Nazionale delle Ricerche, Roma, Italia
 ---
-
-Panellists:
-- **Stefano Costa**
-  - Soprintendenza Archeologia Belle Arti e Paesaggio per le province di Imperia e Savona, Ministero della Cultura, Genoa, Italy
-  - [stefano.costa@beniculturali.it](mailto:stefano.costa@beniculturali.it)
-- **Emanuel Demetrescu**
-  - Consiglio Nazionale delle Ricerche, Roma, Italia
-  - [emanuel.demetrescu@cnr.it](mailto:emanuel.demetrescu@cnr.it)
 
 Stratigraphy data is one of the basic building blocks of archaeological research processes, without significant limits in chronology or geography. The nature of stratigraphy data is intrinsically simple and this has allowed the creation of many independent tools to archive, manage and most often visualize even complex stratigraphies without the need to manually draw complex graphs. However, despite the simplicity of the conceptual model behind those visualizations, little is available in terms of standardized data formats, and the existing formats are tied to specific software programs rather than neutral and open formats. Many bespoke archaeological information systems include their own implementation of a stratigraphic relationships database, without any interoperability. However, several open source tools are now available that deal with stratigraphy data, with a focus on analysis, format conversion, visualization, integration with archaeological information systems and specialized profiles for virtual reconstruction. Many of these tools rely on third party software like the well known Graphviz suite and have a low profile being targeted for command line usage, but most importantly the main common point is to keep raw data as their source of truth, either as files or in a database.
 

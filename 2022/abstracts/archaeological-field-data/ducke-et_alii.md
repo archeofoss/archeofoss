@@ -1,7 +1,7 @@
 ---
 title: "iDAI.field: Developing software for the documentation of archaeological fieldwork"
 description: "iDAI.field: Developing software for the documentation of archaeological fieldwork"
-layout: article-slim
+layout: abstract
 img: ducke-et_alii.jpg
 auths:
   - name: Benjamin Ducke
@@ -28,24 +28,6 @@ auths:
 ---
 
 **Panel: Practice and Paradigms of Open Source Technologies for Archaeological Field Data.**
-
-- **Benjamin Ducke**
-  - Deutsches Archäologisches Institut, Berlin, Germany
-  - [benjamin.ducke@dainst.de](mailto:benjamin.ducke@dainst.de)
-- **Simon Hohl**
-  - Deutsches Archäologisches Institut, Berlin, Germany
-  - [simon.hohl@dainst.de](mailto:simon.hohl@dainst.de)
-- **Thomas Kleinke**
-  - Deutsches Archäologisches Institut, Berlin, Germany
-  - [thomas.kleinke@dainst.de](mailto:thomas.kleinke@dainst.de)
-- **Fabian Riebschläger**
-  - Deutsches Archäologisches Institut, Berlin, Germany
-  - [fabian.riebschlaeger@dainst.de](mailto:fabian.riebschlaeger@dainst.de)
-  - [@friebsch](https://twitter.com/friebsch)
-- **Juliane Watson**
-  - Deutsches Archäologisches Institut, Berlin, Germany
-  - [juliane.watson@dainst.de](mailto:fabian.riebschlaeger@dainst.de)
-
 
 The German Archaeological Institute (Deutsches Archäologisches Institut, DAI) conducts a variety of field research types, each with its own unique documentation requirements: Excavations, surveys and building recordings. The resulting differences are reflected in the workflows, the recording methods applied and the documentation produced. In addition, the DAI's international work has to comply with the guidelines of the respective heritage agencies in the host countries.
 

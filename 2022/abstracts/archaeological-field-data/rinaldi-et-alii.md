@@ -1,7 +1,7 @@
 ---
 title: "Between archeology and conservation. Digital tools for digital bridges between disciplines: The risk map of the in situ mosaic and marble surfaces of the Parco Archeologico del Colosseo"
 description: "Between archeology and conservation. Digital tools for digital bridges between disciplines: The risk map of the in situ mosaic and marble surfaces of the Parco Archeologico del Colosseo"
-layout: article-slim
+layout: abstract
 img: rinaldi-et-alii.png
 auths:
   - name: Federica Rinaldi
@@ -24,20 +24,6 @@ auths:
 
 
 **Panel: Practice and Paradigms of Open Source Technologies for Archaeological Field Data.**
-
-- **Federica Rinaldi**
-  - Parco Archeologico del Colosseo, Rome, Italy
-  - [federica.rinaldi@beniculturali.it](mailto:federica.rinaldi@cultura.gov.it)
-- **Alessandro Lugari**
-  - Parco Archeologico del Colosseo, Rome, Italy
-  - [alessandro.lugari@beniculturali.it](mailto:alessandro.lugari@cultura.gov.it)
-- **Francesca Sposito**
-  - Free lance consultant, Rome, Italy
-  - [francesca.sposito@gmail.com](mailto:francesca.sposito@gmail.com)
-- **Ascanio D'Andrea**
-  - Free lance consultant, Rome, Italy
-  - [ascaniodandrea@gmail.com](mailto:ascaniodandrea@gmail.com)
-
 
 Starting from 2018 the Parco Archeologico del Colosseo set on a three-year basis project, the “Risk Map of Floors Surfaces”, with the aim of preserving and monitoring all the *in situ* floor coverings of the Roman Forum and the Palatine Hill areas (mosaics, *sectilia*, cement floors, spicata). In order to systematically address this methodological approach, a team of archaeologists, architects and restorers  created a functional system, the “Risk Map of the Mosaic and Marble Surfaces”, a web-based application with integrated webGIS tools, for the recording of historical-archaeological and archival data, essential to build a hierarchy of interventions in the field, and capable of moving from extraordinary maintenance to a continuous cycle of routine maintenance.
 

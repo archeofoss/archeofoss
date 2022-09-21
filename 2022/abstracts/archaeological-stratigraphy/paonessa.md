@@ -1,7 +1,7 @@
 ---
 title: "Linking stratigraphy, context and interpretation: a starting proposal"
 description: "Linking stratigraphy, context and interpretation: a starting proposal"
-layout: article-slim
+layout: abstract
 auths:
   - name: Alessio Paonessa
     geo: 41.9091873,12.4904907
@@ -13,13 +13,6 @@ auths:
 
 
 **Panel: Archaeological stratigraphy data.**
-
-- **Alessio Paonessa**
-  - Deutsches Archäologisches Institut, Abteilung Rom, Italy
-  - [Alessio.Paonessa@dainst.de](Alessio.Paonessa@dainst.de)
-  - [alessio.paonessa@gmail.com](alessio.paonessa@gmail.com)
-  - [@AlessioPao](https://twitter.com/AlessioPao)
-  - ORCID: [0000-0002-3751-5716](https://orcid.org/0000-0002-3751-5716)
 
 In the graph theory, a graph is a structure consisting in «a set of points called vertices or nodes and a set of lines called edges such that each edge is attached to a vertex at each end». Graphs are powerful tools used for numerous purposes. Specifically, in archaeology, the most widely known application is undoubtedly the Harris’ Matrix, a relatively simple method to organise stratigraphy by relative chronology. Other less common applications include, for instance, network graphs, mainly used to represent exchange routes through different settlements, and directed graphs, that can be applied in order to analyse directions and connections through different spaces inside buildings. All these domains of use have been strongly influenced by other disciplines, among which the social network analysis (SNA), originally developed for sociological studies, plays the most prominent role.
 

@@ -1,7 +1,7 @@
 ---
 title: "Panel: Electronic Publishing and Open Science in Archaeology"
 description: "Panel: Electronic Publishing and Open Science in Archaeology"
-layout: article-slim
+layout: abstract
 img: oa-e-publishing.jpg
 auths:
   - name: Alessandra Caravale
@@ -13,14 +13,6 @@ auths:
     email: alessandra.piergrossi@cnr.it
     affiliation: ISPC, CNR, Rome, Italy
 ---
-
-Panellists
-- **Alessandra Caravale**
-  - ISPC, CNR, Rome, Italy
-  - [alessandra.caravale@cnr.it](mailto:alessandra.caravale@cnr.it)
-- **Alessandra Piergrossi**
-  - ISPC, CNR, Rome, Italy
-  - [alessandra.piergrossi@cnr.it](mailto:alessandra.piergrossi@cnr.it)
 
 In the information society, the dissemination of archaeological research results is still primarily associated with publications: monographs, miscellaneous volumes, but above all specialised journals. These have experienced in recent years a progressively digitisation process, which resulted in an increasing availability of open access resources. However, the policies adopted for the digital fruition use different forms of access to articles and their contents. The so-called OA golden road, followed by scholarly journals, can be referred to two models. The first one is based on a fee paid by the authors (APC: Article Processing Charges), while the second is the “Diamond OA” model, which instead provides free publication for both authors and readers. The panel will first give an updated overview of antiquity journals that follow the golden road, reporting common elements and dissimilarities in the Italian and European panorama.
 

@@ -1,7 +1,7 @@
 ---
 title: "Panel 4: GIS open source solution for archaeological context in between Universities, Public Administration, societies, research center: pyArchInit case"
 description: "Panel 4: GIS open source solution for archaeological context in between Universities, Public Administration, societies, research center: pyArchInit case"
-layout: article-slim
+layout: abstract
 img: pyarchinit.jpg
 auths:
   - name: Enzo Cocca
@@ -14,15 +14,6 @@ auths:
     email: gianlucamartinez@hotmail.it
     affiliation: Università di Pisa, Pisa, Italy
 ---
-
-Panellists
-- **Enzo Cocca**
-  - adArte s.r.l., Rimini, Italy
-  - [archeologia@adarteinfo.it](mailto:archeologia@adarteinfo.it)
-  - [@pyarchinit](https://mobile.twitter.com/pyarchinit)
-- **Gianluca Martinez**
-  - Università di Pisa, Pisa, Italy
-  - [gianlucamartinez@hotmail.it](mailto:gianlucamartinez@hotmail.it)
 
 The plugin pyArchInit for QGIS, a GIS tool for archaeological data-management, has been tested in years over two thousand
 archaeological excavations by adArte company, in archaeological evaluation and emergency excavations. In the last few years, with the widespread of QGIS, the plugin has been implemented to answer numerous asks from PA and Universities, highlighting some aspects that must be spoken together: in our company database we collected more than hundred thousands of SU, still researchable over ten years, demonstrating the efficiency of the method and data’s durability, with a minimum information loss. During the time, PA receiving the documentation and asking for a development, has demonstrated the usefulness of having an

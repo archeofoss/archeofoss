@@ -1,7 +1,7 @@
 ---
 title: "Backward engineering historical maps: the case of 18th century gazetteer of the Napoleonic map of Egypt"
 description: "Backward engineering historical maps: the case of 18th century gazetteer of the Napoleonic map of Egypt"
-layout: article-slim
+layout: abstract
 auths:
   - name: Julian Bogdani
     geo: 41.9037626,12.5144384
@@ -22,19 +22,6 @@ img: bogdani-d_erasmo.jpg
 
 
 **Panel: Maps to the past. Open digital approaches to the investigation of historical maps.**
-
-- **Julian Bogdani**
-  - LAD, Sapienza University of Rome, Rome, Italy
-  - [https://lad.saras.uniroma1.it](https://lad.saras.uniroma1.it)
-  - [julian.bogdani@uniroma1.it](mailto:julian.bogdani@uniroma1.it)
-  - [@JulianBogdani](https://twitter.com/JulianBogdani)
-  - ORCID: [0000-0001-5250-927X](https://orcid.org/0000-0001-5250-927X)
-  - GitHub: [jbogdani](https://github.com/jbogdani/)
-- **Domizia D'Erasmo**
-  - LAD, Sapienza University of Rome, Rome, Italy
-  - [https://lad.saras.uniroma1.it](https://lad.saras.uniroma1.it)
-  - [domizia.derasmo@uniroma1.it](mailto:domizia.derasmo@uniroma1.it)
-  - [@domizzzia](https://twitter.com/domizzzia)
 
 The _Carte Topographique de l'Égypte_ edited in 1818 by Pierre Jacotin, the chief cartographer of the Napoleonic team of savants accompanying the ill-fated French invasion of Egypt, is a fundamental historical document to the understanding of pre-modern Egypt. It is important to science historians, geographers, historians of the modern period, but also to archaeologists working in Egypt, since it is a testimony of a country that has undergone radical changes since then.
 

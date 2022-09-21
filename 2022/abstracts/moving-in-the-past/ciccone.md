@@ -1,7 +1,7 @@
 ---
 title: "From the Itinerarium Antonini and al-Idrisi to the movecost plug-in: study of the viability in the Castronovo di Sicilia area by comparing traditional sources and least-cost path analysis"
 description: "From the Itinerarium Antonini and al-Idrisi to the movecost plug-in: study of the viability in the Castronovo di Sicilia area by comparing traditional sources and least-cost path analysis"
-layout: article-slim
+layout: abstract
 auths:
   - name: Gabriele Ciccone
     geo: 41.8523597,12.6168679
@@ -10,14 +10,7 @@ auths:
 img: ciccone.png
 ---
 
-
 **Panel: Moving in the past: open solutions for data set design, spatial analysis and geo-statistical methods to investigate movement in Antiquity**
-
-
-- **Gabriele Ciccone**
-  - Dipartimento di Storia, Patrimonio Culturale, Formazione e Società. Università di Roma Tor Vergata, Rome, Italy
-  - [cccgrl01@uniroma2.it](mailto:cccgrl01@uniroma2.it)
-  - [@ArchaeoDrones](https://www.instagram.com/archaeodrones/)
 
 The area of Castronovo di Sicilia, focus of the ERC Sictransit project and of the PhD project Flying
 off-site: new methodologies for the analysis of historical landscapes, was analyzed by integrating

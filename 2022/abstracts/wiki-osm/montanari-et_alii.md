@@ -1,7 +1,7 @@
 ---
 title: "Tools for citizen-driven digital public history - a fireside chat"
 description: "Tools for citizen-driven digital public history - a fireside chat"
-layout: article-slim
+layout: abstract
 auths:
   - name: Marco Montanari
     geo: 44.4992192,11.2616458
@@ -24,21 +24,6 @@ auths:
 ---
 
 **Panel: From wiki projects to OpenStreetMap, collaborative approaches to open data creation: problems, case studies, territorial and cultural impact.**
-
-- **Marco Montanari**
-  - Open History Map, Bologna, Italy
-  - [marco.montanari@openhistorymap.org](mailto:marco.montanari@openhistorymap.org)
-  - [@ingmmo](https://twitter.com/ingmmo)
-- **Lucia Marsicano**
-  - Open History Map, Bologna, Italy
-  - [lucia.marsicano@openhistorymap.org](mailto:lucia.marsicano@openhistorymap.org)
-- **Silvia Bernardoni**
-  - Open History Map, Bologna, Italy
-  - [silvia.bernardoni@openhistorymap.org](mailto:silvia.bernardoni@openhistorymap.org)
-- **Raffaele Trojanis**
-  - Open History Map, Bologna, Italy
-  - [raffaele.trojanis@openhistorymap.org](mailto:raffaele.trojanis@openhistorymap.org)
-
 
 This presentation will start from the activities preparing a neighborhood editathon in Bologna, the process and the current results, as the editathon will, by end of september, still be ongoing. 
 

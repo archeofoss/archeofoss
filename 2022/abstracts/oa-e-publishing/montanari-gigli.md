@@ -1,7 +1,7 @@
 ---
 title: "Beyond Silos - A look at static publishing"
 description: "Beyond Silos - A look at static publishing"
-layout: article-slim
+layout: abstract
 auths:
   - name: Marco Montanari
     geo: 44.4992192,11.2616458
@@ -17,16 +17,6 @@ auths:
 ---
 
 **Panel: Electronic Publishing and Open Science in Archaeology**
-
-- **Marco Montanari**
-  - Open History Map, Bologna, Italy
-  - [marco.montanari@openhistorymap.org](mailto:marco.montanari@openhistorymap.org)
-  - [@ingmmo](https://twitter.com/ingmmo)
-  - ORCID: [0000-0001-5026-6083](https://orcid.org/0000-0001-5026-6083)
-- **Lorenzo Gigli**
-  - Università di Bologna, Bologna, Italy
-  - [lorenzo.gigli@unibo.it](mailto:lorenzo.gigli@unibo.it)
-  - ORCID: [0000-0001-9714-3777](https://orcid.org/0000-0001-9714-3777)
 
 Huge platforms are amazing and yet problematic. Installing a local setup for a common tool such as Wikibase and Mediawiki or other platforms can be time consuming and complex as well as not in topic for the work you should point at. For this problem there are two solutions. The first is consultancy, that requires a very rare resource: money. The latter is trying to find ways to avoid costly infrastructures. 
 
