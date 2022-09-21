@@ -8,7 +8,6 @@ auths:
     email: adiachenko@iananu.org.ua
     orcid: 0000-0002-6959-2919
     affiliation: Institute of Archaeology, National Academy of Sciences of Ukraine, Kyiv, Ukraine
-  - [adiachenko@iananu.org.ua](mailto:adiachenko@iananu.org.ua)
   - name: Iwona Sobkowiak-Tabaka
     geo: 52.4353533,16.8778329
     email: iwosob@amu.edu.pl
