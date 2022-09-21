@@ -7,11 +7,11 @@ auths:
   - name: Laura Carpentiero
     geo: 40.8312632,14.2422203
     email: lcarpentiero@unior.it
-    affiliation: 
+    affiliation: Università di Napoli L’Orientale, Napoli, Italy
   - name: Dora D'Auria
     geo: 40.8312632,14.2422203
     email: ddauria@unior.it
-    affiliation: 
+    affiliation: Università di Napoli L’Orientale, Napoli, Italy
 ---
 
 **Panel: Practice and Paradigms of Open Source Technologies for Archaeological Field Data.**

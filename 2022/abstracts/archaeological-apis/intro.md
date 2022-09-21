@@ -11,22 +11,22 @@ auths:
     web: https://lad.saras.uniroma1.it
     orcid: 0000-0001-5250-927X
     gitHub: jbogdani
-    affiliation: 
+    affiliation: LAD. Sapienza University of Rome, Rome
   - name: Riccardo Montalbano
     geo: 41.8960547,12.4754748
     email: ricca.montalbano@gmail.com
     twitter: Riccard52906185
-    affiliation: 
+    affiliation: Università Telematica Internazionale Uninettuno, Rome, Italy
 ---
 
 
 Panellists:
 - **Julian Bogdani**
-  -  Sapienza University of Rome, Rome
+  - LAD. Sapienza University of Rome, Rome
   - [julian.bogdani@uniroma1.it](mailto:julian.bogdani@uniroma1.it)
   - [@JulianBogdani](https://twitter.com/JulianBogdani)
 - **Riccardo Montalbano**
-  - Università Telematica Internazionale Uninettuno
+  - Università Telematica Internazionale Uninettuno, Rome, Italy
   - [ricca.montalbano@gmail.com](mailto:ricca.montalbano@gmail.com)
   - [@Riccard52906185](https://twitter.com/Riccard52906185)
 

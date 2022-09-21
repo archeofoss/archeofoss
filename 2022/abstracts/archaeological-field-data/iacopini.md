@@ -9,14 +9,14 @@ auths:
     email: eleonora.iacopini@uniroma1.it
     orcid: 0000-0001-9452-9092
     github: eiacopini
-    affiliation: 
+    affiliation: LAD. Sapienza University of Rome, Rome, Italy
 ---
 
 
 **Panel: Practice and Paradigms of Open Source Technologies for Archaeological Field Data.**
 
 - **Eleonora Iacopini**
-  - LAD, Sapienza University of Rome, Rome, Italy
+  - LAD. Sapienza University of Rome, Rome, Italy
   - [https://lad.saras.uniroma1.it](https://lad.saras.uniroma1.it)
   - [eleonora.iacopini@uniroma1.it](mailto:eleonora.iacopini@uniroma1.it)
   - ORCID: [0000-0001-9452-9092](https://orcid.org/0000-0001-9452-9092)

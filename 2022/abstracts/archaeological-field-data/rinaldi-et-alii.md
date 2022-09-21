@@ -7,19 +7,19 @@ auths:
   - name: Federica Rinaldi
     geo: 41.8910003,12.4854315
     email: federica.rinaldi@beniculturali.it
-    affiliation: 
+    affiliation: Parco Archeologico del Colosseo, Rome, Italy
   - name: Alessandro Lugari
     geo: 41.8910003,12.4854315
     email: alessandro.lugari@beniculturali.it
-    affiliation: 
+    affiliation: Parco Archeologico del Colosseo, Rome, Italy
   - name: Francesca Sposito
     geo: 41.8910003,12.4854315
     email: francesca.sposito@gmail.com
-    affiliation: 
+    affiliation: Free lance consultant, Rome, Italy
   - name: Ascanio D'Andrea
     geo: 41.8910003,12.4854315
     email: ascaniodandrea@gmail.com
-    affiliation: 
+    affiliation: Free lance consultant, Rome, Italy
 ---
 
 

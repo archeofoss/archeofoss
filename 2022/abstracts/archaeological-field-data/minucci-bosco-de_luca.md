@@ -7,15 +7,15 @@ auths:
   - name: Eleonora Minucci
     geo: 40.8312632,14.2422203
     email: eminucci@unior.it
-    affiliation: 
+    affiliation: Università degli Studi di Napoli "L'Orientale", Napoli, Italy
   - name: Angela Bosco
     geo: 40.8312632,14.2422203
     email: abosco@unior.it
-    affiliation: 
+    affiliation: Università degli Studi di Napoli "L'Orientale", Napoli, Italy
   - name: Daniele De Luca
     geo: 40.8540421,14.1765625
     email: d.deluca@cineca.it
-    affiliation: 
+    affiliation: VisitLab Cineca - Consorzio Interuniversitario, Napoli, Italy
 ---
 
 **Panel: Practice and Paradigms of Open Source Technologies for Archaeological Field Data.**
