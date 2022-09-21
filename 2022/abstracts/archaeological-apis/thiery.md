@@ -1,6 +1,6 @@
 ---
-title: "Challenges in research community building: integrating Terra Sigillata (Samian) Research into the Wikidata community"
-description: "Challenges in research community building: integrating Terra Sigillata (Samian) Research into the Wikidata community"
+title: "Linked Open ᚑᚌᚆᚐᚋ – How to publish and interlink various ᚑᚌᚆᚐᚋ data?"
+description: "Linked Open ᚑᚌᚆᚐᚋ – How to publish and interlink various ᚑᚌᚆᚐᚋ data?"
 layout: article-slim
 img: thiery.png
 auths:
@@ -12,7 +12,7 @@ auths:
     orcid: 0000-0002-3246-3531
     wikidata: Q66606154
     github: ogi-ogham
-    affiliation: 
+    affiliation: Research Squirrel Engineers Network, Mainz, Germany; Römisch-Germanisches Zentralmuseum, Mainz, Germany
 ---
 
 **Panel: I/O: ethics, policies and technologies for programmatic and open access to archaeological online data sets**

@@ -184,7 +184,7 @@ Eric C. **Kansa**
 [*Technology that Enables Rather than Distracts: Lessons from Open Context and Sustaining Open Archaeological Data*](abstracts/archaeological-apis/kansa)
 - **17:25** - 17:40 [CEST] *online*  
 Florian **Thiery**  
-[*Challenges in research community building: integrating Terra Sigillata (Samian) Research into the Wikidata community*](abstracts/archaeological-apis/thiery)
+[*Linked Open ᚑᚌᚆᚐᚋ – How to publish and interlink various ᚑᚌᚆᚐᚋ data?*](abstracts/archaeological-apis/thiery)
 - **17:40** - 17:55 [CEST] *in presence*  
 Julian **Bogdani**, Marco **Montanari**  
 [*Towards Bradypus v.5: Interconnecting the archaeological research*](abstracts/archaeological-apis/bogdani-montanari)
