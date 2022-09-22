@@ -15,6 +15,8 @@ auths:
     affiliation: Research Squirrel Engineers Network, Mainz, Germany; Römisch-Germanisches Zentralmuseum, Mainz, Germany
   - name: Peter Thiery
     geo: 50.0061931,8.2679436
+    orcid: 0000-0003-3270-2659
+    wikidata: Q114094722
     affiliation: Research Squirrel Engineers Network, Mainz, Germany
 ---
 
