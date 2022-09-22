@@ -9,4 +9,5 @@ People from home will be enabled to ask written questions, through our [official
 
 Details and specific links to the main streaming platforms will be published here few days before the conference.
 
-**Stay tuned!**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3XF2z0QDdeQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
