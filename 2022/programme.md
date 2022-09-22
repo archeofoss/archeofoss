@@ -109,7 +109,7 @@ Discussion
 
 ---
 
-**Panel:  GIS open source solution for archaeological context in between Universities, Public Administration, societies, research center: pyArchInit case [[info](abstracts/pyarchinit/intro)**]  
+**Panel:  GIS open source solution for archaeological context in between Universities, Public Administration, societies, research center: pyArchInit case** [[info](abstracts/pyarchinit/intro)]  
 Chair and introduction by Enzo **Cocca**, and Gianluca **Martinez**
 
 - **11:45** - 12:00 [CEST] *online*  
@@ -138,7 +138,7 @@ Discussion
 
 ---
 
-**Panel: Practice and Paradigms of Open Source Technologies for Archaeological Field Data [[info](abstracts/archaeological-field-data/intro)**]  
+**Panel: Practice and Paradigms of Open Source Technologies for Archaeological Field Data** [[info](abstracts/archaeological-field-data/intro)]  
 Chair by Fabian **Riebschläger**, and Thomas **Kleinke**
 
 - **15:00** - 15:05 [CEST] *in presence*  
@@ -170,7 +170,7 @@ Discussion
 
 ---
 
-**Panel: I/O: ethics, policies and technologies for programmatic and open access to archaeological online data sets [[info](abstracts/archaeological-apis/intro)**]  
+**Panel: I/O: ethics, policies and technologies for programmatic and open access to archaeological online data sets** [[info](abstracts/archaeological-apis/intro)]  
 Chair by Julian **Bogdani** and Riccardo **Montalbano**.
 
 - **16:50** - 16:55 [CEST] *in presence*  
@@ -202,7 +202,7 @@ Social dinner (More information about location, price and booking will be availa
 
 ## 23 September 2022
 
-**Panel: Electronic Publishing and Open Science in Archaeology [[info](abstracts/oa-e-publishing/intro)**]  
+**Panel: Electronic Publishing and Open Science in Archaeology** [[info](abstracts/oa-e-publishing/intro)]  
 Chair by Alessandra **Caravale** and Alessandra **Piergrossi**
 - **09:00** - 09:05 [CEST] *in presence*  
 Alessandra **Caravale** and Alessandra **Piergrossi**  
@@ -250,7 +250,7 @@ Discussion. Invited discussant Paola **Moscati**.
 
 ---
 
-**Panel: From wiki projects to OpenStreetMap, collaborative approaches to open data creation: problems, case studies, territorial and cultural impact [[info](abstracts/wiki-osm/intro)**]  
+**Panel: From wiki projects to OpenStreetMap, collaborative approaches to open data creation: problems, case studies, territorial and cultural impact** [[info](abstracts/wiki-osm/intro)]  
 Chair by Saverio Giulio **Malatesta**, and Paolo **Rosati**
 - **11:50** - 12:05 [CEST] *online*  
 Florian **Thiery**, Allard **Mees**, John Brady **Kiesling**  
@@ -271,7 +271,7 @@ Discussion
 **Lunch break**
 
 
-**Panel: Moving in the past: open solutions for data set design, spatial analysis and spatial statistical methods to investigate movement in Antiquity [[info](abstracts/moving-in-the-past/intro)**]  
+**Panel: Moving in the past: open solutions for data set design, spatial analysis and spatial statistical methods to investigate movement in Antiquity** [[info](abstracts/moving-in-the-past/intro)]  
 Chair by Domizia **D'Erasmo** and Noemi **Giovino**
 - **15:00** - 15:15 [CEST]  
 Anita **Graser**  
@@ -305,7 +305,7 @@ Discussion
 
 ---
 
-**Panel: Maps to the past. Open digital approaches to the investigation of historical maps [[info](abstracts/maps-to-the-past/intro)**]  
+**Panel: Maps to the past. Open digital approaches to the investigation of historical maps** [[info](abstracts/maps-to-the-past/intro)]  
 Chair by Julian **Bogdani** and Valeria **Vitale**
 - **17:15** - 17:20 [CEST]  
 Julian **Bogdani** and Valeria **Vitale**  
