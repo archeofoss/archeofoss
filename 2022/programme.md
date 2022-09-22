@@ -81,7 +81,7 @@ Julian **Bogdani**. ArcheoFOSS Scientific Committee member. [LAD, Sapienza Unive
 **Panel: Archaeological stratigraphy data [[info](abstracts/archaeological-stratigraphy/intro)**]  
 Chair and intro by Stefano **Costa** and Emanuel **Demetrescu**
 
-- **09:30** - 09:45 [CEST] *online*  
+- **09:30** - 09:45 [CEST] *in presence*  
 Bryony **Moody**, Caitlin **Buck**, Tom **Dye**, Keith **May**  
 [Automating chronology construction and archiving (FAIR)ly along the way](abstracts/archaeological-stratigraphy/moody-et-alii)
 - **09:45** - 10:00 [CEST] *online*  
