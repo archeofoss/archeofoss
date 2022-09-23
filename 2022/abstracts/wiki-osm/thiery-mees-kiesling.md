@@ -29,6 +29,12 @@ auths:
 
 **Panel: From wiki projects to OpenStreetMap, collaborative approaches to open data creation: problems, case studies, territorial and cultural impact.**
 
+**Presentation is available for download at**: 
+[DOI: 10.5281/zenodo.7105005](https://doi.org/10.5281/zenodo.7105005)
+
+[Wikidata: Q114133679](http://www.wikidata.org/entity/Q114133679)
+
+
 The [RGZM](http://www.wikidata.org/entity/Q878029) curates the Samian Research database, a treasure-house of economic data on Roman trade and Terra Sigillata industry. Over six decades, a broad European user community of established research institutions, citizen scientists and domain-specific scientists has assembled a [dataset](https://doi.org/10.5281/zenodo.4305708) of ~250’000 potter’s stamps from the [Samian Research Database](https://www.rgzm.de/samian), accessible with findspots and relevant bibliography as [Linked Open Samian Ware](https://rgzm.github.io/samian-lod/) (LOSW) via a collaborative LOD hub, [archaeology.link](https://archaeology.link).
 
 In 2020-2021, Samian Research began a process of integrating its data with Wikidata through the creation of a set of Samian Ware Wikidata items, including 3875 [Samian Ware Discovery Sites](https://w.wiki/5BRk), 103 [Samian Ware Kiln Sites](https://w.wiki/4pKz) and 13 [Kiln Regions](https://w.wiki/4pL4), with accurate or approximate geospatial information and a backlink to archaeology.link.
