@@ -285,7 +285,7 @@ Maria Carina **Dengg**
 - **15:45** - 16:00 [CEST] *online*  
 Aleksandr **Diachenko**, Iwona **Sobkowiak-Tabaka**  
 [*Smallest-scale movement: Tracing the intra-site relocation of hunter-gatherers*](abstracts/moving-in-the-past/diachenko-sobkowiak_tabaka)
-- **16:00** - 16:15 [CEST] *in presence*  
+- **16:00** - 16:15 [CEST] *online*  
 Gabriele **Ciccone**  
 [*From the Itinerarium Antonini and al-Idrisi to the movecost plug-in: study of the viability in the Castronovo di Sicilia area by comparing traditional sources and least-cost path analysis.*](abstracts/moving-in-the-past/ciccone)
 - **16:15** - 16:30 [CEST] *in presence*  
