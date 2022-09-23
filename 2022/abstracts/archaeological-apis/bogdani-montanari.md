@@ -22,6 +22,12 @@ auths:
 
 **Panel: I/O: ethics, policies and technologies for programmatic and open access to archaeological online data sets**
 
+
+
+**Presentation is available for download at**: 
+[DOI: 10.5281/zenodo.7107339](https://doi.org/10.5281/zenodo.7107339)
+
+
 Bradypus ia a web-based database managing system specifically addressing the specific needs of archaeological and more in general Cultural Heritage connectd projects. It was conceived in the archaeological laboratories of the University of Bologna in 2006 and released as an open-source, MIT-licensed. The latest major version, the forth, was released with AGPL-3 license and is maintained by LAD: Laboratorio di Archeologia Digitale alla Sapienza (Digital Archaeology Laboratory of Sapienza), in Rome.
 
 Since 2006, about thirty Italian and internatinal projects are using the official cloud version provided as a service, thanks to the collaboration with the GARR Consortium.
