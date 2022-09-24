@@ -38,7 +38,11 @@ auths:
 ---
 
 **Panel: Electronic Publishing and Open Science in Archaeology**
-  
+
+**Presentation is available for download at**: 
+[osf.io/f2c4y](https://osf.io/f2c4y)
+
+
 The number of scientific articles increases every year since scientific journals exist, and should continue to grow in the coming years, and the current system, managed by a few for-profit publishers, has become very costly for our institutions. The traditional model of publishing in paid journals, limiting dissemination behind paywalls or high publication fees, is increasingly being criticized. To overcome these serious flaws of the academic publication system, the deposit of preprints in open archives is a solution for rapid dissemination. However, the quality of these preprints must be guaranteed for quality assurance in research.
 
 This is why Peer Community In (PCI) was created: to enable communities of researchers to assess the quality of the work deposited in open archives and thus ensure broad dissemination of high-quality Science. PCI offers an innovative way to communicate our scientific results that are free for authors and readers, open, online, and peer-reviewed. PCI also supports Open Science and scientific reproducibility by making the deposit of all necessary datasets mandatory prior to the recommendation of any preprint and by providing the possibility of pre-registration papers.
