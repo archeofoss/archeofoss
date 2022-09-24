@@ -12,7 +12,8 @@ The conference **will not be broadcasted on Facebook** due to limitations of thi
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FoOjT2wXybM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
----
+
+***
 
 
 ## Day 1: 22.09.2022
