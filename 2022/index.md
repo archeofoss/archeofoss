@@ -8,6 +8,9 @@ ednumber: XVI
 
 ## Latest news
 
+**[2022-09-24]**
+ArcheoFOSS 2022 conference works were closed yesterday evening. Thank you to all authors and public for sharing your research and your ideas! We will meet again in 2023 in Turin!
+
 **[2022-09-22]**
 ArcheoFOSS 2022 works will be broadcasted online in realtime, on out official Facebook page, at [https://www.facebook.com/archeofoss/videos/2331494287003429](https://www.facebook.com/archeofoss/videos/2331494287003429)) and on our YouTube channel, at [https://www.youtube.com/watch?v=3XF2z0QDdeQ](https://www.youtube.com/watch?v=3XF2z0QDdeQ).
 
