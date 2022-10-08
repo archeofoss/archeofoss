@@ -18,6 +18,8 @@ default:
   #   url: '/2022/press-kit'
   - title: Watch online
     url: /2022/watch
+  - title: Proceedings
+    url: /2022/proceedings
   - title: Scientific committee
     url: /scientific-committee
 '2021':
