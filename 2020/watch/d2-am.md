@@ -19,7 +19,7 @@ layout: article-slim
 - **09:55** [CEST] Benjamin Ducke  
 [*Developing long-term infrastructure for open archaeology research data: iDAI.world.*](/abstracts/ducke)
 
-- **10:20** [CEST] Mirella Serlorenzi, Riccardo Montalbano, Ascanio D’Andrea, Carlo Cifarelli  
+- **10:20** [CEST] Mirella Serlorenzi, Riccardo Montalbano, Ascanio D'Andrea, Carlo Cifarelli  
 [*SITAR: a new OPEN DATA infrastructure for a public archaeology of Rome.*](/abstracts/serlorenzi)
 
 - **10:45** [CEST] Coffee break

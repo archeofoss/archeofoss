@@ -23,7 +23,7 @@ geo:
 
 > Riccardo Montalbano is an archaeologist specialized  in Ancient Topography, currently adjunct Professor of Ancient Topography, Landscape Analysis and GIS at the International Telematic University Uninettuno, GIS expert and senior topographer at the Soprintendenza Speciale di Roma (SITAR), advisor for the Great Marble Map of Rome (Ancient World Mapping Center – Sovrintendenza Capitolina ai Beni culturali), national fellow at the Accademia Nazionale dei Lincei and researcher at University of Pisa. His main interests are ancient urbanism, GIS and territorial analysis and open data in archaeological domain.
 
-**Ascanio D’Andrea**
+**Ascanio D'Andrea**
 
 [ascaniodandrea@gmail.com](mailto:ascaniodandrea@gmail.com)
 

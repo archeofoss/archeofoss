@@ -11,7 +11,7 @@ auths:
     geo: 41.9012342,12.4965983
     email: carlo.cifarelli@gmail.com
     affiliation: Progetto SITAR, Senior Software Engineer, Rome, Italy
-  - name: Ascanio D’Andrea
+  - name: Ascanio D'Andrea
     geo: 41.9012342,12.4965983
     email: ascaniodandrea@gmail.com
     affiliation: Progetto SITAR, Data Manager, Roe, Italy

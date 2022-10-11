@@ -91,7 +91,7 @@ The **Book of Abstracts** is already and freely available in Zenodo [![DOI](http
 - **09:55** [CEST] Benjamin Ducke  
   [_Developing long-term infrastructure for open archaeology research data: iDAI.world._](./abstracts/ducke)
 
-- **10:20** [CEST] Mirella Serlorenzi, Riccardo Montalbano, Ascanio D’Andrea, Carlo Cifarelli  
+- **10:20** [CEST] Mirella Serlorenzi, Riccardo Montalbano, Ascanio D'Andrea, Carlo Cifarelli  
   [_SITAR: a new OPEN DATA infrastructure for a public archaeology of Rome._](./abstracts/serlorenzi)
 
 - Demo presentation: [_SITAR - Sistema Informativo Territoriale Archeologico di Roma_](./demos#sitar---sistema-informativo-territoriale-archeologico-di-roma)
