@@ -6,16 +6,14 @@ layout: article-slim
 
 {% for art in site.pages %}
   {% if art.auths and art.path contains "2022" %}
-    {% unless art.title contains "Spring Archaeology" %}
-      {% for auth in art.auths %}
-        {% if auth.email %}
-          {% capture item %}{{auth.name}} <{{ auth.email }}>{% endcapture %}
-          {% unless list contains item %}
-            {% assign list = list | push: item %}
-          {% endunless %}
-        {% endif %}
-      {% endfor %}
-    {% endunless %}
+    {% for auth in art.auths %}
+      {% if auth.email %}
+        {% capture item %}{{auth.name}} <{{ auth.email }}>{% endcapture %}
+        {% unless list contains item %}
+          {% assign list = list | push: item %}
+        {% endunless %}
+      {% endif %}
+    {% endfor %}
   {% endif %}
 {% endfor %}
 
