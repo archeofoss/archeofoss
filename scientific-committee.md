@@ -20,13 +20,13 @@ The following scientific committee was elected and is in charge since 2021.
   - Full Professor of Egyptology and Coptic Civilization at Sapienza University of Rome
   - Honorary Professor of Egyptology at Hamburg University
   - PI of the ERC Advanced (2015) Project 'PAThs': Tracking Papyrus and Parchment Paths An Archaeological Atlas of Coptic Literature, the most important open data portal dedicated to the history and archaeology of late ancient and medieval Egypt
-- **Elena Calandra**, MiBACT. Rome  
-  [ic-archeo@beniculturali.it](mailto:ic-archeo@cultura.gov.it)
+- **Elena Calandra**, Ministry of Culture. Rome  
+  [ic-archeo@cultura.gov.it](mailto:ic-archeo@cultura.gov.it)
   - MiBACT, Director of Service II
   - Excavations and Protection of the Archaeological Heritage, Directorate General for Archaeology, Fine Arts and Landscape
   - Director _ad interim_ of the Central Institute for Archaeology
-- **Stefano Costa**, MiBACT. Rome  
-  [stefano.costa@beniculturali.it](mailto:stefano.costa@cultura.gov.it)
+- **Stefano Costa**, Ministry of Culture. Rome  
+  [stefano.costa@cultura.gov.it](mailto:stefano.costa@cultura.gov.it)
   - Archaeologist Officer for the provinces of Imperia and Savona, SABAP. Genova
   - Co-founder of ArcheoFOSS movement
 - **Emanuel Demetrescu**, CNR. Rome  
