@@ -12,6 +12,7 @@ layout: article-slim
 - **Organizing committee**
   - Julian Bogdani, [LAD](https://purl.org/lad), Sapienza University of Rome
   - Domizia D’Erasmo, [LAD](https://purl.org/lad), Sapienza University of Rome
+  - Paolo Rosati, [LAD](https://purl.org/lad) and [DigiLab](https://digilab.uniroma1.it/), Sapienza University of Rome
 
 ## ArcheoFOSS 15 (2021)
 - **Dates**: 23-26 November 2021.
