@@ -15,7 +15,7 @@ layout: article-slim
 - Panel proposals will undergo an open, not anonymous, peer-review evaluation proccess.
 ---
 
-The sixteenth edition of ArcheoFOSS will be hosted at  University of Turin on **12-13 December 2023**, in collaboration with [(Scuola di specializzazione in Beni archeologici Giorgio Gullini)]([https://scuolaarcheologia.campusnet.unito.it/do/corsi.pl/Show?_id=mg37)
+The sixteenth edition of ArcheoFOSS will be hosted at  University of Turin on **12-13 December 2023**, in collaboration with [Scuola di specializzazione in Beni archeologici Giorgio Gullini](https://scuolaarcheologia.campusnet.unito.it/do/corsi.pl/Show?_id=mg37).
 
 This edition will be based on **panel sessions** that provide an opportunity for expert panel members to present their views and share their experience on a specific topic and then engage in a discussion with the audience.
 
