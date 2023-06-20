@@ -10,8 +10,8 @@ default:
     url: /2023/
   # - title: Programme
   #   url: /2022/programme
-   - title: 'Call for papers'
-     url: '/2023/call-for-papers'
+  - title: 'Call for papers'
+    url: '/2023/call-for-papers'
   # - title: 'Panel proposals'
   #   url: '/2023/panel-proposals'
   # - title: 'Press kit'
