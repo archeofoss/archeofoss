@@ -6,11 +6,9 @@ ednumber: 17
 layout: article-slim
 ---
 
-🚧🚧🚧 WORK IN PROGRESS 
-
 ### In brief
 
-- ArcheoFOSS 2023 will be held on 11-12 December 2023 at University of Turin
+- ArcheoFOSS 2023 will be held on 12-13 December 2023 at University of Turin
 - An online channel will be available both for papers and audience
 - Panel proposals are now being accepted
 - Panel proposals must be submitted before August 10 2023.
@@ -18,7 +16,7 @@ layout: article-slim
 
 ---
 
-The sixteenth edition of ArcheoFOSS will be hosted at  University of Turin on **12-13 December 2023**, in collaboration with [(Scuola di specializzazione in Beni archeologici Giorgio Gullini)][([https://scuolaarcheologia.campusnet.unito.it/do/corsi.pl/Show?_id=mg37)]
+The sixteenth edition of ArcheoFOSS will be hosted at  University of Turin on **12-13 December 2023**, in collaboration with [(Scuola di specializzazione in Beni archeologici Giorgio Gullini)][(https://scuolaarcheologia.campusnet.unito.it/do/corsi.pl/Show?_id=mg37)]
 
 This edition will be based on **panel sessions** that provide an opportunity for expert panel members to present their views and share their experience on a specific topic and then engage in a discussion with the audience.
 
@@ -42,7 +40,7 @@ A **typical panel session** starts with a **brief introduction** by the panel ch
 
 Proposals for panels **must** fully comply with the ArcheoFOSS mission, regarding free and open source software or hardware, open processes, open data, open science in the archaeological or more generally in the heritage domain.
 
-Proposals **must** be submitted via email, at [info@archeofoss.org](info@archeofoss.org) **before April 14 2022**, and **must** be licensed as CC-BY.
+Proposals **must** be submitted via email, at [info@archeofoss.org](info@archeofoss.org) **before August 10 2023**, and **must** be licensed as CC-BY.
 
 A **maximum of 10 panels** will be accepted. -->
 
