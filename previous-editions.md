@@ -8,7 +8,7 @@ layout: article-slim
 - **Dates**: 22-23 September 2022.
 - **Location**: Sapienza University of Rome and online
 - **Web**: [View conference page](./2022)
-- **Publication**: The proceedings are being published by [Archeologia e Calcolatori](http://www.archcalc.cnr.it) journal and will be available in July 2023
+- **Publication**: The proceedings, edited by Julian Bogdani and Stefano Costa, are being published by [Archeologia e Calcolatori](http://www.archcalc.cnr.it) journal and will be available in July 2023
 - **Organizing committee**
   - Julian Bogdani, [LAD](https://purl.org/lad), Sapienza University of Rome
   - Domizia D’Erasmo, [LAD](https://purl.org/lad), Sapienza University of Rome
