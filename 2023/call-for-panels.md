@@ -12,7 +12,8 @@ layout: article-slim
 - An online channel will be available both for papers and audience
 - Panel proposals are now being accepted
 - Panel proposals must be submitted before August 10 2023 at [callforpaper@archeofoss.org](callforpaper@archeofoss.org)
-- Panel proposals will undergo an open, not anonymous, peer-review evaluation proccess.
+- Panel proposals will undergo an open, not anonymous, peer-review evaluation process
+
 ---
 
 The sixteenth edition of ArcheoFOSS will be hosted at  University of Turin on **12-13 December 2023**, in collaboration with [Scuola di specializzazione in Beni archeologici Giorgio Gullini](https://scuolaarcheologia.campusnet.unito.it/do/corsi.pl/Show?_id=mg37).
