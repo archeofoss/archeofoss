@@ -4,11 +4,20 @@ description: ArchaeoFOSS editions
 layout: article-slim
 ---
 
+## ArcheoFOSS 16 (2022)
+- **Dates**: 22-23 September 2022.
+- **Location**: Sapienza University of Rome and online
+- **Web**: [View conference page](./2022)
+- **Publication**: The proceedings are being published by [Archeologia e Calcolatori](http://www.archcalc.cnr.it) journal and will be available in July 2023
+- **Organizing committee**
+  - Julian Bogdani, [LAD](https://purl.org/lad), Sapienza University of Rome
+  - Domizia D’Erasmo, [LAD](https://purl.org/lad), Sapienza University of Rome
+
 ## ArcheoFOSS 15 (2021)
 - **Dates**: 23-26 November 2021.
 - **Location**: Online conference
 - **Web**: [View conference page](./2021)
-- **Publication**: in progress
+- **Publication**: The proceedings are being published by [Groma](https://archaeopresspublishing.com/ojs/index.php/groma/) journal.
 - **Organizing committee**
   - Domizia D’Erasmo, Sapienza University of Rome
   - Cristina Gonzalez Esteban, University of Southampton
