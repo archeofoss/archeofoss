@@ -40,9 +40,9 @@ A **typical panel session** starts with a **brief introduction** by the panel ch
 
 Proposals for panels **must** fully comply with the ArcheoFOSS mission, regarding free and open source software or hardware, open processes, open data, open science in the archaeological or more generally in the heritage domain.
 
-Proposals **must** be submitted via email, at [callforpaper@archeofoss.org](callforpaper@archeofoss.org) **before August 10 2023**, and **must** be licensed as CC-BY.
+Proposals **must** be submitted via email, at [callforpaper@archeofoss.org](mailto:callforpaper@archeofoss.org) **before August 10 2023**, and **must** be licensed as CC-BY.
 
-A **maximum of 10 panels** will be accepted. -->
+A **maximum of 10 panels** will be accepted.
 
 
 
