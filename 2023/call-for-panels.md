@@ -31,7 +31,7 @@ As well-known, the ArcheoFOSS conference is traditionally focused on the dissemi
 
 A **typical panel session** starts with a **brief introduction** by the panel chair, followed by the presentations of **three or four panellists**.
 
-<!-- Proposals for panels can be submitted by one or two researchers. Each complete proposal must include:
+Proposals for panels can be submitted by one or two researchers. Each complete proposal must include:
 
 - A **title** describing the contents
 - A brief **description** of the proposed specific research topcic (max. 2.000 characters, spaces included), containing the state-of-art, at least one research question on which papers will be called and possibly a recent bibliography.
