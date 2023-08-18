@@ -6,7 +6,9 @@ layout: article-slim
 
 ## Conference proceedings
 
-The proceedings of the 2022 edition of ArcheoFOSS conference will be published in 2023 as a special issue of [Archeologia e Calcalotari (AeC)](http://www.archcalc.cnr.it/).
+The proceedings of the 2022 edition of ArcheoFOSS conference were published in 2023 as volume 34.1 of the [Archeologia e Calcolatori (AeC)]([http://www.archcalc.cnr.it/](http://www.archcalc.cnr.it/journal/idyear.php?IDyear=2023-07-26)) journal. The journal is open access.
+
+### Submission instructions
 
 Papers must not exceed **3.000** words in length (bibliography included) and can contain a maximum of **5 figures**.
 
