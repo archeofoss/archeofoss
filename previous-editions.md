@@ -8,7 +8,8 @@ layout: article-slim
 - **Dates**: 22-23 September 2022.
 - **Location**: Sapienza University of Rome and online
 - **Web**: [View conference page](./2022)
-- **Publication**: The proceedings, edited by Julian Bogdani and Stefano Costa, are being published by [Archeologia e Calcolatori](http://www.archcalc.cnr.it) journal and will be available in July 2023
+- **Publication**: The proceedings of the 2022 edition of ArcheoFOSS conference, edited by Julian Bogdani and Stefano Costa, were published in 2023 as volume 34.1 of the [Archeologia e Calcolatori (AeC)]([http://www.archcalc.cnr.it/](http://www.archcalc.cnr.it/journal/idyear.php?IDyear=2023-07-26)) journal. The journal is open access.
+
 - **Organizing committee**
   - Julian Bogdani, [LAD](https://purl.org/lad), Sapienza University of Rome
   - Domizia D’Erasmo, [LAD](https://purl.org/lad), Sapienza University of Rome
