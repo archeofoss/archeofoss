@@ -8,6 +8,9 @@ ednumber: XVI
 
 ## Latest news
 
+**[2023-08-18]**
+The proceedings of the 2022 edition of ArcheoFOSS conference were published in 2023 as volume 34.1 of the [Archeologia e Calcolatori (AeC)](http://www.archcalc.cnr.it/journal/idyear.php?IDyear=2023-07-26) journal. The journal is open access.
+
 **[2022-09-24]**
 ArcheoFOSS 2022 conference works were closed yesterday evening. Thank you to all authors and public for sharing your research and your ideas! We will meet again in 2023 in Turin!
 
