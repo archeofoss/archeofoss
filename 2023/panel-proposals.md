@@ -49,8 +49,8 @@ The aim of this panel is to critically examine this nascent community and the ro
 
    ![Panel Palmisano_Titolo](locandina_panel_Palmisano_Titolo.png)
    
- - [Alessio Palmisano](mailto:alessio.palmisano@unito.it), University of Turin
- - [Andrea Titolo](mailto:andrea.titolo@unito.it), University of Turin
+   - [Alessio Palmisano](mailto:alessio.palmisano@unito.it), University of Turin
+   - [Andrea Titolo](mailto:andrea.titolo@unito.it), University of Turin
 
 The field of archaeology has experienced a transformative shift in recent years, spurred by a growing deluge of novel digital data about the human past accessible through fieldwork reports, 3D models of artefacts, transcriptions of historical documents, databases and open repositories of datasets (Bevan 2015). In this context, archaeology, as a discipline relying on empirical methods in data collection and analysis, has to deal with several new challenges.
 
@@ -70,3 +70,21 @@ Bevan, A., 2015. The data deluge. Antiquity, 89(348), 1473-1484.
 Cole, N. L., Reichmann, S., and Ross-Hellauer, T., 2022. Global Thinking. ON-MERRIT recommendations for maximising equity in open and responsible research (1.0). Zenodo. https://doi.org/10.5281/zenodo.6276753
 Marwick, B., d’Alpoim Guedes, J., Barton, C. M., Bates, L. A., Baxter, M., Bevan, A., ... & Wren, C. D. (2017). Open science in archaeology. SAA Archaeological Record, 17(4), 8-14.
 
+## 4. Virtual Reconstruction in Archaeology with FOSS methods and tools
+
+ - **Proponents**:
+- [Emanuel Demetrescu](mailto:emanuel.demetrescu@cnr.it)
+- [Simone Berto](mailto:simone.berto@ispc.cnr.it) 
+
+Virtual reconstructions in archaeology used to be evaluated primarily as an enhancement tool (with a purely aesthetic focus). Recently this idea is evolving, and semantic 3D models are considered an indispensable instrument for analyzing, creating hypotheses, and synthesizing archaeological study. 
+More, Virtual Reconstruction is a combination of a variety of sources, ranging from survey to images to previous studies and interpretations with a diverse degree of reliability: for its intrinsic nature, to be recognized as a scientific practice, it should be closely connected to the Open Science paradigm through FOSS solutions.
+This panel offers a place to present original works in which reconstruction is part of scientific archaeological study. Virtual reconstruction includes highly fragmented contexts, contexts that no longer exist as well as design images that have never been realized. The use of open software, formats, and workflows, in line with the principles of Open Science and FAIR, provides an essential opportunity to demystify the reconstructive process, make it replicable, transparent, and reusable by other researchers. The panel includes theoretical-methodological contributions and practical case studies on the use of virtual reconstruction methodologies, hypothesis editing tools within three-dimensional environments or purely semantic representations.
+
+Main topics include but are not limited to:
+
+Application of FAIR and Open-Source principles to reconstruction processes.
+Inter and trans-disciplinary approaches to documenting archaeological contexts.
+Semantic 3D tools for mapping, representing, and sharing virtual reconstructions together with related information.
+Solutions to create explore measure virtual reconstructions in archaeology.
+
+  
