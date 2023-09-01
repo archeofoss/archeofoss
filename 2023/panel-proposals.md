@@ -5,7 +5,7 @@ layout: article-slim
 ---
 
 All panel proposals are published here, so everyone can comment and make suggestions on the various proposals.
-The deadline for comments is September 15th. You can comment by submitting an email to [callforpaper@archeofoss.org](mailto:callforpaper@archeofoss.org). Comments may be shared with panel proponents and members of the scientific committee.
+The deadline for comments is **September 15th**. You can comment by submitting an email to [callforpaper@archeofoss.org](mailto:callforpaper@archeofoss.org). Comments may be shared with panel proponents and members of the scientific committee.
 
 ## 1. Tools, objectives, users: state of art and future perspectives on the sharing of open data in archaeology
 
