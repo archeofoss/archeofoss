@@ -37,4 +37,11 @@ The aim of this panel is to critically examine this nascent community and the ro
 - Brembs, Björn, Adrian Lenardic, Peter Murray-Rust, Leslie Chan, and Dasapta Erwin Irawan. 2023. “Mastodon over Mammon: Towards Publicly Owned Scholarly Knowledge.” Royal Society Open Science 10 (7): 230207. https://doi.org/10.1098/rsos.230207. 
 - Cheplygina, Veronika, Felienne Hermans, Casper Albers, Natalia Bielczyk, and Ionica Smeets. 2020. “Ten Simple Rules for Getting Started on Twitter as a Scientist.” PLoS Computa tional Biology 16 (2): e1007513. https://doi.org/10.1371/journal.pcbi.1007513. 
 - Insall, Robert. 2023. “Science Twitter — Navigating Change in Science Communication.” Nature Reviews Molecular Cell Biology 24 (5, 5): 305–6. https://doi.org/10.1038/s41580- 023-00581-3. 
-- Shilobod, Nika, Andrea Titolo, and Ronald Visser. 2023. “Archaeologists of Mastodon.” August 2, 2023. https://stark1tty.github.io/Mastodon-Archaeology/. 
+- Shilobod, Nika, Andrea Titolo, and Ronald Visser. 2023. “Archaeologists of Mastodon.” August 2, 2023. https://stark1tty.github.io/Mastodon-Archaeology/.
+
+## 3. The Roadmap to Cooperation and Transparency: Fostering Open Science Solutions in Archaeology 
+ - **Proponents**:
+  - Alessio Palmisano (alessio.palmisano@unito.it), University of Turin
+
+  - 
+Andrea Titolo (andrea.titolo@unito.it), University of Turin
