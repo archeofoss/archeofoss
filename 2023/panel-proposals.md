@@ -91,7 +91,7 @@ Solutions to create explore measure virtual reconstructions in archaeology.
 
  - **Proponents**:
  - [Daniele Bursich](mailto:daniele.bursich@univr.it), University of Verona
- - [Dario Calamino](mailto:dario.calomino@univr.it ), University of Verona
+ - [Dario Calomino](mailto:dario.calomino@univr.it ), University of Verona
    
 
 The current state of research in archaeology relies of very wide range of options for approaching the  3D scanning of ancient artefacts from active, passive or hybrid sensors. There is plenty of case studies  on the application of different procedures, more or less automatised and dealing with different classes  of objects and structures.  
