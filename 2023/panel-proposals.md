@@ -9,6 +9,9 @@ The deadline for comments is September 15th. You can comment by submitting an em
 
 ## 1. Tools, objectives, users: state of art and future perspectives on the sharing of open data in archaeology
 
+![Panel_Archeofoss_ICA (1)](https://github.com/archeofoss/archeofoss/assets/15984135/f4d475aa-f488-4587-973c-9f2215019768)
+
+
 - **Proponents**:
   - [Valeria Boi](mailto:valeria.boi@cultura.gov.it), MiC – Istituto Centrale per l’Archeologia
   - [Mirella Serlorenzi](mailto:mirella.serlorenzi@cultura.gov.it), MiC – SSABAP-RM
