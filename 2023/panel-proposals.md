@@ -73,8 +73,8 @@ We welcome papers and case studies illustrating relevant data, approaches, theor
 ## 4. Virtual Reconstruction in Archaeology with FOSS methods and tools
 
  - **Proponents**:
- - [Emanuel Demetrescu](mailto:emanuel.demetrescu@cnr.it)
- - [Simone Berto](mailto:simone.berto@ispc.cnr.it) 
+ - [Emanuel Demetrescu](mailto:emanuel.demetrescu@cnr.it), ISPC-CNR
+ - [Simone Berto](mailto:simone.berto@ispc.cnr.it), ISPC-CNR
 
 Virtual reconstructions in archaeology used to be evaluated primarily as an enhancement tool (with a purely aesthetic focus). Recently this idea is evolving, and semantic 3D models are considered an indispensable instrument for analyzing, creating hypotheses, and synthesizing archaeological study. 
 More, Virtual Reconstruction is a combination of a variety of sources, ranging from survey to images to previous studies and interpretations with a diverse degree of reliability: for its intrinsic nature, to be recognized as a scientific practice, it should be closely connected to the Open Science paradigm through FOSS solutions.
@@ -90,8 +90,8 @@ Solutions to create explore measure virtual reconstructions in archaeology.
 ## 5. Small Finds: comparing methodologies and techniques for the 3D scanning of small 
 
  - **Proponents**:
- - [Daniele Bursich](mailto:daniele.bursich@univr.it)
- - [Dario Calamino](mailto:dario.calomino@univr.it )
+ - [Daniele Bursich](mailto:daniele.bursich@univr.it), University of Verona
+ - [Dario Calamino](mailto:dario.calomino@univr.it ), University of Verona
    
 
 The current state of research in archaeology relies of very wide range of options for approaching the  3D scanning of ancient artefacts from active, passive or hybrid sensors. There is plenty of case studies  on the application of different procedures, more or less automatised and dealing with different classes  of objects and structures.  
@@ -114,8 +114,8 @@ We welcome presentations dealing with the 3D scanning of small objects, especial
   ## 6.   Data Integration and Communication Platforms
 
 - **Proponents**:
- - [Marco Montanari](mailto:marco.montanari@openhistorymap.org)
- - [Lucia Marsicano](mailto:lucia.marsicano@openhistorymap.org)
+ - [Marco Montanari](mailto:marco.montanari@openhistorymap.org), OpenHistoryMap
+ - [Lucia Marsicano](mailto:lucia.marsicano@openhistorymap.org), OpenHistoryMap
 
 Archaeology has always been under pressure by two, in part opposing, forces: academic collection and sharing of data, which requires high quality and verticality, and, on the other side of the barricade, public communication of the discovered data, where quality is not paramount, while its aspects of simplicity, context and readability become important. As we all know, the field has always relied on geographic information, photographic data and field collection. From this point of view technology has aided in many aspects. For this reason, GIS has been applied in archaeology for the last three decades. Open source softwares like for example QGis and Grass enable a wide variety of analyses, while server applications like QField and PyArchInit give the systems additional input and output for academia.
 On the other side there are several attempts to share data for the public, like SITAR, Wikimedia Commons, Open Context and many other projects, that share a common set of features: these projects are either very local (i.e. SITAR), very vertical on a specific topic (i.e. Open Context)or vertical on specific data formats (i.e. Wikimedia Commons). In certain cases, there is also the issue of data quality, as some datasets are not validated and completely public knowledge driven (i.e. Wikidata). Project-specific WebGIS solutions are widely adopted approaches also thanks to their most important feature: standardization.
@@ -125,7 +125,7 @@ long-term idea to help increase cooperation and standardization between operator
  ## 7.   Zotero2Map  - a new ITC tool for sharing and publishing bibliographic data with a cartographic base for historical-archaeological research
 
 - **Proponents**:
- - [Eleonora Iacopini](mailto:eleonora.iacopini@uniroma1.it)
+ - [Eleonora Iacopini](mailto:eleonora.iacopini@uniroma1.it), LAD, Sapienza University of Rome
    
 Zotero2Map is a web application for sharing bibliographic data from various collaborators who want to share their bibliographic collections, using the Zotero software with the specificity of displaying and querying data also on a geographical map. With this tool the LAD: Laboratory of Digital Archeology at Sapienza (http://purl.org/lad) aims to facilitate the exchange of information relating to different historical and archaeological contexts, to speed up their retrieval and ensure constant updating of the data entered into the system. The Web-App allows you to view and search for bibliographic data within an online map, using keywords (tags) that define the contents that are archived within the Zotero Libraries, which individual researchers already use for own scientific production. By simply clicking on the map it will therefore be possible to go back to the titles of the contributions, giving the possibility to individual users/researchers to always be updated on the scientific debate and on the publications concerning a certain area. The international vocation of the project presented is given not only by usability and open distribution, but also by the development of the cross-language functionality of keywords, a system that will allow the association of terms related to the same research topic but treated in different languages . The use of shared, multilingual dictionaries will allow not only to break down language barriers, but also to define an articulated taxonomy of relationships between the terms used. Individual researchers therefore do not have to adapt to pre-established vocabularies, but are invited to align their taxonomy with the shared one, making use of simple but powerful ontologies, such as SKOS or FOAF. Currently the software has been used on the specific case of Caonia, Northern Epirus
 
