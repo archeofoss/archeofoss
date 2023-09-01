@@ -24,6 +24,8 @@ Which is the sustainable way to trace properly a circular knowledge path? And ho
 
 ## 2. archaeo.social: archaeology in the Fediverse and the future of scholarly social media 
 
+![Fediverse](fediverse.png)
+
 - **Proponents**:
   - [Joe Roe](mailto:joeroe@hey.com), University of Bern, ORCID: 0000-0002-1011-1244 
   - [Zack Batist](z.batist@mail.utoronto.ca), University of Toronto, ORCID: 0000-0003-0435-508X 
