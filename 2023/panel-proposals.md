@@ -10,8 +10,8 @@ The deadline for comments is September 15th. You can comment by submitting an em
 ## 1. Tools, objectives, users: state of art and future perspectives on the sharing of open data in archaeology
 
 - **Proponents**:
-  - [Valeria Boi](mailto:valeria.boi@cultura.gov.it), (MiC – Istituto Centrale per l’Archeologia)
-  - [Mirella Serlorenzi](mailto:mirella.serlorenzi@cultura.gov.it),  (MiC – SSABAP-RM)
+  - [Valeria Boi](mailto:valeria.boi@cultura.gov.it), MiC – Istituto Centrale per l’Archeologia
+  - [Mirella Serlorenzi](mailto:mirella.serlorenzi@cultura.gov.it), MiC – SSABAP-RM
 
 The panel aims to develop considerations about the methodological tools and the consequences of the Data Opening in archaeology, since the newly started experience of the on-line publication of the National Geoportal for Archaeology, and from other consolidated and already ongoing experiences in Italy (for example, the SITAR project, of the Special Superintendency of Rome, the MOD designed by the University of Pisa, more recently the ArcheoDB of Emilia Romagna, to name just a few).
 Approaching balances, prospectives and an exam of the various criticisms, the panel intends to trace a sort of “roadmap”, considering the main issues about the Open Data raised by the sector operators, which will be useful for future developments:
