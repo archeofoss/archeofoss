@@ -9,7 +9,7 @@ The deadline for comments is **September 15th**. You can comment by submitting a
 
 ## 1. Tools, objectives, users: state of art and future perspectives on the sharing of open data in archaeology
 
-![Panel_Archeofoss_ICA (1)](https://github.com/archeofoss/archeofoss/assets/15984135/f4d475aa-f488-4587-973c-9f2215019768)
+![Panel_Archeofoss_ICA)](Panel_Archeofoss_ICA_Web.jpg)
 
 
 - **Proponents**:
@@ -47,7 +47,7 @@ The aim of this panel is to critically examine this nascent community and the ro
 ## 3. The Roadmap to Cooperation and Transparency: Fostering Open Science Solutions in Archaeology 
  - **Proponents**:
 
-   ![Panel Palmisano_Titolo](locandina_panel_Palmisano_Titolo.png)
+   ![Panel Palmisano_Titolo](locandina_panel_Palmisano_Titolo_web.png)
    
    - [Alessio Palmisano](mailto:alessio.palmisano@unito.it), University of Turin
    - [Andrea Titolo](mailto:andrea.titolo@unito.it), University of Turin
