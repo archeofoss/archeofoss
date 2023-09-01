@@ -43,6 +43,8 @@ The aim of this panel is to critically examine this nascent community and the ro
 
 ## 3. The Roadmap to Cooperation and Transparency: Fostering Open Science Solutions in Archaeology 
  - **Proponents**:
+
+   ![Panel Palmisano_Titolo](locandina_panel_Palmisano_Titolo.png)
    
  - [Alessio Palmisano](mailto:alessio.palmisano@unito.it), University of Turin
  - [Andrea Titolo](mailto:andrea.titolo@unito.it), University of Turin
