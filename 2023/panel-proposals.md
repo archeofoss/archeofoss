@@ -43,7 +43,25 @@ The aim of this panel is to critically examine this nascent community and the ro
 
 ## 3. The Roadmap to Cooperation and Transparency: Fostering Open Science Solutions in Archaeology 
  - **Proponents**:
-  - Alessio Palmisano (alessio.palmisano@unito.it), University of Turin
+   
+ - [Alessio Palmisano] (mailto:alessio.palmisano@unito.it), University of Turin
+ - [Andrea Titolo] (mailto:andrea.titolo@unito.it), University of Turin
 
-  - 
-Andrea Titolo (andrea.titolo@unito.it), University of Turin
+The field of archaeology has experienced a transformative shift in recent years, spurred by a growing deluge of novel digital data about the human past accessible through fieldwork reports, 3D models of artefacts, transcriptions of historical documents, databases and open repositories of datasets (Bevan 2015). In this context, archaeology, as a discipline relying on empirical methods in data collection and analysis, has to deal with several new challenges.
+
+Do the available datasets adhere to the FAIR principles of scientific data management and stewardship?
+To what extent is scientific research reproducible?
+What are some optimal strategies for long-term preservation of digital archaeological data?
+What are the ethical issues arising from fieldwork and data dissemination practices?
+
+By embracing principles of transparency, reproducibility, and collaboration, open science has reshaped the way archaeological research is conducted, communicated, and valued within the scholarly community and beyond (Marwick et al. 2017). The advantages of open science are evident in its ability to foster interdisciplinary collaborations, enhance data accessibility and dissemination, promote scientific rigour and democratize access to knowledge. However, the implementation of Open Science practices in archaeology has also paved the way for new issues that need to be carefully scrutinised. Those issues are related to intellectual property rights, ethical concerns surrounding sensitive cultural heritage, data management strategies, scientific publication modalities, and the need for adequate training to ensure the effective adoption of open science principles (Cole et al. 2022).
+
+We welcome papers and case studies illustrating relevant data, approaches, theoretical frameworks and ethics to data sharing and reproducible research applied to archaeological case studies. Furthermore, in this panel, we would like to discuss possible solutions and strategies to adopt for the establishment of standardised protocols for data sharing and stewardship. 
+
+
+### References
+
+Bevan, A., 2015. The data deluge. Antiquity, 89(348), 1473-1484.
+Cole, N. L., Reichmann, S., and Ross-Hellauer, T., 2022. Global Thinking. ON-MERRIT recommendations for maximising equity in open and responsible research (1.0). Zenodo. https://doi.org/10.5281/zenodo.6276753
+Marwick, B., d’Alpoim Guedes, J., Barton, C. M., Bates, L. A., Baxter, M., Bevan, A., ... & Wren, C. D. (2017). Open science in archaeology. SAA Archaeological Record, 17(4), 8-14.
+
