@@ -10,9 +10,8 @@ layout: article-slim
 
 - ArcheoFOSS 2023 will be held on 12-13 December 2023 at University of Turin
 - An online channel will be available both for papers and audience
-- Panel proposals are now being accepted
-- Panel proposals must be submitted before August 10 2023 at [callforpaper@archeofoss.org](mailto:callforpaper@archeofoss.org)
-- Panel proposals will undergo an open, not anonymous, peer-review evaluation process
+- Panel proposals have been submitted and are now under [public review at this page](panel-proposals)
+- Comments on the panel proposals can be submitted to [callforpaper@archeofoss.org](mailto:callforpaper@archeofoss.org) before September 15th
 
 ---
 
@@ -39,11 +38,5 @@ Proposals for panels can be submitted by one or two researchers. Each complete p
 - Full name(s), affiliation(s) and email addressed (**max 2 proponents**)
 
 Proposals for panels **must** fully comply with the ArcheoFOSS mission, regarding free and open source software or hardware, open processes, open data, open science in the archaeological or more generally in the heritage domain.
-
-Proposals **must** be submitted via email, at [callforpaper@archeofoss.org](mailto:callforpaper@archeofoss.org) **before August 10 2023**, and **must** be licensed as CC-BY.
-
-A **maximum of 10 panels** will be accepted.
-
-
 
 
