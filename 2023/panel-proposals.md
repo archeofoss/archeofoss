@@ -73,10 +73,11 @@ We welcome papers and case studies illustrating relevant data, approaches, theor
 ## 4. Virtual Reconstruction in Archaeology with FOSS methods and tools
 
  - **Proponents**:
- - [Emanuel Demetrescu](mailto:emanuel.demetrescu@cnr.it), ISPC-CNR
- - [Simone Berto](mailto:simone.berto@ispc.cnr.it), ISPC-CNR
+   - [Emanuel Demetrescu](mailto:emanuel.demetrescu@cnr.it), ISPC-CNR
+   - [Simone Berto](mailto:simone.berto@ispc.cnr.it), ISPC-CNR
 
 Virtual reconstructions in archaeology used to be evaluated primarily as an enhancement tool (with a purely aesthetic focus). Recently this idea is evolving, and semantic 3D models are considered an indispensable instrument for analyzing, creating hypotheses, and synthesizing archaeological study. 
+
 More, Virtual Reconstruction is a combination of a variety of sources, ranging from survey to images to previous studies and interpretations with a diverse degree of reliability: for its intrinsic nature, to be recognized as a scientific practice, it should be closely connected to the Open Science paradigm through FOSS solutions.
 This panel offers a place to present original works in which reconstruction is part of scientific archaeological study. Virtual reconstruction includes highly fragmented contexts, contexts that no longer exist as well as design images that have never been realized. The use of open software, formats, and workflows, in line with the principles of Open Science and FAIR, provides an essential opportunity to demystify the reconstructive process, make it replicable, transparent, and reusable by other researchers. The panel includes theoretical-methodological contributions and practical case studies on the use of virtual reconstruction methodologies, hypothesis editing tools within three-dimensional environments or purely semantic representations.
 
@@ -90,13 +91,16 @@ Solutions to create explore measure virtual reconstructions in archaeology.
 ## 5. Small Finds: comparing methodologies and techniques for the 3D scanning of small 
 
  - **Proponents**:
- - [Daniele Bursich](mailto:daniele.bursich@univr.it), University of Verona
- - [Dario Calomino](mailto:dario.calomino@univr.it ), University of Verona
+   - [Daniele Bursich](mailto:daniele.bursich@univr.it), University of Verona
+   - [Dario Calomino](mailto:dario.calomino@univr.it ), University of Verona
    
 
 The current state of research in archaeology relies of very wide range of options for approaching the  3D scanning of ancient artefacts from active, passive or hybrid sensors. There is plenty of case studies  on the application of different procedures, more or less automatised and dealing with different classes  of objects and structures.  
+
 However, the 3D scanning of small objects is more uncommon and a slightly underdeveloped field of  research, as we are often struggling with several unresolved issues. This is particularly the case with  glossy or translucid materials, such as different kinds of stones in which gems, intaglios and cameos  were carved, and precious metals used for striking coins in antiquity, having either extremely reflective  surfaces (gold and silver) or light-absorbing ones (copper and bronze). Due to these hindrances, we  must sometimes resort to re-modelling an object from scratch/images rather than actually scans it,  and sometimes this is not even an option. Three-dimensional imaging in the numismatic field can be  a game-changing opportunity to acquire vital information from coins to determine their conservation  status, their authenticity and even their date. In the museum environment and in teaching activities it  can be also used to show super-high-resolution images of small objects (for instance gems or ring seals) to appreciate details of their fabric and/or designs for display and visual-learning activities. Organic approaches in this field are very uncommon, as we often rely on post-production software and  we lack sound and reliable methodologies for acquiring large set of data in batch (for instance in the  scanning of coin hoards). 
+
 This panel is organised within the scope of the IRIMES Project (The Roman Imperial Image between  Coinage and Sculpture – FARE prot. R2035CJB5, funded by the Italian Ministry of Research), based in  the Department of Cultures and Civilisations at the University of Verona. It aims to investigate how the  3D scanning of small ancient artefacts can enhance our ability to study and understand the information  that they provide. The panel wishes to find out more about current research in this specific field and  to discuss and compare different experiences.  
+
 We welcome presentations dealing with the 3D scanning of small objects, especially glyptic, jewellery  and coins, discussing: how different techniques, tools and software can be combined to generate new  methodologies and research strategies that will produce the most effective results in this field; how  these new approaches can be deployed also to engage with the general public outside the academia  for dissemination purposes and for display activities in museums.
 
 ### References
@@ -118,11 +122,13 @@ We welcome presentations dealing with the 3D scanning of small objects, especial
  - [Lucia Marsicano](mailto:lucia.marsicano@openhistorymap.org), OpenHistoryMap
 
 Archaeology has always been under pressure by two, in part opposing, forces: academic collection and sharing of data, which requires high quality and verticality, and, on the other side of the barricade, public communication of the discovered data, where quality is not paramount, while its aspects of simplicity, context and readability become important. As we all know, the field has always relied on geographic information, photographic data and field collection. From this point of view technology has aided in many aspects. For this reason, GIS has been applied in archaeology for the last three decades. Open source softwares like for example QGis and Grass enable a wide variety of analyses, while server applications like QField and PyArchInit give the systems additional input and output for academia.
+
 On the other side there are several attempts to share data for the public, like SITAR, Wikimedia Commons, Open Context and many other projects, that share a common set of features: these projects are either very local (i.e. SITAR), very vertical on a specific topic (i.e. Open Context)or vertical on specific data formats (i.e. Wikimedia Commons). In certain cases, there is also the issue of data quality, as some datasets are not validated and completely public knowledge driven (i.e. Wikidata). Project-specific WebGIS solutions are widely adopted approaches also thanks to their most important feature: standardization.
+
 The potential space for containers for public archaeology, public history as well as storytelling integrations towards other platforms where the narrative is central appears to be wide open and without many attempts to tackle the concept, beside very technical platforms (i.e. Github, Zenodo). Within this panel we would like to explore platforms that cross knowledge sharing and data quality, where academia and research groups are central, but so is also communication, in the
 long-term idea to help increase cooperation and standardization between operators.
 
- ## 7.   Zotero2Map  - a new ITC tool for sharing and publishing bibliographic data with a cartographic base for historical-archaeological research
+## 7.   Zotero2Map  - a new ITC tool for sharing and publishing bibliographic data with a cartographic base for historical-archaeological research
 
 - **Proponents**:
  - [Eleonora Iacopini](mailto:eleonora.iacopini@uniroma1.it), LAD, Sapienza University of Rome
