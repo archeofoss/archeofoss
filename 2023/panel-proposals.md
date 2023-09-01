@@ -73,8 +73,8 @@ Marwick, B., d’Alpoim Guedes, J., Barton, C. M., Bates, L. A., Baxter, M., Bev
 ## 4. Virtual Reconstruction in Archaeology with FOSS methods and tools
 
  - **Proponents**:
-- [Emanuel Demetrescu](mailto:emanuel.demetrescu@cnr.it)
-- [Simone Berto](mailto:simone.berto@ispc.cnr.it) 
+ - [Emanuel Demetrescu](mailto:emanuel.demetrescu@cnr.it)
+ - [Simone Berto](mailto:simone.berto@ispc.cnr.it) 
 
 Virtual reconstructions in archaeology used to be evaluated primarily as an enhancement tool (with a purely aesthetic focus). Recently this idea is evolving, and semantic 3D models are considered an indispensable instrument for analyzing, creating hypotheses, and synthesizing archaeological study. 
 More, Virtual Reconstruction is a combination of a variety of sources, ranging from survey to images to previous studies and interpretations with a diverse degree of reliability: for its intrinsic nature, to be recognized as a scientific practice, it should be closely connected to the Open Science paradigm through FOSS solutions.
@@ -86,5 +86,28 @@ Application of FAIR and Open-Source principles to reconstruction processes.
 Inter and trans-disciplinary approaches to documenting archaeological contexts.
 Semantic 3D tools for mapping, representing, and sharing virtual reconstructions together with related information.
 Solutions to create explore measure virtual reconstructions in archaeology.
+
+## 5. Small Finds: comparing methodologies and techniques for the 3D scanning of small 
+
+ - **Proponents**:
+ - [Daniele Bursich](mailto:daniele.bursich@univr.it)
+ - [Dario Calamino](mailto:dario.calomino@univr.it )
+
+   The current state of research in archaeology relies of very wide range of options for approaching the  3D scanning of ancient artefacts from active, passive or hybrid sensors. There is plenty of case studies  on the application of different procedures, more or less automatised and dealing with different classes  of objects and structures.  
+However, the 3D scanning of small objects is more uncommon and a slightly underdeveloped field of  research, as we are often struggling with several unresolved issues. This is particularly the case with  glossy or translucid materials, such as different kinds of stones in which gems, intaglios and cameos  were carved, and precious metals used for striking coins in antiquity, having either extremely reflective  surfaces (gold and silver) or light-absorbing ones (copper and bronze). Due to these hindrances, we  must sometimes resort to re-modelling an object from scratch/images rather than actually scans it,  and sometimes this is not even an option. Three-dimensional imaging in the numismatic field can be  a game-changing opportunity to acquire vital information from coins to determine their conservation  status, their authenticity and even their date. In the museum environment and in teaching activities it  can be also used to show super-high-resolution images of small objects (for instance gems or ring seals) to appreciate details of their fabric and/or designs for display and visual-learning activities. Organic approaches in this field are very uncommon, as we often rely on post-production software and  we lack sound and reliable methodologies for acquiring large set of data in batch (for instance in the  scanning of coin hoards). 
+This panel is organised within the scope of the IRIMES Project (The Roman Imperial Image between  Coinage and Sculpture – FARE prot. R2035CJB5, funded by the Italian Ministry of Research), based in  the Department of Cultures and Civilisations at the University of Verona. It aims to investigate how the  3D scanning of small ancient artefacts can enhance our ability to study and understand the information  that they provide. The panel wishes to find out more about current research in this specific field and  to discuss and compare different experiences.  
+We welcome presentations dealing with the 3D scanning of small objects, especially glyptic, jewellery  and coins, discussing: how different techniques, tools and software can be combined to generate new  methodologies and research strategies that will produce the most effective results in this field; how  these new approaches can be deployed also to engage with the general public outside the academia  for dissemination purposes and for display activities in museums.
+
+### References
+
+Carcagni, Daffara et al. 2005 = P. Carcagnì, C. Daffara et alii.‘Optical micro-profilometry for archaeology’,  Proc. SPIE 5857, 58570F (2005) 
+Colombo, Daffara et al. 2007 = C. Colombo, C. Daffara et alii, ‘Evaluation by laser micro-profilometry of  morphological changes induced on stone materials by laser cleaning’, Springer Proc. in Physics 116 (2007): 523-56 
+Egger et al. 2020 = B. Egger et alii ‘3D Moprhable Face Models – Past, Present and Future”, ACM  Transaction on Graphics Vol. 39, n. 5 (2020) 
+Fontana et al. 2004 = R. Fontana et alii, ‘High-resolution 3D survey of artworks’, Proc. SPIE 5457 (2004):  719-26. 
+Giachetti et al 2018 = A. Giachetti et alii, ‘A novel framework for highlight reflectance transformation  imaging’, Computer Vision and Image Understanding 168 (2018): 118-31. 
+Montani et al. 2012 = I. Montani et alii, ‘Analysis of Roman pottery graffiti by high resolution capture  and 3D laser profilometry’, Journal of Archaeological Science 39 (2012): 3349–53. 
+Ranjan et al. 2018 = A. Ranjan et alii, ‘Generating 3D face using Convolutional Mesh Autoencoders’,  ECCV (2018). 
+Zhongping et al. 2021 = Zhongping et alii, ‘Fast Bas-relief Generation from 3D Scenes’, Computer-Aided  Design Vol 130 (2021)
+
 
   
