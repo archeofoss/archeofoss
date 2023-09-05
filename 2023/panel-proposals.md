@@ -115,7 +115,7 @@ We welcome presentations dealing with the 3D scanning of small objects, especial
 - Zhongping et al. 2021 = Zhongping et alii, ‘Fast Bas-relief Generation from 3D Scenes’, Computer-Aided  Design Vol 130 (2021)
 
 
-  ## 6.   Data Integration and Communication Platforms
+## 6.   Data Integration and Communication Platforms
 
 - **Proponents**:
  - [Marco Montanari](mailto:marco.montanari@openhistorymap.org), OpenHistoryMap
