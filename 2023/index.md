@@ -8,6 +8,9 @@ ednumber: 17
 
 ## Latest news
 
+**[01/09/2023]**
+The [panel proposals](/2023/panel-proposals) for the ArcheoFOSS 2023 conference are now available for review and comment until September 15th. 
+
 **[11/06/2023]**  
 The [call for panels](/2023/call-for-panels) of ArcheoFOSS 2023 is now open.
 The hybrid conference will be hosted in Turin by the University of Turin on 12-13 December 2023. 
