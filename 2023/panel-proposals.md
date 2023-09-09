@@ -25,6 +25,12 @@ How is it possible to balance the exigence of enhancing the authors’ rights wi
 In a world now used to the real-time updating of the information, is a dynamic archaeological map, constantly updated with new findings or with new adjourned interpretations, concretely achievable or is it just utopic?
 Which is the sustainable way to trace properly a circular knowledge path? And how can the adoption of shared standards be extended at national level, to improve the data quality and compare and spread them as best? How is it possible to reconcile the need for a central collection point with the specificities of other existing projects?
 
+
+**Comments**
+
+Tools, objectives, users: state of art and future perspectives on the sharing of open data in archaeology is a well written proposal that I fully support. In fact, I anticipate that I will submit a paper to this panel. The only weakness in the proposal is that it seems very focused on Italy's situation, whereas a global approach would be more fruitful, in the path of last year's panel "I/O: ethics, policies and technologies for programmatic and open access to archaeological online data sets". In particular, the ARIADNE Research Initiative could be involved. [Stefano Costa](mailto:stefano.costa@cultura.gov.it)
+
+
 ## 2. archaeo.social: archaeology in the Fediverse and the future of scholarly social media 
 
 ![Fediverse](fediverse.png)
@@ -38,11 +44,16 @@ In November 2022, the microblogging service Twitter (now X) was acquired by bill
 Amongst several alternatives, Mastodon emerged as the primary destination for scholars leav ing Twitter (Insall 2023). Mastodon is similar to Twitter in its design and function, but rather than being controlled by a single corporation, it is a decentralised network of individual servers based on free and open source software. Servers ‘federate’ with each other using an open, W3C standardised protocol (ActivityPub), allowing communication across Mastodon instances and a wider ‘Fediverse’ of interoperable services. The Fediverse presents a golden opportunity for scholars to reclaim ownership over the infrastructure that supports their participation on social media, and other aspects of their online experiences, too (Brembs et al. 2023). We cre ated archaeo.social to encourage the use of federated social media for scholarly communication in archaeology. As of August 2023, it has 675 users, though many more archaeologists are registered with other servers in the Fediverse (Shilobod, Titolo, and Visser 2023). 
 The aim of this panel is to critically examine this nascent community and the role of the Fedi verse in the future of scholarly communication. We invite discussion of the use and potential of decentralised social media for archaeology; of risks, challenges, and critiques; and reflections on the future trajectory of archaeo.social and archaeology in the Fediverse more broadly. 
 
+
 ### References 
 - Brembs, Björn, Adrian Lenardic, Peter Murray-Rust, Leslie Chan, and Dasapta Erwin Irawan. 2023. “Mastodon over Mammon: Towards Publicly Owned Scholarly Knowledge.” Royal Society Open Science 10 (7): 230207. https://doi.org/10.1098/rsos.230207.
 - Cheplygina, Veronika, Felienne Hermans, Casper Albers, Natalia Bielczyk, and Ionica Smeets. 2020. “Ten Simple Rules for Getting Started on Twitter as a Scientist.” PLoS Computa tional Biology 16 (2): e1007513. https://doi.org/10.1371/journal.pcbi.1007513. 
 - Insall, Robert. 2023. “Science Twitter — Navigating Change in Science Communication.” Nature Reviews Molecular Cell Biology 24 (5, 5): 305–6. https://doi.org/10.1038/s41580- 023-00581-3. 
 - Shilobod, Nika, Andrea Titolo, and Ronald Visser. 2023. “Archaeologists of Mastodon.” August 2, 2023. https://stark1tty.github.io/Mastodon-Archaeology/.
+
+  **Comments**
+archaeo.social: archaeology in the Fediverse and the future of scholarly social media is a well written proposal that I fully support. Social media is a crucial aspect of scholarly communication and with the rise of the Fediverse there is a chance, for the first time, to have fully open source platforms that are not subject to the many possible issues of proprietary platforms. I hope the panel will attract enough paper submissions, and that various aspects of contemporary use of social media by professional archaeologists will be discussed.
+[Stefano Costa](mailto:stefano.costa@cultura.gov.it)
 
 ## 3. The Roadmap to Cooperation and Transparency: Fostering Open Science Solutions in Archaeology 
  - **Proponents**:
@@ -70,6 +81,11 @@ We welcome papers and case studies illustrating relevant data, approaches, theor
 - Cole, N. L., Reichmann, S., and Ross-Hellauer, T., 2022. Global Thinking. ON-MERRIT recommendations for maximising equity in open and responsible research (1.0). Zenodo. https://doi.org/10.5281/zenodo.6276753
 - Marwick, B., d’Alpoim Guedes, J., Barton, C. M., Bates, L. A., Baxter, M., Bevan, A., ... & Wren, C. D. (2017). Open science in archaeology. SAA Archaeological Record, 17(4), 8-14.
 
+  **Comments**
+
+The Roadmap to Cooperation and Transparency: Fostering Open Science Solutions in Archaeology is a well written proposal that I fully support. The proposal addresses a fundamental "paradigm shift" that is happening and that some disciplinary areas of archaeology are embracing, and there is continuity with panel "Electronic Publishing and Open Science in Archaeology" of ArcheoFOSS 2022. I hope the panel will provide current perspectives and also practical guidance. It's particularly important for the ArcheoFOSS community that all practitioners are involved in the adoption of open science solutions, not limited to academia, and for open science to be seen also (or foremost?) as a pragmatic endeavor much like open source. There is some overlap with panel #4 "Virtual Reconstruction in Archaeology with FOSS methods and tools" but I think the two are quite distinct.
+[Stefano Costa](mailto:stefano.costa@cultura.gov.it)
+
 ## 4. Virtual Reconstruction in Archaeology with FOSS methods and tools
 
  - **Proponents**:
@@ -87,6 +103,12 @@ Application of FAIR and Open-Source principles to reconstruction processes.
 Inter and trans-disciplinary approaches to documenting archaeological contexts.
 Semantic 3D tools for mapping, representing, and sharing virtual reconstructions together with related information.
 Solutions to create explore measure virtual reconstructions in archaeology.
+
+  **Comments**
+  
+Virtual Reconstruction in Archaeology with FOSS methods and tools is a well written proposal that I fully support. The proposal builds on sessions with similar scope at ArcheoFOSS 2022 and previous editions. I think the panel will attract enough proposals since the topic of virtual reconstruction and related topics like HBIM are "hot" in these years. There is some overlap with panel #3 "The Roadmap to Cooperation and Transparency: Fostering Open Science Solutions in Archaeology" but I think the two are quite distinct.
+[Stefano Costa](mailto:stefano.costa@cultura.gov.it)
+
 
 ## 5. Small Finds: comparing methodologies and techniques for the 3D scanning of small 
 
@@ -114,6 +136,10 @@ We welcome presentations dealing with the 3D scanning of small objects, especial
 - Ranjan et al. 2018 = A. Ranjan et alii, ‘Generating 3D face using Convolutional Mesh Autoencoders’,  ECCV (2018). 
 - Zhongping et al. 2021 = Zhongping et alii, ‘Fast Bas-relief Generation from 3D Scenes’, Computer-Aided  Design Vol 130 (2021)
 
+  **Comments**
+
+Small Finds: comparing methodologies and techniques for the 3D scanning of small is a well written proposal that I fully support. I think the title is missing some words at the end. The topic is very promising and the reference literature is well detailed. The focus on organic approaches is possibly the most important aspect of the proposal and I hope the papers submitted to this panel will investigate the potential of "open protocols" (e.g. Cerasoni and Do Nascimento Rodrigues 2022 https://dx.doi.org/10.17504/protocols.io.b53zq8p6).
+[Stefano Costa](mailto:stefano.costa@cultura.gov.it)
 
 ## 6.   Data Integration and Communication Platforms
 
@@ -128,4 +154,6 @@ On the other side there are several attempts to share data for the public, like 
 The potential space for containers for public archaeology, public history as well as storytelling integrations towards other platforms where the narrative is central appears to be wide open and without many attempts to tackle the concept, beside very technical platforms (i.e. Github, Zenodo). Within this panel we would like to explore platforms that cross knowledge sharing and data quality, where academia and research groups are central, but so is also communication, in the
 long-term idea to help increase cooperation and standardization between operators.
 
-
+  **Comments**
+  Data Integration and Communication Platforms is a bit problematic. The proposal is written mostly with a generic description of existing and established platforms and tools, but it seems the actual focus is in the last paragraph about "potential space for containers for public archaeology, public history as well as storytelling integrations towards other platforms", which is a very interesting topic that needs a better, more detailed description, in order to attract paper submissions. It's not clear what kind of "platforms that cross knowledge sharing and data quality" the authors are referring to, although Wikipedia and Wikidata come to mind as they're mentioned above, together with OpenHistoryMap that the authors run. I suggest the proposal is partly rewritten to address these shortcomings and explain more clearly the focus, with at least one example and some reference literature.
+  [Stefano Costa](mailto:stefano.costa@cultura.gov.it)
