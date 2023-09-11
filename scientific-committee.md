@@ -6,17 +6,17 @@ layout: article-slim
 
 The following scientific committee members were elected and are in charge since 2021. The scientific committee is regulated by [the guidelines](https://associazione.archeofoss.org/index.php/Linee_guida_CS_e_CO) (in Italian).
 
-- [Julian Bogdani](./#julian-bogdani)
-- [Paola Buzi](./#paola-buzi)
-- [Elena Calandra](./#elena-calandra)
-- [Stefano Costa](./#stefano-costa)
-- [Emanuel Demetrescu](./#emanuel-demetrescu)
-- [Benjamin Ducke](./#benjamin-ducke)
-- [Gabriele Gattiglia](./#gabriele-gattiglia)
-- [Saverio Giulio Malatesta](./#saverio-giulio-malatesta)
-- [Anna Marras](./#anna-marras)
-- [Paola Moscati](./#paola-moscati)
-- [Augusto Palombini](./#augusto-palombini)
+- [Julian Bogdani](#julian-bogdani)
+- [Paola Buzi](#paola-buzi)
+- [Elena Calandra](#elena-calandra)
+- [Stefano Costa](#stefano-costa)
+- [Emanuel Demetrescu](#emanuel-demetrescu)
+- [Benjamin Ducke](#benjamin-ducke)
+- [Gabriele Gattiglia](#gabriele-gattiglia)
+- [Saverio Giulio Malatesta](#saverio-giulio-malatesta)
+- [Anna Marras](#anna-marras)
+- [Paola Moscati](#paola-moscati)
+- [Augusto Palombini](#augusto-palombini)
 
 ---
 
