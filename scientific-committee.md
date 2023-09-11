@@ -22,7 +22,7 @@ The following scientific committee members were elected and are in charge since 
 
 ## Julian Bogdani
 Sapienza University of Rome [julian.bogdani@uniroma1.it](mailto:julian.bogdani@uniroma1.it)
-- Researcher of Theory and Methods of Archaeology at Sapienza University of Rome
+- Associate professor of Methodogies for Archaeological Research at Sapienza University of Rome
 - Responsible of the [Laboratory for Digital Archaeology at Sapienza](http://purl.org/lad)
 - Director of the [Archaeological Mission of Sapienza University of Rome at Çuka e Ajtoit  - Kestría (Albania)](http://purl.org/lad/cuka-e-ajtoit)
 - Team member of the ERC Advanced (2015) Project 'PAThs': Tracking Papyrus and Parchment Paths An Archaeological Atlas of Coptic Literature, the most important open data portal dedicated to the history and archaeology of late ancient and medieval Egypt
