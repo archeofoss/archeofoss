@@ -1,6 +1,6 @@
 ---
 title: "Scientific committee"
-description: "ArchaeoFOSS scientific commitee"
+description: "ArcheoFOSS scientific commitee"
 layout: article-slim
 ---
 
@@ -36,9 +36,7 @@ Sapienza University of Rome [paola.buzi@uniroma1.it](mailto:paola.buzi@uniroma1.
   
 ## Elena Calandra
 Ministry of Culture. Rome  [ic-archeo@cultura.gov.it](mailto:ic-archeo@cultura.gov.it)
-- MiBACT, Director of Service II
-- Excavations and Protection of the Archaeological Heritage, Directorate General for Archaeology, Fine Arts and Landscape
-- Director _ad interim_ of the Central Institute for Archaeology
+- Director of the [Central Institute for Archaeology](http://ic_archeo.beniculturali.it)
 
 ## Stefano Costa
 Ministry of Culture. Soprintendenza Archeologia Belle Arti e Paesaggio per le province di Imperia e Savona [stefano.costa@cultura.gov.it](mailto:stefano.costa@cultura.gov.it)
