@@ -141,6 +141,8 @@ We welcome presentations dealing with the 3D scanning of small objects, especial
 Small Finds: comparing methodologies and techniques for the 3D scanning of small is a well written proposal that I fully support. I think the title is missing some words at the end. The topic is very promising and the reference literature is well detailed. The focus on organic approaches is possibly the most important aspect of the proposal and I hope the papers submitted to this panel will investigate the potential of "open protocols" (e.g. Cerasoni and Do Nascimento Rodrigues 2022 https://dx.doi.org/10.17504/protocols.io.b53zq8p6).
 [Stefano Costa](mailto:stefano.costa@cultura.gov.it)
 
+Non è chiaro in che modo la proposta "5. Small Finds: comparing methodologies and techniques for the 3D scanning of small" riguardi software libero e/o open data. [Marco Ciurcina](mailto:ciurcina@studiolegale.it)
+
 ## 6.   Data Integration and Communication Platforms
 
 - **Proponents**:
