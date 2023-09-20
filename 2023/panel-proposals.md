@@ -4,9 +4,12 @@ description: "Panel proposals for ArcheoFOSS 2023"
 layout: article-slim
 ---
 
-The review process is over!
+**The review process is over!**
+
 You can now send your paper proposals by email to [callforpaper@archeofoss.org](mailto:callforpaper@archeofoss.org)
 There is time until **20 October**
+
+
 
 
 All panel proposals are published here, so everyone can comment and make suggestions on the various proposals.
