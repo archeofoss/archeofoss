@@ -8,6 +8,9 @@ ednumber: 17
 
 ## Latest news
 
+**[20/09/2023]**
+The [call for papers](/2023/call-for-papers) is out! Submit your abstracts before October 20.
+
 **[01/09/2023]**
 The [panel proposals](/2023/panel-proposals) for the ArcheoFOSS 2023 conference are now available for review and comment until September 15th. 
 
