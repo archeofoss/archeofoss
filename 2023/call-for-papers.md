@@ -1,7 +1,13 @@
 ---
-title: "ArcheoFOSS 2023"
-description: "The deadline for the call for panels will be on 10 August 2023, in September we will lauch the call for papers"
+title: "ArcheoFOSS 2023 Call for papers"
+description: "The call for papers of the ArcheoFOSS 2023 conference is open!"
 layout: article-slim
 ---
 
-The deadline for the [call for panels](call-for-panels) will be on 10 August 2023, in September we will lauch the call for papers.
+The call for papers of the ArcheoFOSS 2023 conference is open!
+
+Here you can see all panels, paper proposals must be submitted to one of the panels: [Panel proposals](linkto:https://www.archeofoss.org/2023/panel-proposals).
+
+You can send your proposals to [callforpaper@archeofoss.org](mailto:callforpaper@archeofoss.org).
+
+The deadline for submitting proposals is 20 October. 
