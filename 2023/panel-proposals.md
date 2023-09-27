@@ -65,11 +65,12 @@ archaeo.social: archaeology in the Fediverse and the future of scholarly social 
 
 ## 3. The Roadmap to Cooperation and Transparency: Fostering Open Science Solutions in Archaeology 
  - **Proponents**:
-
-   ![Panel Palmisano_Titolo](locandina_panel_Palmisano_Titolo_web.png)
-   
+     
    - [Alessio Palmisano](mailto:alessio.palmisano@unito.it), University of Turin
    - [Andrea Titolo](mailto:andrea.titolo@unito.it), University of Turin
+
+   ![Panel Palmisano_Titolo](locandina_panel_Palmisano_Titolo_web.png)
+ 
 
 The field of archaeology has experienced a transformative shift in recent years, spurred by a growing deluge of novel digital data about the human past accessible through fieldwork reports, 3D models of artefacts, transcriptions of historical documents, databases and open repositories of datasets (Bevan 2015). In this context, archaeology, as a discipline relying on empirical methods in data collection and analysis, has to deal with several new challenges.
 
