@@ -9,7 +9,7 @@ layout: article-slim
 You can now send your paper proposals by email to [callforpaper@archeofoss.org](mailto:callforpaper@archeofoss.org)
 There is time until **20 October**
 
-
+Here the ![Paper template)](Paper proposal template AF2023 def.pdf)
 
 
 All panel proposals are published here, so everyone can comment and make suggestions on the various proposals.
