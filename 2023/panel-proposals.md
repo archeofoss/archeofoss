@@ -4,17 +4,14 @@ description: "Panel proposals for ArcheoFOSS 2023"
 layout: article-slim
 ---
 
-**The review process is over!**
+**The review process for panel proposals is over!**
 
-You can now send your paper proposals by email to [callforpaper@archeofoss.org](mailto:callforpaper@archeofoss.org)
-There is time until **20 October**
+You can now send your paper proposals by email to [callforpaper@archeofoss.org](mailto:callforpaper@archeofoss.org). There is time until **20 October**. Find all details in the [call for papers](/2023/call-for-papers) page.
 
-Here the ![paper proposal template](paper proposal template AF2023.pdf)
+---
 
-
-
-All panel proposals are published here, so everyone can comment and make suggestions on the various proposals.
-The deadline for comments is **September 15th**. You can comment by submitting an email to [callforpaper@archeofoss.org](mailto:callforpaper@archeofoss.org). Comments may be shared with panel proponents and members of the scientific committee.
+All panel proposals are published here, everyone had a chance to comment and make suggestions on the various proposals.
+The deadline for comments was **September 15th**. Comments were shared with panel proponents and members of the scientific committee.
 
 ## 1. Tools, objectives, users: state of art and future perspectives on the sharing of open data in archaeology
 
