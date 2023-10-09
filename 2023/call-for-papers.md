@@ -17,6 +17,9 @@ Abstracts for paper proposals must be submitted to one of the 6 panels: [Panel p
 - Author(s) bibliography 2 or 3 relevant papers/projects for each author related to the paper proposal, following Chicago Manual of Style 17th edition (library list)
 - Abstract (max 200 words)
 
+
+Here is the [paper proposal template](/2023/Paper proposal template AF2023 def.pdf) in PDF format.
+
 Proposal must consist of a contribution of one (1) three (3) pages. Proposals may contain a brief reference bibliography, which however is not mandatory. Figures or tables may be included in the proposal.
 References Please use the Chicago Manual of Style 17th edition (library list) style
 
