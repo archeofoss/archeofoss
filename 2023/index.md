@@ -8,6 +8,9 @@ ednumber: 17
 
 ## Latest news
 
+**[20/10/2023]**
+📆 The deadline for [submitting papers](/2023/call-for-papers) has been extended until October 30!
+
 **[20/09/2023]**
 The [call for papers](/2023/call-for-papers) is out! Submit your abstracts before October 20.
 
