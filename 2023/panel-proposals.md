@@ -6,7 +6,7 @@ layout: article-slim
 
 **The review process for panel proposals is over!**
 
-You can now send your paper proposals by email to [callforpaper@archeofoss.org](mailto:callforpaper@archeofoss.org). There is time until **20 October**. Find all details in the [call for papers](/2023/call-for-papers) page.
+You can now send your paper proposals by email to [callforpaper@archeofoss.org](mailto:callforpaper@archeofoss.org). There is time until **30 October**. Find all details in the [call for papers](/2023/call-for-papers) page.
 
 ---
 
