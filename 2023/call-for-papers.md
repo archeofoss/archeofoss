@@ -28,4 +28,4 @@ The deadline for submitting proposals is 20 October
 
 You can send your extended abstracts to [callforpaper@archeofoss.org](mailto:callforpaper@archeofoss.org).
 
-The deadline for submitting proposals is **20 October 2023**. 
+The deadline for submitting proposals is **30 October 2023**. 
