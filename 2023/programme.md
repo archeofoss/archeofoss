@@ -52,9 +52,9 @@ Aula Terracini (Ground floor)
 
 ### 9.30-11.00 Plenary session
 
-Chiara Bonacchi, University of Edinburgh
-Elena Giglia, Open Science Unity, University of Turin
-Elena Marangoni, Oriana Bozzanelli, Wikimedia Italy, University of Turin
+- Chiara Bonacchi, University of Edinburgh
+- Elena Giglia, Open Science Unity, University of Turin
+- Elena Marangoni, Oriana Bozzanelli, Wikimedia Italy, University of Turin
 
 ### 11.00-11.30 Coffee break
 
