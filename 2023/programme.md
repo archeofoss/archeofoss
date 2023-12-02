@@ -14,36 +14,24 @@ Please, feel free to contact us anytime by sending an email at [callforpaper@arc
 
 ---
 
-ArcheoFOSS 2023 is hosted by [**DigiLab: Interdepartmental Research Center of Sapienza University of Rome**](https://digilab.uniroma1.it/), with the contribution of [**Direzione Generale Educazione, Ricerca e Istituti Culturali. Ministero della Cultura**](https://dger.beniculturali.it/) and the support of [**LAD: Labotarorio di Archeologia Digitale alla Sapienza**](https://lad.saras.uniroma1.it/).
+ArcheoFOSS 2023 is hosted by the **Dipartimento di Studi Storici and the Scuola di specializzazione in Beni archeologici
+Giorgio Gullini** of the Università di Torino, with the contribution of **Direzione Generale Educazione, Ricerca e Istituti Culturali. Ministero della Cultura**.
 
 <div class="row">
-    <div class="col-4">
-        <a href="https://digilab.uniroma1.it/">
-            <img src="./logo-digilab.jpg" alt="DigiLab Sapienza" title="DigiLab Sapienza" class="img-fluid">
-        </a>
-    </div>
+
     <div class="col-4">
         <a href="https://dger.beniculturali.it/" title="Direzione Generale Educazione, Ricerca e Istituti Culturali. Ministero della Cultura">
             <img src="./logo-dgeric.jpg" alt="Direzione Generale Educazione, Ricerca e Istituti Culturali. Ministero della Cultura"   class="img-fluid">
         </a>
     </div>
     <div class="col-4">
-        <a href="https://lad.saras.uniroma1.it/" title="LAD: Labotarorio di Archeologia Digitale alla Sapienza">
-            <img src="./logo-lad.png" alt="LAD: Labotarorio di Archeologia Digitale alla Sapienza" class="img-fluid" style="margin: 0 1rem">
-        </a>
+        <img src="./unito.jpg" alt="" title="Dipartimento di Studi Storici" class="img-fluid">
+    </div>
+    <div class="col-4">
+        <img src="./logo-af-assoc.png" alt="Associazione ArcheoFOSS" class="img-fluid" style="margin: 0 1rem">
     </div>
 </div>
 
-<hr />
-
-<div class="row mt-3">
-    <div class="col-4 offset-2" title="DigiLab Sapienza" >
-        <img src="./logo-af-assoc.png" alt="DigiLab Sapienza" class="img-fluid">
-    </div>
-    <div class="col-3">
-        <img src="./logo-aa3d.png" alt="ArcheoFOSS Associazione" class="img-fluid">
-    </div>
-</div>
 ---
 
 
