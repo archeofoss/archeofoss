@@ -8,6 +8,9 @@ ednumber: 17
 
 ## Latest news
 
+**[02/12/2023]**
+📋 The [conference programme](/2023/programme) is published. See you in Turin and online in 10 days.
+
 **[20/10/2023]**
 📆 The deadline for [submitting papers](/2023/call-for-papers) has been extended until October 30!
 
