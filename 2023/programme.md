@@ -5,11 +5,13 @@ layout: article-slim
 ---
 
 
-We are very happy to publish the definitive conference programme of ArcheoFOSS 2023, to be held **in Turin** and **online** on 12-13 December 2023.
+We are very happy to publish the definitive conference programme of ArcheoFOSS 2023, to be held **in Turin** and **online** on 12-13 December 2023. The online platform will be announced soon.
 
 Please, feel free to contact us anytime by sending an email at [callforpaper@archeofoss.org](mailto:callforpaper@archeofoss.org).
 
-[Download the ArcheoFOSS 2023 programme in PDF](/2023/ARCHEOFOSS 2023 PROGRAM DECEMBER.pdf) (last update 2023-12-02)
+📋 [Download the ArcheoFOSS 2023 programme in PDF](/2023/ARCHEOFOSS 2023 PROGRAM DECEMBER.pdf) (last update 2023-12-02)
+
+➡️ [CONFERENCE REGISTRATION FORM](https://docs.google.com/forms/d/e/1FAIpQLSe-0vhHJEktW-RuDtHr6OiDLwftIixhfm_Yr6vcxOOHM7S6jw/viewform)
 
 ---
 
