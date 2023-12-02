@@ -58,7 +58,7 @@ Elena Marangoni, Oriana Bozzanelli, Wikimedia Italy, University of Turin
 
 ### 11.00-11.30 Coffee break
 
-_Round table of use and reuse of images and digital contents in Heritage_
+### 11:30-13:00 _Round table of use and reuse of images and digital contents in Heritage_
 
 ### 13.00 – 14.00 Lunch break 
 
