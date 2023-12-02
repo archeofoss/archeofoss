@@ -8,7 +8,8 @@ layout: article-slim
 
 ### In brief
 
-- ArcheoFOSS 2023 will be held on 12-13 December 2023 at University of Turin
+- ArcheoFOSS 2023 will be held on **12-13 December 2023 ** at Department of Historical Studies University of Turin
+**Palazzo Nuovo, Via Sant’Ottavio 20, Aula Terracini** 
 - An online channel will be available both for papers and audience
 - Panel proposals have been submitted and are now under [public review at this page](panel-proposals)
 - Comments on the panel proposals can be submitted to [callforpaper@archeofoss.org](mailto:callforpaper@archeofoss.org) before September 15th
