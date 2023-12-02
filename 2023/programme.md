@@ -45,8 +45,8 @@ Aula Terracini (Ground floor)
 
 ## 12 December 2023
 
-9.00 _Greetings_ Gianluca Cuniberti, Vito Messina
-9.15 _Introduction_ Anna Maria Marras, Rosina Leone, Alessio Palmisano 
+- 9.00 _Greetings_ Gianluca Cuniberti, Vito Messina
+- 9.15 _Introduction_ Anna Maria Marras, Rosina Leone, Alessio Palmisano 
 
 ### 9.30-11.00 Plenary session
 
