@@ -19,12 +19,14 @@ Giorgio Gullini** of the Università di Torino, with the contribution of **Direz
 <div class="row">
 
     <div class="col-4">
-        <a href="https://dger.beniculturali.it/" title="Direzione Generale Educazione, Ricerca e Istituti Culturali. Ministero della Cultura">
-            <img src="./dgeric.jpg" alt="Direzione Generale Educazione, Ricerca e Istituti Culturali. Ministero della Cultura"   class="img-fluid">
-        </a>
+        <img src="./dgeric.png" alt="Direzione Generale Educazione, Ricerca e Istituti Culturali. Ministero della Cultura"   class="img-fluid">
     </div>
     <div class="col-4">
-        <img src="./unito.png" alt="" title="Dipartimento di Studi Storici" class="img-fluid">
+        <img src="./Logo Gullini.png" alt="Dipartimento di Studi Storici. Scuola di specializzazione in Beni archeologici
+Giorgio Gullini"   class="img-fluid">
+    </div>
+    <div class="col-4">
+        <img src="./unito.png" alt="" title="Università di Torino" class="img-fluid">
     </div>
     <div class="col-4">
         <img src="./logo-af-assoc.png" alt="Associazione ArcheoFOSS" class="img-fluid" style="margin: 0 1rem">
