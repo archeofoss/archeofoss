@@ -10,7 +10,7 @@ We are very happy to publish the definitive conference programme of ArcheoFOSS 2
 Please, feel free to contact us anytime by sending an email at [callforpaper@archeofoss.org](mailto:callforpaper@archeofoss.org).
 
 ---
-[Download the ArcheoFOSS 2023 programme (PDF)](./ARCHEOFOSS 2023 PROGRAM DECEMBER.pdf) [last update 2023-12-02]
+[Download the ArcheoFOSS 2023 programme in PDF](./ARCHEOFOSS 2023 PROGRAM DECEMBER.pdf) (last update 2023-12-02)
 
 ---
 
