@@ -110,20 +110,22 @@ Aula Terracini (Ground floor)
 
 ### 13.30 – 14.30 Lunch break 
 
-### 14.30 – 15.30 Panel Session 5, _Small Finds: comparing methodologies and techniques for the 3D scanning of small objects_, Daniele Bursich, Dario Calomino
+### 14.30 – 15.45 Panel Session 5, _Small Finds: comparing methodologies and techniques for the 3D scanning of small objects_, Daniele Bursich, Dario Calomino
 
 - _Digital twins of musealized archaeological finds: open source technologies applied to 3D scanning. Methodologies, limits and results_, Sara Airò, Alessandro Bezzi, Luca Bezzi, Rupert Gietl, Cicero Moraes, Giuseppe Naponiello, Andreas Putzer.
 - _Non-invasive methodologies for the study of mineralized textile traces in Iron Age contexts_, Emanuela Faresin, Vanessa Baratella, Margarita Gleba.
 - _Data extraction from 3D scanning: post-processing filtering for analytic and informative 3D models of small archaeological finds_, Filippo Diara.
 - _Small find 3D survey for project Arcoa (ArCOA. Archivi e Collezioni dell'Oriente Antico)_, Luca Peyronel, Tatiana Pedrazzi, Daniele Bursich.
 
-### 15.30- 16.30 Panel Session 6, _Data Integration and Communication Platforms/ Bridging the Gap: Platforms for Public Archaeology and Storytelling_, Marco Montanari, Lucia Marsicano
+### 15.45 – 16.00 Coffee break
+
+### 16.00 - 17.00 Panel Session 6, _Data Integration and Communication Platforms/ Bridging the Gap: Platforms for Public Archaeology and Storytelling_, Marco Montanari, Lucia Marsicano
 
 - _Zotero2Map - a new ITC tool for sharing and publishing bibliographic data with a cartographic base for historical-archaeological research_, Eleonora Iacopini
 - _Simplifying contextualization of 3D model archives in WebGIS: 3DModelCommons_, Marco Montanari, Lucia Marsicano
 - _Amplifying Archaeological Outreach: The Impact of Wikipedia and Collaborative Initiatives on Cultural Tourism_, Piergiovanna Grossi
 
-### 16.30 –18.00 Conclusion
+### 17.00 – 18.00 Conclusion
 
 
 ---
