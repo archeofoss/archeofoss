@@ -74,13 +74,13 @@ Aula Terracini (Ground floor)
 
 ### 16.00 -16.30 Coffee break
 
-### 16.30 – 17.00 Panel session 2:  _Archaeo.social: archaeology in the Fediverse and the future of scholarly social media_, Joe Roe, Zack Batist
+### 16.30 – 17.30 Panel session 2:  _Archaeo.social: archaeology in the Fediverse and the future of scholarly social media_, Joe Roe, Zack Batist
 
 - _Media deconvergence and digital public archaeology_, Lorna-Jane Richardson
 - _On the pessimistic side: Is the fediverse a viable alternative to X for Spanish researchers?_ María Coto-Sarmiento
 - _Making and Breaking: Anarchist Praxis, Archaeological Communities, and Social Media_, Judit del Río, Aris Politopoulos, Colleen Morgan
 
-### 17.00-19.00 Galleria Archeologica- Musei Reali
+### 17.30-19.00 Galleria Archeologica- Musei Reali
 
 ## 13 December
 
