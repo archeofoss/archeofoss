@@ -58,7 +58,7 @@ Aula Terracini (Ground floor)
 
 ### 11.00-11.30 Coffee break
 
-### 11:30-13:00 _Round table of use and reuse of images and digital contents in Heritage_, Piergiovanna Grossi, Marco Ciurcina, Emanuel Demetrescu, Augusto Palombini, Gabriele Gattiglia, Stefano Costa. 
+### 11:30-13:00 _Round table of use and reuse of images and digital contents in Heritage_, Marco Ciurcina, Stefano Costa, Emanuel Demetrescu, Gabriele Gattiglia, Piergiovanna Grossi, Anna Maria Marras, Augusto Palombini 
 
 ### 13.00 – 14.00 Lunch break 
 
