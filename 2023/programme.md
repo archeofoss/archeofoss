@@ -6,8 +6,10 @@ layout: article-slim
 
 
 **Update 12/12/2023**: The conference is being broadcasted via Webex, at: 
-- Tue 12 December 2023: [https://unito.webex.com/unito-en/j.php?MTID=ma1948d056877d33f4d36afab17f253b1](https://unito.webex.com/unito-en/j.php?MTID=ma1948d056877d33f4d36afab17f253b1)
-- Wed 13 december 2013: [https://unito.webex.com/unito-en/j.php?MTID=m95420b7516244ba47cd4ee020746694e](https://unito.webex.com/unito-en/j.php?MTID=m95420b7516244ba47cd4ee020746694e)
+- **Tue 12 December 2023**:  
+   [https://unito.webex.com/unito-en/j.php?MTID=ma1948d056877d33f4d36afab17f253b1](https://unito.webex.com/unito-en/j.php?MTID=ma1948d056877d33f4d36afab17f253b1)
+- **Wed 13 december 2013**:  
+   [https://unito.webex.com/unito-en/j.php?MTID=m95420b7516244ba47cd4ee020746694e](https://unito.webex.com/unito-en/j.php?MTID=m95420b7516244ba47cd4ee020746694e)
 
 ---
 
