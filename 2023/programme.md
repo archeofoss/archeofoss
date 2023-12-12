@@ -5,6 +5,12 @@ layout: article-slim
 ---
 
 
+**Update 12/12/2023**: The conference is being broadcasted via Webex, at: 
+- Tue 12 December 2023: [https://unito.webex.com/unito-en/j.php?MTID=ma1948d056877d33f4d36afab17f253b1](https://unito.webex.com/unito-en/j.php?MTID=ma1948d056877d33f4d36afab17f253b1)
+- Wed 13 december 2013: [https://unito.webex.com/unito-en/j.php?MTID=m95420b7516244ba47cd4ee020746694e](https://unito.webex.com/unito-en/j.php?MTID=m95420b7516244ba47cd4ee020746694e)
+
+---
+
 We are very happy to publish the definitive conference programme of ArcheoFOSS 2023, to be held **in Turin** and **online** on 12-13 December 2023. The online platform will be announced soon.
 
 Please, feel free to contact us anytime by sending an email at [callforpaper@archeofoss.org](mailto:callforpaper@archeofoss.org).
