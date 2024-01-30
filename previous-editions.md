@@ -19,7 +19,7 @@ layout: article-slim
 - **Dates**: 23-26 November 2021.
 - **Location**: Online conference
 - **Web**: [View conference page](./2021)
-- **Publication**: The proceedings are being published by [Groma](https://archaeopresspublishing.com/ojs/index.php/groma/) journal.
+- **Publication**: The proceedings were published as a special issue of the [Groma journal](https://archaeopresspublishing.com/ojs/index.php/groma/issue/view/vol7-2022).
 - **Organizing committee**
   - Domizia D’Erasmo, Sapienza University of Rome
   - Cristina Gonzalez Esteban, University of Southampton
