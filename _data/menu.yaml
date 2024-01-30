@@ -42,6 +42,8 @@ default:
   - title: Scientific committee
     url: /scientific-committee
 '2021':
+  - title: Proceedings
+    url: /2021/proceedings
   - title: Watch
     url: /2021/watch
   - title: Programme
