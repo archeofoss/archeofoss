@@ -13,5 +13,4 @@ The conference is organised on a yearly basis by an open community of
 researchers under the direction of a 
 [permanent scientific committee](scientific-committee).
 
-Anyone who is interested to join the community can inscribe 
-in the [dedicated  <i class="fa fa-telegram" aria-hidden="true"></i> Telegram group](https://t.me/ArcheoFOSS).
+Anyone who is interested to join the community can subscribe to the [ArcheoFOSS  <i class="fa fa-telegram" aria-hidden="true"></i> Telegram group](https://t.me/ArcheoFOSS).
