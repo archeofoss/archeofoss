@@ -8,6 +8,10 @@ ednumber: XV
 
 ## Latest news
 
+**[29/01/2024]**
+
+The proceedings were published as a special issue of the _Groma_ journal:  [Vol. 7 (2022): Proceedings of Archeo.FOSS XV 2021 Open software, hardware, processes, data and formats in archaeological research](https://archaeopresspublishing.com/ojs/index.php/groma/issue/view/vol7-2022).
+
 **[20/01/2022]**
 
 On **11 February 2022**, the workshop "_The Roman Villa of l’Albir (Alicante, Spain). The use of Blender and the Extended Matrix in the virtual recreation_" will be streamed live. The workshop will be held by Jaime Molina, Carolina Frías, Javier Muñoz, Laia Fabregat, Alejandro Martín, Daniel Tejerina (University of Alicante).  
