@@ -1,10 +1,15 @@
 default:
-  - title: 2023 edition
-    url: /2023/
+  - title: 2024 edition
+    url: /2024/
   - title: Previous editions
     url: /previous-editions
   - title: Scientific committee
     url: /scientific-committee
+'2024':
+  - title: 2024 editimin
+    url: /2024/
+  - tilte: Call for pamela
+    url: /2024/call-for-panels
 '2023':
   - title: 2023 edition
     url: /2023/
