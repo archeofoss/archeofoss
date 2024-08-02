@@ -7,22 +7,18 @@ default:
     url: /scientific-committee
 
 '2024':
+  - title: 2024 edition
+    url: /2024/
   - tilte: Call for panels
     url: /2024/call-for-panels
   - title: Scientific committee
     url: /scientific-committee
 
 '2023':
+  - title: 2023 edition
+    url: /2023/
   - title: Programme
     url: /2023/programme
-  #- title: 'Call for panels'
-  #  url: '/2023/call-for-panels'
-  #- title: 'Call for papers'
-  #  url: '/2023/call-for-papers'
-  #- title: 'Panel proposals'
-  #  url: '/2023/panel-proposals'
-  # - title: 'Press kit'
-  #   url: '/2023/press-kit'
   - title: Scientific committee
     url: /scientific-committee
 
@@ -31,18 +27,13 @@ default:
     url: /2022/
   - title: Programme
     url: /2022/programme
-  # - title: 'Call for papers'
-  #   url: '/2022/call-for-papers'
-  # - title: 'Panel proposals'
-  #   url: '/2022/panel-proposals'
-  # - title: 'Press kit'
-  #   url: '/2022/press-kit'
   - title: Watch online
     url: /2022/watch
   - title: Proceedings
     url: /2022/proceedings
   - title: Scientific committee
     url: /scientific-committee
+    
 '2021':
   - title: Proceedings
     url: /2021/proceedings
