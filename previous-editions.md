@@ -8,6 +8,7 @@ layout: article-slim
 - **Dates**: 12-13 December 2023
 - **Location**: University of Turin and online 
 - **Web**: [View conference page](./2023)
+- **Publication**: in preparation
 - **Organising committee**
   - Anna Maria Marras, Turin University
 
