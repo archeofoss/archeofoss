@@ -7,7 +7,7 @@ default:
     url: /scientific-committee
 '2024':
   - title: 2024 edition
-    url: /2024/
+    url: /2024
   - tilte: Call for panels
     url: /2024/call-for-panels
   - title: Scientific committee
