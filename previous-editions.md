@@ -4,6 +4,13 @@ description: ArchaeoFOSS editions
 layout: article-slim
 ---
 
+## ArcheoFOSS 17 (2023)
+- **Dates**: 12-13 December 2023
+- **Location**: University of Turin and online 
+- **Web**: [View conference page](./2023)
+- **Organising committee**
+  - Anna Maria Marras, Turin University
+
 ## ArcheoFOSS 16 (2022)
 - **Dates**: 22-23 September 2022.
 - **Location**: Sapienza University of Rome and online
