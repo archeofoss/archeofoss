@@ -25,8 +25,9 @@ We are welcoming original proposals from both community members and external sch
 As well-known, the ArcheoFOSS conference is traditionally focused on the dissemination of archaeological projects following the Open Science paradigm:  open source software tools, open formats and open methodology both for investigation and dissemination. Panellists, therefore, should clearly state how their proposal meets one or more of the following topics:
 
 - Use and reuse of open software in archaeology.
-- Digital Library and open repository in archaeology.
 - Public archaeology: theory and methods.
+- FOSS powered uses of Big Data
+- AI applications in archaeology
 - Reflection on communication in archaeology: tools, methods and case studies.
 
 A **typical panel session** starts with a **brief introduction** by the panel chair, followed by the presentations of **three or four panellists**.
