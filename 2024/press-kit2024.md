@@ -57,7 +57,7 @@ Maggiori informazioni sono disponibili all'indirizzo: https://archeofoss.org/202
 
 ## Short announcement text for the call for panels, in English
 
-The call for panels for ArcheFOSS 2024 is now open. This edition will be based on panel sessions that provide an opportunity for expert panel members to present their views and share their experience on a specific topic and then engage in a discussion with the audience. Deadline September 15, Further informations: https://archeofoss.org/2024/call-for-panels
+The call for panels for ArcheFOSS 2024 is now open. This edition will be based on panel sessions that provide an opportunity for expert panel members to present their views and share their experience on a specific topic and then engage in a discussion with the audience. Deadline September 30, Further informations: https://archeofoss.org/2024/call-for-panels
 
 ## Testo breve di annuncio della chiamata per _panel_, in italiano
 

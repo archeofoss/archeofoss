@@ -7,6 +7,9 @@ ednumber: 18
 ---
 
 **[23/08/2024]**  
+The [call for panels](/2024/call-for-panels) is extended until September 30th 2024.
+
+**[23/08/2024]**  
 The [press kit](/2024/press-kit2024)  is available. Feel free to share info about the conference.
 
 **[02/08/2024]**  
