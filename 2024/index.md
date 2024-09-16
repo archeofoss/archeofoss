@@ -6,8 +6,11 @@ edyear: 2024
 ednumber: 18
 ---
 
+**[16/09/2024]**  
+The [call for panels](/2024/call-for-panels) is extended until September 30th 2024.
+
 **[23/08/2024]**  
-The [press kit](/2024/press-kit)  is available. Feel free to share info about the conference.
+The [press kit](/2024/press-kit2024) is available. Feel free to share info about the conference.
 
 **[02/08/2024]**  
 The [call for panels](/2024/call-for-panels) of Archeo.FOSS 2024 is now open.

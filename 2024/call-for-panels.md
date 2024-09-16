@@ -11,7 +11,7 @@ layout: article-slim
 - ArcheoFOSS 2024 will be held on **19-20 December 2024** at G.D'Annunzio University -  
 **Campus UdA, via de Vestini 31, Chieti** 
 - Panel proposals are now being accepted
-- Panel proposals must be submitted before **September 15** 2024 at [callforpaper@archeofoss.org](mailto:callforpaper@archeofoss.org)
+- Panel proposals must be submitted before **September 30** 2024 at [callforpaper@archeofoss.org](mailto:callforpaper@archeofoss.org)
 - Panel proposals will undergo an open, not anonymous, peer-review evaluation process
 
 ---
