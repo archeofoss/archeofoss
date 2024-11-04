@@ -29,13 +29,17 @@ La ricostruzione tridimensionale dei siti archeologici è un’innovazione signi
 - **Proponents**:
   - [Valeria Acconcia*, Sonia Antonelli*, Chiara Casolino*, Vasco La Salvia*, Marco Moderato**, Maria Carla Somma*](mailto:chiara.casolino@unich.it), Università degli studi G. “d’Annunzio”, Chieti-Pescara, **CASEs, Universitat Pompeu Fabra, Spain
 - **Description**: The panel aims to establish quantification parameters and standards for defining and classifying archaeological strata, starting with highly reliable contexts. It explores the possibility of defining compositional standards for specific types of strata and examines the relationship between material types, quantities, and post-depositional processes. Analytical systems using statistical techniques will be employed, leading to the creation of a database for open data sharing. The research also has practical applications, including predictive models for automatic strata classification and the potential development of a plug-in for archaeological software to assist in this process.
-## 5. Open Data for Urban Archaeological Potential Assessment
 
-- **Proponents**:
-  - [Mirella Serlorenzi](mailto:mirella.serlorenzi@cultura.gov.it), Ministero della Cultura, Soprintendenza Speciale ABAP di Roma
-  - [Paolo Rosati](mailto:paolo.rosati@uniroma1.it), Sapienza Università di Roma
-- **Description**: ....
-## 6. Digital and physical gamification for public archaeology experience  
+[//]: # (## 5. Open Data for Urban Archaeological Potential Assessment)
+
+[//]: # (- **Proponents**:)
+
+[//]: # (  - [Mirella Serlorenzi]&#40;mailto:mirella.serlorenzi@cultura.gov.it&#41;, Ministero della Cultura, Soprintendenza Speciale ABAP di Roma)
+
+[//]: # (  - [Paolo Rosati]&#40;mailto:paolo.rosati@uniroma1.it&#41;, Sapienza Università di Roma)
+
+[//]: # (- **Description**: ....)
+## 5. Digital and physical gamification for public archaeology experience  
 
 - **Proponents**:
   - [Marco Montanari](mailto:marco.montanari@openhistorymap.org), Open History Map
