@@ -13,6 +13,11 @@ layout: article-slim
 - Panel proposals are now being accepted
 - Panel proposals must be submitted before **September 30** 2024 at [callforpaper@archeofoss.org](mailto:callforpaper@archeofoss.org)
 - Panel proposals will undergo an open, not anonymous, peer-review evaluation process
+- Panels have been reviewed and approved. The full [list of panels](/2024/call-for-papers) for ArcheoFOSS 2024 is now available 
+
+
+
+ **The call for panels officially closed on September 30, 2024** and the proposals have been published in the project repository [(list of panel proposals)](./panel-proposals.md). 
 
 ---
 
