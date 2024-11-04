@@ -18,4 +18,3 @@ The [press kit](/2024/press-kit2024)  is available. Feel free to share info abou
 The [call for panels](/2024/call-for-panels) of Archeo.FOSS 2024 is now open.
 The conference will be hosted in Chieti by the University G. D'Annunzio of Chieti on **19-20 December 2024**. 
 Feel free to keep in touch by dropping a line at [info@archeofoss.org](mailto:archaeofoss.org) and/or by joining today our [<i class="fa fa-telegram" aria-hidden="true"></i> Telegram group](https://t.me/ArcheoFOSS)
-

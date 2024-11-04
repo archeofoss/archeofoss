@@ -6,7 +6,7 @@ layout: article-slim
 ## In brief 
 - The call for papers of the ArcheoFOSS 2024 conference is open! 
 - The deadline for submitting proposals is **24 November 2024**. 
-- Abstracts for paper proposals must be submitted to one of the 6 panels: [Panel proposals](/2024/panel-proposals.md).
+- Abstracts for paper proposals must be submitted to one of the 6 panels: [Panel proposals](/2024/panel-proposals).
 
 
 We are inviting scholars, independent researchers, institutions, freelance archaeologists and company representatives involved in Cultural Heritage to submit original research or case studies that expose the latest trends, theoretical or practical developments and challenges in the field.  
