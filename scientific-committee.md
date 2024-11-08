@@ -35,8 +35,9 @@ Sapienza University of Rome [paola.buzi@uniroma1.it](mailto:paola.buzi@uniroma1.
 - PI of the ERC Advanced (2015) Project 'PAThs': Tracking Papyrus and Parchment Paths An Archaeological Atlas of Coptic Literature, the most important open data portal dedicated to the history and archaeology of late ancient and medieval Egypt
   
 ## Elena Calandra
-Ministry of Culture. Rome  [ic-archeo@cultura.gov.it](mailto:ic-archeo@cultura.gov.it)
-- Director of the [Central Institute for Archaeology](http://ic_archeo.beniculturali.it)
+University of Pavia  [elena.calandra@unipv.it](mailto:elena.calandra@unipv.it)
+- Full professor of Classic Archaeology
+- Former Director of the [Central Institute for Archaeology](http://ic_archeo.beniculturali.it)
 
 ## Stefano Costa
 Ministry of Culture. Soprintendenza Archeologia Belle Arti e Paesaggio per le province di Imperia e Savona [stefano.costa@cultura.gov.it](mailto:stefano.costa@cultura.gov.it)
