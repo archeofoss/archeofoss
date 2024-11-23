@@ -28,7 +28,12 @@ La ricostruzione tridimensionale dei siti archeologici è un’innovazione signi
 ## 4. Data collection and parameters for strata classification: a FLOSS approach to definition, composition, and calibration of post-depositional actions
 
 - **Proponents**:
-  - [Valeria Acconcia*, Sonia Antonelli*, Chiara Casolino*, Vasco La Salvia*, Marco Moderato**, Maria Carla Somma*](mailto:chiara.casolino@unich.it), Università degli studi G. “d’Annunzio”, Chieti-Pescara, **CASEs, Universitat Pompeu Fabra, Spain
+  - Valeria Acconcia, Università degli studi G. “d’Annunzio” Chieti-Pescara
+  - Sonia Antonelli, Università degli studi G. “d’Annunzio”Chieti-Pescara
+  - [Chiara Casolino](maileto:chiara.casolino@unich.it), Università degli studi G. “d’Annunzio” Chieti-Pescara
+  - Vasco La Salvia, Università degli studi G. “d’Annunzio” Chieti-Pescara
+  - Marco Moderato, CASEs, Universitat Pompeu Fabra, Spain
+  - Maria Carla Somma, Università degli studi G. “d’Annunzio” Chieti-Pescara
 - **Description**: The panel aims to establish quantification parameters and standards for defining and classifying archaeological strata, starting with highly reliable contexts. It explores the possibility of defining compositional standards for specific types of strata and examines the relationship between material types, quantities, and post-depositional processes. Analytical systems using statistical techniques will be employed, leading to the creation of a database for open data sharing. The research also has practical applications, including predictive models for automatic strata classification and the potential development of a plug-in for archaeological software to assist in this process.
 
 ## 5. Digital and physical gamification for public archaeology experience  
