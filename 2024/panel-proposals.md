@@ -24,6 +24,7 @@ La ricostruzione tridimensionale dei siti archeologici è un’innovazione signi
   - [Marco Moderato](mailto:marco.moderato@upf.edu), CASEs, Universitat Pompeu Fabra, Spain
 
 - **Description**: Geographic Information Systems (GIS) have become essential in archaeology, enabling precise analysis, management, and visualization of spatial data across various research areas, from site discovery to heritage management. This panel will examine recent GIS advancements, particularly in open-source tools and new applications transforming archaeological research. With the ability to handle large datasets and integrate remote sensing data, GIS allows archaeologists to detect undiscovered features, analyze landscape patterns, and manage heritage sites under environmental or human threats. The growing accessibility of tools like QGIS has democratized GIS, encouraging collaboration among researchers and institutions. The panel will showcase case studies demonstrating GIS's role in predictive modeling, site management, and public archaeology through digital storytelling and community mapping. Emphasis will be placed on the integration of GIS with 3D modeling, remote sensing, and photogrammetry, highlighting GIS's expanding role in research, conservation, and the interpretation of cultural heritage.
+
 ## 4. Data collection and parameters for strata classification: a FLOSS approach to definition, composition, and calibration of post-depositional actions
 
 - **Proponents**:
