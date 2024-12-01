@@ -7,8 +7,10 @@ layout: article-slim
 The following scientific committee members were elected and are in charge since 2021. The scientific committee is regulated by [the guidelines](https://associazione.archeofoss.org/index.php/Linee_guida_CS_e_CO) (in Italian).
 
 - [Julian Bogdani](#julian-bogdani)
+- [Valeria Boia](#valeria-boia)
 - [Paola Buzi](#paola-buzi)
 - [Elena Calandra](#elena-calandra)
+- [Alessandra Caravale](#alessandra-caravale)
 - [Stefano Costa](#stefano-costa)
 - [Emanuel Demetrescu](#emanuel-demetrescu)
 - [Benjamin Ducke](#benjamin-ducke)
@@ -28,6 +30,10 @@ Sapienza University of Rome [julian.bogdani@uniroma1.it](mailto:julian.bogdani@u
 - Team member of the ERC Advanced (2015) Project 'PAThs': Tracking Papyrus and Parchment Paths An Archaeological Atlas of Coptic Literature, the most important open data portal dedicated to the history and archaeology of late ancient and medieval Egypt
 - Main developer of [BraDypUS](https://github.com/bdus-db/BraDypUS) a cloud database system for archaeology
 
+## Valeria Boi
+- Ministry of Culture. [valeria.boi@cultura.gov.it](mailto:valeria.boi@cultura.gov.it)
+- Coordinator the Italian National Geoporal for Archaeology (Geoportale Nazionale per l'Archeologia, [https://gna.cultura.gov.it/](https://gna.cultura.gov.it/)).  ICA: Istituto Centrale per l'Archeologia – Direzione Generale Archeologia Belle Arti e Paesaggio
+
 ## Paola Buzi
 Sapienza University of Rome [paola.buzi@uniroma1.it](mailto:paola.buzi@uniroma1.it)
 - Full Professor of Egyptology and Coptic Civilization at Sapienza University of Rome
@@ -38,6 +44,10 @@ Sapienza University of Rome [paola.buzi@uniroma1.it](mailto:paola.buzi@uniroma1.
 University of Pavia  [elena.calandra@unipv.it](mailto:elena.calandra@unipv.it)
 - Full professor of Classic Archaeology
 - Former Director of the [Central Institute for Archaeology](http://ic_archeo.beniculturali.it)
+
+## Alessandra Caravale
+Archaeologist, Senior Researcher (Primo Ricercatore) at CNR's Istituto di Scienze del Patrimonio Culturale (ISPC) and chief editor of «[Archeologia e Calcolatori](https://www.archcalc.cnr.it/)» [alessandra.caravale@cnr.it](mailto:alessandra.caravale@cnr.it)
+- [https://www.ispc.cnr.it/it_it/team/caravale-alessandra/](https://www.ispc.cnr.it/it_it/team/caravale-alessandra/)
 
 ## Stefano Costa
 Ministry of Culture. Soprintendenza Archeologia Belle Arti e Paesaggio per le province di Imperia e Savona [stefano.costa@cultura.gov.it](mailto:stefano.costa@cultura.gov.it)
