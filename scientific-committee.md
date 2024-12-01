@@ -7,7 +7,7 @@ layout: article-slim
 The following scientific committee members were elected and are in charge since 2021. The scientific committee is regulated by [the guidelines](https://associazione.archeofoss.org/index.php/Linee_guida_CS_e_CO) (in Italian).
 
 - [Julian Bogdani](#julian-bogdani)
-- [Valeria Boia](#valeria-boia)
+- [Valeria Boi](#valeria-boi)
 - [Paola Buzi](#paola-buzi)
 - [Elena Calandra](#elena-calandra)
 - [Alessandra Caravale](#alessandra-caravale)
