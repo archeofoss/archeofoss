@@ -31,8 +31,9 @@ Sapienza University of Rome [julian.bogdani@uniroma1.it](mailto:julian.bogdani@u
 - Main developer of [BraDypUS](https://github.com/bdus-db/BraDypUS) a cloud database system for archaeology
 
 ## Valeria Boi
-- Ministry of Culture. [valeria.boi@cultura.gov.it](mailto:valeria.boi@cultura.gov.it)
-- Coordinator the Italian National Geoporal for Archaeology (Geoportale Nazionale per l'Archeologia, [https://gna.cultura.gov.it/](https://gna.cultura.gov.it/)).  ICA: Istituto Centrale per l'Archeologia – Direzione Generale Archeologia Belle Arti e Paesaggio
+Ministry of Culture. ICA (Istituto Centrale per l’Archeologia) – Direzione Generale Archeologia Belle Arti e Paesaggio [valeria.boi@cultura.gov.it](mailto:valeria.boi@cultura.gov.it).
+- Archaeologist Officer, Coordinator of the Italian National Geoportal for Archaeology (Geoportale Nazionale per l’Archeologia, [https://gna.cultura.gov.it/](https://gna.cultura.gov.it/)).
+- Member of the Scientific Committee of ArcheoLogica Data [https://www.mappalab.eu/en/archeologica-data/](https://www.mappalab.eu/en/archeologica-data/).
 
 ## Paola Buzi
 Sapienza University of Rome [paola.buzi@uniroma1.it](mailto:paola.buzi@uniroma1.it)
