@@ -17,7 +17,7 @@ For any further info, please contact [archeofosschieti2024@gmail.com](mailto:arc
 ### Venue
 Aula Convegni CAST - Center for Advanced Studies and Technology
 Campus Universitario Chieti Scalo   
-Via Luigi Polacchi, 11, 66100 Chieti . Italia
+Via Luigi Polacchi, 17, 66100 Chieti . Italia
 [OpenStreetMaps](https://www.openstreetmap.org/search?lat=42.366178&lon=14.149092#map=18/42.366178/14.149092) | 
 [GoogleMaps](https://maps.app.goo.gl/Nj7KNE2itY6knsya7)
 
