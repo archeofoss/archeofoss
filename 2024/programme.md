@@ -31,8 +31,8 @@ ArcheoFOSS 2024 works will be broadcasted online in realtime. More information a
 - **09:30** _Opening_  
 - **09:45** _Institutional greetings_  
 
-
 ---
+
 **10:00** **Panel: Towards a Common Infrastructural Framework: Managing and Exploiting Big Data in Archaeological Research through Open Data Systems**  
 Chair and intro by Jonas **Gregorio de Souza**, Alan **Tapscott Baltar**
 - **10:15**   
@@ -42,15 +42,15 @@ _Infrastructural Frameworks: Managing and Publishing distributed Archaeological 
 Shaddai **Heidgen**, Jonas **Gregorio de Souza**, Juan **Vargas**, Sebastian **Fajardo**, Marco **Moderato**, Marco **Madella**  
 _Protecting Heritage through Fire Risk Assessment in Sacred Indigenous Landscapes of Santa Marta_
 - **10:45**   
-Edoardo **Baiocchi**, Romeo **Lanzino**, Saverio Giulio **Malatesta**, Marco Raoul **Marini**, Augusto **Palombini**, Paolo **Rosati**
+Edoardo **Baiocchi**, Romeo **Lanzino**, Saverio Giulio **Malatesta**, Marco Raoul **Marini**, Augusto **Palombini**, Paolo **Rosati**  
 _Open data and AI for the search for archaeological monuments on the ground: the NuragAI Project_
 
 ---
 
-- **11:OO**   
-**Coffee break**
+- **11:OO Coffee break**
 
 ---
+
 - **11:15**   
 Sara **Ganimede**, Maria Carla **Somma**   
 _Abruzzo Masonry Hub: catalogazione delle murature medievali abruzzesi in un database online open source basato su GitHub e GeoJSON_
@@ -73,15 +73,14 @@ _Jupyter Python Minion: Empowering Open Data for Urban Archaeological Insights_
 Marco **Ciurcina**, Piergiovanna **Grossi**  
 _Images of Italian Cultural Heritage: Ministerial Decree 108 (April 2024) – What Has Changed?_
 
-- **13:00**   
-Discussion
+- **13:00 Discussion**
 
 ---
 
-- **13:15**    
-**Lunch break**
+- **13:15 Lunch break**
 
 ---
+
 **14:15** **Panel: Esperienze di archeologia virtuale tra ricerca e fruizione**  
 Chair and intro by Roberto **Montagnetti**, Roberto **Campanella**, Antonio **Leopardi**, Luciano **Pugliese**, Alfonso **Forgione**
 - **14:30**   
@@ -100,18 +99,21 @@ _Analisi del contesto antico in ambiente virtuale tra narrazione e approccio cri
 Roberto **Malinconico**   
 _AI-Generated Textures and Enhanced Rendering: A Hybrid 3D-AI Approach between Virtual Archaeology and Public Engagement_
 - **15:45**   
-Cecilia **Romagnoli**, Violetta **Mattia**
+Cecilia **Romagnoli**, Violetta **Mattia**  
 _Preserving Authenticity in Virtual Archaeology: Challenges and Opportunities in 3D Reconstructions of the Holy Sepulchre_
 - **16:00**   
-Alessandro **Melega**, Luca **Brancazi**
+Alessandro **Melega**, Luca **Brancazi**  
 _Tra ricostruzione tridimensionale e documentazione archeologica. Un caso studio dall'area dell'antico Patriarchio presso la Basilica del Santo Sepolcro a Gerusalemme_
 - **16:15**   
-Mattia **D'Amico**
+Mattia **D'Amico**  
 _A digital and virtual approach in the study of archaeological materials from the Basilica of the Holy Sepulchre_
-___
-- **16:3O**   
-**Coffee break**
+
 ---
+
+- **16:3O Coffee break**
+
+---
+
 - **17:00**   
 Matteo **Orsi**, Filippo **Di Marco**, Davide **Carraro**, Serenella **Saccon**, Alessandra **Mazzucchi**, Antonina **Mafodda**, Roberto **Taglioretti**, Maddalena **Rafaetà**   
 _MAPOD4D framework from mass-market Metaverse to Cultural Heritage professional Metaverse_
@@ -131,19 +133,16 @@ _Classiﬁcation and standardization of archaeological strata through the quanti
 Domenico **Santoro**, Julian **Bogdani**  
 _Application of computational techniques in the visualization and analysis of stratigraphic data_
 -  **18:30**   
-Antonio **Merola**, Marco **Moderato**, Sara **Ganimede**, Matteo **Gemma**, Luca **Papa**, Alessandro **Di Cosmo**, Vasco **La Salvia** 
+Antonio **Merola**, Marco **Moderato**, Sara **Ganimede**, Matteo **Gemma**, Luca **Papa**, Alessandro **Di Cosmo**, Vasco **La Salvia**  
 _Open Software in Archaeological Practice: Quantitative Stratigraphy with Pyarchinit at Castelseprio_
--  **18:45**
-Discussion
+-  **18:45 Discussion**
+
 ---
-
-
-
 
 ## 20 December 2024
 
 **09:00** **Panel: GIS technologies and complex simulative reconstructions and model validation**  
-Chair and intro by Marco **Montanari**, Marco **Moderato**
+Chair and intro by Marco **Montanari**, Marco **Moderato**  
 - **09:15**   
 Carlo **De Mitri**, Paolo **Marcato**  
 _The Strait of Otranto: Encounter, Trade, and Exchange. A New Data Visualization using GIS and Network Analysis_
@@ -151,22 +150,22 @@ _The Strait of Otranto: Encounter, Trade, and Exchange. A New Data Visualization
 Federica **Vacatello**   
 _Reconstructing Space and Function: a GIS-modeling approaches to road networks and quarry exploitation found in the Basilica of the Holy Sepulchre_
 - **09:45**   
-Matteo **Gemma**
+Matteo **Gemma**  
 _Modellazione digitale e analisi dei paesaggi medievali: risorse e conﬁni nell'Abruzzo Settentrionale_
 - **10:00**   
-Luca **Bezzi**, Alessandro **Bezzi**, Curt **Covi**, Rupert **Gietl** 
+Luca **Bezzi**, Alessandro **Bezzi**, Curt **Covi**, Rupert **Gietl**  
 _CesiumJS, a powerfull open source JavaScript library for sharing 3D Cultural Heritage models_
 - **10:15**   
-Melania **Marano**
+Melania **Marano**  
 _GIS and photogrammetry for standardized data recording practices in Archaelogy, from site discovery to heritage management: case studies from Punic and Roman Sardinia_
 - **10:30**   
-Alberto **Agresti**, Luca **Biancalani**, Lorenzo **Crescioli**, Dario **Nincheri** 
+Alberto **Agresti**, Luca **Biancalani**, Lorenzo **Crescioli**, Dario **Nincheri**  
 _Python all’interno dei sistemi di documentazione dello scavo archeologico d’emergenza. Applicazione di Pyarchinit a un contesto del nucleo più antico della città di Pistoia_
 
 ---
 
-- **10:45**   
-**Coffee break**
+- **10:45 Coffee break**
+
 ---
 
 - **11:00**   
@@ -179,10 +178,10 @@ _Looking for BVER into the GRASS: BVER project, GNA, and Predictive Archaeology_
 **11:30** **Panel: Digital and physical gamiﬁcation for public archaeology experience**  
 Chair and intro by Marco **Montanari**
 - **11:45**
-Giorgia Maria **Annoscia**, Mauro **Antico**, Maria Carla **Somma**, Paolo **Varano** 
+Giorgia Maria **Annoscia**, Mauro **Antico**, Maria Carla **Somma**, Paolo **Varano**  
 _Il videogioco Jacopa da Cencelle: un viaggio per riscoprire il passato di una città medievale_
 - **12:00**
-Marco **Montanari**, Andrea **Boschetto** 
+Marco **Montanari**, Andrea **Boschetto**  
 _Rivoluzioni Tangibili: Un’esperienza multitavolo ambientata alla vigilia della Rivoluzione Francese_
 - **12:15** Discussion and conclusion
 - **13:00** Closing Toast
