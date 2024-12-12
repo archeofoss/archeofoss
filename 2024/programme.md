@@ -135,6 +135,9 @@ _Application of computational techniques in the visualization and analysis of st
 -  **18:30**   
 Antonio **Merola**, Marco **Moderato**, Sara **Ganimede**, Matteo **Gemma**, Luca **Papa**, Alessandro **Di Cosmo**, Vasco **La Salvia**  
 _Open Software in Archaeological Practice: Quantitative Stratigraphy with Pyarchinit at Castelseprio_
+
+---
+
 -  **18:45 Discussion**
 
 ---
@@ -177,13 +180,17 @@ _Looking for BVER into the GRASS: BVER project, GNA, and Predictive Archaeology_
 
 **11:30** **Panel: Digital and physical gamiﬁcation for public archaeology experience**  
 Chair and intro by Marco **Montanari**
-- **11:45**
+- **11:45**  
 Giorgia Maria **Annoscia**, Mauro **Antico**, Maria Carla **Somma**, Paolo **Varano**  
 _Il videogioco Jacopa da Cencelle: un viaggio per riscoprire il passato di una città medievale_
-- **12:00**
+- **12:00**  
 Marco **Montanari**, Andrea **Boschetto**  
 _Rivoluzioni Tangibili: Un’esperienza multitavolo ambientata alla vigilia della Rivoluzione Francese_
+
+---
+
 - **12:15** Discussion and conclusion
 - **13:00** Closing Toast
 
+---
  
