@@ -10,7 +10,7 @@ We are very happy to publish the definitive conference programme of ArcheoFOSS 2
 For any further info, please contact [archeofosschieti2024@gmail.com](mailto:archeofosschieti2024@gmail.com).
 
 ---
-[Download ArcheoFOSS 2024 programme (PDF)](./ArcheoFoss_Programma12_12_24.pdf) [last update 2024-12-12]
+[Download ArcheoFOSS 2024 programme (PDF)](./ArcheoFoss_Programma_13_12_24.pdf) [last update 2024-12-13]
 ---
 
 
