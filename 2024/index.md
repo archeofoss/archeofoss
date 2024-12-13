@@ -8,6 +8,7 @@ ednumber: 18
 
 [10/12/2024]
 The [Program of the conference](/2024/programme) is available.
+
 **[02/11/2024]**  
 The [call for papers](/2024/call-for-papers) is out! Submit your abstracts before **November 24 2024**.
 
