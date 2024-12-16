@@ -6,7 +6,7 @@ edyear: 2024
 ednumber: 18
 ---
 
-[10/12/2024]
+**[10/12/2024]**  
 The [Program of the conference](/2024/programme) is available.
 
 **[02/11/2024]**  
