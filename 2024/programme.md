@@ -39,7 +39,7 @@ Chair and intro by Jonas **Gregorio de Souza**, Alan **Tapscott Baltar**
 Florian **Thiery**  
 _Infrastructural Frameworks: Managing and Publishing distributed Archaeological Research Data through the Wikibase Ecosystem_
 - **10:30**   
-Shaddai **Heidgen**, Jonas **Gregorio de Souza**, Juan **Vargas**, Sebastian **Fajardo**, Marco **Moderato**, Marco **Madella**  
+Shaddai **Heidgen**, Jonas **Gregorio de Souza**, Juan **Vargas**, Cesar **Ardila**, Sebastian **Fajardo**, Marco **Moderato**, Marco **Madella**  
 _Protecting Heritage through Fire Risk Assessment in Sacred Indigenous Landscapes of Santa Marta_
 - **10:45**   
 Edoardo **Baiocchi**, Romeo **Lanzino**, Saverio Giulio **Malatesta**, Marco Raoul **Marini**, Augusto **Palombini**, Paolo **Rosati**
