@@ -6,6 +6,11 @@ edyear: 2024
 ednumber: 18
 ---
 
+
+**[18/12/2024]**  
+To attend online to the conference works, please use this  [link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MDk2YTUzZTgtNmVlZS00MWJhLTliMTQtMjk0NWRhNGFhOTUw%40thread.v2/0?context=%7b%22Tid%22%3a%2241f8b7d0-9a21-415c-9c69-a67984f3d0de%22%2c%22Oid%22%3a%22bb98d1a8-5cf0-46cd-a009-0db6ba7225a3%22%7d).  
+Passcode: `sa65UG2X`
+
 **[10/12/2024]**  
 The [Program of the conference](/2024/programme) is available.
 
