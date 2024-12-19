@@ -22,9 +22,10 @@ Via Luigi Polacchi, 17, 66100 Chieti . Italia
 [GoogleMaps](https://maps.app.goo.gl/Nj7KNE2itY6knsya7)
 
 ### Online broadcasting
-ArcheoFOSS 2024 works will be broadcasted online in realtime. 
-*update* the [link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MDk2YTUzZTgtNmVlZS00MWJhLTliMTQtMjk0NWRhNGFhOTUw%40thread.v2/0?context=%7b%22Tid%22%3a%2241f8b7d0-9a21-415c-9c69-a67984f3d0de%22%2c%22Oid%22%3a%22bb98d1a8-5cf0-46cd-a009-0db6ba7225a3%22%7d)
- to watch the conference  Passcode: sa65UG2X
+ArcheoFOSS 2024 works will be broadcasted online in realtime through Microsoft Teams. 
+
+Please use this  [link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MDk2YTUzZTgtNmVlZS00MWJhLTliMTQtMjk0NWRhNGFhOTUw%40thread.v2/0?context=%7b%22Tid%22%3a%2241f8b7d0-9a21-415c-9c69-a67984f3d0de%22%2c%22Oid%22%3a%22bb98d1a8-5cf0-46cd-a009-0db6ba7225a3%22%7d) to watch the conference.  
+Passcode: `sa65UG2X`
 
 # Programme
 ## 19 December 2024
