@@ -9,6 +9,7 @@ layout: article-slim
 ### In brief
 
 - ArcheoFOSS 2025 will be held at Insubria University - (Varese) **November 2025**
+- Archeofoss 2025 is organized in partnership with Associazione LabDig 3A Academy.
 - Panel proposals are now being accepted
 - Panel proposals must be submitted before **August 17** 2025 at [callforpaper@archeofoss.org](mailto:callforpaper@archeofoss.org)
 - Panel proposals will undergo an open, not anonymous, peer-review evaluation process
