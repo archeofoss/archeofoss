@@ -8,10 +8,10 @@ layout: article-slim
 
 ### In brief
 
-- ArcheoFOSS 2025 will be held at Insubria University - (Varese) **November 2025**
-- ArcheoFOSS 2025 is organized in partnership with Associazione LabDig 3A Academy.
+- ArcheoFOSS 2025 will be held at University of Insubria - (Varese) **27th - 28th November 2025**
+- ArcheoFOSS 2025 is organized in partnership with LabDig 3A Academy no profit association.
 - Panel proposals are now being accepted
-- Panel proposals must be submitted before **August 17** 2025 at [callforpaper@archeofoss.org](mailto:callforpaper@archeofoss.org)
+- Panel proposals must be submitted before **August 31 2025** at [callforpaper@archeofoss.org](mailto:callforpaper@archeofoss.org)
 - Panel proposals will undergo an open, not anonymous, peer-review evaluation process
 
 ---
@@ -22,21 +22,21 @@ This edition will be based on **panel sessions** that provide an opportunity for
 
 We are welcoming original proposals from both community members and external scholars or professionals willing to discuss research questions and experience and stimulate further discussion of specific topics.
 
-As well-known, the ArcheoFOSS conference is traditionally focused on the dissemination of archaeological projects following the Open Science paradigm:  Free Libre and Open Source methodology both for investigation and dissemination. Topics include only Free Libre and Open Source Software and Hardware in Archeology.
-Panellists, therefore, should clearly state how their proposal meets one or more of the following topics:
+As well-known, the ArcheoFOSS conference is traditionally focused on the dissemination of archaeological projects following the Open Science paradigm: Free Libre and Open Source methodology both for investigation and dissemination.
+Topics include only Free Libre and Open Source Software and Hardware in Archaeology.
+Panelists, therefore, should clearly state how their proposal meets one or more of the following topics:
 
-- Use and reuse of open software in archaeology.
-- Bioarcheology.
+- Use and reuse of open software in Archaeology.
+- Bioarchaeology.
 - Software and hardware applied to biological remains.
-- Gamification in Archeology.
-- Ethics, sustainability and regulatins.
-- Reflections on communication in archaeology: theory, methods and case studies.
-- AI applications in archaeology.
+- Gamification in Archaeology.
+- Ethics, sustainability and regulations.
+- Reflections on communication in Archaeology: theory, methods and case studies.
 - Free Libre and Open Source Big Data.
-- Public archaeology: theory and methods.
+- Public Archaeology: theory and methods.
 - AI applications in Archaeology.
 
-A **typical panel session** starts with a **brief introduction** by the panel chair, followed by the presentations of **three or four panellists**.
+A **typical panel session** starts with a **brief introduction** by the panel chair, followed by the presentations of **three or four panelists**.
 Panels with at least 3 interventions should be considered prioritized.
 
 Proposals for panels can be submitted by one or two researchers. Each complete proposal must include:
