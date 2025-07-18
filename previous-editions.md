@@ -4,6 +4,15 @@ description: ArchaeoFOSS editions
 layout: article-slim
 ---
 
+## ArcheoFOSS 18 (2024)
+- **Dates**: 19-20 December 2024
+- **Location**: G.D'Annunzio University 
+- **Web**: [View conference page](./2024)
+- **Publication**: in preparation
+- **Organising committee**
+  - Vasco La Salvia, G.D'Annunzio University
+  - Marco Moderato, Universitat Pompeu Fabra
+
 ## ArcheoFOSS 17 (2023)
 - **Dates**: 12-13 December 2023
 - **Location**: University of Turin and online 
