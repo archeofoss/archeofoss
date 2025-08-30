@@ -37,7 +37,7 @@ Panelists, therefore, should clearly state how their proposal meets one or more 
 - Public Archaeology: theory and methods.
 - AI applications in Archaeology.
 
-A **typical panel session** starts with a **brief introduction** by the panel chair, followed by the presentations of **three or four panelists**.
+A **typical panel session** starts with a **brief introduction** by the panel chair, followed by the presentations of **three or more panelists**.
 Panels with at least 3 interventions should be considered prioritized.
 
 Proposals for panels can be submitted by one or two researchers. Each complete proposal must include:
