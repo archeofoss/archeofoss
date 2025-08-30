@@ -6,6 +6,13 @@ default:
   - title: Scientific committee
     url: /scientific-committee
 
+'2025':
+  - title: 2025 edition
+    url: /2025/
+  - title: Call for panels
+    url: /2025/call-for-panels
+  - title: Scientific committee
+    url: /scientific-committee
 '2024':
   - title: 2024 edition
     url: /2024/

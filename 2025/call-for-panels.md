@@ -12,7 +12,8 @@ layout: article-slim
 - ArcheoFOSS 2025 is organized in partnership with LabDig 3A Academy no profit association.
 - Panel proposals are now being accepted
 - Panel proposals must be submitted before **September 12 2025** at [callforpaper@archeofoss.org](mailto:callforpaper@archeofoss.org)
-- Panel proposals will undergo an open, not anonymous, peer-review evaluation process
+- Panel proposals will undergo an open, not anonymous, peer-review evaluation process.
+- Languages admitted are Italian and English.
 
 ---
 
