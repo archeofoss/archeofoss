@@ -10,8 +10,8 @@ layout: article-slim
 
 - ArcheoFOSS 2025 will be held at University of Insubria - (Varese) **27th - 28th November 2025**
 - ArcheoFOSS 2025 is organized in partnership with LabDig 3A Academy no profit association.
-- Panel proposals are now being accepted.
-- Panel proposals must be submitted before **August 31 2025** at [callforpaper@archeofoss.org](mailto:callforpaper@archeofoss.org)
+- Panel proposals are now being accepted
+- Panel proposals must be submitted before **September 13th, 2025** at [callforpaper@archeofoss.org](mailto:callforpaper@archeofoss.org)
 - Panel proposals will undergo an open, not anonymous, peer-review evaluation process.
 - Languages admitted are Italian and English.
 
@@ -37,7 +37,7 @@ Panelists, therefore, should clearly state how their proposal meets one or more 
 - Public Archaeology: theory and methods.
 - AI applications in Archaeology.
 
-A **typical panel session** starts with a **brief introduction** by the panel chair, followed by the presentations of **three or four panelists**.
+A **typical panel session** starts with a **brief introduction** by the panel chair, followed by the presentations of **three or more panelists**.
 Panels with at least 3 interventions should be considered prioritized.
 
 Proposals for panels can be submitted by one or two researchers. Each complete proposal must include:
@@ -49,7 +49,7 @@ Proposals for panels can be submitted by one or two researchers. Each complete p
 
 Proposals for panels **must** fully comply with the ArcheoFOSS mission, regarding free and open source software or hardware, open processes, open data, open science in the archaeological or more generally in the heritage domain.
 
-Proposals must be submitted via email, at [callforpaper@archeofoss.org](mailto:callforpaper@archeofoss.org) before **August 31 2025**, and must be licensed as CC-BY.
+Proposals must be submitted via email, at [callforpaper@archeofoss.org](mailto:callforpaper@archeofoss.org) before **September 13th, 2025**, and must be licensed as CC-BY.
 
 A maximum of **10 panels** will be accepted.
 
