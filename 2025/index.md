@@ -7,7 +7,7 @@ ednumber: 19
 ---
 
 **[31/08/2025]**  
-The [call for panels](/2025/call-for-panels) is extended until September 13th 2025.
+The [call for panels](/2025/call-for-panels) is extended until September 13th, 2025.
 
 **[02/07/2025]**  
 The [call for panels](/2025/call-for-panels) of Archeo.FOSS 2025 is now open.
