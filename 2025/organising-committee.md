@@ -30,7 +30,7 @@ layout: article-slim
 
 **Serenella Saccon**
 
-**Viana Elisabetta**
+**Elisabetta Viana**
 
 **Matteo Bilotta**
 
