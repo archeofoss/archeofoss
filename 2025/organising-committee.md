@@ -18,6 +18,7 @@ layout: article-slim
 
 **Arianna Vanni**
 
+**Chiara Tesi**
 
 ## Associazione LabDig 3A Academy 
 
@@ -33,7 +34,7 @@ layout: article-slim
 
 **Matteo Bilotta**
 
-**Cristiano Potzolu** *(External Collaborator, Dipartimento di Storia Culture Civiltà (DISCI), Alma Mater Studiorum - Università di Bologna)*
+**Cristiano Putzolu** *(External Collaborator, Dipartimento di Storia Culture Civiltà (DISCI), Alma Mater Studiorum - Università di Bologna)*
 
 **Marco Cavalazzi** *(External Collaborator, Dipartimento di Storia Culture Civiltà (DISCI), Alma Mater Studiorum - Università di Bologna)*
 
