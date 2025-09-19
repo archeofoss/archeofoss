@@ -23,9 +23,9 @@ layout: article-slim
 
 **Alessandra Mazzucchi**
 
-**Roberto Taglioretti**
-
 **Matteo Orsi**
+
+**Roberto Taglioretti**
 
 **Serenella Saccon**
 
