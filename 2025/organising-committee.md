@@ -8,7 +8,7 @@ layout: article-slim
 
 # Organising Committee ARCHEOFOSS 2025
 
-## Dipartimento di Biotecnologie e Scienze della Vita, Università degli Studi dell’Insubria
+## Dipartimento di Biotecnologie e Scienze della Vita - Università degli Studi dell’Insubria
 
 **Marta Licata**
 
