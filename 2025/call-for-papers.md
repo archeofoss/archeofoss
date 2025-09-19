@@ -6,71 +6,57 @@ layout: article-slim
 
 ## Call for papers
 
-- Deadline for [abstract submissions](#abstract-submission): **15 October 2025**
+- The call for papers of the 19th ArcheoFOSS conference is open!
+- Will be held in dual format, in presence and online.
+- Deadline for abstract submission: **15 October 2025**
 - Conference dates: **27 - 28 November 2025**
+
+We are inviting scholars, independent researchers, institutions, freelance archaeologists and company representatives involved in Cultural Heritage to submit original research or case studies that expose the latest trends, theoretical or practical developments and challenges in the field.
 
 ---
 
 ## Abstract Submission
 Please provide for each paper proposal the following information, in **English** or **Italian**:
-- Title of the proposal
-- Title of the selected panel
+
+- Title 
+- Title of the preferred panel
 - Full name(s) of the author(s)
 - Affiliation(s) of the author(s)
 - Email address(es) of all authors(s)
-- Proposal text (max. 3000 characters)
+- Abstract (max. 2000 characters spaces included)
 
+**It is recommended that the abstract gives greater prominence to FLOS (Free Libre and Open Source) concept.**
 
-All proposals can be submitted by email at [callforpapers@archeofoss.org](mailto:callforpapers@archeofoss.org) (https://github.com/archeofoss/archeofoss2022) and using the [provided template](https://github.com/archeofoss/archeofoss2022/blob/main/paper-proposal-template.md).
+**Texts should be released under CC BY-ND or other equally or more permissive licenses.**
 
-**Texts and images should be released under CC BY-ND or other equally or more permissive licenses.**
+**After the Conference**  all authors will be asked to submit a full paper that will be published.
 
-Plese note that all proposals will be **promptly published** on our [Github repository](https://github.com/archeofoss/archeofoss2022) and will be **openly commented and evaluated** by corresponding panelists and members of the [Scientific Committee](https://www.archeofoss.org/scientific-committee) strictly following our [Code of Conduct](https://github.com/archeofoss/archeofoss2022/blob/main/CODE_OF_CONDUCT.md).
+### All proposals can be submitted by email at [callforpapers@archeofoss.org](mailto:callforpapers@archeofoss.org)
 
+---
 
-The 16th edition of the International Conference 
-**ArcheoFOSS Open Software, hardware, processes, data and formats in archaeological research**
-will be held in dual format, in presence and online on **22-23 September 2022**.
-
-The Conference is organised in nine panels that will introduce specific research topics on the general background of data sharing, open tools, processes and formats in the archaeological domain.
-
-We are inviting scholars, independent researchers, institutions, freelance archaeologists and company representatives involved in Cultural Heritage to submit original research or case studies that expose the latest trends, theoretical or practical developments and challenges in the field. 
-
-
-## Available panels
+# Available panels
 
 ## From Low-Cost to Cutting-Edge: Photogrammetry, NeRF and Gaussian Splatting for DigitalArchaeology
-- **Proponents**:
+### Proponents
   - Daniele Bursich [](mailto:), Università degli studi di Milano Dipartimento di Beni Culturali e Ambientali, Italy, Milano
   - Lorenzo Zamboni [](mailto:), Università degli studi di Milano Dipartimento di Beni Culturali e Ambientali, Italy, Milano
-- **Description**: In recent years, 3D acquisition techniques applied to cultural heritage have undergone unprecedented development. Alongside traditional photogrammetry, which has become a consolidated standard in archaeological documentation, new AI-based methodologies are emerging—most notably Neural Radiance Fields (NeRF) and Gaussian Splatting—capable of generating dense point clouds and high-fidelity 3D models from photographic and video datasets, even when non-calibrated. At the same time, the availability of low-cost tools (consumer drones, 360° cameras, tablets with integrated LiDAR sensors) and open-source software (COLMAP, Instant-NGP, Open3D, Nerfstudio, Meshroom) opens new perspectives for fast, accessible, and economically sustainable documentation.
+### Description
+In recent years, 3D acquisition techniques applied to cultural heritage have undergone unprecedented development. Alongside traditional photogrammetry, which has become a consolidated standard in archaeological documentation, new AI-based methodologies are emerging—most notably Neural Radiance Fields (NeRF) and Gaussian Splatting—capable of generating dense point clouds and high-fidelity 3D models from photographic and video datasets, even when non-calibrated. At the same time, the availability of low-cost tools (consumer drones, 360° cameras, tablets with integrated LiDAR sensors) and open-source software (COLMAP, Instant-NGP, Open3D, Nerfstudio, Meshroom) opens new perspectives for fast, accessible, and economically sustainable documentation.
 This panel aims to explore this hybrid landscape by bringing together researchers and practitioners who adopt low-cost, open-source, and AI-driven pipelines for archaeological documentation and interpretation. Field experiences, technological challenges, opportunities for standardization, and the broader impact of these methods on open science and the sharing of 3D data will be discussed.
 The objective is to provide an updated overview of the possibilities and limitations of a “democratized” approach to 3D scanning in archaeology, and to identify shared guidelines and potential interdisciplinary collaborations between computer scientists, archaeologists, and the open-source community.
 
+~
 
 ## Intelligenza Artificiale e Coding per l’Archeologia dell’Architettura: nuove metodologie di analisi degli elevati
+### Proponent
+  - Andrea Fiorini, [andrea.fiorini6@unibo.it](mail-to:andrea.fiorini6@unibo.it) - Dipartimento di Storia Culture Civiltà, Università di Bologna
+### Description:
+L’archeologia dell’architettura sta vivendo una trasformazione con l’integrazione di Intelligenza Artificiale (AI) e coding. Queste tecnologie consentono di accelerare la documentazione e l’interpretazione delle murature storiche, riducendo tempi e aumentando l’oggettività. Sono già stati sperimentati algoritmi di clustering applicati a nuvole di punti 3D per distinguere fasi costruttive, reti neurali per segmentare immagini di paramenti e dedurre cronologie, modelli di deep learning integrati con fotogrammetria UAV per rilevare degradi, nonché reti neurali profonde capaci di individuare tessiture omogenee su rilievi laser-scan di grande scala. Questi esempi dimostrano come l’AI possa supportare rilievo e classificazione.
 
-Andrea Fiorini – andrea.fiorini6@unibo.it (Dipartimento di Storia Culture Civiltà, Università
-di Bologna)
-L’archeologia dell’architettura sta vivendo una trasformazione con l’integrazione
-di Intelligenza Artificiale (AI) e coding. Queste tecnologie consentono di accelerare
-la documentazione e l’interpretazione delle murature storiche, riducendo tempi e
-aumentando l’oggettività. Sono già stati sperimentati algoritmi di clustering
-applicati a nuvole di punti 3D per distinguere fasi costruttive, reti neurali per
-segmentare immagini di paramenti e dedurre cronologie, modelli di deep learning
-integrati con fotogrammetria UAV per rilevare degradi, nonché reti neurali
-profonde capaci di individuare tessiture omogenee su rilievi laser-scan di grande
-scala. Questi esempi dimostrano come l’AI possa supportare rilievo e
-classificazione.
-Nonostante tali progressi, rimangono questioni aperte. La sfida è quindi integrare
-le tecniche AI nel workflow tradizionale mantenendo centrale il controllo
-dell’esperto e il rigore della documentazione autoptica. Il panel intende
-approfondire tali temi, ponendo domande come: in che modo AI e coding possono
-essere integrati efficacemente nella documentazione e analisi dell’architettura, migliorando la
-comprensione della storia costruttiva? L’obiettivo è avviare un dibattito che unisca
-innovazione e rigore scientifico, delineando lo stato dell’arte e le prospettive
-future di questo settore emergente.
+Nonostante tali progressi, rimangono questioni aperte. La sfida è quindi integrare le tecniche AI nel workflow tradizionale mantenendo centrale il controllo dell’esperto e il rigore della documentazione autoptica. Il panel intende approfondire tali temi, ponendo domande come: in che modo AI e coding possono essere integrati efficacemente nella documentazione e analisi dell’architettura, migliorando la comprensione della storia costruttiva? L’obiettivo è avviare un dibattito che unisca innovazione e rigore scientifico, delineando lo stato dell’arte e le prospettive future di questo settore emergente.
 
+~
 
 ## Open Remote and Proximal Sensing for Archaeology: standards, quality, interoperability and reproducible FLOSS workflows
 Giuseppe Guarino, guarino.archeo@gmail.com (Alma Mater Studiorum – University of Bologna)
@@ -281,11 +267,3 @@ analyses in Landscape Archaeology, with a focus on the settlement pattern modell
 archaeological potential mapping, site recognition, and ground truthing, with a
 particular emphasis on solutions based on Free and Open Source Software (FOSS).
 
-
----
-
-## Publication of the Proceedings
-
-**After the Conference**
-
-All authors will be asked to submit a full paper that will be published in the official proceedings of the conference after a double blind peer-review process. The proceedings will be published as a special issue of [Archeologia e Calcolatori](http://www.archcalc.cnr.it/) scientific journal, an *A* indexed journal by [ANVUR](https://www.anvur.it/) for Archaeology and Computer science.
