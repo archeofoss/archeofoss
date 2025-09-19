@@ -34,8 +34,10 @@ layout: article-slim
 
 **Matteo Bilotta**
 
-**Cristiano Putzolu** *(External Collaborator, Dipartimento di Storia Culture Civiltà (DISCI), Alma Mater Studiorum - Università di Bologna)*
+## 
 
-**Marco Cavalazzi** *(External Collaborator, Dipartimento di Storia Culture Civiltà (DISCI), Alma Mater Studiorum - Università di Bologna)*
+**Cristiano Putzolu** *(Dipartimento di Storia Culture Civiltà (DISCI), Alma Mater Studiorum - Università di Bologna)*
 
-**Maurizio Marinato** *(External Collaborator, Dipartimento dei Beni Culturali - Università degli Studi di Padova)*
+**Marco Cavalazzi** *(Dipartimento di Storia Culture Civiltà (DISCI), Alma Mater Studiorum - Università di Bologna)*
+
+**Maurizio Marinato** *(Dipartimento dei Beni Culturali - Università degli Studi di Padova)*
