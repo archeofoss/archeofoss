@@ -27,6 +27,10 @@ layout: article-slim
 
 **Matteo Orsi**
 
+**Serenella Saccon**
+
+**Viana Elisabetta**
+
 **Matteo Bilotta**
 
 **Cristiano Potzolu** *(External Collaborator, Dipartimento di Storia Culture Civiltà (DISCI), Alma Mater Studiorum - Università di Bologna)*
