@@ -142,8 +142,8 @@ We invite papers that address, but are not limited to, the following topics:
 
 ## From Low-Cost to Cutting-Edge: Photogrammetry, NeRF and Gaussian Splatting for DigitalArchaeology
 ### Proponents
-  - **Daniele Bursich** [daniele.bursich@gmail.com](daniele.bursich@gmail.com) 
-  - **Lorenzo Zamboni** [lorenzo.zamboni@unimi.it](lorenzo.zamboni@unimi.it), Università degli studi di Milano Dipartimento di Beni Culturali e Ambientali, Italy, Milano
+  - **Daniele Bursich**, [daniele.bursich@gmail.com](daniele.bursich@gmail.com) - Università degli studi di Milano Dipartimento di Beni Culturali e Ambientali, Laboratorio LAMAD - Laboratorio di Archeologia Digitale, Italy, Milano
+  - **Lorenzo Zamboni**, [lorenzo.zamboni@unimi.it](lorenzo.zamboni@unimi.it) - Università degli studi di Milano Dipartimento di Beni Culturali e Ambientali, Laboratorio LAMAD - Laboratorio di Archeologia Digitale, Italy, Milano
 ### Description
 In recent years, 3D acquisition techniques applied to cultural heritage have undergone unprecedented development. Alongside traditional photogrammetry, which has become a consolidated standard in archaeological documentation, new AI-based methodologies are emerging—most notably Neural Radiance Fields (NeRF) and Gaussian Splatting—capable of generating dense point clouds and high-fidelity 3D models from photographic and video datasets, even when non-calibrated. At the same time, the availability of low-cost tools (consumer drones, 360° cameras, tablets with integrated LiDAR sensors) and open-source software (COLMAP, Instant-NGP, Open3D, Nerfstudio, Meshroom) opens new perspectives for fast, accessible, and economically sustainable documentation.
 
