@@ -80,7 +80,7 @@ We are inviting papers about, issues, advantages and disadvantages, state of art
 
 ## Integrated FLOS Ecosystems for Archaeology: from Sensor Co-designing and Data Analysis to Immersive Storytelling
 ### Proponents
-  - **Matteo Orsi**, [m.orsi@labdig3a.it](m.orsi@labdig3a.it) - Associazione LabDig 3A Academy
+  - **Matteo Orsi**, [m.orsi@labdig3a.it](m.orsi@labdig3a.it) - Associazione LabDig 3A Academy; Associazione Osteoarc APS – ETS
   - **Roberto Taglioretti**, [r.taglioretti@labdig3a.it](r.taglioretti@labdig3a.it) - Associazione LabDig 3A Academy; Associazione Osteoarc APS – ETS
 ### Description
 Archaeological research and communication often operate on two separate domains: on one side, scientific tools for data gathering and analysis on the other, platforms for dissemination. This panel explores a holistic paradigm relying on **entirely FLOS ecosystems**, where scientific research and communication are not distinct phases, but an integrated and transparent flow. Discussion will be based in two interconnected pillars:
