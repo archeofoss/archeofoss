@@ -20,9 +20,9 @@ Please provide for each paper proposal the following information, in **English**
 
 - Title 
 - Title of the preferred panel
-- Full name(s) of the author(s)
-- Affiliation(s) of the author(s)
-- Email address(es) of all authors(s)
+- Full name(s) of author(s)
+- Affiliation(s) of author(s)
+- Email address(es) of authors(s)
 - Abstract (max. 2000 characters spaces included)
 
 **It is recommended that the abstract gives greater prominence to FLOS (Free Libre and Open Source) concept.**
@@ -70,7 +70,7 @@ For example, since the 90s, Virtual Anthropology has focused on digitize bones, 
 
 The objective of the panel is to provide an overview of the use of FLOS tools during the excavation and the analysis of the organic archaeological remains (including, e.g., prints, cast, pathological elements, dental calculus) in the fields of bioanthropology, archaeozoology and archaeobotany, for the morphological study of dental calculus, and for the biomolecular analysis of aDNA, isotopes, and paleoproteomics.
 
-We are inviting papers about, issues, advantages and disadvantages, state of art, and strategies for promoting the us of FLOS hardware and software in the following topics (but not only):
+We are inviting papers about, issues, advantages and disadvantages, state of art, and strategies for promoting the use of FLOS hardware and software in the following topics (but not only):
   - methodological research
   - excavation and recovery
   - ethics and FAIR (Findable, Accessible, Interoperable, and Reusable) and CARE (Collective benefit, Authority to control, Responsibility, Ethics)
