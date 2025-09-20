@@ -6,7 +6,7 @@ ednumber: 19
 layout: article-slim
 ---
 
-# Organising Committee ARCHEOFOSS 2025
+## **Organising Committee ARCHEOFOSS 2025**
 
 ## Dipartimento di Biotecnologie e Scienze della Vita - Università degli Studi dell’Insubria
 
@@ -34,7 +34,7 @@ layout: article-slim
 
 **Matteo Bilotta**
 
-## 
+--- 
 
 **Cristiano Putzolu** *(Dipartimento di Storia Culture Civiltà (DISCI), Alma Mater Studiorum - Università di Bologna)*
 
