@@ -1,10 +1,11 @@
 ---
-title: "ArcheoFOSS 2025: Call for papers"
+title: "Call for papers"
 description: "Call for papers"
+ednumber: 19
 layout: article-slim
 ---
 
-## Call for papers
+## In brief
 
 - The call for papers of the 19th ArcheoFOSS conference is open!
 - Will be held in dual format, in presence and online.
@@ -12,7 +13,9 @@ layout: article-slim
 - Conference dates: **27 - 28 November 2025**
 
 We are inviting scholars, independent researchers, institutions, freelance archaeologists and company representatives involved in Cultural Heritage to submit original research or case studies that expose the latest trends, theoretical or practical developments and challenges in the field.
+
 ---
+
 ## Abstract Submission
 Please provide for each paper proposal the following information, in **English** or **Italian**:
 

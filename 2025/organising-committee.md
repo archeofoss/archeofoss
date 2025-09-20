@@ -1,5 +1,5 @@
 ---
-title: "ArcheoFOSS 2025 Organising Committee"
+title: "Organising Committee"
 description: "Organising Committee ARCHEOFOSS 2025"
 edyear: 2025
 ednumber: 19
