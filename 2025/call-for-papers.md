@@ -81,7 +81,7 @@ We are inviting papers about, issues, advantages and disadvantages, state of art
 ## Integrated FLOS Ecosystems for Archaeology: from Sensor Co-designing and Data Analysis to Immersive Storytelling
 ### Proponents
   - **Matteo Orsi**, [m.orsi@labdig3a.it](m.orsi@labdig3a.it) - Associazione LabDig 3A Academy
-  - **Roberto Taglioretti**, [r.taglioretti@labdig3a.it](r.taglioretti@labdig3a.it), Associazione LabDig 3A Academy
+  - **Roberto Taglioretti**, [r.taglioretti@labdig3a.it](r.taglioretti@labdig3a.it) - Associazione LabDig 3A Academy; Associazione Osteoarc APS – ETS
 ### Description
 Archaeological research and communication often operate on two separate domains: on one side, scientific tools for data gathering and analysis on the other, platforms for dissemination. This panel explores a holistic paradigm relying on **entirely FLOS ecosystems**, where scientific research and communication are not distinct phases, but an integrated and transparent flow. Discussion will be based in two interconnected pillars:
 1. **Methodology and Scientific Tools:** Approaches based on open software and hardware for the entire datum life cycle will be analyzed, such as:
@@ -166,7 +166,7 @@ Nonostante tali progressi, rimangono questioni aperte. La sfida è quindi integr
 ## Open Remote and Proximal Sensing for Archaeology: standards, quality, interoperability and reproducible FLOSS workflows
 ### Proponents
   - **Giuseppe Guarino**, [guarino.archeo@gmail.com](guarino.archeo@gmail.com) - Alma Mater Studiorum, University of Bologna
-  - **Gabriele Ciccone**, [gabriele.ciccone@cnr.it](gabriele.ciccone@cnr.it) CNR-ISPC
+  - **Gabriele Ciccone**, [gabriele.ciccone@cnr.it](gabriele.ciccone@cnr.it) - CNR-ISPC
 ### Description
 The use of Free/Libre and Open-Source Software in remote and proximal sensing has expanded significantly in archaeology, supporting activities ranging from data acquisition (satellite, UAV, terrestrial sensors) to processing, analysis, and visualization. Yet, despite the widespread adoption of open tools, substantial heterogeneity persists in data models, terminologies, metadata standards, licensing choices, and dissemination practices. These discrepancies often limit comparability between projects, hinder reproducibility of results, and reduce the potential for long-term data reuse.
 
