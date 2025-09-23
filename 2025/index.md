@@ -7,7 +7,7 @@ ednumber: 19
 ---
 
 **[20/09/2025]**
-The [call for papers](/2025/call-for-papers.md) of ARCHEOFOSS 2025 is now open.
+The [call for papers](/2025/call-for-papers) of ARCHEOFOSS 2025 is now open.
 
 **[13/09/2025]**  
 The call for panels is closed.
