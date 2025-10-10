@@ -6,6 +6,9 @@ edyear: 2025
 ednumber: 19
 ---
 
+**[10/10/2025]**  
+The [call for papers](/2025/call-for-papers) is extended until October 23th, 2025.
+
 **[20/09/2025]**
 The [call for papers](/2025/call-for-papers) of ARCHEOFOSS 2025 is now open.
 
