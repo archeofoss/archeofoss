@@ -34,6 +34,8 @@ layout: article-slim
 
 **Matteo Bilotta**
 
+**Gloria Valbusa**
+
 --- 
 
 **Cristiano Putzolu** *(Dipartimento di Storia Culture Civiltà (DISCI), Alma Mater Studiorum - Università di Bologna)*
