@@ -223,7 +223,7 @@ _Arianna Vanni_ - Deprtment of Medicine and Surgery, University of Insubria, Dep
 **_An Integrated FLOS Workflow for the Analysis and Storytelling of Inscribed Crania_**     
 _Claudia De Luca_ - Alma Mater Studiorum – Università di Bologna, Dipartimento di Storia Culture Civiltà (DiSCi); _Matteo Orsi_ - LabDig3A Academy, Osteoarc APS ETS; Gloria Valbusa - LabDig3A Academy, Osteoarc APS ETS; _Alessandra Mazzucchi_ - LabDig3A Academy, Osteoarc APS ETS; _Roberto Taglioretti_ - LabDig3A Academy, Osteoarc APS ETS; _Nadja Cholidis_ - Vorderasiatisches Museum, Berlin; Barbara Helwing - Vorderasiatisches Museum, Berlin; _Margerita Andrea Valsecchi Gillmeister_ - Vorderasiatisches Museum, Berlin; _Cristiano Putzolu_ - University of Bologna - Department of History and Cultures (DiSCi).
 - **11:15**     
-**_Metodologie di modifica Free Libre and Open Source (FLOS) di ispositivi di acquisizione per la valorizzazione del patrimonio culturale: il caso del progetto MAPOD4D_**    
+**_Metodologie di modifica Free Libre and Open Source (FLOS) di dispositivi di acquisizione per la valorizzazione del patrimonio culturale: il caso del progetto MAPOD4D_**    
 _Petra Ferrario_ - Università degli studi di Milano; Roberto Taglioretti - LabDig3A Academy Association, Osteoarc APS ETS; _Alessandra Mazzucchi_ - LabDig3A Academy Association, Osteoarc APS ETS; _Matteo Orsi_ - LabDig3A Academy Association, Osteoarc APS ETS.
 - **11:30**    
 **_Discussion_**
@@ -292,7 +292,7 @@ Chair and intro by _Andrea Fiorini_.
 **_Intelligenza artificiale applicata all'archeologia dell'architettura: soluzioni per la raccolta e l'analisi dei dati_**     
 _Andrea Fiorini_ - Dipartimento di Storia Culture Civiltà, Università di Bologna.
 - **16:40**     
-**_TagLab per l’archeologia dell’architettura: segmentazione, annotazione e analisi AIassisted_**    
+**_TagLab per l’archeologia dell’architettura: segmentazione, annotazione e analisi AI assisted_**    
 _Filippo Sala_ - Università di Pisa, Dipartimento di Ingegneria Civile ed Industriale; _Marco Callieri_ - Visual Computing Lab, ISTI-CNR, Italy; _Anna De Falco_ - Università di Pisa, Dipartimento di Ingegneria Civile ed Industriale; _Gabriele Gattiglia_ - Università di Pisa, Dipartimento di Civiltà e Forme del Sapere; _Quirino Saraceni_ - Università di Pisa, Dipartimento di Informatica.
 - **16:55**     
 **_Northern N-AI-ve: Merging AI in the study of the Northern Nave of the Holy Sepulchre_**    
