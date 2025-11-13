@@ -26,9 +26,11 @@ For any further info, please contact [archeofoss2025@labdig3a.org](mailto:archeo
 Via Alberto da Giussano 12  
 21052 Busto Arsizio (Varese)   
 
-[OpenStreetMap Position](https://www.openstreetmap.org/?mlat=45.609414&mlon=8.857515#map=19/45.609414/8.857515)
+[OpenStreetMap position](https://www.openstreetmap.org/?mlat=45.609414&mlon=8.857515#map=19/45.609414/8.857515{:target="_blank"})
 
-<a target="_blank" href="./guide_archeofoss_2025_eng.pdf">how to get here, park and eat</a>
+
+[how to get here, park and eat](./guide_archeofoss_2025_eng.pdf{:target="_blank"})
+
 
 ---
 
@@ -172,8 +174,8 @@ _Claudia De Luca_ - Alma Mater Studiorum – Università di Bologna, Dipartiment
 Matteo Orsi - LabDig3A Academy Association, Osteoarc APS ETS; _Amedeo De Lisi - University of Milan – Department of Cultural and Environmental Heritage; _Gloria Valbusa_ - LabDig3A Academy Association, Osteoarc APS ETS; _Elena Fontana_ - LabDig3A Academy Association, Osteoarc APS ETS; _Cristiano Brandolini_ - Civic Archaeological and Paleontological Museum of Arsago Seprio; _Roberto Taglioretti_ - LabDig3A Academy Association, Osteoarc APS ETS; _Emanuele Intagliata_ - University of Milan – Department of Cultural and Environmental Heritage.
 - **17:20**   
 **_Point cloud acquisition in extreme environments: a preliminary evaluation. A preliminary study of a crypt without light_**       
-_Matteo Orsi_ - LabDig3A Academy Association, Osteoarc APS ETS; _Gloria Valbusa_ - LabDig3A Academy Association, Osteoarc APS ETS; _Marta Licata_ - Department of Biotechnology and Life Sciences, University of Insubria; _Roberta Fusco_ - Department of Biotechnology and Life Sciences, University of Insubria; _Nicol Rossetti_ - Department of Biotechnology and Life Sciences, University of Insubria; _Arianna Vanni_ - Department of Biotechnology and Life Sciences, University of Insubria; _Francesca Garanzini_ - Soprintendenza Archeologia Belle Arti e Paesaggio per le province di Novara Verbanio-Cusio-Ossola e Vercelli (SABAP-NO); _Giovanni Mastrocco_ - MG Geomatics di Mastrorocco Giovanni; _Lisa Afeltra_ - Urania di Lisa Afeltra; _Roberto Taglioretti_ - LabDig3A Academy Association, Osteoarc APS ETS; _Alessandra Mazzucchi_ - LabDig3A Academy Association, Osteoarc APS ETS; _Cristiano Putzolu_ - University of Bologna - Department of History and Cultures (DiSCi).
-- **17:35**   
+_Matteo Orsi_ - LabDig3A Academy Association, Osteoarc APS ETS; _Gloria Valbusa_ - LabDig3A Academy Association, Osteoarc APS ETS; _Marta Licata_ - Department of Biotechnology and Life Sciences, University of Insubria; _Roberta Fusco_ - Department of Biotechnology and Life Sciences, University of Insubria; _Nicol Rossetti_ - Department of Biotechnology and Life Sciences, University of Insubria; _Arianna Vanni_ - Department of Biotechnology and Life Sciences, University of Insubria; _Francesca Garanzini_ - Soprintendenza Archeologia, Belle Arti e Paesaggio per le province di Biella, Novara, Verbano-Cusio-Ossola e Vercelli; _Giovanni Mastrocco_ - MG Geomatics di Mastrorocco Giovanni; _Lisa Afeltra_ - Urania di Lisa Afeltra; _Roberto Taglioretti_ - LabDig3A Academy Association, Osteoarc APS ETS; _Alessandra Mazzucchi_ - LabDig3A Academy Association, Osteoarc APS ETS; _Cristiano Putzolu_ - University of Bologna - Department of History and Cultures (DiSCi).
+- **17:35**    
 **_Una Metodologia FAIR e una Cupola Portatile per il Reflectance Transformation Imaging: Il Caso della Documentazione Digitale della Rupe Magna_**     
 _Hüseyin Erdoğan_ - Università di Bologna – Dipartimento di Storia Culture Civiltà; _Federico Zoni_ - Università di Bergamo – Dipartimento di Lettere, Filosofia, Comunicazione; _Valentina Presutti_ - Università di Bologna – Dipartimento di Lingue, Letterature e Culture Moderne; _Cristiano Putzolu_  - Università di Bologna – Dipartimento di Storia Culture Civiltà.
 - **17:50**   
@@ -184,7 +186,7 @@ _Elena Molaioni_ - Sapienza Università di Roma.
 
 ---
 
-- _Social dinner_ - [furter information here]()
+- _Social dinner_ - [furter information here](./archeofoss2025_menu.pdf{:target="_blank"})
 
 ---
 
@@ -204,10 +206,10 @@ _Gloria Valbusa_ - LabDig3A Academy, Osteoarc APS ETS; _Roberto Taglioretti_ - L
 _Davide Carraro_ - University of Milano-Bicocca - Department of Physics "Giuseppe Occhialini"; _Roberto Taglioretti_ - LabDig3A Academy Association, Osteoarc APS ETS; _Gloria Valbusa_ - LabDig3A Academy Association, Osteoarc APS ETS; _Alessandra Mazzucchi_ - LabDig3A Academy Association, Osteoarc APS ETS; _Matteo Orsi_ - LabDig3A Academy Association, Osteoarc APS ETS.
 - **09:50**    
 **_Workflow integrato FLOS e Low-Cost per garantire l’integrità colorimetrica della digitalizzazione delle vertebre umane_**    
-_Bianca Mantovani_ - Università delgi Studi di Milano; _Gloria Valbusa_ - Associazione LabDig3A Academy, Osteoarc APS ETS; _Roberto Taglioretti_ - Associazione LabDig3A Academy, Osteoarc APS ETS; _Alessandra Mazzucchi_ - Associazione LabDig3A Academy, Osteoarc APS ETS; _Matteo Orsi_ - Associazione LabDig3A Academy, Osteoarc APS ETS.
+_Bianca Mantovani_ - Università degli Studi di Milano; _Gloria Valbusa_ - Associazione LabDig3A Academy, Osteoarc APS ETS; _Roberto Taglioretti_ - Associazione LabDig3A Academy, Osteoarc APS ETS; _Alessandra Mazzucchi_ - Associazione LabDig3A Academy, Osteoarc APS ETS; _Matteo Orsi_ - Associazione LabDig3A Academy, Osteoarc APS ETS.
 - **10:05**    
 **_Emphasizing bone fractures to valorize archaeological remains: a FLOS pipeline for bone discontinuity enhancement and promotion_**     
-_Agnese Martinelli_ - Università degli studi di Milano; Roberto Taglioretti - LabDig3A Academy Association, Osteoarc APS ETS; _Alessandra Mazzucchi_ - LabDig3A Academy Association, Osteoarc APS ETS; _Maurizio Marinato_ - Dipartimento di Beni Culturali, Università di Padova; _Alexandra Chavarria Arnau_ - Dipartimento di Beni Culturali, Università di Padova; _Matteo Orsi_ - LabDig3A Academy Association, Osteoarc APS ETS.
+_Agnese Martinelli_ - Università degli Studi di Milano; Roberto Taglioretti - LabDig3A Academy Association, Osteoarc APS ETS; _Alessandra Mazzucchi_ - LabDig3A Academy Association, Osteoarc APS ETS; _Maurizio Marinato_ - Dipartimento di Beni Culturali, Università di Padova; _Alexandra Chavarria Arnau_ - Dipartimento di Beni Culturali, Università di Padova; _Matteo Orsi_ - LabDig3A Academy Association, Osteoarc APS ETS.
 
 ---
 
@@ -218,7 +220,7 @@ _Coffee break_
 
 - **10:45**    
 **_From CT scanning to immersive storytelling: a FLOS-based workflow for the valorization of a Roman funerary urn from Crescentino (VC)_**     
-_Arianna Vanni_ - Deprtment of Medicine and Surgery, University of Insubria, Department of Biotechnology and Life Science; _Roberto Taglioretti_ LabDig 3A Academy Association, Osteoarc APS ETS; _Roberta Fusco_ - Department of Biotechnology and Life Science, University of Insubria; _Chiara Tesi_ - Department of Biotechnology and Life Science, University of Insubria; _Nicol Rossetti_ - Deprtment of Medicine and Surgery, University of Insubria, Department of Biotechnology and Life Science; _Carmelo Messina_ - Radiology Department, ASST Gaetano Pini-CTO, Department of Biomedical Sciences for Health, University of Milan; _Matteo Orsi_ - LabDig 3A Academy Association, Osteoarc APS ETS; _Gloria Valbusa_ - LabDig 3A Academy Association; Claudia De Luca - Department of History Cultures Civilizations - Alma Mater Studiorum Bologna; _Francesca Garanzini_ - Soprintendenza Archeologia, Belle Arti e Paesaggio per le province di Biella, Novara, VerbanoCusio-Ossola e Vercelli; _Marta Licata_ - Department of Biotechnology and Life Science, University of Insubria.
+_Arianna Vanni_ - Deprtment of Medicine and Surgery, University of Insubria, Department of Biotechnology and Life Science; _Roberto Taglioretti_ LabDig 3A Academy Association, Osteoarc APS ETS; _Roberta Fusco_ - Department of Biotechnology and Life Science, University of Insubria; _Chiara Tesi_ - Department of Biotechnology and Life Science, University of Insubria; _Nicol Rossetti_ - Deprtment of Medicine and Surgery, University of Insubria, Department of Biotechnology and Life Science; _Carmelo Messina_ - Radiology Department, ASST Gaetano Pini-CTO, Department of Biomedical Sciences for Health, University of Milan; _Matteo Orsi_ - LabDig 3A Academy Association, Osteoarc APS ETS; _Gloria Valbusa_ - LabDig 3A Academy Association; Claudia De Luca - Department of History Cultures Civilizations - Alma Mater Studiorum Bologna; _Francesca Garanzini_ - Soprintendenza Archeologia, Belle Arti e Paesaggio per le province di Biella, Novara, Verbano-Cusio-Ossola e Vercelli; _Marta Licata_ - Department of Biotechnology and Life Science, University of Insubria.
 - **11:00**     
 **_An Integrated FLOS Workflow for the Analysis and Storytelling of Inscribed Crania_**     
 _Claudia De Luca_ - Alma Mater Studiorum – Università di Bologna, Dipartimento di Storia Culture Civiltà (DiSCi); _Matteo Orsi_ - LabDig3A Academy, Osteoarc APS ETS; Gloria Valbusa - LabDig3A Academy, Osteoarc APS ETS; _Alessandra Mazzucchi_ - LabDig3A Academy, Osteoarc APS ETS; _Roberto Taglioretti_ - LabDig3A Academy, Osteoarc APS ETS; _Nadja Cholidis_ - Vorderasiatisches Museum, Berlin; Barbara Helwing - Vorderasiatisches Museum, Berlin; _Margerita Andrea Valsecchi Gillmeister_ - Vorderasiatisches Museum, Berlin; _Cristiano Putzolu_ - University of Bologna - Department of History and Cultures (DiSCi).
