@@ -40,6 +40,7 @@ Not ready yet
 ## How to give presentation
 
 #### <mark>Deadline for presentation and video 25 November 2025.</mark>
+### <mark>We kindly ask speakers to respect the 15-minute limit, which includes setup and changeover time</mark>
 ### Accepted presentation format: <mark>PDF</mark>
 ### Accepted video format: <mark>AVI</mark>
 #### Please name your presentation or video file using this format: <mark>YYYYMMDD_HHMM.\[extension\]</mark>
