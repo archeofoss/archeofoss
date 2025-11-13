@@ -41,7 +41,7 @@ Not ready yet
 
 ## How to give presentation
 
-#### <mark>Deadline for presentation and video 25 November 2025.</mark>
+#### <mark>Deadline for presentation 25 November 2025</mark>
 ### <mark>We kindly ask speakers to respect the 15-minute limit, which includes setup and changeover time</mark>
 ### Accepted presentation format: <mark>PDF</mark>
 ### Accepted video format: <mark>AVI</mark>
@@ -49,8 +49,8 @@ Not ready yet
 YYYYMMDD: Date (Year, Month, Day) HHMM: Time (Hour, Minutes)   
 Examples:
 - 20251127_0920.pdf
-- 20251127_0950.avi
-#### Upload link for presentation or video. When you upload files please enter name, surname an file name: [Upload here](https://e.pcloud.com/#/puplink?code=hK17Z4ItQ277x1kV1bSnnTP9cKhl73e6V)
+- 20251127_0950.avi    
+#### Upload link for presentation or video. When you upload files please enter name, surname an file name: [Upload here](https://e.pcloud.com/#/puplink?code=hK17Z4ItQ277x1kV1bSnnTP9cKhl73e6V{:target="_blank"})
 #### If you do not send us licence information, we will consider that the license is <mark>CC BY-ND</mark>
 
 ---
