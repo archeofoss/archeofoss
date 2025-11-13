@@ -28,7 +28,7 @@ Via Alberto da Giussano 12
 
 [OpenStreetMap Position](https://www.openstreetmap.org/?mlat=45.609414&mlon=8.857515#map=19/45.609414/8.857515)
 
-[how to get here, park and eat](https://e.pcloud.com/#/puplink?code=hK17Z4ItQ277x1kV1bSnnTP9cKhl73e6V)
+<a target="_blank" href="./guide_archeofoss_2025_eng.pdf">how to get here, park and eat</a>
 
 ---
 
@@ -163,7 +163,7 @@ _Coffee break_
 Chair and intro by _Cristiano Putzolu_; _Marco Cavalazzi_.
 - **16:35**   
 **_Open 3D Archaeology: Web-Based Visualization and Knowledge Sharing for Excavation Data_**     
-_Andrea Dennis Favullo_; _Francesco Alfinito_ - Università di Bologna; _Carlo Bicchierai_ - Università di Bologna; _Jacopo Celani_ - Università della Tuscia; _Matteo Orsi_ - LabDig 3A Academy association; _Roberto Taglioretti_ - LabDig 3A Academy association; _Marco Cavalazzi_ - Università di Bologna.
+_Andrea Dennis Favullo_ - LabDig 3A Academy; _Francesco Alfinito_ - Università di Bologna; _Carlo Bicchierai_ - Università di Bologna; _Jacopo Celani_ - Università della Tuscia; _Matteo Orsi_ - LabDig 3A Academy association; _Roberto Taglioretti_ - LabDig 3A Academy association; _Marco Cavalazzi_ - Università di Bologna.
 - **16:50**   
 **_Beta RTK SLAM and SfM point cloud comparison: a test on the field_**    
 _Claudia De Luca_ - Alma Mater Studiorum – Università di Bologna, Dipartimento di Storia Culture Civiltà (DiSCi); _Roberto Taglioretti_ -   LabDig3A Academy Association, Osteoarc APS ETS; _Gloria Valbusa_ - LabDig3A Academy Association, Osteoarc APS ETS; _Matteo Orsi_ - LabDig3A Academy Association, Osteoarc APS ETS; _Cristiano Putzolu_ - Alma Mater Studiorum – Università di Bologna, Dipartimento di Storia Culture Civiltà (DiSCi).
