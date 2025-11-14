@@ -28,7 +28,6 @@ Via Alberto da Giussano 12
 
 [OpenStreetMap position](https://www.openstreetmap.org/?mlat=45.609414&mlon=8.857515#map=19/45.609414/8.857515)
 
-
 [how to get here, park and eat](./guide_archeofoss_2025_eng.pdf)
 
 
@@ -44,11 +43,20 @@ Not ready yet
 - **<mark>We kindly ask speakers to respect the 15-minute limit, which includes setup and changeover time</mark>**   
 - **Accepted presentation format: <mark>PDF</mark>**   
 - **Accepted video format: <mark>AVI</mark>**  
-- **Please name your presentation or video file using this format: <mark>YYYYMMDD_HHMM.\[extension\]</mark>**    
+- **Please name your presentation or video file using this format: <mark>YYYYMMDD_HHMM.[extension]</mark>**    
 YYYYMMDD: Date (Year, Month, Day) HHMM: Time (Hour, Minutes)     
 Examples: 20251127_0920.pdf 20251127_0950.avi    
 - **Upload link for presentation or video. When you upload files please enter name, surname an file name: [Upload here](https://e.pcloud.com/#/puplink?code=hK17Z4ItQ277x1kV1bSnnTP9cKhl73e6V)**         
 - **If you do not send us licence information, we will consider that the license is <mark>CC BY-ND</mark>**
+
+---
+
+## Social dinner
+- The cost for the social dinner is 35 Euro per person.    
+- A vegetarian menu option is available.  
+- When booking, please clearly specify any food intolerances or other dietary requirements.
+- To reserve your spot, please send an email to [archeofoss2025@labdig3a.org](mailto:archeofoss2025@labdig3a.org).
+- [menu](./archeofoss2025_menu.pdf)
 
 ---
 
@@ -183,7 +191,7 @@ _Elena Molaioni_ - Sapienza Università di Roma.
 
 ---
 
-- _Social dinner_ - [furter information here](./archeofoss2025_menu.pdf{:target="_blank"})
+- _Social dinner_ - [menu](./archeofoss2025_menu.pdf)
 
 ---
 
