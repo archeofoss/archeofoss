@@ -6,6 +6,9 @@ edyear: 2025
 ednumber: 19
 ---
 
+**[13/11/2025]**  
+The [Program of the conference](/2025/programme) is available.
+
 **[10/10/2025]**  
 The [call for papers](/2025/call-for-papers) is extended until October 23th, 2025.
 
