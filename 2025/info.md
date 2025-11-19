@@ -30,7 +30,6 @@ Via Alberto da Giussano 12
 
 [how to get here, park and eat](./guide_archeofoss_2025_eng.pdf)
 
-
 ---
 
 ## Online broadcasting
