@@ -36,6 +36,8 @@ layout: article-slim
 
 **Gloria Valbusa**
 
+**Morris Maranzano**
+
 --- 
 
 **Cristiano Putzolu** *(Dipartimento di Storia Culture Civiltà (DISCI), Alma Mater Studiorum - Università di Bologna)*

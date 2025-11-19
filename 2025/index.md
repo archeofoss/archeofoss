@@ -6,6 +6,9 @@ edyear: 2025
 ednumber: 19
 ---
 
+**[19/11/2025]**  
+The [Info page](/2025/info) is available.
+
 **[13/11/2025]**  
 The [Program of the conference](/2025/programme) is available.
 
