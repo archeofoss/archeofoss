@@ -4,6 +4,12 @@ description: " ArcheoFOSS 2025 Info"
 layout: article-slim
 ---
 
+![qr code](images/linkgeneral.png)  
+
+Online broadcasting: [Teams link](https://s.mapod4d.it/s/archeofoss2025)  
+
+---
+
 ## Embracing Sustainability, Inspired by FLOSS Ethics
 
 This is a minimal-print event.  
@@ -33,7 +39,8 @@ Via Alberto da Giussano 12
 ---
 
 ## Online broadcasting
-Not ready yet
+
+[Teams link](https://s.mapod4d.it/s/archeofoss2025)
 
 ---
 
