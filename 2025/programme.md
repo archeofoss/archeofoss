@@ -34,7 +34,8 @@ Via Alberto da Giussano 12
 ---
 
 ## Online broadcasting
-Not ready yet
+
+[Teams link](https://s.mapod4d.it/s/archeofoss2025)
 
 ---
 
