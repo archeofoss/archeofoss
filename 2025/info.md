@@ -16,6 +16,8 @@ This is a minimal-print event.
 
 We have reduced our printed materials to align with our commitment to sustainability. We encourage you to do the same.  
 
+[PDF Download](./archeofoss2025.pdf)
+
 # **Please think before you print.**
 
 ---
