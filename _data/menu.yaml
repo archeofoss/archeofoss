@@ -1,8 +1,10 @@
 default:
-  - title: 2025 edition
-    url: /2025/
-  - title: 2025 Organising committee
-    url: /2025/organising-committee
+  - title: 2026 edition
+    url: /2026/
+  - title: Call for panels
+    url: /2026/call-for-panels
+  - title: 2026 Organising committee
+    url: /2026/organising-committee
   - title: Scientific committee
     url: /scientific-committee
   - title: Previous editions
