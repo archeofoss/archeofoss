@@ -4,6 +4,20 @@ description: ArchaeoFOSS editions
 layout: article-slim
 ---
 
+## ArcheoFOSS 19 (2025)
+- **Dates**: 27-28 November 2025
+- **Location**: Università degli Studi Dell'Insubria
+- **Web**: [View conference page](./2025)
+- **Publication**: in preparation
+- **Organising committee**
+  - Dipartimento di Biotecnologie e Scienze della Vita - Università degli Studi dell’Insubria
+    - Marta Licata, Roberta Fusco, Nicol Rossetti, Arianna Vanni, Chiara Tesi
+  - Associazione LabDig 3A Academy
+    - Alessandra Mazzucchi, Matteo Orsi, Roberto Taglioretti, Serenella Saccon, Elisabetta Viana, Matteo Bilotta, Gloria Valbusa, Morris Maranzano
+  - Cristiano Putzolu (Dipartimento di Storia Culture Civiltà (DISCI), Alma Mater Studiorum - Università di Bologna)
+  - Marco Cavalazzi (Dipartimento di Storia Culture Civiltà (DISCI), Alma Mater Studiorum - Università di Bologna)
+  - Maurizio Marinato (Dipartimento dei Beni Culturali - Università degli Studi di Padova)
+
 ## ArcheoFOSS 18 (2024)
 - **Dates**: 19-20 December 2024
 - **Location**: G.D'Annunzio University 
