@@ -10,3 +10,6 @@ ednumber: 20
 The [call for panels](/2026/call-for-panels) of ARCHEOFOSS 2026 is now open.
 The conference will be hosted in Bologna by the Department of History and Cultures of Alma Mater Studiorum University of Bologna. 
 Feel free to keep in touch by dropping a line at [info@archeofoss.org](mailto:archaeofoss.org) and/or by joining today our [<i class="fa fa-telegram" aria-hidden="true"></i> Telegram group](https://t.me/ArcheoFOSS)
+
+**[20/08/2026]**
+The [call for papers](/2026/call-for-papers) of ARCHEOFOSS 2026 is now open.
