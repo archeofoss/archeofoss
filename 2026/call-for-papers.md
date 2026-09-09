@@ -144,7 +144,7 @@ The panel aims to establish a shared research agenda centred on the idea that a 
   - **Maurizio Cattani**, [maurizio.cattani@unibo.it](maurizio.cattani@unibo.it) - Department of History and Cultures (DISCI), Alma Mater Studiorum - Università degli Studi di Bologna
   - **Giuseppe Guarino**, [guarino.archeo@gmail.com](guarino.archeo@gmail.com) - Department of History and Cultures (DISCI), Alma Mater Studiorum - Università degli Studi di Bologna
   - **Francesco Iacono**, [francesco.iacono5@unibo.it](francesco.iacono5@unibo.it) - Department of History and Cultures (DISCI), Alma Mater Studiorum - Università degli Studi di Bologna
-  - **Panos Kaplanis**, [panoskaplanis1993@gmail.com](panoskaplanis1993@gmail.com) - University of Patras 
+  - **Panos Kaplanis**, [panoskaplanis1993@gmail.com](panoskaplanis1993@gmail.com) - Independent Scholar 
   - **Doukas Vomvyras**, [dukevomv@gmail.com](dukevomv@gmail.com) - University of Piraeus
 
 ### Description
@@ -223,7 +223,7 @@ The panel explores the contribution of open-source geospatial methodologies to a
 
 ~
 
-### **FLOSS-Based Modelling in Landscape Archaeology: Current Methods and Theoretical Perspectives**
+### **Archaeological Landscapes as Socio-Ecological Systems: FLOSS-Based Modelling and Interpretation**
 ### Proponents
   - **Francesca Cornella**, [F.Cornella2@newcastle.ac.uk](F.Cornella2@newcastle.ac.uk) - School of History, Classics and Archaeology, Newcastle University, Newcastle Upon Tyne, UK
   - **Filippo Brandolini**, [filippo.brandolini@unimi.it](filippo.brandolini@unimi.it) - Dipartimento di Scienze della Terra “Ardito Desio”, Università degli studi di Milano, Milan, 20133, IT; Center for Sustainability Science and Strategy, Massachusetts Institute of Technology, Cambridge, MA 02139
@@ -231,10 +231,13 @@ The panel explores the contribution of open-source geospatial methodologies to a
   - **Enrico Croce**, [enri.croce@gmail.com](enri.croce@gmail.com) - Indipendent Researcher
 
 ### Description
-GIS-based and computational modelling are now firmly established within landscape archaeology, and Free/Libre and Open-Source Software is increasingly relevant for ensuring methodological consistency and transferability. Current work has moved beyond descriptive mapping towards reproducible approaches, including predictive, spatial, landscape, and mobility modelling. Recent research has also shown how these methods can contribute to the study of long-term socio-ecological systems through ecological modelling, geospatial statistics, and broader socio-environmental perspectives. Overall, the field is moving towards a broader interdisciplinary perspective, in which FLOSS-based workflows strengthen transparency, reproducibility, and cross-case comparability, while also helping connect analytical procedures with archaeological interpretations. However, the growing diversity of approaches, and their theoretical implications, still require further discussion. This session welcomes contributions that explore how FLOSS-based landscape modelling can advance the interpretation of archaeological landscapes and socio-ecological systems, while also shedding light on the relationship between past and present landscapes and its significance for sustainability. We particularly welcome papers addressing the following questions:
-- How can FLOSS-based modelling help reconstruct and understand long-term socio-ecological systems?
-- How can modelling be integrated into archaeological theory to support broader understandings of socio-ecological systems, rather than treating human and environmental processes as separate domains?
-- What are the new developments in the use of FLOSS-based modelling for landscape archaeology?
+GIS-based and computational modelling are now firmly established within landscape archaeology. These approaches are used not only to analyse spatial patterns, but also to investigate archaeological landscapes as long-term socio-ecological systems (SES), in which human and environmental processes co-evolve through multidirectional relationships. Current research is moving beyond descriptive mapping towards reproducible predictive, spatial, landscape, mobility, and ecological modelling. Viewed through the lens of SES theory, modelling becomes more than a technical tool: it facilitates the investigation of feedback and transformation processes that intertwine social and environmental factors in the long-term evolution of landscapes.
+Overall, the field is moving towards broader interdisciplinary perspectives in which Free/Libre and Open-Source Software (FLOSS) supports methodological transparency and consistency, enhancing reproducibility and cross-case comparability. FLOSS-based workflows also support the integration of archaeological, ecological, and environmental evidence for interpreting landscape change. However, the diversity of modelling approaches and their implications for archaeological interpretation still require further discussion. 
+This session welcomes contributions exploring how FLOSS-based landscape modelling can advance the interpretation of archaeological landscapes through SES theory and shed light on the relationships between past and present landscapes and their significance for sustainability. 
+We particularly welcome papers addressing:
+- How can SES theory frame landscape modelling and the study of long-term human-environment co-evolution?
+- How FLOSS-based modelling can be integrated into a broader theoretical frame of socio-ecological systems, rather than treating human and environmental processes as separate domains?
+- What theoretical and methodological developments are emerging in FLOSS-based modelling for landscape archaeology?
 
 ~
 
