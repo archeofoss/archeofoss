@@ -9,7 +9,7 @@ layout: article-slim
 
 - The call for papers of the 20th ArcheoFOSS conference is open!
 - Will be held in dual format, in presence and online.
-- Deadline for abstract submission: **30 September 2026**
+- Deadline for abstract submission: **16 October 2026**
 - Conference dates: **30 November - 1 December 2026**
 
 We are inviting scholars, independent researchers, institutions, freelance archaeologists and company representatives involved in Cultural Heritage to submit original research or case studies that expose the latest trends, theoretical or practical developments and challenges in the field.
