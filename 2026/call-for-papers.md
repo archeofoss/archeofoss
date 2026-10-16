@@ -103,7 +103,7 @@ The panel has already received commitment from three speakers willing to present
   - **Federico Fallavollita**, [federico.fallavollita@unibo.it](federico.fallavollita@unibo.it) - Department of Architecture (DA), Alma Mater Studiorum - Università degli Studi di Bologna
   - **Riccardo Foschi**, [riccardo.foschi@unibo.it](riccardo.foschi@unibo.it) - Department of History and Cultures (DISCI), Alma Mater Studiorum - Università degli Studi di Bologna
   - **Krzysztof Koszewski**, [krzysztof.koszewski@pw.edu.pl](krzysztof.koszewski@pw.edu.pl) - Politechnika Warszawska
-  - **Piotr Kuroczyński**, [piotr.kuroczynski@hs-mainz.de](piotr.kuroczynski@hs-mainz.de) - Mainz University of Applied Sciences
+  - **Emanuel Demetrescu**, [emanuel.demetrescu@cnr.it](emanuel.demetrescu@cnr.it) - CNR - Istituto di Scienze del Patrimonio Culturale
   - **Sander Münster**, [sander.muenster@uni-jena.de](sander.muenster@uni-jena.de) - Friedrich-Schiller-Universität Jena
 
 ### Description
