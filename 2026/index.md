@@ -13,3 +13,6 @@ Feel free to keep in touch by dropping a line at [info@archeofoss.org](mailto:ar
 
 **[20/08/2026]**
 The [call for papers](/2026/call-for-papers) of ARCHEOFOSS 2026 is now open.
+
+**[07/11/2026]**
+We are very happy to announce that the [programme of ArcheoFOSS 2026](/2026/programme) is now available. We are all looking forward to meet you soon in Bologna!
