@@ -186,7 +186,7 @@ Alessandra **Caravale** (ISPCR-CNR), Gabriele **Gattiglia** (Università di Pisa
 
 - **18:00** - 18:45  
 Jeremy **Huggett** (University of Glasgow)  
-*Title to be confirmed*
+*Critical Software Practice in Archaeology*
 
 ---
 
