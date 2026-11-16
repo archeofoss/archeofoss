@@ -15,6 +15,8 @@ layout: article-slim
 - Paolo **Forlin** 
 - Andrea **Fiorini** 
 
+**Andrea Fiorini** 
+
 --- 
 
 - Federico **Fallavolita** (Department of Architecture, Alma Mater Studiorum University of Bologna)
