@@ -119,7 +119,7 @@ Panel presentation
 Blandine **Nouvel**  
 [*Building and disseminating a controlled and free vocabulary for archaeology, between open access policy, compliance with standards and multilingualism: the example of the Pactols thesaurus*](abstracts/Abstract_009_Building_and_disseminating_a_controlled_and_free_vocabulary_for_archaeol.pdf)
 - **13:50** - 14:05  
-Allard **Mees**, Florian **Thiery** 
+Florian **Thiery**, Anne-Karoline **Distel**, Louise **Tharandt**
 [*From Fragmented Objects to Federated Knowledge: FAIR Digital Objects as FDOx for 3D Models and Software in the Archaeological LOD Cloud*](abstracts/Abstract_012_From_Fragmented_Objects_to_Federated_Knowledge.pdf)
 - **14:05** - 14:20  
 Marco **Montanari**  
