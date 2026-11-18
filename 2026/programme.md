@@ -360,14 +360,14 @@ Panel presentation
 Kamel **Bakar**  
 [*An attempt at a hypothetical 3D reconstruction of one of the 13 Djeddar Funerary Mausoleums in Tiaret, Algeria Using Aerial Photogrammetry.*](abstracts/Abstract_041_An_attempt_at_a_hypothetical_3D_reconstruction_of_one_of_the_13_Djeddar.pdf)
 - **09:20** - 09:35  
-Khaoula **Bertal**  
-[*Scientific Reliability of Virtual Reconstructions: Uncertainty Assessment and Geometric Validation of Algeria’s Archaeological Heritage — The Cases of Timgad and Djemila*](abstracts/Abstract_042_Scientific_Reliability_of_Virtual_Reconstructions_Uncertainty_Assessment.pdf)
+Evdoxia **Tzerpou**, Fabrizio Ivan **Apollonio**
+[*The Interpretative Role of Uncertainty in 3D Hypothetical Reconstructions of Prehistoric Sites*](abstracts/Abstract_042_The_Interpretative_Role_of_Uncertainty_in_3D_Hypothetical_Reconstructions.pdf)
 - **09:35** - 09:50  
 Antonio **Lanzetta**  
 [*The archaeologist at the core of the Digital Workflow: AI, 3D architecture, and epistemological transparency for the reconstruction of Dur-Kurigalzu (Baghdad, Iraq)*](abstracts/Abstract_043_The_archaeologist_at_the_core_of_the_Digital_Workflow_AI_3D_architecture.pdf)
 - **09:50** - 10:05  
-Fabrizio Ivan **Apollonio**, Federico **Fallavollita**, Riccardo **Foschi**, Krzysztof **Koszewski**, Emanuel **Demetrescu**, Sander **Münster**  
-*Beyond Visualisation: Assessing Uncertainty and Verifying Geometry in Hypothetical Virtual 3D Reconstructions*
+Krzysztof **Koszewski**
+[*Uncertainty of Dimensions or Dimensions of Uncertainty*Abstract_059_Uncertainty_of_Dimensions_or_Dimensions_of_Uncertainty*](abstracts/Abstract_059_Uncertainty_of_Dimensions_or_Dimensions_of_Uncertainty.pdf)
 
 - **10:05** - 10:30  
 Discussion
