@@ -13,10 +13,8 @@ layout: article-slim
 - Cristiano **Putzolu** 
 - Marco **Cavalazzi** 
 - Paolo **Forlin** 
-- Andrea **Fiorini** 
-
-**Andrea Fiorini** 
-
+- Andrea **Fiorini**
+  
 --- 
 
 - Federico **Fallavolita** (Department of Architecture, Alma Mater Studiorum University of Bologna)
