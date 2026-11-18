@@ -1,0 +1,49 @@
+---
+layout: default
+---
+<!-- Copertina dell'edizione 2026: come editionhome.html, ma al posto dell'immagine del capitello c'è l'animazione
+     delle linee stratigrafiche e in alto i loghi UniBo / DiSCi e «20th EDITION». File in 2026/assets/. -->
+<link rel="stylesheet" href="{{ "2026/assets/edition2026.css" | relative_url }}">
+<section class="site-blocks-cover overflow-hidden bg-light af26-cover">
+        <svg id="af26-anim" class="af26-anim" viewBox="0 0 1920 1080" preserveAspectRatio="xMidYMax slice" aria-hidden="true">
+          <!-- grande «20th» chiaro dietro le linee (le linee, disegnate dopo, gli passano sopra) -->
+          <text class="watermark" x="1331" y="945" font-size="340" letter-spacing="-25">20</text>
+          <text class="watermark" x="1756" y="802" font-size="116">th</text>
+        </svg>
+        <div class="container af26-logos">
+          <img src="{{ "2026/assets/unibo-disci.png" | relative_url }}" alt="Alma Mater Studiorum Università di Bologna · Department of History and Cultures">
+          <img src="{{ "2026/assets/capitello-20th.svg" | relative_url }}" alt="20th edition">
+        </div>
+        <div class="container">
+          <div class="row">
+            <div class="align-self-end text-center col-md-6 offset-md-3">
+              <div class="intro-text">
+                <h1>Archeo<span class="text-primary">.</span>FOSS</h1>
+                <h1>{{page.ednumber}} <span class="text-primary">|</span> {{page.edyear}}</h1>
+                <p class="mb-4">
+                  Open software, hardware, processes, data and formats
+                  <span class="d-block">in archaeological research</span></p>
+                <!-- al posto dell'immagine archeofoss-2.svg: spazio della stessa misura, dove passa l'animazione -->
+                <div class="af26-spacer" aria-hidden="true"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+</section> 
+
+<script src="{{ "2026/assets/edition2026.js" | relative_url }}" defer></script>
+
+<section class="site-section" id="about-section">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-8 offset-md-2 text-justify">
+        <h1 class="text-black mb-3 text-center">{{ page.title }}</h1>
+        <div class="my-5 content">
+          {{ content}}
+          {% include map.html year=page.edyear %}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+

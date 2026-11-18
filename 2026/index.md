@@ -1,7 +1,7 @@
 ---
 title: "ArcheoFOSS 20 - 2026"
 description: "ArcheoFOSS 20 - 2026: Open software, hardware, processes, data and formats in archaeological research will be hosted in Bologna by the Department of History and Cultures of Alma Mater Studiorum University of Bologna"
-layout: editionhome
+layout: edition2026
 edyear: 2026
 ednumber: 20
 ---

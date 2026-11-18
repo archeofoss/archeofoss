@@ -1,0 +1,22 @@
+/* ArcheoFOSS 2026 · copertina della pagina dell'edizione (proposta).
+   La copertina è quella originale del sito (classi .site-blocks-cover, .intro-text, bg-light: stessi testi, stessa
+   posizione e altezza). Questo file aggiunge solo: l'animazione dello screensaver al posto dell'immagine in basso
+   e i due loghi in alto. Caricato solo da _layouts/edition2026.html (pagina /2026/). */
+.af26-cover{--af-ink:#171717; --af-acc:#A33B35; --af-blue:#027BFF; position:relative}
+.af26-cover > .container{position:relative; z-index:2}
+/* animazione: strati scavati e depositati, pallini che si accendono (2026/assets/edition2026.js) */
+.af26-anim{position:absolute; inset:0; width:100%; height:100%; display:block; z-index:1}
+.af26-anim .thread{fill:none; stroke:var(--af-ink); stroke-linecap:round; stroke-linejoin:round}
+.af26-anim .node-dot{fill:var(--af-blue); stroke:#f8f9fa; stroke-width:3}
+.af26-anim .node-label{fill:var(--af-blue); font:400 16px Inter, "Open Sans", Arial, sans-serif; letter-spacing:-.3px}
+.af26-anim .watermark{fill:var(--af-acc); opacity:.11; font-family:Inter, "Open Sans", Arial, sans-serif; font-weight:700}
+/* i due loghi in alto, sotto la barra del menu */
+.af26-cover > .af26-logos{position:absolute; left:0; right:0; top:clamp(90px,12vh,130px); z-index:2;
+  display:flex; align-items:center; justify-content:space-between; gap:24px}
+.af26-logos img{height:clamp(84px,16vh,175px); width:auto; display:block}
+/* spazio dove c'era l'immagine del capitello: lì passano le linee animate */
+.af26-spacer{width:100%; aspect-ratio:492 / 333}
+@media (max-width:767px){
+  .af26-logos img{height:68px}
+  .af26-spacer{max-width:400px; margin:0 auto}
+}
