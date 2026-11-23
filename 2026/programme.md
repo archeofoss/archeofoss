@@ -25,6 +25,18 @@ Piazza San Giovanni in Monte 2, 40124, Bologna. Italia
 
 ---
 
+### How to upload your presentation
+
+Please upload your slides by **Friday 27 November 2026, 23:59 (CET)** using this link: **[Upload your presentation](https://e.pcloud.com/#/puplink?code=mOv7ZBVvkegpHfc4CzqIQfoO0e8sOUs1X)**
+
+- **Accepted presentation format:** <mark>PDF, PPTX</mark> or <mark>ODP</mark>
+- **Accepted video format:** <mark>MP4</mark>, uploaded as separate files, named the same as the presentation file
+- **Licence:** if you do not send us licence information, we will consider that the licence is [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/).
+- **File name:** <mark>YYYYMMDD_HHMM_Surname_ShortTitle.[extension]</mark> (YYYYMMDD: date – year, month, day; HHMM: start time – hour, minutes)
+
+  > Example: `20261130_0935_Orsi_3DPipelines.pptx`
+
+---
 
 ## 30 November 2026
 
@@ -517,3 +529,4 @@ Igor Piotr **Bajena**
 [*Documentation and publication of 3D outcomes: Methods and Tools for Hypothetical 3D Heritage Reconstructions*](./workshop-2.pdf)
 
 To register for the workshop, please send an email to [covher.workshop@gmail.com](mailto:covher.workshop@gmail.com), indicating the workshop title and your full name.
+
