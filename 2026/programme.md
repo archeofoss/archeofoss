@@ -379,7 +379,7 @@ Antonio **Lanzetta**
 [*The archaeologist at the core of the Digital Workflow: AI, 3D architecture, and epistemological transparency for the reconstruction of Dur-Kurigalzu (Baghdad, Iraq)*](abstracts/Abstract_043_The_archaeologist_at_the_core_of_the_Digital_Workflow_AI_3D_architecture.pdf)
 - **09:50** - 10:05  
 Krzysztof **Koszewski**
-[*Uncertainty of Dimensions or Dimensions of Uncertainty*Abstract_059_Uncertainty_of_Dimensions_or_Dimensions_of_Uncertainty*](abstracts/Abstract_059_Uncertainty_of_Dimensions_or_Dimensions_of_Uncertainty.pdf)
+[*Uncertainty of Dimensions or Dimensions of Uncertainty*](abstracts/Abstract_059_Uncertainty_of_Dimensions_or_Dimensions_of_Uncertainty.pdf)
 
 - **10:05** - 10:30  
 Discussion
