@@ -504,29 +504,15 @@ Discussion
 
 ---
 
-### Aula Gambi
+### Laboratorio Topografico
 
 ---
 
 **Workshop**
 
-- **13:30** - 15:00  
-Riccardo **Foschi**  
-[*Making Uncertainty Visible: Methods and Tools for Hypothetical 3D Heritage Reconstructions*](./workshop-1.pdf)
+- **14:00** - 16:30  
+Riccardo **Foschi**, Igor Piotr **Bajena**  
+[*Methods and Tools for Hypothetical 3D Heritage Reconstructions: Uncertainty, Documentation and Publication*](./workshop-2.pdf)
 
-To register for the workshop, please send an email to [covher.workshop@gmail.com](mailto:covher.workshop@gmail.com), indicating the workshop title and your full name.
-
----
-
-### Aula Morandi
-
----
-
-**Workshop**
-
-- **15:00** - 17:00  
-Igor Piotr **Bajena**  
-[*Documentation and publication of 3D outcomes: Methods and Tools for Hypothetical 3D Heritage Reconstructions*](./workshop-2.pdf)
-
-To register for the workshop, please send an email to [covher.workshop@gmail.com](mailto:covher.workshop@gmail.com), indicating the workshop title and your full name.
+To register for the workshop, please send an email to [covher.workshop@gmail.com](mailto:covher.workshop@gmail.com), indicating your full name.
 
