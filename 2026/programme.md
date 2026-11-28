@@ -38,11 +38,19 @@ Please upload your slides by **Friday 27 November 2026, 23:59 (CET)** using this
 
 ---
 
+### Download the Book of Abstracts
+
+We are very happy to share the [*Book of Abstract*](abstracts/ArcheoFOSS_2026_Book_of_Abstracts.pdf) of ArcheoFOSS 2026
+
+---
+
 ## 30 November 2026
 
 ---
 
 ### Aula Prodi
+
+**[On-line session](https://teams.microsoft.com/meet/3204833994822350?p=xU1lq1fF9gdtYRJ3nH)**
 
 ---
 
@@ -209,6 +217,8 @@ Jeremy **Huggett** (University of Glasgow)
 
 ### Aula Specola
 
+**[On-line session](https://teams.microsoft.com/meet/3155904553434277?p=vEyUNdNUhQN4R254hD)**
+
 ---
 
 **Panel: FLOSS Geospatial Computing in Archaeology: Spatial Analysis, Modelling and Reproducible Workflows**  
@@ -295,6 +305,8 @@ Discussion
 
 ### Aula Morandi
 
+**[On-line session](https://teams.microsoft.com/meet/352039577581157?p=ZVO5Mzupop53PWQiez)**
+
 ---
 
 **Panel: Archaeological Landscapes as Socio-Ecological Systems: FLOSS-Based Modelling and Interpretation**  
@@ -331,6 +343,9 @@ Discussion
 
 ### Aula Capitani
 
+**[On-line session](https://teams.microsoft.com/meet/3426959055247991?p=aC2Ii1PXAFcgAsY95v)**
+
+
 ---
 
 **Panel: Artificial Intelligence and Digital Technologies for the Communication of Archaeological Heritage**  
@@ -360,6 +375,8 @@ Discussion
 
 ### Aula Prodi
 
+**[On-line session](https://teams.microsoft.com/meet/34013694016143?p=4OoqYeDU6rM9XeHKWS)**
+
 ---
 
 **Panel: Beyond Visualisation: Assessing Uncertainty and Verifying Geometry in Hypothetical Virtual 3D Reconstructions**  
@@ -372,13 +389,13 @@ Panel presentation
 Kamel **Bakar**  
 [*An attempt at a hypothetical 3D reconstruction of one of the 13 Djeddar Funerary Mausoleums in Tiaret, Algeria Using Aerial Photogrammetry.*](abstracts/Abstract_041_An_attempt_at_a_hypothetical_3D_reconstruction_of_one_of_the_13_Djeddar.pdf)
 - **09:20** - 09:35  
-Evdoxia **Tzerpou**, Fabrizio Ivan **Apollonio**
+Evdoxia **Tzerpou**, Fabrizio Ivan **Apollonio**  
 [*The Interpretative Role of Uncertainty in 3D Hypothetical Reconstructions of Prehistoric Sites*](abstracts/Abstract_042_The_Interpretative_Role_of_Uncertainty_in_3D_Hypothetical_Reconstructions.pdf)
 - **09:35** - 09:50  
 Antonio **Lanzetta**  
 [*The archaeologist at the core of the Digital Workflow: AI, 3D architecture, and epistemological transparency for the reconstruction of Dur-Kurigalzu (Baghdad, Iraq)*](abstracts/Abstract_043_The_archaeologist_at_the_core_of_the_Digital_Workflow_AI_3D_architecture.pdf)
 - **09:50** - 10:05  
-Krzysztof **Koszewski**
+Krzysztof **Koszewski**  
 [*Uncertainty of Dimensions or Dimensions of Uncertainty*](abstracts/Abstract_059_Uncertainty_of_Dimensions_or_Dimensions_of_Uncertainty.pdf)
 
 - **10:05** - 10:30  
@@ -438,7 +455,7 @@ Discussion
 ---
 
 **Panel: FOSS beyond research: open-source solutions in production for professional archaeology and heritage management**  
-Chair and introduction by **Simeoni**
+Chair and introduction by Andrea **Simeoni**
 
 - **14:15** - 14:20
 Panel presentation
@@ -470,7 +487,7 @@ Discussion
 ---
 
 **Panel: From Fieldwork to Dissemination through FLOSS and FLOSH**  
-Chair and introduction by **Cavalazzi**, **Johnson**, **Putzolu**
+Chair and introduction by Marco **Cavalazzi**, Tyler Duane **Johnson**, Cristiano **Putzolu**
 
 - **16:15** - 16:20 
 Panel presentation
@@ -505,6 +522,8 @@ Discussion
 ---
 
 ### Laboratorio Topografico
+
+**[On-line session](https://teams.microsoft.com/meet/386976202673201?p=66kL4LAwqerhsRcI2P)** 
 
 ---
 
